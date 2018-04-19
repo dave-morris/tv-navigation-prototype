@@ -1,0 +1,52 @@
+[{
+	"title": "Programme Title",
+	"subtitle": "Subtitle XX",
+	"editorial_subtitle": "",
+	"synopses": {
+		"small": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fringilla."
+	},
+	"images": {
+		"standard": "/img/baseline/watching-1.png"
+	},
+	"labels": {
+		"category": "15 mins remaining",
+		"editorial": "Resume"
+	},
+	"versions": {
+		"duration": ""
+	}
+}, {
+	"title": "Programme Title",
+	"subtitle": "Subtitle XX",
+	"editorial_subtitle": "",
+	"synopses": {
+		"small": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fringilla."
+	},
+	"images": {
+		"standard": "/img/baseline/watching-2.png"
+	},
+	"labels": {
+		"category": "",
+		"editorial": "My next episode"
+	},
+	"versions": {
+		"duration": ""
+	}
+}, {
+	"title": "Programme Title",
+	"subtitle": "Subtitle XX",
+	"editorial_subtitle": "",
+	"synopses": {
+		"small": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fringilla."
+	},
+	"images": {
+		"standard": "/img/baseline/watching-3.png"
+	},
+	"labels": {
+		"category": "12 mins remaining",
+		"editorial": "Resume"
+	},
+	"versions": {
+		"duration": ""
+	}
+}]

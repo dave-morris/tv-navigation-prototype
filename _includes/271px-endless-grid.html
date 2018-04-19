@@ -1,0 +1,10 @@
+<div class="endlessgrid">
+  <div class="carousel-title">{{ include.title }}</div>
+  <!-- <div class="carousel-subtitle">Short synopsis of what this content is, lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempor nunc nec velit viverra sagittis.</div> -->
+  <div style="width: 28px; margin: 24px 0 32px 0; display; block;"></div>
+  <div class="grid-content">
+    {% for entity in site.data[include.data] %}
+      {% include _content-items/content-item-271px.html %}
+    {% endfor %}
+  </div>
+</div>

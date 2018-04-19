@@ -1,0 +1,9 @@
+<div class="carousel medium" data-id="{{include.data}}">
+  <div class="collection-image"></div>
+  <div class="carousel-title">{{include.title}}</div>
+  <div class="carousel-content">
+    {% for entity in site.data[include.data] %}
+      {% include _content-items/resume-item-271px.html %}
+    {% endfor %}
+  </div>
+</div>

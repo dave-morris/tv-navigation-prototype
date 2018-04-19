@@ -1,0 +1,87 @@
+[{
+	"title": "Adventure",
+	"subtitle": "Quest under Capricorn: 1. Desert Gods",
+	"synopses":{ "small": "David Attenborough visits the Northern Territory of Australia. (1963)" },
+	"images": {
+		"standard": "/img/prog-images/p01hz7js.jpg"
+	},
+	"labels": {
+		"category": "Lifestyle",
+		"editorial": "Archive\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "60 mins"
+	}
+}, {
+	"title": "David Attenborough - The Early Years",
+	"synopses":{ "small": "David Attenborough recalls key moments from his early career. (2013)" },
+	"subtitle": "",
+	"images": {
+		"standard": "/img/prog-images/p014dfnt.jpg"
+	},
+	"labels": {
+		"category": "Science & Nature",
+		"editorial": "Archive\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "30 mins"
+	}
+}, {
+	"title": "Elsa the Lioness",
+	"subtitle": "",
+	"synopses":{ "small": "David Attenborough meets Elsa the lioness in Kenya, shortly before Elsa's death." },
+	"images": {
+		"standard": "/img/prog-images/p01gwmsv.jpg"
+	},
+	"labels": {
+		"category": "Documentary",
+		"editorial": "Archive\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "60 mins"
+	}
+}, {
+	"title": "The Miracle of Bali",
+	"subtitle": "1. The Midday Sun",
+	"synopses":{ "small": "A general introduction to Bali, its people and their varied arts. (1969)" },
+	"images": {
+		"standard": "/img/prog-images/p01hz7b3.jpg"
+	},
+	"labels": {
+		"category": "Lifestyle",
+		"editorial": "Archive\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "60 mins"
+	}
+},
+{
+	"title": "The People of Paradise",
+	"subtitle": "1. The Land Divers of Pentecost",
+	"synopses":{ "small": "David Attenborough sets off on his tour around the South West Pacific Islands. (1960)" },
+	"images": {
+		"standard": "/img/prog-images/p01l97kq.jpg"
+	},
+	"labels": {
+		"category": "Comedy",
+		"editorial": "Full Series\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "30 mins"
+	}
+},
+{
+	"title": "The People of Paradise",
+	"subtitle": "5. Canoes and Coconut Crabs",
+	"synopses":{ "small": "David Attenborough retraces his search to find the rare Fijian double canoe. (1960)" },
+	"images": {
+		"standard": "/img/prog-images/p01hz70y.jpg"
+	},
+	"labels": {
+		"category": "Lifestyle",
+		"editorial": "Archive\u00a0\u00a0|\u00a0\u00a0"
+	},
+	"versions": {
+		"duration": "30 mins"
+	}
+}]

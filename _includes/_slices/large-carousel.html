@@ -1,0 +1,8 @@
+<div class="carousel large" data-id="{{include.data}}">
+  <div class="carousel-title">{{include.title}}</div>
+  <div class="carousel-content">
+    {% for entity in site.data[include.data] limit:12 %}
+      {% include _content-items/large-content-item.html %}
+    {% endfor %}
+  </div>
+</div>
