@@ -18,9 +18,14 @@ title: navigation-prototype
     {% include _slices/secondary-navigation-channels.html      data='secondary-navigation-channels'%}
   </div>
 
-  <div class="container-inner">
+  <div class="container-inner" data-id="bbc-one">
     {% include _slices/medium-carousel.html      data='proto-normal-priority'  title='BBC One' %}
   </div>
+
+  <div class="container-inner" data-id="bbc-two">
+    {% include _slices/medium-carousel.html      data='proto-high-priority'  title='BBC Two' %}
+  </div>
+
 </div>
 
 <div class="container categories">
@@ -29,8 +34,17 @@ title: navigation-prototype
     {% include _slices/secondary-navigation.html      data='secondary-navigation-categories'%}
   </div>
 
-  <div class="container-inner">
+  <div class="container-inner" data-id="comedy">
     {% include _slices/medium-carousel.html      data='proto-comedy'  title='Comedy' %}
   </div>
+
+  <div class="container-inner" data-id="documentaries">
+    {% include _slices/medium-carousel.html      data='proto-documentaries'  title='Documentaries' %}
+  </div>
+
+  <div class="container-inner" data-id="entertainment">
+    {% include _slices/medium-carousel.html      data='proto-entertainment'  title='Entertainment' %}
+  </div>
+
 
 </div>

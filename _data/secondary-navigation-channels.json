@@ -1,35 +1,41 @@
 [{
 	"title": "Parliament",
+	"data-id": "parliament",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-parliament-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-parliament.png"
 	},
 },{
 	"title": "ALBA",
+	"data-id": "alba",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-alba-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-alba.png"
 	},
 },{
 	"title": "S4C",
+	"data-id": "s4c",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-s4c-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-s4c.png"
 	},
 },{
 	"title": "CBeebies",
+	"data-id": "cbeebies-category",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-Cbeebies-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-Cbeebies.png"
 	},
 },{
 	"title": "CBBC",
+	"data-id": "cbbc-category",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-CBBC-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-CBBC.png"
 	},
 },{
 	"title": "BBC One",
+	"data-id": "bbc-one",
 	"class": "wasfocus",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-one-focus.png",
@@ -37,30 +43,35 @@
 	},
 },{
 	"title": "BBC Two",
+	"data-id": "bbc-two",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-two-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-two.png"
 	},
 },{
 	"title": "BBC Three",
+	"data-id": "bbc-three",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-three-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-three.png"
 	},
 },{
 	"title": "BBC Four",
+	"data-id": "bbc-four",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-four-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-four.png"
 	},
 },{
 	"title": "Radio One",
+	"data-id": "radio-one",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-radio one-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-radio one.png"
 	},
 },{
 	"title": "News",
+	"data-id": "news",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-news-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-news.png"

@@ -1,41 +1,48 @@
 [{
 	"title": "Audio Described",
+	"data-id": "audio-described",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Signed",
+	"data-id": "signed",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Northern Ireland",
+	"data-id": "northern-ireland",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Wales",
+	"data-id": "wales",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "CBBC",
+	"data-id": "cbbc",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "CBeebies",
+	"data-id": "cbeebies",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Comedy",
+	"data-id": "comedy",
 	"class": "wasfocus",
 	"images": {
 		"focussed": "",
@@ -43,72 +50,84 @@
 	},
 },{
 	"title": "Documentaries",
+	"data-id": "documentaries",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Dramas & Soaps",
+	"data-id": "dramas-and-soaps",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Entertainment",
+	"data-id": "entertainment",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Films",
+	"data-id": "films",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Food",
+	"data-id": "food",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "History",
+	"data-id": "history",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Lifestyle",
+	"data-id": "lifestyle",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Music",
+	"data-id": "music",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "News",
+	"data-id": "news",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Science & Nature",
+	"data-id": "science-and-nature",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "Sport",
+	"data-id": "sport",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "From the Archive",
+	"data-id": "from-the-archive",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""

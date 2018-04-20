@@ -4,6 +4,10 @@ $(document).ready(function() {
     $('.primary-navigation').addClass('active');
     $('.active .content-wrapper').eq(1).addClass('focus');
 
+    //hide all containers in channels and categories
+    $('.container.categories .container-inner').hide();
+    $('.container.channels .container-inner').hide();
+
     goTo = "Not defined";
 
 
@@ -26,6 +30,7 @@ $(document).ready(function() {
 
         //show the channels container
         $('.container.homepage').show();
+        $('.container.homepage .container-inner').show();
 
       //if Channels then:
       } else if (currentSection == 3) {
@@ -35,6 +40,11 @@ $(document).ready(function() {
 
         //show the channels container
         $('.container.channels').show();
+        chanToShow = $('.container.channels .secondary-navigation .nav.carousel .carousel-content .content-wrapper.wasfocus').attr('data-id');
+
+        //show the container that has the thing last focussed in the secondary nav
+        $('[data-id=' + chanToShow + ']').show();
+
 
       //if Categories then:
       } else if (currentSection == 4 ) {
@@ -44,6 +54,10 @@ $(document).ready(function() {
 
         //show the channels container
         $('.container.categories').show();
+        catToShow = $('.container.categories .secondary-navigation .nav.carousel .carousel-content .content-wrapper.wasfocus').attr('data-id');
+
+        //show the container that has the thing last focussed in the secondary nav
+        $('[data-id=' + catToShow + ']').show();
 
 
       }
@@ -135,7 +149,16 @@ $(document).ready(function() {
 
               $('.carousel.active .carousel-content .content-wrapper:last-child').prependTo($('.carousel.active .carousel-content'));
 
-            }
+              //hide all current containers of content
+              $('.container-inner').hide();
+
+              //get the currently focussed thing in the secondary nav
+              toShow = $('.content-wrapper.focus').attr("data-id");
+
+              //show the container that matches that thing in the nav
+              $('[data-id=' + toShow + ']').show();
+
+          }
 
         } else if ($('.collection').hasClass('active')) {
 
@@ -195,14 +218,22 @@ $(document).ready(function() {
 
             }
 
-          } else if ($('.carousel.active').hasClass('nav')) {
-
-            reinsert = $('.carousel.active .carousel-content .content-wrapper:first-child').appendTo($('.carousel.active .carousel-content'));
-
           }
 
           //Remove focus from current content item and add to the one of the left
           $('.active .content-wrapper.focus').removeClass('focus').next().addClass('focus');
+
+          if ($('.carousel.active').hasClass('nav')) {
+
+            $('.carousel.active .carousel-content .content-wrapper:first-child').appendTo($('.carousel.active .carousel-content'));
+            $('.container-inner').hide();
+
+            toShow = $('.content-wrapper.focus').attr("data-id");
+
+            //show the container that matches that thing in the nav
+            $('[data-id=' + toShow + ']').show();
+
+          }
 
           if ($('.primary-navigation').hasClass('active')) {
 
@@ -303,7 +334,14 @@ $(document).ready(function() {
 
             }
 
-          }
+              //Get the channel/category which is highlighted
+
+
+              //remove the active class from the secondary navigation
+
+              //Grab the related container with the appropriate content and add the active class
+
+        }
 
           //Logic of returning focus to item below
           if ($('.active .content-wrapper').hasClass('wasfocus')) {
