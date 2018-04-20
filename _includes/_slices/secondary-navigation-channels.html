@@ -1,0 +1,7 @@
+<div class="nav carousel" data-id="{{include.data}}">
+  <div class="carousel-content">
+    {% for entity in site.data[include.data] %}
+      {% include _content-items/secondary-navigation-object-image.html %}
+    {% endfor %}
+  </div>
+</div>

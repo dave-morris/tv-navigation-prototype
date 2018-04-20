@@ -13,17 +13,24 @@ title: navigation-prototype
 </div>
 
 <div class="container channels">
+
+  <div class="secondary-navigation">
+    {% include _slices/secondary-navigation-channels.html      data='secondary-navigation-channels'%}
+  </div>
+
   <div class="container-inner">
-
     {% include _slices/medium-carousel.html      data='proto-normal-priority'  title='BBC One' %}
-
   </div>
 </div>
 
 <div class="container categories">
-  <div class="container-inner">
 
-    {% include _slices/medium-carousel.html      data='proto-comedy'  title='Comedy' %}
-
+  <div class="secondary-navigation">
+    {% include _slices/secondary-navigation.html      data='secondary-navigation-categories'%}
   </div>
+
+  <div class="container-inner">
+    {% include _slices/medium-carousel.html      data='proto-comedy'  title='Comedy' %}
+  </div>
+
 </div>

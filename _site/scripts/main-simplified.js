@@ -129,9 +129,13 @@ $(document).ready(function() {
               var adjust = carouselPositionX + widthToMove;
               $('.active .carousel-content').css('transform', 'translateX(' + adjust + 'px)');
 
-            }
+              }
 
-          }
+            } else if ($('.carousel.active').hasClass('nav')) {
+
+              $('.carousel.active .carousel-content .content-wrapper:last-child').prependTo($('.carousel.active .carousel-content'));
+
+            }
 
         } else if ($('.collection').hasClass('active')) {
 
@@ -191,6 +195,10 @@ $(document).ready(function() {
 
             }
 
+          } else if ($('.carousel.active').hasClass('nav')) {
+
+            reinsert = $('.carousel.active .carousel-content .content-wrapper:first-child').appendTo($('.carousel.active .carousel-content'));
+
           }
 
           //Remove focus from current content item and add to the one of the left
@@ -203,31 +211,6 @@ $(document).ready(function() {
           }
 
         }
-
-          //Moving through grids
-        } else if ($('.grid').hasClass('active')) {
-
-
-        } else if ($('.collection').hasClass('active')) {
-
-            if (current == 1) {
-
-                  var adjust = carouselPositionX - (parseInt($('.active .watch-now').totalWidth(true)) + 4);
-                  $('.active .live-info').fadeOut(100);
-                  $('.active .carousel-content').css('transform', 'translateX(' + adjust + 'px)');
-                  $('.active .content-wrapper.focus').removeClass('focus').next().addClass('focus');
-
-              } else if (current > total - 4) {
-
-                  $('.active .content-wrapper.focus').removeClass('focus').next().addClass('focus');
-
-              } else {
-
-                  var adjust = carouselPositionX - widthToMove;
-                  $('.active .carousel-content').css('transform', 'translateX(' + adjust + 'px)');
-                  $('.active .content-wrapper.focus').removeClass('focus').next().addClass('focus');
-
-              }
 
         }
 
@@ -294,14 +277,14 @@ $(document).ready(function() {
             //if channels was focussed
             else if ($('.primary-navigation .content-wrapper:eq(2)').hasClass('focus')) {
 
-              $('.container.channels .container-inner').children().eq(0).addClass('active');
+              $('.container.channels .secondary-navigation').children().eq(0).addClass('active');
 
             }
 
             //if categories was focussed
             else if ($('.primary-navigation .content-wrapper:eq(3)').hasClass('focus')) {
 
-              $('.container.categories .container-inner').children().eq(0).addClass('active');
+              $('.container.categories .secondary-navigation').children().eq(0).addClass('active');
 
             }
 

@@ -1,0 +1,68 @@
+[{
+	"title": "Parliament",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-parliament-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-parliament.png"
+	},
+},{
+	"title": "ALBA",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-alba-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-alba.png"
+	},
+},{
+	"title": "S4C",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-s4c-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-s4c.png"
+	},
+},{
+	"title": "CBeebies",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-Cbeebies-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-Cbeebies.png"
+	},
+},{
+	"title": "CBBC",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-CBBC-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-CBBC.png"
+	},
+},{
+	"title": "BBC One",
+	"class": "wasfocus",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-one-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-one.png"
+	},
+},{
+	"title": "BBC Two",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-two-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-two.png"
+	},
+},{
+	"title": "BBC Three",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-three-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-three.png"
+	},
+},{
+	"title": "BBC Four",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-four-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-four.png"
+	},
+},{
+	"title": "Radio One",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-radio one-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-radio one.png"
+	},
+},{
+	"title": "News",
+	"images": {
+		"focussed": "/img/secondary-navigation/secondary-nav-news-focus.png",
+		"unfocussed": "/img/secondary-navigation/secondary-nav-news.png"
+	},
+}]
