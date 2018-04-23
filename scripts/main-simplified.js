@@ -72,7 +72,7 @@ $(document).ready(function() {
 
         total = $('.active .content-wrapper').length;
         current = $('.active .content-wrapper.focus').index() + 1;
-        widthToMove = parseInt($('.active .content-wrapper.focus').outerWidth(true)) + 1;
+        widthToMove = parseInt($('.active .content-wrapper.focus').outerWidth(true));
 
         //This makes sure only carousels and collections move horizontally and rows/grids don't
         if ($('.carousel').hasClass('active') || $('.collection').hasClass('active')) {
@@ -97,7 +97,7 @@ $(document).ready(function() {
       if ($('.endlessgrid').hasClass('active')) {
         gridInnerPositionY = parseInt($('.endlessgrid.active').parent().css('transform').split(',')[5]);
       } else {
-        containerInnerPositionY = parseInt($('.container-inner').css('transform').split(',')[5]);
+        containerInnerPositionY = parseInt($('.active').parent().css('transform').split(',')[5]);
       }
 
     }
@@ -106,8 +106,10 @@ $(document).ready(function() {
 
       if (current == 2) {
         $('.primary-navigation').fadeOut(320);
+        $('.secondary-navigation').fadeOut(320);
       } else if (current == 1) {
         $('.primary-navigation').fadeIn(320);
+        $('.secondary-navigation').fadeIn(320);
       }
 
     }
@@ -253,9 +255,35 @@ $(document).ready(function() {
 
         if (current == 1) {
 
+          //if the container that is active has a secondary Navigation
+          var siblings = $('.active').parent().prev().length;
+          var siblingsType =  $('.active').closest('.container').hasClass('channels');
+
+          if (siblings == 1) {
+
+            //get
+
+            //then remove the class of active from the container
+            $('.active').removeClass('active');
+
+            //make the correct secondary nav active
+            if (siblingsType == true) {
+            $('.container.channels .secondary-navigation .nav.carousel').addClass('active');
+            } else {
+            $('.container.categories .secondary-navigation .nav.carousel').addClass('active');
+            }
+
+            //Give the content item a 'last focus' class
+            $('.content-wrapper.focus').addClass('wasfocus').removeClass('focus');
+
+          } else {
+
           $('.active').removeClass('active');
           $('.primary-navigation').addClass('active');
           $('.content-wrapper.focus').addClass('wasfocus').removeClass('focus');
+
+          }
+
 
         } else if (current > 1) {
 
@@ -329,17 +357,28 @@ $(document).ready(function() {
 
               var adjust = containerInnerPositionY - distanceToMove;
               $('.container-inner').css('transform', 'translateY(' + adjust + 'px)');
-              $('.active').removeClass('active').next().addClass('active');
-              $('.content-wrapper.focus').addClass('wasfocus').removeClass('focus');
 
             }
 
-              //Get the channel/category which is highlighted
+            if ($('.carousel.active').hasClass('nav')) {
 
+            //get the data-id to the selected object in the secondary nav
+            toGiveFocus = $('.active .content-wrapper.focus').attr("data-id");
 
-              //remove the active class from the secondary navigation
+            //remove the class of active from the secondary nav
+            $('.content-wrapper.focus').addClass('wasfocus').removeClass('focus');
+            $('.active').removeClass('active').next().addClass('active');
 
-              //Grab the related container with the appropriate content and add the active class
+            //add the active class to the container inner first thing in the dom
+            $('.container-inner[data-id=' + toGiveFocus + ']').children().eq(0).addClass('active');
+
+            } else {
+
+            $('.content-wrapper.focus').addClass('wasfocus').removeClass('focus');
+            $('.active').removeClass('active').next().addClass('active');
+
+            }
+
 
         }
 
@@ -482,6 +521,7 @@ $(document).ready(function() {
 
             //show the primary $('.primary-navigation').fadeIn(320);
             $('.primary-navigation').fadeIn(320);
+            $('.secondary-navigation').fadeIn(320);
 
             //give primary nav active state
             $('.active').removeClass('active');
