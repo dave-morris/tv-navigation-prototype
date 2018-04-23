@@ -1,0 +1,3431 @@
+[{
+    "id": "b09ng877",
+    "live": false,
+    "type": "episode",
+    "title": "Salamander",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064784t.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09ng3fq",
+    "guidance": true,
+    "subtitle": "Series 2: Blood Diamonds: Episode 1",
+    "synopses": {
+      "large": "Five years after the death of his wife at the hands of the secret society 'Salamander', Chief Inspector Paul Gerardi is called to the case of the assassination of a Kitangian refugee in Brussels. Witnesses say the killer was a white man driving a black Mercedes who has been seriously injured after a police chase. Gerardi and his colleague Danny follow up leads provided by the victim's political allies, and Paul visits the unconsious suspect in hospital where he makes an alarming discovery.\n\nIn Flemish and French with English subtitles.",
+      "small": "Gerardi is called to the case of the assassination of a Kitangian refugee in Brussels.",
+      "medium": "Belgian crime thriller series. Paul Gerardi is called to the case of the assassination of a Kitangian refugee in Brussels.",
+      "editorial": "Five years on, Paul Gerardi investigates the assassination of a refugee."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09ng3nt",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "guidance": {
+          "id": "L1V1",
+          "text": {
+            "large": "Contains some strong language and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some violence."
+          }
+        },
+        "availability": {
+          "end": "2018-05-14T20:45:00Z",
+          "start": "2018-04-14T20:45:00Z",
+          "remaining": {
+            "text": "Available for 21 days"
+          }
+        },
+        "credits_start": 2761,
+        "first_broadcast": "14 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09ng3nt",
+        "kind": "open-subtitled",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "guidance": {
+          "id": "L1V1",
+          "text": {
+            "large": "Contains some strong language and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some violence."
+          }
+        },
+        "availability": {
+          "end": "2018-05-14T20:45:00Z",
+          "start": "2018-04-14T20:45:00Z",
+          "remaining": {
+            "text": "Available for 21 days"
+          }
+        },
+        "credits_start": 2761,
+        "first_broadcast": "14 Apr 2018"
+      }
+    ],
+    "parent_id": "b09ng3mg",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "14 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Salamander: Blood Diamonds",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-14T00:00:00.000Z",
+    "editorial_subtitle": "1/10 Gerardi is back",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09xyyy0",
+    "live": false,
+    "type": "episode",
+    "title": "Come Home",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0622mn6.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09y2vfy",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "Single father Greg is reeling from his wife Marie mysteriously walking out on her family. He is torn between obsessing over his ex and courting disaster with a new love interest.",
+      "small": "Single father Greg is reeling from his wife Marie mysteriously walking out on her family.",
+      "medium": "Drama. Single father Greg is reeling from his wife Marie walking out on her family. He is torn between obsessing over his ex and courting disaster with a new love interest.",
+      "editorial": "Out of the blue, Marie walks out on Greg – and their lives will change forever."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yj3bj",
+        "kind": "editorial",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "guidance": {
+          "id": "L1S1",
+          "text": {
+            "large": "Contains some strong language and some scenes of a sexual nature.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some sexual content."
+          }
+        },
+        "availability": {
+          "end": "2018-04-26T21:00:00Z",
+          "start": "2018-03-27T21:00:00Z",
+          "remaining": {
+            "text": "Available until Thu 10pm"
+          }
+        },
+        "credits_start": 3343,
+        "first_broadcast": "27 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062hzns",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "guidance": {
+          "id": "L1S1",
+          "text": {
+            "large": "Contains some strong language and some scenes of a sexual nature.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some sexual content."
+          }
+        },
+        "availability": {
+          "end": "2018-04-26T21:00:00Z",
+          "start": "2018-03-27T22:01:06Z",
+          "remaining": {
+            "text": "Available until Thu 10pm"
+          }
+        },
+        "first_broadcast": "27 Mar 2018"
+      }
+    ],
+    "parent_id": "b09y2tld",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "27 Mar 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-27T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. What does it take for a mother to walk out?",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09sz8r4",
+    "live": false,
+    "type": "episode",
+    "title": "Troy: Fall of a City",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zxj67.jpg"
+    },
+    "labels": {
+      "category": "Period Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09szdtr",
+    "guidance": true,
+    "subtitle": "Series 1: 1. Black Blood",
+    "synopses": {
+      "large": "Following a fateful encounter with the gods, the life of young herdsman Paris changes forever. At the Troy city games, he discovers something extraordinary, and on a trip to Sparta, he falls in love with unpredictable and far-reaching consequences.",
+      "small": "Following a fateful encounter with the gods, the life of a young herdsman changes forever.",
+      "medium": "Eight-part adaptation of Homer's classic tale. Following a fateful encounter with the gods, the life of young herdsman Paris changes forever."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09sz8q5",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "guidance": {
+          "id": "S1",
+          "text": {
+            "large": "Contains some scenes of a sexual nature.",
+            "small": "Has guidance",
+            "medium": "Contains some sexual content."
+          }
+        },
+        "availability": {
+          "end": "2018-05-07T22:10:00Z",
+          "start": "2018-02-17T22:32:46Z",
+          "remaining": {
+            "text": "Available for 14 days"
+          }
+        },
+        "credits_start": 3551,
+        "first_broadcast": "9:10pm 17 Feb 2018"
+      },
+      {
+        "hd": false,
+        "id": "p05yjpt1",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "guidance": {
+          "id": "S1",
+          "text": {
+            "large": "Contains some scenes of a sexual nature.",
+            "small": "Has guidance",
+            "medium": "Contains some sexual content."
+          }
+        },
+        "availability": {
+          "end": "2018-05-07T22:10:00Z",
+          "start": "2018-02-17T23:10:09Z",
+          "remaining": {
+            "text": "Available for 14 days"
+          }
+        },
+        "first_broadcast": "17 Feb 2018"
+      }
+    ],
+    "parent_id": "b09szcrz",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-classic-and-period"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "17 Feb 2018",
+    "related_links": [],
+    "original_title": "Black Blood",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-02-17T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. An epic story of love, war and betrayal",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b01gmbvb",
+    "live": false,
+    "type": "episode",
+    "title": "The Bridge",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062403x.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b03bnc34",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "A woman is found murdered in the middle of Oresund Bridge, exactly on the border between Sweden and Denmark. Saga Noren from Malmo CID and Martin Rohde from the Copenhagen police department are called to the scene. What at first looks like one murder turns out to be two. The bodies have been brutally cut off at the waist and joined together - the torso of a high-profile Swedish politician and the lower body of a Danish prostitute. The Swedish and Danish police need to cooperate in a race against the clock, desperately searching for a murderer determined to go beyond all moral limits to get his message across. \n\nIn Swedish and Danish with English subtitles.",
+      "small": "Swedish and Danish police join forces to investigate when a body is found on a bridge.",
+      "medium": "Scandinavian crime drama serial. Swedish and Danish police investigate jointly after a woman is found murdered in the middle of a bridge on the border between the two countries.",
+      "editorial": "Two nations, and two very different personalities, come together to crack a brutal case."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0150kr2",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "guidance": {
+        "id": "D1L1",
+        "text": {
+          "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-06-21T22:59:00Z",
+        "start": "2018-03-24T08:00:00Z",
+        "remaining": {
+          "text": "Available for 1 month"
+        }
+      },
+      "credits_start": 3422,
+      "first_broadcast": "9pm 21 Apr 2012"
+    }],
+    "parent_id": "b01gxlxj",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "21 Apr 2012",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "The Bridge: Series 1-3",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2012-04-21T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Scandi noir at its most stylish",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09s7357",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05y9g9y.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p05y9gbp.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_one_wales",
+      "attribution": "bbc_one_wales",
+      "titles": {
+        "small": "BBC One",
+        "medium": "BBC One Wales",
+        "large": "BBC One Wales"
+      }
+    },
+    "title": "Keeping Faith",
+    "synopses": {
+      "small": "Drama series about a woman whose husband disappears one day"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "count": 8,
+    "initial_children": [{
+        "id": "b09rjsq5",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05xhjld.jpg",
+          "inherited_from": "brand"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": true,
+        "subtitle": "Series 1: Episode 1",
+        "synopses": {
+          "large": "Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband and business partner Evan disappears. He leaves for work but never arrives. His sudden absence strikes deep into the heart of his tiny Welsh community and forces Faith to come back from extended maternity leave to defend a hopeless vagrant on a shoplifting charges. As an increasingly desperate Faith searches for clues, she uncovers new revelations about Evan's private life and questions how well she really knows the man she loves.",
+          "small": "Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband disappears.",
+          "medium": "Mystery drama. Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband and business partner Evan disappears.",
+          "preview": "Drama series about a woman whose husband disappears one day.",
+          "editorial": "Faith questions everything when her husband goes missing. Starring Eve Myles."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09rjsjw",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "guidance": {
+            "id": "L1",
+            "text": {
+              "large": "Contains some strong language.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:46:31Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3510,
+          "first_broadcast": "9pm 13 Feb 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "preview_id": "p062lk5v",
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "13 Feb 2018",
+        "related_links": [],
+        "original_title": "Episode 1",
+        "audio_described": false,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2018-02-13T00:00:00.000Z",
+        "editorial_subtitle": "Box Set. Dark, desperate secrets lurk in idyllic community",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09sbrsv",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05xxrr1.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": false,
+        "subtitle": "Series 1: Episode 2",
+        "synopses": {
+          "large": "Faith represents Steve Baldini, a reformed criminal who may know something about her husband's disappearance. Back at the office, Tom makes a troubling discovery in the company archives that he believes will upset Faith's trust of her husband. DI Susan Williams, a vindictive police officer who has crossed swords with Faith in the past, turns her attention towards Faith's recent behaviour.",
+          "small": "Faith represents an ex-criminal who may know something about her husband's disappearance.",
+          "medium": "Mystery drama. Faith represents Steve Baldini, a reformed criminal who may know something about her husband's disappearance."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09sbrny",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:46:56Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3500,
+          "first_broadcast": "9pm 20 Feb 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "20 Feb 2018",
+        "related_links": [],
+        "original_title": "Episode 2",
+        "audio_described": false,
+        "parent_position": 2,
+        "requires_sign_in": true,
+        "release_date_time": "2018-02-20T00:00:00.000Z",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09t0h46",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05z4rry.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": true,
+        "subtitle": "Series 1: Episode 3",
+        "synopses": {
+          "large": "Now in custody, Faith butts heads with DI Williams, who believes she may have more to do with Evan's disappearance than she is letting on. At the police station, Faith encounters Reverend Talbot, a family friend, and represents him on charges of misusing church funds. Tom enlists the help of his friend, Swansea detective DCI Parry, to look into his son's files, while Lisa tracks down a lead at a lap-dancing club Evan was seen frequenting. Troubled by the discovery of a DNA test kit in Evan's office, Faith confronts Marion and uncovers a dark family secret.",
+          "small": "Faith defends a priest accused of petty theft.",
+          "medium": "Mystery drama. Faith finds herself suspected of murder, but her mother-in-law holds the key to family secrets. Faith defends a priest accused of petty theft.",
+          "editorial": "DI Williams thinks Faith may have more to do with Evan's disappearance than she admits."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09t0g5t",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "guidance": {
+            "id": "L1",
+            "text": {
+              "large": "Contains some strong language.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:49:14Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3463,
+          "first_broadcast": "27 Feb 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "27 Feb 2018",
+        "related_links": [],
+        "original_title": "Episode 3",
+        "audio_described": false,
+        "parent_position": 3,
+        "requires_sign_in": true,
+        "release_date_time": "2018-02-27T00:00:00.000Z",
+        "editorial_subtitle": "3/8 Faith’s mother-in-law holds the key to family secrets",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09tt6v6",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zd8t5.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": false,
+        "subtitle": "Series 1: Episode 4",
+        "synopses": {
+          "large": "Fearing for her family's safety, Faith takes shelter in a hotel and meets with Steve, who tells her that Evan might have had links with a notorious family of drug dealers. As Faith looks into the lead, she is drawn deeper into Abercorran's sinister underbelly. Meanwhile, Bethan begins to feel the aftershocks of Marion's revelation. Dr Alpay proposes a deal to Cerys, and a disturbing discovery in the woods by Terry results in Williams building a case against Faith.",
+          "small": "Faith takes shelter in a hotel and comes across a lead.",
+          "medium": "Mystery drama. Fearing for her family's safety, Faith takes shelter in a hotel and meets with Steve, who tells her that Evan might have had links with a family of drug dealers."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09tt6bs",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:50:54Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3460,
+          "first_broadcast": "9pm 6 Mar 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "6 Mar 2018",
+        "related_links": [],
+        "original_title": "Episode 4",
+        "audio_described": false,
+        "parent_position": 4,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-06T00:00:00.000Z",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09vlhbd",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061qhf3.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": false,
+        "subtitle": "Series 1: Episode 5",
+        "synopses": {
+          "large": "Shaken by the break-in at her home, Faith buries herself in work and takes on the case of an elderly farmer who is caught in a dispute with a ruthless landowner. Meanwhile, Steve's growing closeness to Faith begins to attract suspicions from Terry. Arthur receives a mysterious package, Dr Alpay names a price for information about Evan, and Faith receives a disturbing visit from Gael Reardon.",
+          "small": "Faith takes on the case of an elderly farmer's dispute with a ruthless landowner.",
+          "medium": "Mystery drama. Shaken by the break-in at her home, Faith buries herself in work and takes on the case of an elderly farmer who is caught in a dispute with a ruthless landowner.",
+          "editorial": "Steve's growing closeness to Faith begins to attract suspicions from Terry."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09vlh83",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:51:06Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3458,
+          "first_broadcast": "9pm 13 Mar 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "13 Mar 2018",
+        "related_links": [],
+        "original_title": "Episode 5",
+        "audio_described": false,
+        "parent_position": 5,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-13T00:00:00.000Z",
+        "editorial_subtitle": "5/8 Shaken by the break-in, Faith buries herself in work",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09wd0lr",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061qhgh.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": false,
+        "subtitle": "Series 1: Episode 6",
+        "synopses": {
+          "large": "When Evan's car is found abandoned at the docks, Faith is dragged to the police station for an interrogation. When Steve attempts to help, he too finds himself caught in the firing line of the law. Meanwhile, an increasingly conflicted Tom uncovers terrible secrets about his son, Bethan's erratic behaviour puts a strain on her marriage to Terry, Faith prepares to do a secret deal with Dr Alpay, and DI Williams resorts to desperate tactics to break Faith.",
+          "small": "Faith is interrogated when Evan's car is found abandoned at the docks.",
+          "medium": "Mystery drama. Faith is interrogated when Evan's car is found abandoned at the docks. Tom uncovers terrible secrets about his son. Bethan's behaviour puts a strain on her marriage.",
+          "editorial": "An increasingly conflicted Tom uncovers terrible secrets about his son."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09wd0jx",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-04T22:00:00Z",
+            "start": "2018-03-29T15:52:13Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3452,
+          "first_broadcast": "9pm 20 Mar 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "20 Mar 2018",
+        "related_links": [],
+        "original_title": "Episode 6",
+        "audio_described": false,
+        "parent_position": 6,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-20T00:00:00.000Z",
+        "editorial_subtitle": "6/8 Faith is interrogated when Evan's car is found abandoned",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09x82jm",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061q966.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": true,
+        "subtitle": "Series 1: Episode 7",
+        "synopses": {
+          "large": "Following the crash, Williams resorts to dirty tricks to shift the blame onto Faith. Meanwhile, Terry looks into Dr Alpay's background and finds an ally in DCI Parry, Steve risks returning to his criminal past to help Faith, and Delyth makes a shocking discovery in Evan's will. Faith and Cerys push for a court hearing to get the children back, but Faith finds herself lost and alone within her community.",
+          "small": "Following the crash, Williams resorts to dirty tricks to shift the blame onto Faith.",
+          "medium": "Mystery drama. Faith and Cerys push for a court hearing to get the children back, but Faith finds herself lost and alone within her community."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09x829l",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "guidance": {
+            "id": "L1",
+            "text": {
+              "large": "Contains some strong language.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-05-04T21:00:00Z",
+            "start": "2018-03-28T21:00:00Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3442,
+          "first_broadcast": "9pm 28 Mar 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "28 Mar 2018",
+        "related_links": [],
+        "original_title": "Episode 7",
+        "audio_described": false,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-28T00:00:00.000Z",
+        "editorial_subtitle": "7/8 Faith finds herself lost and alone",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09xp71h",
+        "live": false,
+        "type": "episode",
+        "title": "Keeping Faith",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g94t.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b09s7357",
+        "guidance": true,
+        "subtitle": "Series 1: Episode 8",
+        "synopses": {
+          "large": "With Williams now out of the way, Faith fights for her children in a heated court battle that risks tearing the Howells family apart. As the clock ticks on Faith's debt, Steve makes a desperate and deadly pact with his former employers to secure her freedom. Tom and Marion must face tough truths, and Faith finally learns the truth behind Evan's disappearance.",
+          "small": "Faith fights for her children in a court battle. Steve makes a pact to secure her freedom.",
+          "medium": "Mystery drama. Faith fights for her children in a court battle that risks tearing the Howells family apart. Steve makes a pact with his former employers to secure Faith's freedom.",
+          "editorial": "As the clock ticks on Faith's debt, Steve makes a deadly pact to secure her freedom."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b09xp5h7",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "guidance": {
+            "id": "L1",
+            "text": {
+              "large": "Contains some strong language.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-05-04T21:00:00Z",
+            "start": "2018-04-04T21:00:00Z",
+            "remaining": {
+              "text": "Available for 11 days"
+            }
+          },
+          "credits_start": 3463,
+          "first_broadcast": "3 Apr 2018"
+        }],
+        "parent_id": "b09s71xz",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "wales"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "3 Apr 2018",
+        "related_links": [],
+        "original_title": "Episode 8",
+        "audio_described": false,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-03T00:00:00.000Z",
+        "editorial_subtitle": "8/8 Faith fights for her children in a tense court battle",
+        "lexical_sort_letter": "K",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "p06360qy",
+    "live": false,
+    "type": "episode",
+    "title": "High Life",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064278r.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p06360qy",
+    "guidance": true,
+    "synopses": {
+      "large": "Genevieve is a bright, musically talented 17-year-old student from a respectable family. Her teenage years seem to be panning out just fine, until her mental state starts to spiral out of control as she experiences the first manic episode of her Bipolar Disorder.",
+      "small": "17-year-old Genevieve seems fine - until her mental states spirals out of control.",
+      "medium": "Genevieve is a bright, musically-talented 17-year-old. Her teenage years seem to be panning out just fine, until she experiences the first manic episode of her Bipolar Disorder.",
+      "editorial": "When she experiences her first manic episode, her mental state starts to spiral."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p063cgc5",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M47S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-12T08:00:00Z",
+        "start": "2018-04-15T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 3353,
+      "first_broadcast": "15 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "15 Apr 2018",
+    "related_links": [{
+      "id": "p063czvf",
+      "url": "http://www.bbc.co.uk/programmes/articles/3mTXJ1xmCd6Wv0RLmF9C4ny/information-and-support-the-high-life",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support "
+    }],
+    "original_title": "High Life",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-15T00:00:00.000Z",
+    "editorial_subtitle": "Genevieve seems to have teenage life sorted – until...",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p061bdzy",
+    "live": false,
+    "type": "episode",
+    "title": "The City And The City",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g75z.jpg"
+    },
+    "labels": {
+      "category": "Sci-Fi"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p061bd5l",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "The body of a dead girl is found at Bulkya Docks, on the border between Beszel and Ul Qoma - two cities with a division like no other. Resident of the crumbling city of Beszel and inspector of the extreme crime squad, Tyador Borlu takes on the case, assisted by officer Lizbyet Corwi. The girl's body was seen dumped on the wasteland by a yellow van, and Detective Naustin presumes the girl must have been a hooker. Cases like this are run of the mill for Borlu, but he notices strange similarities to an old case.\n\nThe body was found in an area with lots of cross-hatching with Ul Qoma. Commissar Gadlem thinks this is a case for Breach - the secret police who ruthlessly patrol all cross-border crime. Gadlem thinks maybe someone else should take it on, and that maybe it is too personal for Borlu - but Borlu insists he can handle it.\n\nAs Unificationists protest that Ul Qoma and Beszel should become one city, Borlu receives a call from someone who says she was friends with the dead girl and identifies her as an American student called Mahalia Geary. Mahalia lived in Ul Qoma but wound up dead in Beszel. Borlu starts to worry as the friend admits she is not phoning from Beszel, she is illegally calling from Ul Qoma.\n\nMr and Mrs Geary fly in from America to see their daughter's body, and Borlu and Corwi are put on baby-sitting duty. Gadlem knows that Borlu made an illicit phone call, and the case is being taken to the Oversight Committee - he wants to invoke Breach.",
+      "small": "Borlu investigates the murder of a woman from Ul Qoma, found in neighbouring city Beszel.",
+      "medium": "Drama series. When Mahalia's body turns up close to the border between Beszel and Ul Qoma, Inspector Borlu is surprised by the similarities to an old case.",
+      "preview": "David Morrissey stars in China Miéville's mind-bending novel. Very different cities Ul Qoma and Besźel share the same space – and a dangerous and volatile relationship.",
+      "editorial": "A girls’ body is found on the border between two cities with a division like no other."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p061bf4b",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-27T21:30:00Z",
+          "start": "2018-04-06T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3451,
+        "first_broadcast": "9pm 6 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063k7wh",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-27T21:30:00Z",
+          "start": "2018-04-06T21:35:55Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "6 Apr 2018"
+      }
+    ],
+    "parent_id": "p061bdq9",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-sci-fi-and-fantasy"
+    ],
+    "preview_id": "p063ddmb",
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-06T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. A mind-bending tale of two cities and two realities",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b157dw",
+    "live": false,
+    "type": "episode",
+    "title": "The Woman in White",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064y1bn.jpg"
+    },
+    "labels": {
+      "category": "Period Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b15xvc",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "After a haunting encounter with a woman all in white, drawing master Walter Hartright finds a startling resemblance between her and his new pupil, the beautiful Laura Fairlie.",
+      "small": "After an eerie meeting, Walter is drawn into the mysterious past of a woman in white.",
+      "medium": "Drama based on the novel by Wilkie Collins. After a haunting encounter with a woman all in white, Walter Hartright finds a startling resemblance between her and his new pupil.",
+      "editorial": "A chilling ride into the depths of insanity in the classic mind-bending thriller."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b156tb",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "56 mins",
+          "value": "PT56M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3313,
+        "first_broadcast": "9pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652wp6",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "56 mins",
+          "value": "PT56M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T22:09:03Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b15x7j",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-classic-and-period"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "1/5 Suspense, danger and love combine as secrets will out",
+    "lexical_sort_letter": "W",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b06j49gb",
+    "live": false,
+    "type": "episode",
+    "title": "Testament of Youth",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04sk1cf.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b06j49gb",
+    "guidance": true,
+    "synopses": {
+      "large": "In 1914, despite her father's opposition, Vera Brittain is determined to attempt the entrance examination for Sommerville College Oxford to pursue her literary dreams. Her brother Edward supports her plan, as does his good friend Roland who shares Vera's passion for poetry. Hiding their love from their families, Vera and Roland's plans of a future together is cruelly frustrated by the declaration of the First World War. When the young men sign up for duty, Vera cannot sit idly by and volunteers as a nurse.",
+      "small": "Vera Brittain's plans change with the declaration of the First World War.",
+      "medium": "First World War drama. In 1914, Vera Brittain decides to study at Oxford university. She falls in love with her brother's friend, but then war is declared.",
+      "editorial": "Vera Brittain falls in love with a friend, but the outbreak of war changes everything."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b06d6mz8",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "121 mins",
+          "value": "PT2H1M"
+        },
+        "guidance": {
+          "id": "D1",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-21T23:05:00Z",
+          "start": "2018-04-21T23:05:00Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "credits_start": 7214,
+        "first_broadcast": "2014"
+      },
+      {
+        "hd": false,
+        "id": "p04tbtv8",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "121 mins",
+          "value": "PT2H1M"
+        },
+        "guidance": {
+          "id": "D1",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-21T23:05:00Z",
+          "start": "2018-04-22T00:24:01Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "first_broadcast": "2014"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "films"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "2014",
+    "related_links": [],
+    "original_title": "Testament of Youth",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-01T00:00:00.000Z",
+    "editorial_subtitle": "Alicia Vikander and Kit Harington star in a WWI drama",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b006m86d",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060x3df.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p060x3m6.jpg"
+    },
+    "episode_sort_direction": "desc",
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_one",
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one",
+      "titles": {
+        "small": "BBC One",
+        "medium": "BBC One",
+        "large": "BBC One"
+      }
+    },
+    "title": "EastEnders",
+    "synopses": {
+      "small": "Welcome to Walford, E20.",
+      "medium": "Welcome to Walford, E20."
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "count": 16,
+    "initial_children": [{
+        "id": "b0b05l56",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdgx.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "20/04/2018",
+        "synopses": {
+          "small": "Ian's interview with the investor doesn't go to plan. Vincent makes a big decision.",
+          "medium": "Ian's interview with the investor doesn't go to plan. Vincent makes a big decision.",
+          "editorial": "Ian's interview with the investor doesn't go to plan."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b05l2t",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-20T19:30:00Z",
+              "start": "2018-04-20T19:30:00Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "credits_start": 1592,
+            "first_broadcast": "8pm 20 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064yh5b",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-20T19:30:00Z",
+              "start": "2018-04-20T19:49:24Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "20 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "20 Apr 2018",
+        "related_links": [],
+        "original_title": "20/04/2018",
+        "audio_described": true,
+        "parent_position": 5693,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-20T00:00:00.000Z",
+        "editorial_subtitle": "20/04/2018: Vincent makes a big decision",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b05h9n",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdd0.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "19/04/2018",
+        "synopses": {
+          "small": "Ian tries to thwart Masood's interview slot with the investor.",
+          "medium": "Ian tries to thwart Masood's interview slot with the investor. Stacey is concerned for Kat. Mel invites Linda to the club for a drink.",
+          "editorial": "Ian tries to thwart Masood's slot with the investor, while Mel invites Linda to the club."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b05h7m",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-19T19:00:00Z",
+              "start": "2018-04-19T18:57:00Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "credits_start": 1574,
+            "first_broadcast": "7:30pm 19 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064ty52",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-19T19:00:00Z",
+              "start": "2018-04-19T19:18:04Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "19 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "19 Apr 2018",
+        "related_links": [],
+        "original_title": "19/04/2018",
+        "audio_described": true,
+        "parent_position": 5692,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-19T00:00:00.000Z",
+        "editorial_subtitle": "19/04/2018: Stacey is concerned for Kat",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b05g0m",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdcy.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "17/04/2018",
+        "synopses": {
+          "small": "Tensions run high between Michelle and Mel. An angel investor comes to Walford.",
+          "medium": "Tensions run high between Michelle and Mel. An angel investor comes to Walford. Vincent becomes increasingly desperate.",
+          "editorial": "An angel investor comes to Walford. Vincent becomes increasingly desperate."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b05fpn",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-17T19:00:00Z",
+              "start": "2018-04-17T18:57:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "credits_start": 1630,
+            "first_broadcast": "7:30pm 17 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064m4w2",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-17T19:00:00Z",
+              "start": "2018-04-17T19:22:54Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "first_broadcast": "17 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "17 Apr 2018",
+        "related_links": [],
+        "original_title": "17/04/2018",
+        "audio_described": true,
+        "parent_position": 5691,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-17T00:00:00.000Z",
+        "editorial_subtitle": "17/04/2018: Tensions run high between Michelle and Mel",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b05f6k",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642zyy.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "16/04/2018",
+        "synopses": {
+          "small": "The pressure mounts for Vincent. Michelle begins home-tutoring Hunter.",
+          "medium": "The pressure mounts for Vincent. Michelle begins home-tutoring Hunter. Woody and Billy compete for authority.",
+          "editorial": "Michelle begins home-tutoring Hunter, while Woody and Billy compete for authority."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b05f49",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-16T19:30:00Z",
+              "start": "2018-04-16T19:30:00Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "credits_start": 1700,
+            "first_broadcast": "8pm 16 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064hsv0",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-16T19:30:00Z",
+              "start": "2018-04-16T20:00:13Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "first_broadcast": "16 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "16 Apr 2018",
+        "related_links": [],
+        "original_title": "16/04/2018",
+        "audio_described": true,
+        "parent_position": 5690,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-16T00:00:00.000Z",
+        "editorial_subtitle": "16/04/2018: The pressure mounts for Vincent",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09zbqz2",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635cwq.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "13/04/2018",
+        "synopses": {
+          "small": "Woody has his eyes set on a new venture. Vincent grows sick of Phil's behaviour.",
+          "medium": "Woody has his eyes set on a new venture. Vincent grows sick of Phil's behaviour and considers taking action. Ted is taken aback by Karen's touching gesture.",
+          "editorial": "Vincent grows sick of Phil's behaviour, while Ted’s taken aback by Karen's gesture."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09zbqp5",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-13T19:30:00Z",
+              "start": "2018-04-13T19:30:00Z",
+              "remaining": {
+                "text": "Available for 20 days"
+              }
+            },
+            "credits_start": 1702,
+            "first_broadcast": "8pm 13 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p0647vzx",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-13T19:30:00Z",
+              "start": "2018-04-13T19:51:19Z",
+              "remaining": {
+                "text": "Available for 20 days"
+              }
+            },
+            "first_broadcast": "13 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "13 Apr 2018",
+        "related_links": [],
+        "original_title": "13/04/2018",
+        "audio_described": true,
+        "parent_position": 5689,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-13T00:00:00.000Z",
+        "editorial_subtitle": "13/04/2018: Woody has his eyes set on a new venture",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09zbq3d",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635cs8.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "12/04/2018",
+        "synopses": {
+          "small": "Kat gives Hayley a harsh talking-to but gets more than she bargained for.",
+          "medium": "Kat gives Hayley a harsh talking-to but gets more than she bargained for. Vincent is left ashamed by his actions. Linda struggles to stay out of Whitney's business."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09zbq15",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-12T19:00:00Z",
+              "start": "2018-04-12T18:57:00Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "credits_start": 1605,
+            "first_broadcast": "7:30pm 12 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06442f1",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-12T19:00:00Z",
+              "start": "2018-04-12T19:40:03Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "first_broadcast": "12 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "12 Apr 2018",
+        "related_links": [],
+        "original_title": "12/04/2018",
+        "audio_described": true,
+        "parent_position": 5688,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-12T00:00:00.000Z",
+        "editorial_subtitle": "12/04/2018: Vincent is left ashamed by his actions",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09zbn1p",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635cs2.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "10/04/2018",
+        "synopses": {
+          "small": "Mel does all she can to protect her son.",
+          "medium": "Mel does all she can to protect her son. Whitney is stunned when Woody makes a surprise return to the square. Stacey is unhappy to see Hayley is back.",
+          "editorial": "Whitney is stunned when Woody makes a surprise return to the Square."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09zbmy9",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-10T19:00:00Z",
+              "start": "2018-04-10T18:57:00Z",
+              "remaining": {
+                "text": "Available for 17 days"
+              }
+            },
+            "credits_start": 1645,
+            "first_broadcast": "7:30pm 10 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p063xdwp",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-10T19:00:00Z",
+              "start": "2018-04-10T19:43:03Z",
+              "remaining": {
+                "text": "Available for 17 days"
+              }
+            },
+            "first_broadcast": "10 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "10 Apr 2018",
+        "related_links": [],
+        "original_title": "10/04/2018",
+        "audio_described": true,
+        "parent_position": 5687,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-10T00:00:00.000Z",
+        "editorial_subtitle": "10/04/2018: Mel does all she can to protect her son",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09zbhxk",
+        "live": false,
+        "type": "episode",
+        "title": "EastEnders",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635d24.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006m86d",
+        "guidance": false,
+        "subtitle": "09/04/2018",
+        "synopses": {
+          "small": "Phil is on the warpath following his discovery - can Mel get through to him?",
+          "medium": "Phil is on the warpath following his discovery - can Mel get through to him? Billy receives another knockback. Bernadette tries her hardest to help Ted.",
+          "editorial": "Billy receives another knockback, while Bernadette tries her hardest to help Ted."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09zbhv5",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-09T19:30:00Z",
+              "start": "2018-04-09T19:30:00Z",
+              "remaining": {
+                "text": "Available for 16 days"
+              }
+            },
+            "credits_start": 1631,
+            "first_broadcast": "8pm 9 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p063t1qk",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2018-05-09T19:30:00Z",
+              "start": "2018-04-09T19:57:42Z",
+              "remaining": {
+                "text": "Available for 16 days"
+              }
+            },
+            "first_broadcast": "9 Apr 2018"
+          }
+        ],
+        "parent_id": "b006m86d",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "9 Apr 2018",
+        "related_links": [],
+        "original_title": "09/04/2018",
+        "audio_described": true,
+        "parent_position": 5686,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-09T00:00:00.000Z",
+        "editorial_subtitle": "09/04/2018: Phil’s on the warpath - can Mel calm him down?",
+        "lexical_sort_letter": "E",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "p061td83",
+    "live": false,
+    "type": "episode",
+    "title": "Logan High",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063j4k8.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p061td6h",
+    "guidance": false,
+    "subtitle": "1.New Kid in Town",
+    "synopses": {
+      "small": "It’s Skye’s first day, but how will she cope with being the newbie?",
+      "editorial": "The friendship fall-outs, family issues and general randomness of life at Logan High."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p061tdxj",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "10 mins",
+        "value": "PT10M"
+      },
+      "availability": {
+        "end": "2023-03-29T05:00:00Z",
+        "start": "2018-03-30T05:00:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 563,
+      "first_broadcast": "30 Mar 2018"
+    }],
+    "parent_id": "p061td6h",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "childrens-drama",
+      "drama-and-soaps"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_webonly",
+      "titles": {
+        "large": "BBC",
+        "small": "BBC",
+        "medium": "BBC"
+      },
+      "attribution": "bbc"
+    },
+    "release_date": "30 Mar 2018",
+    "related_links": [],
+    "original_title": "1.New Kid in Town",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": false,
+    "release_date_time": "2018-03-30T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Love, lies and lessons – the dramas of school life",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b08trgl3",
+    "live": false,
+    "type": "episode",
+    "title": "800 Words",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063jlgk.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08vp21p",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "After the sudden death of his wife, grief-stricken journalist George Turner moves his entire family to a remote corner of New Zealand, where he used to spend his childhood holidays, for a fresh start. His children are understandably reluctant, but at least when they arrive they are given a warm and enthusiastic, if unconventional, welcome. After being crashed into by a runaway sculpture and finding out he has bought the wrong house, surely nothing else can go wrong for George?",
+      "small": "A grief-stricken journalist moves his entire family to a remote corner of New Zealand.",
+      "medium": "Comedy drama. After the sudden death of his wife, grief-stricken journalist George Turner moves his entire family to a remote corner of New Zealand.",
+      "editorial": "After the death of his wife, grief-stricken George and family up sticks for a new start."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b08trg7q",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "availability": {
+          "end": "2018-05-09T14:00:00Z",
+          "start": "2018-04-09T14:00:00Z",
+          "remaining": {
+            "text": "Available for 15 days"
+          }
+        },
+        "credits_start": 2577,
+        "first_broadcast": "2:15pm 9 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063s743",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "availability": {
+          "end": "2018-05-09T14:00:00Z",
+          "start": "2018-04-09T14:43:52Z",
+          "remaining": {
+            "text": "Available for 15 days"
+          }
+        },
+        "first_broadcast": "9 Apr 2018"
+      }
+    ],
+    "parent_id": "b08trgfl",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "9 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-09T00:00:00.000Z",
+    "editorial_subtitle": "1/8 A new life in New Zealand - what could go wrong?",
+    "lexical_sort_letter": "0-9",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09zj6vn",
+    "live": false,
+    "type": "episode",
+    "title": "The Assassination of Gianni Versace - American Crime Story",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wmj5.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09trdxr",
+    "guidance": false,
+    "subtitle": "Series 1: 8. Creator/Destroyer",
+    "synopses": {
+      "large": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father. Then teenage Andrew learns some home truths. The factual US drama turns to the chilling childhood of Versace's killer, and the larger-than-life personality that dominated it.",
+      "small": "The factual US drama turns to the chilling childhood of Versace's killer.",
+      "medium": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father.",
+      "editorial": "The larger-than-life personality that dominated Andrew’s chilling childhood."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09zj6t1",
+        "kind": "original",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "52 mins",
+          "value": "PT52M"
+        },
+        "availability": {
+          "end": "2018-05-18T21:00:00Z",
+          "start": "2018-04-18T21:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "credits_start": 3516,
+        "first_broadcast": "9pm 18 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064qs5g",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "52 mins",
+          "value": "PT52M"
+        },
+        "availability": {
+          "end": "2018-05-18T21:00:00Z",
+          "start": "2018-04-18T21:56:19Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "18 Apr 2018"
+      }
+    ],
+    "parent_id": "b09trfff",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "18 Apr 2018",
+    "related_links": [],
+    "original_title": "Creator/Destroyer",
+    "audio_described": true,
+    "editorial_title": "The Assassination of Gianni Versace",
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-18T00:00:00.000Z",
+    "editorial_subtitle": "8/9 Creator/Destroyer",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yj7dz",
+    "live": false,
+    "type": "episode",
+    "title": "Hamlet",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0623lqm.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09yj7dz",
+    "guidance": false,
+    "synopses": {
+      "large": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of William Shakespeare's great play, recorded as-live in its West End transfer on the stage of London's Harold Pinter Theatre.\n\nRobert Icke's innovative modern-dress production, featuring Andrew Scott, Juliet Stevenson, Angus Wright and Jessica Brown Findlay, has been widely acclaimed as a dazzlingly intelligent, forcefully contemporary staging. The Evening Standard hailed Andrew Scott's 'career-defining performance... he makes the most famous speeches feel fresh and unpredictable.'\n\nThe recording features the original cast, and is directed for the screen by Rhodri Huw, working in close collaboration with Robert Icke. Hamlet has design by Hildegard Bechtler, with lighting by Natasha Chivers, sound by Tom Gibbons, and video design by Tal Yarden. The stage production has been nominated for Best Revival, Andrew Scott as Best Actor and Tom Gibbons has been nominated for Best Sound Design in the forthcoming Olivier Awards. The production recently won Best Stage Revival in the WhatsOnStage Awards, and Juliet Stevenson won Best Supporting Actress in a Play whilst Andrew Scott won the Critics' Circle Theatre Award for Best Shakespearean Performance. Hamlet is is an Illuminations/Almeida Theatre production presented by BBC, The Almeida Theatre, The Ambassador Theatre Group, Sonia Friedman Productions.",
+      "small": "Almeida Theatre's 2017 production of Shakespeare's play, recorded as-live in the West End.",
+      "medium": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of Shakespeare's great play, recorded as-live in the West End.",
+      "editorial": "The Almeida Theatre’s dazzling modern-dress production, recorded on the West End stage."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09zcxn9",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "191 mins",
+        "value": "PT3H11M"
+      },
+      "availability": {
+        "end": "2018-04-30T23:15:00Z",
+        "start": "2018-03-31T23:15:00Z",
+        "remaining": {
+          "text": "Available for 7 days"
+        }
+      },
+      "credits_start": 11427,
+      "first_broadcast": "31 Mar 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "31 Mar 2018",
+    "related_links": [],
+    "original_title": "Hamlet",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-31T00:00:00.000Z",
+    "editorial_subtitle": "Andrew Scott stars in an innovative, acclaimed production",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b006mh9v",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05dpxpx.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p05fgy7t.jpg"
+    },
+    "episode_sort_direction": "desc",
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_one",
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one",
+      "titles": {
+        "small": "BBC One",
+        "medium": "BBC One",
+        "large": "BBC One"
+      }
+    },
+    "title": "Doctors",
+    "synopses": {
+      "small": "Drama series set in a Midlands practice following the lives of the staff and patients.",
+      "medium": "Drama series set in a busy Midlands practice following the turbulent lives and loves of the staff and patients."
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "count": 15,
+    "initial_children": [{
+        "id": "b0b0w5qn",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064h1q3.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 202. Parental Instincts",
+        "synopses": {
+          "large": "Sid attends an incident in a car park but then has to deal with a daughter who doesn't want to be with her father. Mrs Tembe and Daniel continue to be at odds, and James tries to help Rob out - but without the desired effect.",
+          "small": "Sid attends an incident in a car park while Mrs Tembe and Daniel continue to be at odds.",
+          "medium": "Sid attends an incident in a car park but then has to deal with a daughter who doesn't want to be with her father. Mrs Tembe and Daniel continue to be at odds."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b0w5pp",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-23T13:15:00Z",
+              "start": "2018-04-23T13:15:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "1:45pm 23 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06550lb",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-23T13:15:00Z",
+              "start": "2018-04-23T13:53:38Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "23 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "23 Apr 2018",
+        "related_links": [],
+        "original_title": "Parental Instincts",
+        "audio_described": true,
+        "parent_position": 202,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-23T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b01k61",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb4c.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 201. So Perfect",
+        "synopses": {
+          "large": "Zara is angry when her car is stolen, and she tries to track down the culprit. Jimmi takes on the university vice-chancellor, while Karen and Rob's new foster child arrives, and he causes them some concern.",
+          "small": "Zara is angry when her car is stolen, and she tries to track down the culprit.",
+          "medium": "Zara is angry when her car is stolen, and she tries to track down the culprit. Jimmi takes on the university vice-chancellor."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b01k0r",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-20T13:15:00Z",
+              "start": "2018-04-20T13:15:00Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "credits_start": 1646,
+            "first_broadcast": "1:45pm 20 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064xdsm",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-20T13:15:00Z",
+              "start": "2018-04-20T13:53:37Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "20 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "20 Apr 2018",
+        "related_links": [],
+        "original_title": "So Perfect",
+        "audio_described": true,
+        "parent_position": 201,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-20T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b01gq7",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb3y.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 200. Place of Safety",
+        "synopses": {
+          "large": "Al visits a troubled child, but he has to bring in extra assistance. Karen gets a call for a new foster child, but something about it doesn't feel right. Daniel is frustrated by Mrs Tembe.",
+          "small": "Al visits a troubled child, but he has to bring in extra assistance.",
+          "medium": "Al visits a troubled child, but he has to bring in extra assistance. Karen gets a call for a new foster child, but something about it doesn't feel right."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b01gnz",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-19T13:15:00Z",
+              "start": "2018-04-19T13:15:00Z",
+              "remaining": {
+                "text": "Available for 25 days"
+              }
+            },
+            "credits_start": 1665,
+            "first_broadcast": "1:45pm 19 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064sk2x",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-19T13:15:00Z",
+              "start": "2018-04-19T13:47:53Z",
+              "remaining": {
+                "text": "Available for 25 days"
+              }
+            },
+            "first_broadcast": "19 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "19 Apr 2018",
+        "related_links": [],
+        "original_title": "Place of Safety",
+        "audio_described": true,
+        "parent_position": 200,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-19T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b01bc9",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb3d.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 199. Grey Areas",
+        "synopses": {
+          "small": "Two people accuse each other of assault, and Rob and Emma have to work out the truth.",
+          "medium": "When a man and woman accuse each other of assault, Rob and Emma have to work out who is telling the truth and what is really going on."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b01bbj",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-18T13:15:00Z",
+              "start": "2018-04-18T13:15:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "credits_start": 1661,
+            "first_broadcast": "1:45pm 18 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064p1wp",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-18T13:15:00Z",
+              "start": "2018-04-18T13:46:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "first_broadcast": "18 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "18 Apr 2018",
+        "related_links": [],
+        "original_title": "Grey Areas",
+        "audio_described": true,
+        "parent_position": 199,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-18T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b019q9",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb0d.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 198. Love All",
+        "synopses": {
+          "large": "Heston is curious to meet up with an old friend from his exclusive racquet club, but is all as it seems? Valerie looks to Sid for help, while Daniel and Ayesha unexpectedly find themselves playing together.",
+          "small": "Heston is curious to meet up with an old friend from his exclusive racquet club.",
+          "medium": "Heston is curious to meet up with an old friend from his exclusive racquet club, but is all as it seems? Valerie looks to Sid for help."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b019pl",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-17T13:15:00Z",
+              "start": "2018-04-17T13:15:00Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "credits_start": 1657,
+            "first_broadcast": "1:45pm 17 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064ksz6",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-17T13:15:00Z",
+              "start": "2018-04-17T13:43:23Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "first_broadcast": "17 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "17 Apr 2018",
+        "related_links": [],
+        "original_title": "Love All",
+        "audio_described": true,
+        "parent_position": 198,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-17T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b018kk",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb0b.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 197. Smoke and Mirrors",
+        "synopses": {
+          "small": "Valerie has a plan to deal with her insomnia, while Sid and Mrs Tembe are in shock.",
+          "medium": "Valerie has a plan to deal with her insomnia, while Sid and Mrs Tembe are in shock and Rob interviews suspects."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b0b018jt",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-16T13:15:00Z",
+              "start": "2018-04-16T13:15:00Z",
+              "remaining": {
+                "text": "Available for 22 days"
+              }
+            },
+            "credits_start": 1664,
+            "first_broadcast": "1:45pm 16 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064gnzc",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2018-05-16T13:15:00Z",
+              "start": "2018-04-16T14:00:44Z",
+              "remaining": {
+                "text": "Available for 22 days"
+              }
+            },
+            "first_broadcast": "16 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "16 Apr 2018",
+        "related_links": [],
+        "original_title": "Smoke and Mirrors",
+        "audio_described": true,
+        "parent_position": 197,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-16T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09z63vq",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063578t.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 196. No Smoke Without Fire",
+        "synopses": {
+          "large": "Daniel is concerned when he thinks a child is at risk from one of his patients. On day two of the course, the team get a chance to air their grievances - with each other. The campus surgery comes under fire.",
+          "small": "Daniel is concerned when he thinks a child is at risk from one of his patients.",
+          "medium": "Daniel is concerned when he thinks a child is at risk from one of his patients. On day two of the course, the team get a chance to air their grievances."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09z63sy",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-13T13:15:00Z",
+              "start": "2018-04-13T13:15:00Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "credits_start": 1644,
+            "first_broadcast": "1:45pm 13 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p0646w72",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-13T13:15:00Z",
+              "start": "2018-04-13T13:46:02Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "first_broadcast": "13 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "13 Apr 2018",
+        "related_links": [],
+        "original_title": "No Smoke Without Fire",
+        "audio_described": true,
+        "parent_position": 196,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-13T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b09z63gh",
+        "live": false,
+        "type": "episode",
+        "title": "Doctors",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063577v.jpg"
+        },
+        "labels": {
+          "category": "Drama"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006mh9v",
+        "guidance": false,
+        "subtitle": "Series 19: 195. The Hangover",
+        "synopses": {
+          "large": "A new receptionist turns Sid's head while they deal with an unusually fluffy patient, but a growing and unexpected threat faces the campus surgery. It is day one of the conflict resolution course, and Zara is determined to keep her cool - but it is not going to be easy.",
+          "small": "A new receptionist turns Sid's head while they deal with an unusually fluffy patient.",
+          "medium": "A new receptionist turns Sid's head while they deal with an unusually fluffy patient, but a growing and unexpected threat faces the campus surgery."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09z63cy",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-12T13:15:00Z",
+              "start": "2018-04-12T13:15:00Z",
+              "remaining": {
+                "text": "Available for 18 days"
+              }
+            },
+            "first_broadcast": "1:45pm 12 Apr 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06430qk",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2018-05-12T13:15:00Z",
+              "start": "2018-04-12T13:44:53Z",
+              "remaining": {
+                "text": "Available for 18 days"
+              }
+            },
+            "first_broadcast": "12 Apr 2018"
+          }
+        ],
+        "parent_id": "b08n2496",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "audio-described",
+          "drama-and-soaps"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "12 Apr 2018",
+        "related_links": [],
+        "original_title": "The Hangover",
+        "audio_described": true,
+        "parent_position": 195,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-12T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "p04gwyrj",
+    "live": false,
+    "type": "episode",
+    "title": "Barracuda",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g6zc.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p04gwxg7",
+    "guidance": true,
+    "subtitle": "1. 1996",
+    "synopses": {
+      "large": "Transferring to an exclusive Melbourne school on a swimming scholarship, teen Danny Kelly’s ambitions for pool glory are meet with snobbish and racist hostility, especially from the swim squad’s gold-winner, Martin Taylor.",
+      "small": "Talented Danny transfers to an exclusive Melbourne school on a swimming scholarship.",
+      "medium": "Transferring to an exclusive school on a swimming scholarship, Danny's ambitions for pool glory are meet with racist hostility, especially from the swim squad’s gold-winner.",
+      "editorial": "A talented 16-year-old swimmer faces snobbery and setbacks as he fights for gold."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p04lj452",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "53 mins",
+        "value": "PT53M"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-05-22T08:00:00Z",
+        "start": "2018-03-23T09:00:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "credits_start": 3140,
+      "first_broadcast": "17 Dec 2016"
+    }],
+    "parent_id": "p04gwxg7",
+    "suppliers": [],
+    "tleo_type": "series",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "17 Dec 2016",
+    "related_links": [],
+    "original_title": "1996",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2016-12-17T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Danny strives for glory in the pool",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b05rmlr9",
+    "live": false,
+    "type": "episode",
+    "title": "The Homesman",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p053038q.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b05rmlr9",
+    "guidance": true,
+    "synopses": {
+      "large": "The stark life for Nebraska Territory settlers has unhinged three women who wilful Mary Bee Cuddy is tasked with transporting east to safety in Iowa. She must grudgingly draft disreputable drifter George Briggs to share the stress and responsibility of the five-week odyssey over hostile plains.",
+      "small": "Hilary Swank and Tommy Lee Jones star in this characterful western drama.",
+      "medium": "Western drama. A frontier farmer saves the life of a claim jumper and persuades him to help her escort three women who have suffered breakdowns to a safe haven in Iowa.",
+      "editorial": "Western drama. A farmer and a claim jumper must transport three insane women to a safety."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b04wqpjz",
+      "kind": "original",
+      "type": "version",
+      "download": false,
+      "duration": {
+        "text": "113 mins",
+        "value": "PT1H53M"
+      },
+      "guidance": {
+        "id": "S1",
+        "text": {
+          "large": "Contains some scenes of a sexual nature.",
+          "small": "Has guidance",
+          "medium": "Contains some sexual content."
+        }
+      },
+      "availability": {
+        "end": "2018-05-15T23:50:00Z",
+        "start": "2018-04-15T23:15:00Z",
+        "remaining": {
+          "text": "Available for 22 days"
+        }
+      },
+      "credits_start": 6679,
+      "first_broadcast": "2014"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps",
+      "films"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "2014",
+    "related_links": [],
+    "original_title": "The Homesman",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-01T00:00:00.000Z",
+    "editorial_subtitle": "A mission of mercy with Hilary Swank and Tommy Lee Jones",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]

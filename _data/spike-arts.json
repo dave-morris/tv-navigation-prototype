@@ -1,0 +1,2911 @@
+[{
+    "id": "b0b02x6s",
+    "live": false,
+    "type": "episode",
+    "title": "Gettys: The World's Richest Art Dynasty",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sdmz.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b02x6s",
+    "guidance": false,
+    "synopses": {
+      "large": "There are few families in history who have accumulated more wealth, collected more art and given away more money than the Gettys. With unique access to the family's inner world, this programme unearths the lasting cultural impact of three generations.\n\nThe late patriarch J Paul Getty, founder of the Getty Oil Company and art collector, made the family incredibly wealthy and was once described as the richest living man in America. On his death, he left the largest endowment in history to an art museum, and the billion dollar gift shook the international art market to its foundation. This endowment also gave birth to the Getty Centre in Los Angeles which is now the wealthiest institution of its kind in the world.\n\nGrandson Mark Getty, who himself became the founder of the multi-billion pound media empire Getty Images, tells the story of his family and their cultural legacy. With input from other Getty family members, the programme follows three generations of this art-hungry dynasty and hears stories of personal milestones, art scandals, philanthropy and the kidnapping of grandson Paul Getty III in 1973.",
+      "small": "Following the stories of three generations of the art-hungry dynasty.",
+      "medium": "Documentary. Few families have accumulated more wealth and collected more art than the Gettys. This programme unearths the lasting cultural impact of three generations.",
+      "editorial": "Mark Getty tells the story of his family and their amazing legacy to the art world."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b02x0m",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "74 mins",
+          "value": "PT1H14M"
+        },
+        "availability": {
+          "end": "2018-05-16T23:45:00Z",
+          "start": "2018-04-14T21:15:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "credits_start": 4411,
+        "first_broadcast": "9pm 14 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064b59d",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "74 mins",
+          "value": "PT1H14M"
+        },
+        "availability": {
+          "end": "2018-05-16T23:45:00Z",
+          "start": "2018-04-14T22:18:08Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "14 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "14 Apr 2018",
+    "related_links": [],
+    "original_title": "Gettys: The World's Richest Art Dynasty",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-14T00:00:00.000Z",
+    "editorial_subtitle": "Their lasting cultural impact",
+    "lexical_sort_letter": "G",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b0wdkg",
+    "live": false,
+    "type": "episode",
+    "title": "The Big Painting Challenge",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064gqqp.jpg"
+    },
+    "labels": {
+      "category": "Arts"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08fn9p2",
+    "guidance": false,
+    "subtitle": "Series 2: 4. Waterscape",
+    "synopses": {
+      "large": "The magnificent seven amateur artists are confronted with the tail end of a hurricane, as they set up their easels on the bonnie but windy banks of Loch Lomond. This week the challenge is to paint water and the many colours it reflects. \n\nWith the wind howling, in the first task they must try to mix the perfect colours to capture a boat and its stormy reflections in the turbulent water. Mentors Diana Ali and Pascal Anson, as always, are\non hand with hints and tips, which some of the artists choose to ignore at their peril. \n\nThe masterclasses this week are all about mixing colours. Armed with just the primary paints, our mentors have two techniques to help the artists see and mix colour more accurately. For the main\nchallenge, the painters move to a full, panoramic view of the loch, which is useful as that is exactly what the judges want to see on canvas. Can they capture the ever-changing colours of the sky, land and water, which at times disappear from view all together? No one said it would be easy. \n\nAt a viewing, the results are seen by members of the public, who decide on their favourite artist to be catapulted to the semi-final. The rest must await the verdict of the judges, Lachlan Goudie and Daphne Todd OBE. \n\nHosted by Mariella Frostrup and Rev Richard Coles, the search for the winner of the Big Painting Challenge 2018 starts to heat up.",
+      "small": "The artists set up their easels on the bonnie but windy banks of Loch Lomond.",
+      "medium": "Amateur painting competition. The remaining seven artists are confronted with the tail end of a hurricane as they set up their easels on the banks of Loch Lomond.",
+      "editorial": "The artists head to the banks of Loch Lomond to paint water and the colours it reflects."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b0wdfl",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-22T18:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3453,
+        "first_broadcast": "6pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652nd5",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-22T18:46:15Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b09ytmsx",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "audio-described"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "Waterscape",
+    "audio_described": true,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "4/6 Waterscape",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b05ykn",
+    "live": false,
+    "type": "episode",
+    "title": "Front Row Late",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062kqt3.jpg",
+      "inherited_from": "series"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b096p3gr",
+    "guidance": false,
+    "subtitle": "Series 2: Episode 3",
+    "synopses": {
+      "large": "In this week's episode, host Mary Beard and her guests enter the wonderful world of musical theatre. As a self-confessed sceptic Mary looks at some genre-busting shows - and asks whether it is now cool to like musicals.",
+      "small": "Mary Beard and her guests enter the wonderful world of musical theatre.",
+      "medium": "Topical discussion show. Mary Beard and guests enter the wonderful world of musical theatre, looking at some genre-busting shows and asking whether it is now cool to like musicals.",
+      "editorial": "Musical theate sceptic Mary asks if it's now cool to like musicals?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b05y7y",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT30M"
+      },
+      "availability": {
+        "end": "2018-05-20T22:35:00Z",
+        "start": "2018-04-20T22:43:44Z",
+        "remaining": {
+          "text": "Available for 27 days"
+        }
+      },
+      "first_broadcast": "11:05pm 20 Apr 2018"
+    }],
+    "parent_id": "b09ysj7g",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "editorial_subtitle": "3/6 Mary Beard enters the world of musical theatre",
+    "lexical_sort_letter": "F",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yndw6",
+    "live": false,
+    "type": "episode",
+    "title": "An Art Lovers' Guide",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0512d0g.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b08p2c05",
+    "guidance": false,
+    "subtitle": "Series 2: 1. Lisbon",
+    "synopses": {
+      "large": "In the first of a new series of their city adventures, Janina Ramirez and Alastair Sooke head to Lisbon, rapidly becoming one of Europe's most popular tourist destinations. Winding through the city's cobbled streets, from its steep hills to the picturesque shore line, the cultural riches they encounter reveal the city's fascinating history.\n\nFrom a spectacular monument to the maritime globetrotting of Portugal's 'golden age' to the work of a photographer documenting the city's large African population, they discover a complex history of past glories and a darker, slave-trading past.\n\nTheir journey also uncovers the impact of twentieth-century dictatorship on the city's artistic and cultural life, through the work of contemporary artists Paula Rego and Joana Vasconcelos.\n\nAlong the way, Alistair also takes a boat trip on the River Tagus to discover how Portuguese sailors established the sea passage to India, an achievement that enabled Lisbon to capture the lucrative spice trade. And Nina visits the UNESCO world heritage site the Belem Tower, designed to protect the city and a symbol of 16th century Portuguese power.\n\nNina also explores the colourful streets and discovers a city with an obsession with tiles or 'azulejos', which can be seen all over the walls of the city. From church altarpieces to mythical scenes, decorative detailing and modernist geometries - collections of colourful tiles come in almost every shape and size. But the real highlight Nina discovers, is in the National Tile Museum, where she marvels at a vast panorama of Lisbon.\n\nLisbon's penchant for tiles on their building make it feel as if street art is part of the city's DNA so Alistair finds out why the walls of Lisbon have become the canvas form some the most innovative street art in the world and he meets up with the internationally renowned street artist known as Vhils, whose unique massive character murals are changing the face of the city.\n\nAnd together they discover how the city's location on the southern coast of Europe, looking out to the Atlantic, has shaped the cosmopolitan spirit of the city: in one of the city's fado clubs, Alastair and Nina enjoy the popular Portugese folk music, whose beautiful melodies celebrate a yearning for home, once sung by sailors dreaming of their return.",
+      "small": "Janina Ramirez and Alastair Sooke discover Lisbon through its art and architecture.",
+      "medium": "Janina Ramirez and Alastair Sooke discover Lisbon through its art and architecture, including the work of Paula Rego and Joana Vasconcelos, and a visit to a fado folk music club.",
+      "editorial": "Janina Ramirez and Alastair Sooke discover the city through its art and architecture."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yndvm",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-09T21:00:00Z",
+          "start": "2018-04-09T21:00:00Z",
+          "remaining": {
+            "text": "Available for 16 days"
+          }
+        },
+        "credits_start": 3549,
+        "first_broadcast": "9pm 9 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063t5s0",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-09T21:00:00Z",
+          "start": "2018-04-09T21:41:39Z",
+          "remaining": {
+            "text": "Available for 16 days"
+          }
+        },
+        "first_broadcast": "9 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09z8cp2",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-10T02:10:00Z",
+          "start": "2018-04-10T02:10:00Z",
+          "remaining": {
+            "text": "Available for 16 days"
+          }
+        },
+        "first_broadcast": "9 Apr 2018"
+      }
+    ],
+    "parent_id": "b09ys30f",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "9 Apr 2018",
+    "related_links": [],
+    "original_title": "Lisbon",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-09T00:00:00.000Z",
+    "editorial_subtitle": "1/3 Lisbon. One of Europe’s most cosmopolitan cities",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p064x5w1",
+    "type": "group_large",
+    "group_type": "curated",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064zcyw.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p064zczm.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "stacked": false,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc",
+      "attribution": "bbc",
+      "titles": {
+        "small": "BBC",
+        "medium": "BBC",
+        "large": "BBC"
+      }
+    },
+    "title": "Cuba Season",
+    "synopses": {
+      "small": "Discover Cuba's rich culture, music and history."
+    },
+    "count": 6,
+    "initial_children": [{
+        "id": "b03p8shj",
+        "live": false,
+        "type": "episode",
+        "title": "Buena Vista Social Club",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zb3m.jpg"
+        },
+        "labels": {
+          "category": "Film"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03p8shj",
+        "guidance": false,
+        "synopses": {
+          "large": "Cuba's rich and colourful past comes vividly to life in this legendary, Oscar-nominated documentary.\n\nThe award-winning Buena Vista Social Club album produced by Ry Cooder remains the biggest-selling world music album ever, showcasing the talents of a dream team of veterans from Cuban music's golden age, including Ibrahim Ferrer, Ruben Gonzalez, Eliades Ochoa, Omara Portuondo and Compay Segundo.\n\nNever a regular band, The Buena Vista Social Club had gone their separate ways, but in this extraordinary film Wim Wenders intimately documents Ry Cooder's return to Havana, encountering these musical legends again as they look back to the halcyon days of Cuba's music scene, when the rich and famous travelled from all over the world to listen to them. In the climax, their music comes alive once again, as they rehearse for their first - and only - performance in America, at New York's Carnegie Hall.",
+          "small": "A group of Cuban musicians are brought together by Ry Cooder to record their music.",
+          "medium": "Documentary about a group of legendary Cuban musicians who were brought together by Ry Cooder to record their music. Includes recording sessions in Havana and concert footage.",
+          "editorial": "How Ry Cooder reunited a group of legendary Cuban musicians for a spectacular peformance."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b001301w",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "105 mins",
+            "value": "PT1H45M"
+          },
+          "availability": {
+            "end": "2018-05-20T21:40:00Z",
+            "start": "2018-04-20T22:21:58Z",
+            "remaining": {
+              "text": "Available for 27 days"
+            }
+          },
+          "first_broadcast": "1999"
+        }],
+        "suppliers": [],
+        "tleo_type": "episode",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries-music",
+          "documentaries",
+          "films",
+          "music"
+        ],
+        "has_credits": false,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "1999",
+        "related_links": [],
+        "original_title": "Buena Vista Social Club",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "release_date_time": "1999-01-01T00:00:00.000Z",
+        "editorial_subtitle": "Cuba's musical past comes to life in a classic documentary",
+        "lexical_sort_letter": "B",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00qbzxs",
+        "live": false,
+        "type": "episode",
+        "title": "Latin Music USA",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnfsb.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b00qgyj5",
+        "guidance": false,
+        "subtitle": "1. East Side Story",
+        "synopses": {
+          "large": "The first of a four-part series revealing the deep musical and social impact of Latin music in the USA.\n\nThe massive success of Santana's innovative Latin-blues at the Woodstock Festival leads back in time to the first Cuban immigrants arriving, with their Afro-Cuban music, into the States. Using feature film clips, rare archive and location filming, the programme examines how Afro-Cuban music has impacted - since early last century - on jazz, pop rhythms and dance styles. \n\nFrom Cuban rumba to New York mambo, Latin music enthralled 1950s America, challenging racial attitudes and changing the stereotypes projected in movies like West Side Story. It influenced Hollywood, TV sitcoms and 60s rock 'n' roll, as the Beatles and many American R&B bands absorbed Latin rhythms into the wider worlds of rock music, fashion and culture. \n\nFeaturing Carlos Santana, Cachao, Tito Puente, Dizzy Gillespie and the greatest names in Afro-Cuban music.",
+          "small": "A look at how Afro-Cuban music has impacted on jazz, pop rhythms and dance styles.",
+          "medium": "Series revealing the musical and social impact of Latin music in the USA. This part examines how Afro-Cuban music has affected jazz, pop rhythms and dance styles."
+        },
+        "versions": [{
+          "hd": false,
+          "id": "b00qbzw5",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-22T23:30:00Z",
+            "start": "2018-04-20T22:51:44Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "9pm 29 Jan 2010"
+        }],
+        "parent_id": "b00qgyj5",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "documentaries-music",
+          "documentaries",
+          "music"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "29 Jan 2010",
+        "related_links": [],
+        "original_title": "East Side Story",
+        "audio_described": false,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2010-01-29T00:00:00.000Z",
+        "lexical_sort_letter": "L",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00qmxcl",
+        "live": false,
+        "type": "episode",
+        "title": "Arena",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnm03.jpg"
+        },
+        "labels": {
+          "category": "Arts"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006pn88",
+        "guidance": false,
+        "subtitle": "My Name Is Celia Cruz",
+        "synopses": {
+          "large": "The queen of salsa, Celia Cruz has been the most adored and dynamic singer in Latin America for more than four decades. Since she left Cuba at the time of the 1959 revolution with her band Sonora Matancera, she lived in New York and rose to international fame with the legendary Latin bands of Tito Puente and Johnny Pacheco, the creators of salsa. \n\nThis profile includes testimony from friends, fans, fellow professionals and a stunning performance at New York's world-famous Apollo Theatre.",
+          "small": "Profile of the legendary Cuban salsa singer Celia Cruz, who lived and worked in New York.",
+          "medium": "Profile of the legendary Cuban salsa singer Celia Cruz, who moved to New York and rose to international fame with the Latin bands of Tito Puente and Johnny Pacheco."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b00qmxbr",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "65 mins",
+            "value": "PT1H5M"
+          },
+          "availability": {
+            "end": "2018-05-20T23:45:00Z",
+            "start": "2018-04-20T23:59:56Z",
+            "remaining": {
+              "text": "Available for 27 days"
+            }
+          }
+        }],
+        "parent_id": "b006pn88",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "related_links": [],
+        "original_title": "My Name Is Celia Cruz",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "lexical_sort_letter": "A",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b11zyn",
+        "live": false,
+        "type": "episode",
+        "title": "imagine...",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nl61.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007ght1",
+        "guidance": true,
+        "subtitle": "Winter 2017/18: 7. Habaneros: You Say You Want a Revolution? Part One",
+        "synopses": {
+          "large": "Raul Castro has recently stepped down as president of Cuba, almost 60 years after his brother Fidel and a small band of bearded cigar-smoking guerrillas entered the capital Havana and changed the lives of their people forever.\n\nUsing extraordinary and previously unseen archive footage, and shot over the past three years, Julien Temple's two-part film captures the mood of Havana and its people - the Habaneros - at a pivotal moment in time. They share their experience of life in this extraordinary city - the highs and lows, the exhilaration and the suffering. It's a rollercoaster ride from Spanish colony to republic to revolution to the precarious present. Fidel is dead, Obama's hand of friendship is withdrawn and as the US blockade continues to strangle the economy, Havana is literally falling apart.",
+          "small": "Film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment.",
+          "medium": "Two-part film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment in time. They share their experience of life in this extraordinary city.",
+          "editorial": "Julien Temple captures Havana and its people at a pivotal moment - after Castro."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b11zy0",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "63 mins",
+            "value": "PT1H3M"
+          },
+          "guidance": {
+            "id": "D1",
+            "text": {
+              "large": "Contains some scenes which some viewers may find upsetting.",
+              "small": "Has guidance",
+              "medium": "Contains some upsetting scenes."
+            }
+          },
+          "availability": {
+            "end": "2018-05-21T21:05:00Z",
+            "start": "2018-04-21T21:05:00Z",
+            "remaining": {
+              "text": "Available for 28 days"
+            }
+          },
+          "credits_start": 3746,
+          "first_broadcast": "9pm 21 Apr 2018"
+        }],
+        "parent_id": "b09th2v7",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "21 Apr 2018",
+        "related_links": [],
+        "original_title": "Habaneros: You Say You Want a Revolution? Part One",
+        "audio_described": false,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-21T00:00:00.000Z",
+        "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part One",
+        "lexical_sort_letter": "I",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b0g3qk",
+        "live": false,
+        "type": "episode",
+        "title": "imagine...",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nlrp.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007ght1",
+        "guidance": true,
+        "subtitle": "Winter 2017/18: 8. Habaneros: You Say You Want a Revolution? Part Two",
+        "synopses": {
+          "large": "Almost sixty years on, Castro's Cuban revolution continues to split world opinion as decisively as it did when that small band of bearded guerrillas first entered Havana.\n\nIn the second part of Julien Temple's film we hear from the citizens of this extraordinary city how these young revolutionaries put their dreams into practice. With access to remarkable archive footage, we see how they set about building a brave new socialist world on America's doorstep. Now with Obama gone, Trump in the White House, Fidel dead and his brother Raul stepping down from the presidency, Havana too is about to step into the unknown.",
+          "small": "How the young Cuban revolutionaries set about building a brave new socialist world.",
+          "medium": "The citizens of Cuba tell how the young revolutionaries of the 60s put their dreams into practice and set about building a brave new socialist world on America's doorstep."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b0g2c3",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "90 mins",
+            "value": "PT1H30M"
+          },
+          "guidance": {
+            "id": "D1L1",
+            "text": {
+              "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language and some upsetting scenes."
+            }
+          },
+          "availability": {
+            "end": "2018-05-22T21:30:00Z",
+            "start": "2018-04-22T21:30:00Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "9pm 22 Apr 2018"
+        }],
+        "parent_id": "b09th2v7",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "22 Apr 2018",
+        "related_links": [],
+        "original_title": "Habaneros: You Say You Want a Revolution? Part Two",
+        "audio_described": false,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-22T00:00:00.000Z",
+        "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part Two",
+        "lexical_sort_letter": "I",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0077dwt",
+        "live": false,
+        "type": "episode",
+        "title": "Arena",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xky2.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006pn88",
+        "guidance": false,
+        "subtitle": "Cigars - Out of the Humidor",
+        "synopses": {
+          "large": "Documentary which follows the story of the cigar - from the tobacco fields west of the Cuban capital of Havana into the factories where poetry and daily newspapers are read aloud to the workers, to Hollywood cigar bars and the gentlemen's haunts of St James's, London. With the worldwide cigar market growing, smoking cigars is perceived as glamorous and yet this is occurring at a time when it is nearly impossible to smoke a cigarette in any public place in the United States. Cigar clubs are opening up in America despite the fact that Cuban cigars are banned. The film looks at the rituals and traditions of cigar smoking, the history of cigars and famous cigar smokers from all walks of life. With Lord Grade, Kenneth Clarke, James Belushi, George Wendt and Peter Weller.",
+          "small": "Film following the story of the cigar from Cuban tobacco fields to Hollywood cigar bars.",
+          "medium": "Documentary following the story of the cigar, from the tobacco fields west of Havana to the Hollywood cigar bars and the gentlemen's haunts of St James's, London."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b1p9xd",
+          "kind": "editorial",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-23T02:20:00Z",
+            "start": "2018-04-22T22:55:16Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "25 Dec 1997"
+        }],
+        "parent_id": "b006pn88",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "25 Dec 1997",
+        "related_links": [],
+        "original_title": "Cigars - Out of the Humidor",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "release_date_time": "1997-12-25T00:00:00.000Z",
+        "lexical_sort_letter": "A",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "b09z8d01",
+    "live": false,
+    "type": "episode",
+    "title": "Bacchus Uncovered: Ancient God of Ecstasy",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0638x2h.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09z8d01",
+    "guidance": false,
+    "synopses": {
+      "large": "Professor Bettany Hughes investigates the story of Bacchus, god of wine, revelry, theatre and excess, travelling to Georgia, Jordan, Greece and Britain to discover his origins and his presence in the modern world, and explore how 'losing oneself' plays a vital role in the development of civilisation.\n\nIn this fascinating journey, Bettany begins in Georgia where she discovers evidence of the world's oldest wine production, and the role it may have played in building communities. In Athens she reveals Bacchus's pivotal role in a society where his ecstatic worship was embraced by all classes, and most importantly women. On Cyprus she uncovers startling parallels between Bacchus and Christ. Finally, Bettany follows the god's modern embrace in Nietzsche's philosophy, experimental theatre and the hedonistic hippie movement to conclude that, while this god of ecstasy is worthy of contemporary reconsideration, it is vital to heed the warning of the ancients - \"MEDEN AGAN\" - nothing in excess.",
+      "small": "Bettany Hughes explores the many incarnations of Bacchus - ancient god of wine.",
+      "medium": "Professor Bettany Hughes investigates the story of Bacchus, god of wine and revelry, travelling to Georgia, Jordan and Greece to discover his origins.",
+      "editorial": "Professor Bettany Hughes tells the story of the god of wine, revelry, theatre and excess."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09z8csx",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-11T21:00:00Z",
+          "start": "2018-04-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "credits_start": 3490,
+        "first_broadcast": "9pm 11 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p06412bj",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-11T21:00:00Z",
+          "start": "2018-04-11T21:41:16Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "11 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09zct3x",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-12T02:30:00Z",
+          "start": "2018-04-12T02:30:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "11 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "11 Apr 2018",
+    "related_links": [],
+    "original_title": "Bacchus Uncovered: Ancient God of Ecstasy",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-11T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b03ny8wk",
+    "live": false,
+    "type": "episode",
+    "title": "Apples, Pears and Paint: How to Make a Still Life Painting",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01nwq6b.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b03ny8wk",
+    "guidance": false,
+    "synopses": {
+      "large": "A richly detailed journey through the epic history of still-life painting, featuring a range of delights from the earliest existing Xenia mural paintings discovered at Pompeii to the cubist masterpieces of Picasso. \n\nAwash with rich imagery of fruit, flowers and humble domestic objects, this lively take on the story of still life encompasses the work of some of the genre's greatest artists from Caravaggio to Chardin and Cezanne. But it also captures the surprising contributions of the less well-known, including asparagus enthusiast Adriaen Coorte and female flower painter in the court of Louis XVI, Anne Vallayer-Coster.\n\nWith contributions from historians Bettany Hughes and Janina Ramirez, art historians Andrew Graham Dixon and Norman Bryson, and philosopher Alain de Botton amongst others, it opens up the huge social histories that lie behind the paintings and the fascinating lives of the people who made them.",
+      "small": "A look at the history of still-life painting, from Xenia murals to Picasso's cubism.",
+      "medium": "A look at the history of still-life painting, featuring a range of delights from the earliest existing Xenia mural paintings found at Pompeii to the cubist masterpieces of Picasso."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03ny8td",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "90 mins",
+        "value": "PT1H30M"
+      },
+      "availability": {
+        "end": "2018-05-18T02:30:00Z",
+        "start": "2018-04-18T02:30:00Z",
+        "remaining": {
+          "text": "Available for 24 days"
+        }
+      },
+      "credits_start": 5326,
+      "first_broadcast": "8:30pm 5 Jan 2014"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "5 Jan 2014",
+    "related_links": [],
+    "original_title": "Apples, Pears and Paint: How to Make a Still Life Painting",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-05T00:00:00.000Z",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b06t3mhm",
+    "live": false,
+    "type": "episode",
+    "title": "From Andy Pandy to Zebedee: The Golden Age of Children's Television",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03bmq91.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b06t3mhm",
+    "guidance": false,
+    "synopses": {
+      "small": "The story of the struggle to make programmes for children in the pre-digital days.",
+      "medium": "Nigel Planer narrates the story of the struggle to make programmes for children in the days before everything went digital."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b07453kq",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-14T23:35:00Z",
+        "start": "2018-04-14T23:35:00Z",
+        "remaining": {
+          "text": "Available for 21 days"
+        }
+      },
+      "first_broadcast": "21 Dec 2015"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "21 Dec 2015",
+    "related_links": [],
+    "original_title": "From Andy Pandy to Zebedee: The Golden Age of Children's Television",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2015-12-21T00:00:00.000Z",
+    "lexical_sort_letter": "F",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b05ywvtb",
+    "live": false,
+    "type": "episode",
+    "title": "How to Be Bohemian with Victoria Coren Mitchell",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02t9k29.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b05ywyx6",
+    "guidance": false,
+    "subtitle": "Episode 1",
+    "synopses": {
+      "large": "In the opening episode, Victoria traces the story of the first bohemians. She begins in post-revolutionary Paris, where poverty-stricken, garret-dwelling artists and writers gained a reputation for loose living, colourful clothing and wild, naked parties. They revelled in the absurd - for example, one legendarily took his pet lobster for walks in the park. Here the archetype of the bohemian was born, immortalised later in Puccini's opera La Boheme. But were they trailblazing creatives or irritating posers? And is living outrageously a necessary step towards producing great art?\n\nVictoria goes on to explore how bohemian subculture took root in Britain through the groundbreaking art, eccentricities and bad-boy behaviour of the Pre-Raphaelites. Dante Gabriel Rossetti cultivated his image as an oddball, keeping a menagerie including a much-loved wombat. He caused a scandal when he became obsessively entangled with Janey Morris, wife of his friend, the designer William Morris. Victoria learns how bohemianism evolved into the dandy pose of aesthetes such as playwright Oscar Wilde and artist Aubrey Beardsley, whose explicit drawings intrigued and shocked the public in equal measure. \n\nAnd she recounts how, most surprisingly, bohemian living found one of its greatest advocates in children's author Arthur Ransome who, long before Swallows and Amazons, wrote a whimsical traveller's guide to bohemian London. \n\nVictoria's historical journey is given added resonance through her probing, highly entertaining encounters with a range of illuminating modern bohemians, including Stephen Fry, artists Grayson Perry and Maggi Hambling, pop star-turned-vicar and broadcaster Richard Coles, writer Will Self and drag artist Jonny Woo.",
+      "small": "A look at early bohemian artists in post-revolutionary Paris, and the Pre-Raphaelites.",
+      "medium": "Victoria looks at the earliest bohemian artists in post-revolutionary Paris and explores how its subculture took root in Britain through the eccentricities of the Pre-Raphaelites."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b05ywvsy",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-09T00:30:00Z",
+          "start": "2018-04-09T00:30:00Z",
+          "remaining": {
+            "text": "Available for 15 days"
+          }
+        },
+        "credits_start": 3527,
+        "first_broadcast": "9pm 8 Jun 2015"
+      },
+      {
+        "hd": false,
+        "id": "p02t88gp",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-09T00:30:00Z",
+          "start": "2018-04-09T01:42:42Z",
+          "remaining": {
+            "text": "Available for 15 days"
+          }
+        },
+        "first_broadcast": "8 Jun 2015"
+      }
+    ],
+    "parent_id": "b05ywyx6",
+    "suppliers": [],
+    "tleo_type": "series",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "8 Jun 2015",
+    "related_links": [{
+      "id": "p02tcvhg",
+      "url": "http://www.bbc.co.uk/programmes/articles/3cXH5vJsCVQj7vM8TXzKl3m/quiz-what-kind-of-a-bohemian-are-you",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "How Bohemian are you?"
+    }],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2015-06-08T00:00:00.000Z",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05xxp5j",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05z098t.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p05z09mg.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "labels": {
+      "editorial": "Full Series",
+      "category": "History"
+    },
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_two",
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two",
+      "titles": {
+        "small": "BBC Two",
+        "medium": "BBC Two",
+        "large": "BBC Two"
+      }
+    },
+    "title": "Civilisations",
+    "synopses": {
+      "small": "Thousands of years of visual culture explored on the BBC and beyond.",
+      "medium": "Thousands of years of visual culture explored on the BBC and beyond."
+    },
+    "count": 9,
+    "initial_children": [{
+        "id": "p05xxsmp",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmrcn.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 1. Second Moment of Creation",
+        "synopses": {
+          "large": "The first film by Simon Schama looks at the formative role art and the creative imagination have played in the forging of humanity itself.\n\nThe film opens with Simon's passionate endorsement of the creative spirit in humanity and the way in which art can help to forge the civilised life. Civilisation may be impossible to define, but its opposite - evidenced throughout history in the human urge to destroy - is all too evident whenever and wherever it erupts. Simon Schama explores the remote origins of human creativity with the first known marks made some 80,000 years ago in South African caves - marks which were not dictated merely by humanity's physical needs. He marvels at the later cave works - shapes of hands, in red stencils on the walls of caves, and at the paintings of bison and bulls, and Stone Age carvings.\n\nAs time passes, the elements of civilisation are assembled - written language, codes of law, and expressions of warrior power forged in metals. And humanity begins to produce art not just for ritual, as Simon discovers in Minoan civilisation. But how do such cultures arise and how do they fall? Simon travels to the civilisations of Petra in the Middle East and the Maya in Central America to explore those questions. He finds that ultimately civilisations depend on humanity's relationship with the environment for their survival, and while all believe in their own continuity, all are doomed to fall.",
+          "small": "A look at the formative role art and imagination have played in the forging of humanity.",
+          "medium": "Simon Schama looks at the formative role art and the creative imagination have played in the forging of humanity itself.",
+          "editorial": "Simon Schama looks at the pivotal role art has played in the forging of humanity itself."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxtvp",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:40:00Z",
+              "start": "2018-03-01T22:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3510,
+            "first_broadcast": "9pm 1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p05ztsrz",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:40:00Z",
+              "start": "2018-03-02T00:41:41Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09w7gz4",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T02:20:00Z",
+              "start": "2018-03-17T02:20:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "Second Moment of Creation",
+        "audio_described": true,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "Box Set. The epic story of the art that makes us human",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxvh6",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmsh5.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 2. How Do We Look?",
+        "synopses": {
+          "large": "In this episode of Civilisations, Professor Mary Beard explores images of the human body in ancient art, from Mexico and Greece to Egypt and China. Mary seeks answers to fundamental questions at the heart of ideas about civilisations. Why have human beings always made art about themselves? What were these images for? And in what ways do some ancient conventions of representing the body still affect us now? In raising these questions, Mary explores how the way we look can influence our ideas of what is civilised.\n\nThe colossal prehistoric Olmec heads in Mexico set the scene. In a culture with no written record, all we can do is puzzle about what these images were for, whom they represented, and why they were constructed. Mary Beard moves to other ancient cultures where more evidence has survived. She looks at images that are far more than art objects - images from Egyptian statues to the terracotta warriors of ancient China that actively participate in the social world, that teach men and women how to behave, that assert power and assuage loss. Mary explores what makes a 'realistic' image of the human form. She looks at the 'Greek Revolution', the extraordinary process in the sixth and fifth centuries BCE, which saw the sculpture of the human body dramatically change from a series of static formulaic images to what we now take as living naturalism. Mary shows that Greek ideas of the human form influence the way we look to this day.",
+          "small": "Professor Mary Beard explores images of the human body in ancient art.",
+          "medium": "Mary Beard explores images of the human body in ancient art, from Mexico and Greece to Egypt and China.",
+          "editorial": "Professor Mary Beard explores why how we look influences our ideas of what is civilised."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxvkg",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T03:25:00Z",
+              "start": "2018-03-14T17:33:15Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3483,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p060k8hh",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T03:25:00Z",
+              "start": "2018-03-14T19:33:28Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09x00s0",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T03:00:00Z",
+              "start": "2018-03-24T03:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "How Do We Look?",
+        "audio_described": true,
+        "parent_position": 2,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "2/9 How Do We Look? Our obsession with art about ourselves",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxwh5",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05znrhx.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 3. Picturing Paradise",
+        "synopses": {
+          "large": "Simon Schama explores one of our deepest artistic urges - the depiction of nature. Simon discovers that landscape painting is seldom a straightforward description of observed nature - rather it is a projection of dreams and idylls, as well as of escapes and refuges from human turmoil, the elusive paradise on earth.\n\nSimon begins in the 10th century, in Song dynasty China. The Song's scrolls are never innocent of the values of that world - the landscapes depict immense mountains projecting imperial authority. But as that authority was threatened and overwhelmed, majestic mountains are represented in geological turmoil, writhing and heaving. Imagined paradises in Islamic and western art are often responses to loss and absence. But paradise could be recovered in the country villas of the Renaissance.\n\nSimon goes to the beautiful Palladian house of Daniele Barbaro in the Veneto, with murals painted by Paolo Veronese to contemplate the world of the cultivated country gentleman. It was in the cooler climate of northern Europe that landscape came into its own as a distinctive type of art. Simon explores the works of the northern Renaissance in Germany and the Netherlands, where emerging states sought expression of identity through depiction of their natural worlds. Simon ends in America, where the landscapes of America are as expansive as the landscapes of Holland were confined, but there too, in the numinous photography of Ansel Adams, a kind of earthly paradise is revealed and a sense of nationhood is expressed in the natural world.",
+          "small": "Simon Schama explores one of our deepest artistic urges - the depiction of nature.",
+          "medium": "Simon Schama explores the depiction of nature. Simon discovers that landscape painting is seldom a straightforward description of observed nature.",
+          "editorial": "Simon Schama discovers that landscape painting is a projection of our dreams and idylls."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxwjs",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:15:00Z",
+              "start": "2018-03-16T15:53:55Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3510,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06199cy",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:15:00Z",
+              "start": "2018-03-16T23:14:12Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09xt477",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:25:00Z",
+              "start": "2018-03-31T01:25:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "Picturing Paradise",
+        "audio_described": true,
+        "parent_position": 3,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "3/9 Picturing Paradise. One of our deepest artistic urges",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxvq3",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt3s.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 4. The Eye of Faith",
+        "synopses": {
+          "large": "Professor Mary Beard broaches the controversial, sometimes dangerous, topic of religion and art. For millennia, art has inspired religion as much as religion has inspired art. Yet there are fundamental problems, which all religions share, in making the divine visible in the human world. How, and at what cost, do you make the unseen seen? Beneath all works of religious art there always lies conflict and risk. The result is often iconoclasm - the destruction of works of art - which Mary believes can lead on to new forms of creativity.\n\nMary visits sacred sites across the world to examine the contested boundaries between religion and art. She goes to the temple of Angkor Wat, the Tintoretto Crucifixion in Venice, the Buddhist caves of Ajanta and the Blue Mosque in Istanbul, as she seeks to break down the conventions that centre some religions around images, while others are seen as hostile to artistic representation. She shows how all faiths (and their artists) face the same fundamental problems of treading a careful line between glorifying gods in images and blaspheming by daring to represent the divine.\n\nShe ends at the Parthenon in Athens, a building that has been in turn a pagan temple, a Christian church and a mosque. Now, as a monument to Western civilisation itself and a tourist pilgrimage site, she asks us to wonder what we now worship - how far we look at civilisation itself with 'the eye of faith'.",
+          "small": "Professor Mary Beard broaches the controversial topic of religion and art.",
+          "medium": "Professor Mary Beard explores the controversial topic of religion and art. How, and at what cost, do different religions make the unseen visible?",
+          "editorial": "Professor Mary Beard traces the sometimes dangerous combination of religion and art."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxvxr",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:30:00Z",
+              "start": "2018-03-23T09:46:50Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3507,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06211lk",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:30:00Z",
+              "start": "2018-03-23T10:25:45Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09ym78l",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:45:00Z",
+              "start": "2018-04-07T01:45:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Eye of Faith",
+        "audio_described": true,
+        "parent_position": 4,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "4/9 The Eye of Faith. How do you portray the unseen?",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxx6p",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt3x.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 5. The Triumph of Art",
+        "synopses": {
+          "large": "Think Renaissance and you think of Italy. But in the 15th and 16th centuries, the great Islamic empires experienced their own extraordinary cultural flowering. The two phenomena did not unfold in separate artistic universes - they were acutely conscious of, and in competition with, each other and mutually open to influences flowing both ways. The fifth film in Civilisations goes east and west with Simon Schama - to Papal Rome, but also to Ottoman Istanbul and Mughal Lahore and Agra, exploring those connections and rivalries, and examining how the role of artists from the different traditions of west and east developed in the years that followed the Renaissances.\n\nThat rivalry unfolds most spectacularly over the creation of domes - in Ottoman Istanbul the great engineer-architect Mimar Sinan builds the light-flooded Suleymaniye Mosque, while at the same time in Rome, Michelangelo designed the great dome over the St Peter's Basilica. The fate of the hero-artist, seemingly touched by God, with the gift of making visual miracles, henceforth diverged in the east and west. In Europe, as the century turned, artists such as Benvenuto Cellini, with his sculpture of Perseus with the Head of Medusa, could lay claim to sovereignty over the world of art. The greatest European artists like Caravaggio, Velasquez and Rembrandt shook off decorum and turned muscular, earthy and theatrical. Meanwhile in the east, Mughal art, still capable of acts of breathtaking architectural and painterly beauty, as expressed in mausoleums like the I'timad-ud-Daulah and gorgeous miniature paintings, became ever more refined, poetic and exquisite.",
+          "small": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+          "medium": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+          "editorial": "Simon Schama examines how the role of artists developed following the Renaissances."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxx9c",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T00:15:00Z",
+              "start": "2018-04-03T08:32:13Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3509,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p062s7kp",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T00:15:00Z",
+              "start": "2018-04-03T08:50:47Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09zbrs5",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T00:30:00Z",
+              "start": "2018-04-14T00:30:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Triumph of Art",
+        "audio_described": true,
+        "parent_position": 5,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "5/9 The Triumph of Art. An extraordinary cultural flowering",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xyfg6",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt4h.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 6. First Contact",
+        "synopses": {
+          "large": "In the 15th and 16th centuries distant and disparate cultures met, often for the first time. These encounters provoked wonder, awe, bafflement and fear. And, as historian of empire David Olusoga shows, art was always on the frontline. Each cultural contact at this time left a mark on both sides: the magnificent Benin bronzes record the meeting of an ancient West African kingdom and Portuguese voyagers in a spirit of mutual respect and exchange. By contrast we think Spain's conquest of Central America in the 16th century as decimating the Aztecs and eviscerating their culture. But David shows even in Mexico rare surviving Aztec artworks recall a more nuanced story. He travels to Japan to explore how the Tokugawa Shogunate, after an initial embrace, became so wary of outside interference that they sought to cut ties with the outside world. But in their art, as in their trade, they could never truly isolate themselves from foreign influences. By contrast the Protestant Dutch Republic was itself an entirely new kind of creature: a market driven nation-state. It was a system that created new freedoms and opportunities as embodied in the world-infused art of Johannes Vermeer, or the watercolours of the naturalist and illustrator Maria Sibylla Merian. David ends with the transitional story of the British in India: at first the British were as open to foreign influence as the Dutch. But by the 1800s they became more aggressive and the era of encounters gave way to the era of muscular empire, that was dismissive of India's arts and cultures.",
+          "small": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+          "medium": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+          "editorial": "David Olusoga shows how art has always been influenced by many disparate cultures."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xyfhd",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T01:30:00Z",
+              "start": "2018-04-06T08:32:42Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3508,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p063fzkl",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T01:30:00Z",
+              "start": "2018-04-06T08:48:26Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b0b05y9w",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:05:00Z",
+              "start": "2018-04-21T01:05:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "First Contact",
+        "audio_described": true,
+        "parent_position": 6,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "6/9 First Contact. How art was key when distant cultures met",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xyg7k",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmtr6.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": true,
+        "subtitle": "Series 1: 7. Radiance",
+        "synopses": {
+          "large": "Simon Schama starts his meditation on colour and civilisation with the great Gothic cathedrals of Amiens and Chartres. He then moves to 16th-century Venice, where masterpieces such as Giovanni Bellini's San Zaccaria altarpiece and Titian's Bacchus and Ariadne contested the assumption that drawing would always be superior to colouring. As the Baroque took hold in enlightenment Europe another Venetian, Giambattista Tiepolo, created a ceiling fresco Apollo and the Four Continents at the Bishop's palace in WÃ¼rzburg.\n\nIn a glorious sequence Simon celebrates this grand opera of light, colour, and dancing line: a dizzying lift-off into 18th-century elation. But if light could open the gates of ecstasy it could also drop art into the abyss. Francisco Goya began by working in the Venetian tradition but in the last years of his life his Black Paintings drained colour from the world of light. The art of colour discovered a new mission which somehow sustained the old: how to make life in cities bearable, even beautiful. Simon travels to Japan to where in the 18th and 19th century an urban explosion generated a demand for cheap, mass produced woodblock prints suffused with dazzling colour. These prints by artists such as Hokusai were hugely influential on the impressionists and postimpressionists. Simon ends the film in Matisse's great chapel at Vence, where colour is used - against a backdrop of the Second World War - once more to enrapture, enlighten and as a path to God.",
+          "small": "Simon Schama starts his meditation on colour and civilisation in Amiens and Chartres.",
+          "medium": "Simon Schama starts his meditation on colour and civilisation with the great Gothic cathedrals of Amiens and Chartres. He then moves to 16th-century Venice.",
+          "editorial": "Simon Schama travels from Amiens and Chartres to Japan to explore dazzling colour."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09tdqgp",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "guidance": {
+              "id": "S1",
+              "text": {
+                "large": "Contains some scenes of a sexual nature.",
+                "small": "Has guidance",
+                "medium": "Contains some sexual content."
+              }
+            },
+            "availability": {
+              "end": "2019-09-04T01:25:00Z",
+              "start": "2018-04-12T21:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06472sb",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "guidance": {
+              "id": "S1",
+              "text": {
+                "large": "Contains some scenes of a sexual nature.",
+                "small": "Has guidance",
+                "medium": "Contains some sexual content."
+              }
+            },
+            "availability": {
+              "end": "2019-09-04T01:25:00Z",
+              "start": "2018-04-13T14:46:47Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "next_broadcast": {
+          "channel_title": "BBC Two",
+          "scheduled_start": "2018-04-28T01:55:00.000Z"
+        },
+        "original_title": "Radiance",
+        "audio_described": true,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "7/9 Radiance. A meditation on colour and civilisation",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xygy9",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmtr8.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 8. The Cult of Progress",
+        "synopses": {
+          "large": "If David Olusoga's first film in Civilisations is about the art that followed and reflected early encounters between different cultures, his second explores the artistic reaction to imperialism in the 19th century. David shows the growing ambivalence with which artists reacted to the idea of progress, both intellectual and scientific, that underpinned the imperial mission and followed the Enlightenment and the Industrial Revolution.\n\nAdvances in knowledge and technology imbued Europeans in the 19th century with a sense of their civilisation's superiority. It justified their imperial ideology. But it created among artists deep fascinations with other civilisations which in turn produced a scepticism about their own. By contrast, as European artists questioned their civilisation's 'advance', in America painters sought to capture an idea of their new nation's 'manifest destiny' in landscapes. And in their representation of the Native Americans, they sought to record for posterity the world and the cultures they were violently displacing. But this was not always the case. David show how in New Zealand one artist was co-opted by the Maori who used his sills to record their culture and celebrate their ancestors. As the 19th century came to an end, the certainties of industrial and scientific advance were increasingly questioned - many artists (Gauguin and Picasso amongst them) turned to non-Western art and culture for inspiration. And in the face of the catastrophic conflict of the First World War, the idea that progress, reason and industrial advance were guarantors of higher 'civilisation' was rejected. David ends the film with a powerful meditation on Otto Dix's nightmarish and ironic evocation of the horror of the trenches, the triptych Der Krieg (The War).",
+          "small": "David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+          "medium": "Documentary. David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+          "editorial": "David Olusoga explores how so many artists turned to non-Western culture for inspiration."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xyh3v",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:55:00Z",
+              "start": "2018-04-20T14:21:44Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3506,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064vbv8",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:55:00Z",
+              "start": "2018-04-20T14:22:34Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Cult of Progress",
+        "audio_described": true,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "8/9 The Cult of Progress. A reaction to imperialism",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "b09xzsmc",
+    "live": false,
+    "type": "episode",
+    "title": "MAKE! Craft Britain",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062h9vj.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09wh9wj",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 3",
+    "synopses": {
+      "large": "Two new sets of students are introduced to the art of mosaic making and perennial favourite, knitting. Meanwhile, origami artist Sam Tsang is on hand to teach how to make a family of paper penguins.\n\nTo inspire our budding mosaic makers, their workshop takes place in a very special village hall in Ford Village, Northumberland. Lady Waterford Hall was once the village school and is decorated with exquisite biblical murals painted by Lady Louisa herself over 21 years after the death of her husband in 1860. She is now regarded as one of the most gifted painters of the pre-Raphaelite era.\n\nPicking up Lady Waterford's mantle is Tamara Froud, renowned mosaicist whose works can be seen in public spaces all over the country, and she welcomes eight students to the beautiful space for her two-day workshop.\n\nThe students are here to make plaques for the outside walls of their homes. First, they have to master the tools of the trade, and protective glasses are in order as tiles fly and crockery shatters. But soon a more peaceful air descends as Alison recreates the horns of her new prize ram in terracotta tiles, Paul rebuilds Hadrian's Wall against the backdrop of the Northumbrian flag and Cheryl pays homage to a Lowry painting which features the front steps of her new home.\n\nIn London, an altogether different workshop is taking place as six students are charged with knitting their very own bobble hat in a single day. Three are complete novices, while three have some experience of knitting but have been put off along the way. Teachers Jen and Jenny are on hand to make it all look simple.\n\nFirst to finish is Kirsty with her magnificent stripy pom-pom hat, but Luke the undertaker struggles and mid-afternoon his hat goes into 'special measures'. This makes his pride on finishing all the more heartfelt, along with the two other men in the group, neither of whom had ever picked up a pair of knitting needles in their lives.",
+      "small": "The students learn mosaic making and knitting.",
+      "medium": "Two new sets of students are introduced to the art of mosaic making and knitting. Meanwhile, origami artist Sam Tsang teaches us all how to make a family of paper penguins.",
+      "editorial": "Six students aim to knit a bobble hat – and some have never picked up a pair of needles."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09xzsd3",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-04T21:00:00Z",
+        "start": "2018-04-04T21:00:00Z",
+        "remaining": {
+          "text": "Available for 11 days"
+        }
+      },
+      "credits_start": 3507,
+      "first_broadcast": "9pm 4 Apr 2018"
+    }],
+    "parent_id": "b09whbxj",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "4 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-04T00:00:00.000Z",
+    "editorial_subtitle": "3/3 Inspiring students in the timeless art of mosaic making",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b075dwrd",
+    "live": false,
+    "type": "episode",
+    "title": "The Brontes at the BBC",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03n5mnz.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b075dwrd",
+    "guidance": false,
+    "synopses": {
+      "large": "An exploration of the BBC's long love affair with the lives and works of the Bronte sisters - Charlotte, Emily and Anne. For over half a century, the ill-fated literary dynasty has proved irresistible to drama and documentary makers alike, keen to reinvent their novels for new audiences. So we get Bronte heroines reimagined for each emerging generation, first as classic 1950s housewife material, then wild child '60s 'chicks', Gothic waifs and, finally, empowered modern women. The Bronte males, meanwhile, are restyled as assorted prigs, wife-beaters, even brooding prog rockers and, of course, wouldn't you know it, new men. Wonderful stuff.",
+      "small": "Exploration of the BBC's long love affair with the lives and works of the Bronte sisters.",
+      "medium": "An exploration of the BBC's love affair with the lives and works of the Bronte sisters - Charlotte, Emily and Anne - which has proved irresistible to drama and documentary makers."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b075dwjn",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-13T02:20:00Z",
+        "start": "2018-04-13T02:20:00Z",
+        "remaining": {
+          "text": "Available for 19 days"
+        }
+      },
+      "credits_start": 3514,
+      "first_broadcast": "8pm 27 Mar 2016"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "27 Mar 2016",
+    "related_links": [],
+    "original_title": "The Brontes at the BBC",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2016-03-27T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yj7dz",
+    "live": false,
+    "type": "episode",
+    "title": "Hamlet",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0623lqm.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09yj7dz",
+    "guidance": false,
+    "synopses": {
+      "large": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of William Shakespeare's great play, recorded as-live in its West End transfer on the stage of London's Harold Pinter Theatre.\n\nRobert Icke's innovative modern-dress production, featuring Andrew Scott, Juliet Stevenson, Angus Wright and Jessica Brown Findlay, has been widely acclaimed as a dazzlingly intelligent, forcefully contemporary staging. The Evening Standard hailed Andrew Scott's 'career-defining performance... he makes the most famous speeches feel fresh and unpredictable.'\n\nThe recording features the original cast, and is directed for the screen by Rhodri Huw, working in close collaboration with Robert Icke. Hamlet has design by Hildegard Bechtler, with lighting by Natasha Chivers, sound by Tom Gibbons, and video design by Tal Yarden. The stage production has been nominated for Best Revival, Andrew Scott as Best Actor and Tom Gibbons has been nominated for Best Sound Design in the forthcoming Olivier Awards. The production recently won Best Stage Revival in the WhatsOnStage Awards, and Juliet Stevenson won Best Supporting Actress in a Play whilst Andrew Scott won the Critics' Circle Theatre Award for Best Shakespearean Performance. Hamlet is is an Illuminations/Almeida Theatre production presented by BBC, The Almeida Theatre, The Ambassador Theatre Group, Sonia Friedman Productions.",
+      "small": "Almeida Theatre's 2017 production of Shakespeare's play, recorded as-live in the West End.",
+      "medium": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of Shakespeare's great play, recorded as-live in the West End.",
+      "editorial": "The Almeida Theatre’s dazzling modern-dress production, recorded on the West End stage."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09zcxn9",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "191 mins",
+        "value": "PT3H11M"
+      },
+      "availability": {
+        "end": "2018-04-30T23:15:00Z",
+        "start": "2018-03-31T23:15:00Z",
+        "remaining": {
+          "text": "Available for 7 days"
+        }
+      },
+      "credits_start": 11427,
+      "first_broadcast": "31 Mar 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "31 Mar 2018",
+    "related_links": [],
+    "original_title": "Hamlet",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-31T00:00:00.000Z",
+    "editorial_subtitle": "Andrew Scott stars in an innovative, acclaimed production",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b06mvp",
+    "live": false,
+    "type": "episode",
+    "title": "The Film Review",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02kh4jx.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Arts"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b01rk5j5",
+    "guidance": false,
+    "subtitle": "Every Day, Let the Sunshine In, The Guernsey Literary and Potato Peel Pie Society",
+    "synopses": {
+      "small": "With Every Day, Let the Sunshine In and The Guernsey Literary and Potato Peel Pie Society.",
+      "medium": "Mark Kermode joins Jane Hill to talk about the week's cinema and DVD releases, including Every Day, Let the Sunshine In and The Guernsey Literary and Potato Peel Pie Society."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b06mvc",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "15 mins",
+        "value": "PT15M"
+      },
+      "availability": {
+        "end": "2018-05-22T11:00:00Z",
+        "start": "2018-04-20T20:42:29Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "first_broadcast": "8:45pm 20 Apr 2018"
+    }],
+    "parent_id": "b01rk5j5",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_news24",
+      "titles": {
+        "large": "BBC News Channel",
+        "small": "BBC News",
+        "medium": "BBC News"
+      },
+      "ident_id": "p00pvbhm",
+      "attribution": "bbc_news24"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Every Day, Let the Sunshine In, The Guernsey Literary and Potato Peel Pie Society",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "lexical_sort_letter": "F",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p063yjjq",
+    "type": "group_large",
+    "group_type": "curated",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0648xls.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p0648xmr.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc",
+      "attribution": "bbc",
+      "titles": {
+        "small": "BBC",
+        "medium": "BBC",
+        "large": "BBC"
+      }
+    },
+    "title": "Francesco's Italy",
+    "synopses": {
+      "small": "Francesco da Mosto travels the length and breadth of Italy."
+    },
+    "count": 3,
+    "initial_children": [{
+        "id": "b007920b",
+        "live": false,
+        "type": "episode",
+        "title": "Francesco's Italy: Top to Toe",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l78n0.jpg",
+          "inherited_from": "series"
+        },
+        "labels": {
+          "category": "Food"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0073m2f",
+        "guidance": false,
+        "subtitle": "3. The Heart of Italy",
+        "synopses": {
+          "large": "Francesco da Mosto discovers why Rome is the Eternal City and goes head to head with Mussolini. Travelling via the fantastic water gardens of Villa d'Este and the royal seat of the Bourbon dynasty, he arrives in Naples. After an encounter with Italy's most astonishing sculpture - Sanmartino's Veiled Christ - and a lesson in Neapolitan pizza making, Francesco descends deep into the caverns of underground Naples and discovers an eerie cult of the dead.",
+          "small": "Francesco discovers why Rome is the Eternal City and goes head to head with Mussolini.",
+          "medium": "Francesco da Mosto travels the length and breadth of Italy. He discovers why Rome is the Eternal City and goes head to head with Mussolini, then on to Naples."
+        },
+        "versions": [{
+            "hd": false,
+            "id": "b006ddmz",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-18T00:00:00Z",
+              "start": "2018-04-18T00:00:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "first_broadcast": "25 Jun 2006"
+          },
+          {
+            "hd": false,
+            "id": "p00k43p1",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-18T00:00:00Z",
+              "start": "2018-04-18T00:43:22Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "first_broadcast": "25 Jun 2006"
+          }
+        ],
+        "parent_id": "b0073m2f",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "audio-described",
+          "food",
+          "lifestyle"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "25 Jun 2006",
+        "related_links": [],
+        "original_title": "The Heart of Italy",
+        "audio_described": true,
+        "parent_position": 3,
+        "requires_sign_in": true,
+        "release_date_time": "2006-06-25T00:00:00.000Z",
+        "lexical_sort_letter": "F",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00791y3",
+        "live": false,
+        "type": "episode",
+        "title": "Francesco's Italy: Top to Toe",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l78n0.jpg",
+          "inherited_from": "series"
+        },
+        "labels": {
+          "category": "Food"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0073m2f",
+        "guidance": false,
+        "subtitle": "2. A British Love Affair",
+        "synopses": {
+          "large": "Francesco da Mosto enters Tuscany and Umbria to look at the long love affair that Britain has had with the area. He learns how to be the perfect courtier in Urbino, goes grape harvesting in Chianti, discovers the romantic inspiration at the heart of Puccini's operas, travels to Assisi to find out why he was named after St Francis and takes Dame Maggie Smith on a sightseeing tour of Florence.",
+          "small": "Francesco learns how to be a courtier in Urbino and goes grape harvesting in Chianti.",
+          "medium": "While visiting Tuscany and Umbria, Francesco da Mosto learns how to be the perfect courtier in Urbino and goes grape harvesting in Chianti."
+        },
+        "versions": [{
+            "hd": false,
+            "id": "b006d2pt",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-11T00:00:00Z",
+              "start": "2018-04-11T00:00:00Z",
+              "remaining": {
+                "text": "Available for 17 days"
+              }
+            },
+            "first_broadcast": "18 Jun 2006"
+          },
+          {
+            "hd": false,
+            "id": "p00k014l",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-11T00:00:00Z",
+              "start": "2018-04-11T00:42:11Z",
+              "remaining": {
+                "text": "Available for 17 days"
+              }
+            },
+            "first_broadcast": "18 Jun 2006"
+          }
+        ],
+        "parent_id": "b0073m2f",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "audio-described",
+          "food",
+          "lifestyle"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "18 Jun 2006",
+        "related_links": [],
+        "original_title": "A British Love Affair",
+        "audio_described": true,
+        "parent_position": 2,
+        "requires_sign_in": true,
+        "release_date_time": "2006-06-18T00:00:00.000Z",
+        "lexical_sort_letter": "F",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00791vw",
+        "live": false,
+        "type": "episode",
+        "title": "Francesco's Italy: Top to Toe",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l78n0.jpg",
+          "inherited_from": "series"
+        },
+        "labels": {
+          "category": "Food"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0073m2f",
+        "guidance": false,
+        "subtitle": "1. The Romantic North",
+        "synopses": {
+          "large": "Francesco da Mosto gets romantic in Juliet's home town of Verona, witnesses the birth of western art, has a fashion makeover from Giorgio Armani, is invited into a closed convent to see the tomb of the most notorious woman in European history, and goes deep-sea diving in pursuit of a childhood dream.",
+          "small": "Francesco da Mosto gets romantic in Juliet's home town of Verona.",
+          "medium": "Francesco da Mosto travels the length and breadth of Italy. He gets romantic in Verona, witnesses the birth of western art and has a makeover from Giorgio Armani."
+        },
+        "versions": [{
+            "hd": false,
+            "id": "b006d0qr",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-04T00:35:00Z",
+              "start": "2018-04-04T00:35:00Z",
+              "remaining": {
+                "text": "Available for 10 days"
+              }
+            },
+            "first_broadcast": "11 Jun 2006"
+          },
+          {
+            "hd": false,
+            "id": "p053q1mt",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2018-05-04T00:35:00Z",
+              "start": "2018-04-04T02:23:54Z",
+              "remaining": {
+                "text": "Available for 10 days"
+              }
+            },
+            "first_broadcast": "11 Jun 2006"
+          }
+        ],
+        "parent_id": "b0073m2f",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "audio-described",
+          "food",
+          "lifestyle"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "11 Jun 2006",
+        "related_links": [],
+        "original_title": "The Romantic North",
+        "audio_described": true,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2006-06-11T00:00:00.000Z",
+        "lexical_sort_letter": "F",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "b09xvsmj",
+    "live": false,
+    "type": "episode",
+    "title": "Painting the Holy Land",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06246z0.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09y33cq",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "In a vibrant two-part special for Holy Week, artist Lachlan Goudie packs his easel to undertake a trip of a lifetime. Part travelogue, part spiritual quest, part artistic exploration, this series transports the viewer visually and emotionally as Lachlan challenges himself to capture the look and feel of the Holy Land and the Bible story.\n\nIn the first episode, Lachlan follows Jesus's last days on earth, travelling from the north of what is now Israel to Jerusalem. It's a pilgrimage that millions undertake and a story of love and suffering that has inspired some of the world's most remarkable masterpieces.\n\nFrom an early age, Lachlan was gripped by a vivid sense of the Holy Land, and especially the Easter story gleaned from the images in his illustrated children's Bible. As he grew up, those images were supplanted by others - the great masterpieces of Leonardo and Raphael, among others. Above all, Lachlan absorbed the Bible story through the many powerful paintings of the crucifixion by his own father, the artist Alexander Goudie. All these artists had one thing in common: they had never been to the Holy Land.\n\nLachlan has always wondered what it might be like to visit and paint the actual sites where the Bible stories took place. In this film, Lachlan explores the Holy Land for himself, sketching and painting the people and landscapes he sees there - looking afresh at its sacred sites and bustling streets, through the eyes of an artist. Exploring and sketching the key sites of Christianity that marked the end of Jesus's earthly life, will the experience of working and travelling in the Holy Land make him think about his own relationship with the Bible story?\n\nAlong the way, in a series of surprising encounters, Lachlan meets locals who have their own take on daily life in the Holy Land. This is personal odyssey for Lachlan, exploring the places his father painted but never saw, rooted in the past but brimming with life in the present day.",
+      "small": "Artist Lachlan Goudie sketches and paints the people and landscapes of the Holy Land.",
+      "medium": "In a two-part special for Holy Week, artist Lachlan Goudie goes on a trip of a lifetime to the Holy Land, sketching and painting the people and landscapes he sees there.",
+      "editorial": "Lachlan Goudie looks afresh at the Holy Land’s sacred sites through eyes of an artist."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09xvsmg",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-01T20:00:00Z",
+          "start": "2018-03-30T09:00:00Z",
+          "remaining": {
+            "text": "Available for 8 days"
+          }
+        },
+        "first_broadcast": "9am 30 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062tm74",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-01T20:00:00Z",
+          "start": "2018-03-30T10:36:04Z",
+          "remaining": {
+            "text": "Available for 8 days"
+          }
+        },
+        "first_broadcast": "30 Mar 2018"
+      }
+    ],
+    "parent_id": "b09y32qw",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "30 Mar 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-30T00:00:00.000Z",
+    "editorial_subtitle": "1/2 A personal perspective on the Bible",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0376h9w",
+    "live": false,
+    "type": "episode",
+    "title": "Secret Knowledge",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01np2m3.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b01rfzgy",
+    "guidance": false,
+    "subtitle": "Stradivarius and Me",
+    "synopses": {
+      "large": "The name of 17th-century violin maker Antonio Stradivari - or Stradivarius as he is usually known - is one that sends shivers down the spine of music lovers the world over. During his lifetime Stradivari made over 1,000 instruments, about 650 of which still survive. Their sound is legendary and for any violinist the opportunity to play one is a great privilege. \n\nClemency Burton-Hill indulges in her lifelong passion for the instrument as she explores the mysterious life and lasting influence of Stradivari - through four special violins on display at this summer's Stradivarius exhibition at the Ashmolean Museum in Oxford. She is joined by 2002 Young Musician of the Year winner Jennifer Pike to put some of the violins in the exhibition through their paces.",
+      "small": "Clemency Burton-Hill explores the life and influence of violin maker Antonio Stradivari.",
+      "medium": "Clemency Burton-Hill indulges in her lifelong passion for the violin as she explores the mysterious life and lasting influence of legendary violin maker Antonio Stradivari."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0376gst",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT30M"
+      },
+      "availability": {
+        "end": "2018-05-11T01:35:00Z",
+        "start": "2018-04-11T01:35:00Z",
+        "remaining": {
+          "text": "Available for 17 days"
+        }
+      },
+      "first_broadcast": "8pm 15 Jul 2013"
+    }],
+    "parent_id": "b01rfzgy",
+    "suppliers": [],
+    "tleo_type": "series",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries-history",
+      "documentaries",
+      "history"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "15 Jul 2013",
+    "related_links": [],
+    "original_title": "Stradivarius and Me",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2013-07-15T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]

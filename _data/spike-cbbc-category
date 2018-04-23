@@ -1,0 +1,3057 @@
+[
+{
+"id": "b0b01vsf",
+"live": false,
+"type": "episode",
+"title": "Joe All Alone",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zynw.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zj5tj",
+"guidance": false,
+"subtitle": "Series 1: 2. The Girl Next Door",
+"synopses": {
+"large": "Joe fantasises about what he could do with the £20,000 he's found, but knows in his heart that the money means trouble and he quickly puts it back where he found it.\n\nJoe attempts to cut his hair like the pictures in Asha's magazine. The results are shocking - just as well he's not supposed to go out. However, when Joe's electric runs out he's forced to leave the house to top up the card and dons a hat to hide the bad hair.\n\nAsha persuades Joe to go on a bus ride around London with her and Otis. For the first time in ages, Joe feels free. They have a fun day out and Joe decides it's time to tell Asha the truth - that his mum has been away all week but she's coming home soon.  \n\nBut when that day arrives, Joe's mum doesn't come home, and Joe starts to worry about her safety.",
+"small": "Asha persuades Joe to go on a bus ride around London with her and Otis.",
+"medium": "Drama series. Asha persuades Joe to go on a bus ride around London with her and Otis. For the first time in ages, Joe feels free."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b01vrw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T20:00:00Z",
+"start": "2018-04-16T16:30:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 1625,
+"first_broadcast": "5pm 16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064h6tx",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T20:00:00Z",
+"start": "2018-04-16T16:54:37Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09zj68f",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "The Girl Next Door",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0b730",
+"live": false,
+"type": "episode",
+"title": "Jamie Johnson",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06403nj.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08lvm1b",
+"guidance": false,
+"subtitle": "Series 3: 3. The Scorpion",
+"synopses": {
+"large": "Boggy decides it's time for him to move on from just being the team mascot and sets out as chief scout for Jack's new team, Phoenix FC. First mission: find a new goalie so Jack can play outfield. But when it becomes clear his chosen candidate has behaviour issues, Hansard needs some convincing.",
+"small": "Boggy decides it's time for him to move on from just being the team mascot.",
+"medium": "Drama series. Boggy decides it's time for him to move on from just being the team mascot and sets out as chief scout for Jack's new team."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b70m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "31 mins",
+"value": "PT31M"
+},
+"availability": {
+"end": "2018-05-19T20:00:00Z",
+"start": "2018-04-19T16:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 1678,
+"first_broadcast": "5pm 19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064tg22",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "31 mins",
+"value": "PT31M"
+},
+"availability": {
+"end": "2018-05-19T20:00:00Z",
+"start": "2018-04-19T17:12:44Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09ysdq6",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-26T15:30:00.000Z"
+},
+"original_title": "The Scorpion",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09pyyzw",
+"live": false,
+"type": "episode",
+"title": "4 O'Clock Club",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05vy1ws.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "CBBC",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01psl8r",
+"guidance": false,
+"subtitle": "Series 7: 1. Boxes",
+"synopses": {
+"large": "Polly is singing a solo with the school choir live on radio. Unfortunately the newest member of the choir is Nero - and he has other plans.",
+"small": "Polly is singing live on radio. But Nero's in the choir too - and he has his own plans.",
+"medium": "Comedy series. Polly is singing a solo with the school choir live on radio. Unfortunately the newest member of the choir is Nero - and he has other plans."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09pyy5y",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-23T20:30:00Z",
+"start": "2018-02-24T14:05:00Z",
+"remaining": {
+"text": "Expires tonight 9:30pm"
+}
+},
+"credits_start": 1693,
+"first_broadcast": "5pm 24 Jan 2018"
+}
+],
+"parent_id": "b09pyy5w",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"cbbc"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "24 Jan 2018",
+"related_links": [],
+"original_title": "Boxes",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2018-01-24T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0b5rs",
+"live": false,
+"type": "episode",
+"title": "Got What It Takes?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nkq5.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08dzw1z",
+"guidance": false,
+"subtitle": "Series 3: 10. The Grand Final!",
+"synopses": {
+"large": "It's crunch time as the four finalists go head to head in the grand final. In front of a live studio audience and a panel of music industry judges each singer performs two songs. Who will be crowned the winner of Got What It Takes? and be awarded the ultimate prize of performing on the main stage at Radio 1's Biggest Weekend as well as getting to record an online collaboration with a mystery group.",
+"small": "The four finalists perform in front of a live studio audience for the grand final.",
+"medium": "Talent show. The four finalists perform two songs in front of a live studio audience and a panel of music industry judges in the grand final."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b5js",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "37 mins",
+"value": "PT37M"
+},
+"availability": {
+"end": "2018-05-18T17:20:00Z",
+"start": "2018-04-18T17:20:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 2688,
+"first_broadcast": "5:30pm 18 Apr 2018"
+}
+],
+"parent_id": "b09s7nbf",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-28T10:25:00.000Z"
+},
+"original_title": "The Grand Final!",
+"audio_described": false,
+"parent_position": 10,
+"requires_sign_in": false,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yxy2k",
+"type": "group_large",
+"group_type": "tleo",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0637y8p.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p0637ygc.jpg"
+},
+"episode_sort_direction": "asc",
+"stacked": true,
+"related_links": [],
+"master_brand": {
+"id": "cbbc",
+"ident_id": "p03knjp3",
+"attribution": "cbbc",
+"titles": {
+"small": "CBBC",
+"medium": "CBBC",
+"large": "CBBC"
+}
+},
+"title": "Mustangs FC",
+"synopses": {
+"small": "Comedy drama about a group of girls who start their own football team.",
+"medium": "Comedy drama about a group of girls who start their own football team."
+},
+"labels": {
+"category": "CBBC"
+},
+"count": 7,
+"initial_children": [
+{
+"id": "b09yxzlf",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062ghkl.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "New Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 1. Goals",
+"synopses": {
+"large": "Comedy drama about a group of girls who start their own football team. \n\nIt's the beginning of the season for brand new all-girl soccer team Mustangs, and Marnie can't wait to get started. But with no coach, no uniforms and no players, can Marnie pull a team together?",
+"small": "With no coach, no uniforms and no players, can Marnie pull a football team together?",
+"medium": "Comedy drama. It is the beginning of the season for Mustangs. With no coach, no uniforms and no players, can Marnie pull a football team together?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yxzbk",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "19 mins",
+"value": "PT19M"
+},
+"availability": {
+"end": "2018-05-02T17:30:00Z",
+"start": "2018-04-02T17:30:00Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"credits_start": 1393,
+"first_broadcast": "6:05pm 2 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "2 Apr 2018",
+"related_links": [],
+"original_title": "Goals",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2018-04-02T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09yxzz7",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062glkd.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 2. Like a Boss",
+"synopses": {
+"large": "When the Mustangs are accused of 'playing like girls', it's the last straw for Marnie. It's time to prove themselves by beating the boys. So they challenge them to a golden goal game.",
+"small": "When the Mustangs are accused of 'playing like girls', it's the last straw for Marnie.",
+"medium": "Comedy drama. When the Mustangs are accused of 'playing like girls', it's the last straw for Marnie. It's time to prove themselves by beating the boys."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yxzwr",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-03T17:30:00Z",
+"start": "2018-04-03T17:30:00Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"credits_start": 1438,
+"first_broadcast": "6:05pm 3 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "3 Apr 2018",
+"related_links": [],
+"original_title": "Like a Boss",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2018-04-03T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09yy1fh",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062gn85.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 3. Can't Even",
+"synopses": {
+"large": "Liv and Marnie fall out, and when Liv turns to new team superstar Ruby for reassurance, Marnie loses it. Ruby is stealing both her best friend and her position on the team.",
+"small": "Liv and Marnie fall out, and Liv turns to new team superstar Ruby for reassurance.",
+"medium": "Comedy drama. Liv and Marnie fall out, and when Liv turns to new team superstar Ruby for reassurance, Marnie loses it."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yy15l",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-04T17:35:00Z",
+"start": "2018-04-04T17:35:00Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"credits_start": 1443,
+"first_broadcast": "6:05pm 4 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "4 Apr 2018",
+"related_links": [],
+"original_title": "Can't Even",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2018-04-04T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09yy2g9",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062gnr4.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 4. Game Changer",
+"synopses": {
+"large": "Lara drives Marnie crazy and invades her space. But when Marnie posts an unflattering picture of Lara that goes viral, Lara goes out for revenge. She hits Marnie where it hurts, the Mustangs.",
+"small": "When Marnie posts an unflattering picture of Lara, Lara goes out for revenge.",
+"medium": "Comedy drama. When Marnie posts an unflattering picture of Lara that goes viral, Lara goes out for revenge. She hits Marnie where it hurts, the Mustangs."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yy2bm",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-05T17:35:00Z",
+"start": "2018-04-05T17:35:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"credits_start": 1424,
+"first_broadcast": "6:05pm 5 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "5 Apr 2018",
+"related_links": [],
+"original_title": "Game Changer",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": false,
+"release_date_time": "2018-04-05T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09yy33c",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062gp5c.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 5. Girl Crush",
+"synopses": {
+"large": "Danny sacks Bella from the Mustangs after she messes up on the pitch. And to make matters worse, her dad says he's coming to watch her next game. How is she going to hide the fact that she's no longer on the team?",
+"small": "Danny sacks Bella from the Mustangs after she messes up on the pitch.",
+"medium": "Comedy drama. Danny sacks Bella from the Mustangs after she messes up on the pitch. How is she going to hide the fact that she is no longer on the team from her dad?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yy336",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-06T17:30:00Z",
+"start": "2018-04-06T17:30:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"credits_start": 1405,
+"first_broadcast": "6:05pm 6 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "6 Apr 2018",
+"related_links": [],
+"original_title": "Girl Crush",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": false,
+"release_date_time": "2018-04-06T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgy7z",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06394xv.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 6. OTP",
+"synopses": {
+"large": "Lara tells Marnie that Gabe has a crush on her. Determined to move the budding romance forward, Lara organises a party.",
+"small": "Determined to move a budding romance forward, Lara organises a party.",
+"medium": "Comedy drama. Lara tells Marnie that Gabe has a crush on her. Determined to move the budding romance forward, Lara organises a party."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgy33",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-10T20:00:00Z",
+"start": "2018-04-10T16:25:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 1430,
+"first_broadcast": "5pm 10 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "10 Apr 2018",
+"related_links": [],
+"original_title": "OTP",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": false,
+"release_date_time": "2018-04-10T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b0b01tk0",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06400bm.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 7. Kick It Like A Girl",
+"synopses": {
+"large": "At a tournament, the Mustangs are thrashed by the Wildcats in the first round. Do they need a new captain to pull the team together? And can Anusha handle being second banana to Bella and her new-found confidence?",
+"small": "At a tournament, the Mustangs are thrashed by the Wildcats in the first round.",
+"medium": "Comedy drama. At a tournament, the Mustangs are thrashed by the Wildcats in the first round. Do they need a new captain to pull the team together?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b01thd",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-17T20:00:00Z",
+"start": "2018-04-17T16:25:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 1421,
+"first_broadcast": "5pm 17 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Kick It Like A Girl",
+"audio_described": false,
+"parent_position": 7,
+"requires_sign_in": false,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b07qf2r9",
+"live": false,
+"type": "episode",
+"title": "So Awkward",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p044vhdy.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07qf19p",
+"guidance": false,
+"subtitle": "Series 2: 1. Dinner Date",
+"synopses": {
+"large": "Lily's will-they-won't-they relationship is getting harder to negotiate with class heartthrob Matt Furnish, Martha is still top of the class and as uber-competitive as ever with fellow geek Ollie, and chaotic tomboy Jas is as irrepressible as ever. \n\nLily is troubled, because she's not sure whether she and Matt Furnish are actually going out or not. Jas volunteers to help and eventually the girls decide inviting Matt round to dinner is the best plan, where Lily's nosy mum is bound to ask him outright. When teacher Mr Malone drops by and is invited in to join them, their carefully laid plans backfire. Meanwhile, Martha is obsessed with trying to be like her idol and head of the school council, Jade. She starts acting and dressing like her and joins every school society Jade belongs to in the hope of striking up a friendship. In the process, she puts Ollie's nose out of joint - he becomes jealous.",
+"small": "The girls invite Matt round to dinner at Lily's house but Mr Malone also drops by.",
+"medium": "Comedy series. Lily is troubled because she's not sure whether she and Matt Furnish are actually going out or not. Jas volunteers to help."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07qf1c8",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-14T12:35:00Z",
+"start": "2018-04-14T12:35:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 1648,
+"first_broadcast": "4:30pm 25 Aug 2016"
+},
+{
+"hd": false,
+"id": "p045vctj",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-14T12:35:00Z",
+"start": "2018-04-14T12:58:39Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"first_broadcast": "25 Aug 2016"
+}
+],
+"parent_id": "b07qf1c6",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"box-set",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "25 Aug 2016",
+"related_links": [],
+"original_title": "Dinner Date",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2016-08-25T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00q3j3j",
+"live": false,
+"type": "episode",
+"title": "Tracy Beaker Returns",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04f1whc.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00xg6z1",
+"guidance": false,
+"subtitle": "Series 1: 1. Tracy Beaker Superstar",
+"synopses": {
+"small": "Tracy's grown-up life is going well - until she gets arrested.",
+"medium": "Drama set in a children's home. With a published book and TV appearance, Tracy's grown-up life is going well - until she gets arrested."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00q3hzv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T10:00:00Z",
+"start": "2018-04-16T10:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1637,
+"first_broadcast": "8 Jan 2010"
+},
+{
+"hd": false,
+"id": "p0076jwd",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T10:00:00Z",
+"start": "2018-04-16T10:44:07Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8 Jan 2010"
+}
+],
+"parent_id": "b00psz1n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "8 Jan 2010",
+"related_links": [],
+"original_title": "Tracy Beaker Superstar",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2010-01-08T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0b8zm",
+"live": false,
+"type": "episode",
+"title": "Officially Amazing Goes Bunkers",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064040z.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b0c5sz",
+"guidance": false,
+"subtitle": "Series 2: Episode 1",
+"synopses": {
+"large": "British Olympian Claire O'Hara attempts a kayaking record with her husband in Sydney, Australia. And drag racer Tom Bagnall goes for glory in a go-kart - with a jet engine on the back! Also, we welcome back our Officially Competitive legends - Cherry, Ray and Steve - competing for records in front of a live audience in our secret bunker.",
+"small": "British Olympian Claire O'Hara attempts a kayaking record with her husband in Australia.",
+"medium": "Record attempts from around the world. British Olympian Claire O'Hara attempts a kayaking record with her husband in Sydney, Australia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b8yv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-21T08:30:00Z",
+"start": "2018-04-20T16:55:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "5:25pm 20 Apr 2018"
+}
+],
+"parent_id": "b0b0b8ys",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0b802",
+"live": false,
+"type": "episode",
+"title": "Blue Peter",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064t6m2.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006md2v",
+"guidance": false,
+"subtitle": "Has Got it All!",
+"synopses": {
+"large": "This episode of Blue Peter has got it all. It's jam-packed. In fact there is so much in it, we'll struggle to tell you about it all right here. Especially when we spend so much time talking about how much is on the show. Oh, we've run out of space now. Watch it!",
+"small": "This episode of Blue Peter has got it all. It's jam-packed!",
+"medium": "This episode of Blue Peter has got it all. It's jam-packed. In fact there is so much in it, we'll struggle to tell you about it all right here."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b7r1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-22T08:30:00Z",
+"start": "2018-04-19T18:36:05Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 1680,
+"first_broadcast": "5:30pm 19 Apr 2018"
+}
+],
+"parent_id": "b006md2v",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-24T13:00:00.000Z"
+},
+"original_title": "Has Got it All!",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05qzfw4",
+"type": "group_large",
+"group_type": "curated",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zpmp.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p063zppt.jpg"
+},
+"short_title": "Films and Specials",
+"episode_sort_direction": "asc",
+"stacked": false,
+"related_links": [],
+"master_brand": {
+"id": "cbbc",
+"ident_id": "p03knjp3",
+"attribution": "cbbc",
+"titles": {
+"small": "CBBC",
+"medium": "CBBC",
+"large": "CBBC"
+}
+},
+"title": "Films and Specials",
+"synopses": {
+"small": "Catch up with some amazing films and exciting specials.",
+"medium": "Catch up with some amazing films and exciting specials.",
+"large": "Catch up with some amazing films and exciting specials."
+},
+"count": 10,
+"initial_children": [
+{
+"id": "b09jy84q",
+"live": false,
+"type": "episode",
+"title": "Dumping Ground Island",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05qwr8j.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09jy84q",
+"guidance": false,
+"synopses": {
+"large": "The YP pile their problems on Tyler's shoulders, and rather than face them, Tyler escapes to his safe place, his desert island. His perfect paradise is soon short-lived when the other YP arrive. Tyler retreats once more, but realises the YP must work together and face their fears in order to get home. Ryan sees a chance to gain power as Floss, Sasha and Dexter face their fears.",
+"small": "Tyler's fear of reality takes him to a desert island where he must face his fears.",
+"medium": "Tyler's fear of reality takes him to a desert island where he must face his fears or risk losing his friends forever."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09p6fsz",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "54 mins",
+"value": "PT54M"
+},
+"availability": {
+"end": "2018-05-09T08:55:00Z",
+"start": "2018-04-09T08:55:00Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"credits_start": 3217,
+"first_broadcast": "22 Dec 2017"
+},
+{
+"hd": false,
+"id": "p05sy1fb",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "54 mins",
+"value": "PT54M"
+},
+"availability": {
+"end": "2018-05-09T08:55:00Z",
+"start": "2018-04-09T09:34:53Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"first_broadcast": "22 Dec 2017"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "22 Dec 2017",
+"related_links": [],
+"original_title": "Dumping Ground Island",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "2017-12-22T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+},
+{
+"id": "b01q0k5b",
+"live": false,
+"type": "episode",
+"title": "Wallace and Gromit: A Close Shave",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05jw5dy.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01q0k5b",
+"guidance": false,
+"synopses": {
+"large": "Oscar-winning claymation comedy thriller from Nick Park, featuring the popular inventor and his dog. Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep rustling in a fiendish criminal plot, meeting a sheep named Shaun along the way. Will Wallace snap out of his daze in time to rescue his canine companion?",
+"small": "While Wallace is distracted by a romance, Gromit is framed for sheep rustling.",
+"medium": "Oscar-winning animated comedy thriller. While Wallace is distracted by a romance with the local wool shop owner, Gromit is framed for sheep rustling in a fiendish criminal plot."
+},
+"versions": [
+{
+"hd": true,
+"id": "b081cn54",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-06T18:30:00Z",
+"start": "2018-04-06T18:30:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"credits_start": 1761,
+"first_broadcast": "1995"
+},
+{
+"hd": false,
+"id": "p04ddzgs",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-06T18:30:00Z",
+"start": "2018-04-06T19:30:13Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"first_broadcast": "1995"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-cartoons",
+"comedy",
+"films"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "1995",
+"related_links": [],
+"original_title": "Wallace and Gromit: A Close Shave",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "1995-01-01T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b03n2w7m",
+"live": false,
+"type": "episode",
+"title": "Gangsta Granny",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r77my.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03n2w7m",
+"guidance": false,
+"synopses": {
+"large": "Ben hates spending time with his boring granny while his parents are off ballroom dancing. Little does he know that his granny has a secret. Together they go on an adventure and become the best of friends.\n\nMagical, heartwarming comedy drama based on David Walliams's best-selling children's book.",
+"small": "Comedy drama. Ben hates spending time with his boring granny, but she has a secret.",
+"medium": "Comedy drama based on David Walliams's children's book. Ben hates spending time with his boring granny while his parents are away. Little does he know that his granny has a secret."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03n2w7k",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "70 mins",
+"value": "PT1H10M"
+},
+"availability": {
+"end": "2018-05-02T08:35:00Z",
+"start": "2018-04-03T20:04:34Z",
+"remaining": {
+"text": "Available for 8 days"
+}
+},
+"credits_start": 3980,
+"first_broadcast": "6:05pm 26 Dec 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"cbbc",
+"childrens-drama",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "26 Dec 2013",
+"related_links": [],
+"original_title": "Gangsta Granny",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2013-12-26T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b09vph6v",
+"live": false,
+"type": "episode",
+"title": "Jacqueline Wilson's Katy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063czg9.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09vph6v",
+"guidance": false,
+"synopses": {
+"large": "Eleven-year-old Katy is a funny, energetic, daredevil oldest sister in a big, blended family. Her life changes in dramatic ways when she is injured and is unable to walk again.",
+"small": "Eleven-year-old Katy's life changes in dramatic ways when she is injured.",
+"medium": "Eleven-year-old Katy is a funny, energetic, daredevil oldest sister in a big, blended family. Her life changes in dramatic ways when she is injured and is unable to walk again."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vpgx7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "93 mins",
+"value": "PT1H33M"
+},
+"availability": {
+"end": "2018-05-13T17:00:00Z",
+"start": "2018-04-13T17:00:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 5299,
+"first_broadcast": "13 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "13 Mar 2018",
+"related_links": [],
+"original_title": "Jacqueline Wilson's Katy",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-03-13T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true
+},
+{
+"id": "b09k9xsc",
+"live": false,
+"type": "episode",
+"title": "Odd Squad",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r4033.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09jl4xv",
+"guidance": false,
+"subtitle": "Series 2: 1. The Movie",
+"synopses": {
+"large": "When a group of adults run Odd Squad out of business, the agents are forced to become regular kids again.",
+"small": "The agents are forced to become regular kids again.",
+"medium": "The Odd Squad investigate strange events. When a group of adults run Odd Squad out of business, the agents are forced to become regular kids again."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09k9xr8",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "65 mins",
+"value": "PT1H5M"
+},
+"availability": {
+"end": "2018-05-06T08:40:00Z",
+"start": "2018-04-06T08:40:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"credits_start": 3948,
+"first_broadcast": "7pm 18 Dec 2017"
+},
+{
+"hd": false,
+"id": "p05rh20y",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "65 mins",
+"value": "PT1H5M"
+},
+"availability": {
+"end": "2018-05-06T08:40:00Z",
+"start": "2018-04-06T10:18:57Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"first_broadcast": "18 Dec 2017"
+}
+],
+"parent_id": "b09jl4yq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "18 Dec 2017",
+"related_links": [],
+"original_title": "The Movie",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2017-12-18T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b071c30j",
+"live": false,
+"type": "episode",
+"title": "The Next Step",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03k2847.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05qvqn5",
+"guidance": false,
+"subtitle": "The Next Step Live - The Movie",
+"synopses": {
+"large": "In 2015, the cast of The Next Step began an eight-week, sold-out, coast-to-coast tour across Canada. For the fortunate fans who had tickets to those sold-out performances it was a chance to see their favourite dancers in person. But what would it be like to have the best seat in the house and a backstage pass?",
+"small": "A performance of the cast of The Next Step's sold-out tour across Canada.",
+"medium": "In 2015, the cast of The Next Step began a tour across Canada. For the fans who had tickets to those performances it was a chance to see their favourite dancers in person."
+},
+"versions": [
+{
+"hd": true,
+"id": "b071c2z2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "77 mins",
+"value": "PT1H17M"
+},
+"availability": {
+"end": "2018-05-03T08:50:00Z",
+"start": "2018-04-02T17:05:00Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"credits_start": 4473,
+"first_broadcast": "9:30am 19 Feb 2016"
+}
+],
+"parent_id": "b05qvqn5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "19 Feb 2016",
+"related_links": [],
+"original_title": "The Next Step Live - The Movie",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": false,
+"release_date_time": "2016-02-19T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b04wt7c5",
+"live": false,
+"type": "episode",
+"title": "Harriet's Army",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02fffxd.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04wt7c5",
+"guidance": false,
+"synopses": {
+"large": "Drama set during World War I. Fourteen-year-old Harriet forms her own army of misfit children to search for spies. When a campaign grows against a local family with German connections, Harriet decides to take drastic action.",
+"small": "Fourteen-year-old Harriet forms her own army of misfit children to search for spies.",
+"medium": "Drama set during World War I. Fourteen-year-old Harriet forms her own army of misfit children to search for spies."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04wt75v",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "75 mins",
+"value": "PT1H15M"
+},
+"availability": {
+"end": "2018-05-12T09:20:00Z",
+"start": "2018-04-12T09:20:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "5:35pm 20 Dec 2014"
+},
+{
+"hd": false,
+"id": "p02fp2gd",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "80 mins",
+"value": "PT1H20M"
+},
+"availability": {
+"end": "2018-05-12T09:20:00Z",
+"start": "2018-04-12T10:39:10Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "20 Dec 2014"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "20 Dec 2014",
+"related_links": [],
+"original_title": "Harriet's Army",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "2014-12-20T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "p0118z9z",
+"live": false,
+"type": "episode",
+"title": "Mr Stink",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r77rq.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0118z9z",
+"guidance": false,
+"synopses": {
+"large": "Based on David Walliams's touching, twisted and hilarious tale of Mr Stink, a homeless man who is befriended by a local girl, Chloe. Chloe sees Mr Stink every day but she has never spoken to him, which isn't surprising because he is a tramp and he stinks. \n\nBut before she knows it, Chloe has an unusual friend hiding in her garden shed, when it looks like Mr Stink might be driven out of town. As Chloe struggles to make sure no one sniffs out Mr Stink, and her dad tries to hide a secret of his own, the stage is set for an epic family confrontation. There is also one other person with an extraordinary secret, as it turns out that there is more to Mr Stink than meets the eye... or nose. \n\nMr Stink is a heartwarming, nose-clenching and funny tale which will appeal to viewers of all ages.",
+"small": "An unhappy, daydreaming schoolgirl befriends a homeless man and his dog in the local park.",
+"medium": "Comedy drama about an unhappy schoolgirl who befriends a homeless man. The friendship leads her to Downing Street and brings her dysfunctional family back together."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03mkdrw",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-05T08:35:00Z",
+"start": "2018-04-05T08:35:00Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"credits_start": 3512,
+"first_broadcast": "23 Dec 2012"
+},
+{
+"hd": false,
+"id": "p03cr944",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-05T08:35:00Z",
+"start": "2018-04-05T09:36:56Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"first_broadcast": "23 Dec 2012"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbbc"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "23 Dec 2012",
+"related_links": [],
+"original_title": "Mr Stink",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "2012-12-23T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b09vph6v",
+"live": false,
+"type": "episode",
+"title": "Jacqueline Wilson's Katy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063czg9.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09vph6v",
+"guidance": false,
+"synopses": {
+"large": "Eleven-year-old Katy is a funny, energetic, daredevil oldest sister in a big, blended family. Her life changes in dramatic ways when she is injured and is unable to walk again.",
+"small": "Eleven-year-old Katy's life changes in dramatic ways when she is injured.",
+"medium": "Eleven-year-old Katy is a funny, energetic, daredevil oldest sister in a big, blended family. Her life changes in dramatic ways when she is injured and is unable to walk again."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vpgx7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "93 mins",
+"value": "PT1H33M"
+},
+"availability": {
+"end": "2018-05-13T17:00:00Z",
+"start": "2018-04-13T17:00:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 5299,
+"first_broadcast": "13 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "13 Mar 2018",
+"related_links": [],
+"original_title": "Jacqueline Wilson's Katy",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-03-13T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b04knfmh",
+"live": false,
+"type": "episode",
+"title": "Millie Inbetween",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p027dbst.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06qbvnv",
+"guidance": false,
+"subtitle": "Series 1: 1. Surprise Party",
+"synopses": {
+"large": "Comedy drama series about modern family life. Almost a year after Millie and Lauren's parents' break-up, they find themselves commuting between their mum's house and their dad's flat nearby. Millie is the realist in the family, and gives her sister and the audience a witty spin on how complicated their lives have all become. And that's before her mum gets a new boyfriend and her dad a new girlfriend, who both come complete with their own part-time kids too.\n\nIt's Lauren's birthday, and she tells Millie what she wants is for mum and dad to get back together. Millie thinks it's a terrible idea but does her best to fulfil her sister's wish. Dad shows up and all looks rosy, but the party takes a sudden left turn with the appearance of mum's personal trainer, Mike.",
+"small": "Lauren wants her mum and dad to get back together for her birthday.",
+"medium": "Comedy drama series. It is Lauren's birthday, and she tells Millie what she wants is for mum and dad to get back together."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04knfbq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-16T10:30:00Z",
+"start": "2018-04-16T10:30:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1578,
+"first_broadcast": "5pm 1 Oct 2014"
+}
+],
+"parent_id": "b04ksg3n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "1 Oct 2014",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-05-01T19:00:00.000Z"
+},
+"original_title": "Surprise Party",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2014-10-01T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063w6f7",
+"live": false,
+"type": "episode",
+"title": "Matilda and the Ramsay Bunch",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whrz.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Exclusive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b079yyjs",
+"guidance": false,
+"subtitle": "We Want Some More!",
+"synopses": {
+"large": "Matilda and the Ramsay Bunch return for another full-on summer. Tilly’s doing what she loves best: whipping up deliciously inventive food and crazy adventures leaving Gordon, the family and everyone hungry for more!",
+"small": "Join Tilly and her family as they return for more crazy adventures and delicious food!",
+"medium": "Join Matilda and the Ramsay Bunch as they return for another full-on summer filled with crazy adventures and deliciously inventive food!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p063w6tg",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "3 mins",
+"value": "PT2M40S"
+},
+"availability": {
+"end": "2018-04-27T11:00:00Z",
+"start": "2018-04-13T11:00:00Z",
+"remaining": {
+"text": "Available until Fri 12pm"
+}
+},
+"credits_start": 157,
+"first_broadcast": "13 Apr 2018"
+}
+],
+"parent_id": "b079yyjs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "13 Apr 2018",
+"related_links": [],
+"original_title": "We Want Some More!",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b082mgdd",
+"live": false,
+"type": "episode",
+"title": "Junior Bake Off",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04fys8t.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03j60mc",
+"guidance": false,
+"subtitle": "Series 4: 1. Heat One",
+"synopses": {
+"large": "The first quartet of junior bakers enter the Bake Off tent for two exciting baking challenges - and aiming for the first of 10 quarter-final places. Annabel, Harry, Tyrese and Abi have their baking knowledge and piping skills put to the test when they are asked to follow Allegra's surprise recipe for a US classic - red velvet whoopee pies. These stunning cookie sandwiches which ooze fluffy meringue filling prove themselves to be a tricky first Technical Challenge for the bakers. This is followed up with gravity-defying show-stoppers that require the bakers to demonstrate engineering, as well as baking skills. Expect spectacular bakes which take off into the sky and others which topple and fall.",
+"small": "The first quartet of junior bakers enter the tent for two exciting baking challenges.",
+"medium": "The country's best young bakers go head to head. The first quartet of junior bakers enter the tent for two exciting baking challenges."
+},
+"versions": [
+{
+"hd": true,
+"id": "b082mgd4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-09T08:00:00Z",
+"start": "2018-04-09T08:00:00Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"credits_start": 1693,
+"first_broadcast": "5:30pm 7 Nov 2016"
+}
+],
+"parent_id": "b082mgd2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "7 Nov 2016",
+"related_links": [],
+"original_title": "Heat One",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2016-11-07T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p032hgf1",
+"type": "group_large",
+"group_type": "curated",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02sx9mf.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p02sx9jn.jpg"
+},
+"episode_sort_direction": "asc",
+"stacked": false,
+"related_links": [],
+"master_brand": {
+"id": "cbbc",
+"ident_id": "p03knjp3",
+"attribution": "cbbc",
+"titles": {
+"small": "CBBC",
+"medium": "CBBC",
+"large": "CBBC"
+}
+},
+"title": "CBBC's Popular Picks",
+"synopses": {
+"small": "What a week on CBBC... take a look at just some of the top picks!",
+"medium": "What a week on CBBC... take a look at just some of the top picks!",
+"large": "What a week on CBBC... take a look at just some of the top picks!"
+},
+"count": 10,
+"initial_children": [
+{
+"id": "b0b01vsf",
+"live": false,
+"type": "episode",
+"title": "Joe All Alone",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zynw.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zj5tj",
+"guidance": false,
+"subtitle": "Series 1: 2. The Girl Next Door",
+"synopses": {
+"large": "Joe fantasises about what he could do with the £20,000 he's found, but knows in his heart that the money means trouble and he quickly puts it back where he found it.\n\nJoe attempts to cut his hair like the pictures in Asha's magazine. The results are shocking - just as well he's not supposed to go out. However, when Joe's electric runs out he's forced to leave the house to top up the card and dons a hat to hide the bad hair.\n\nAsha persuades Joe to go on a bus ride around London with her and Otis. For the first time in ages, Joe feels free. They have a fun day out and Joe decides it's time to tell Asha the truth - that his mum has been away all week but she's coming home soon.  \n\nBut when that day arrives, Joe's mum doesn't come home, and Joe starts to worry about her safety.",
+"small": "Asha persuades Joe to go on a bus ride around London with her and Otis.",
+"medium": "Drama series. Asha persuades Joe to go on a bus ride around London with her and Otis. For the first time in ages, Joe feels free."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b01vrw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T20:00:00Z",
+"start": "2018-04-16T16:30:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 1625,
+"first_broadcast": "5pm 16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064h6tx",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T20:00:00Z",
+"start": "2018-04-16T16:54:37Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09zj68f",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "The Girl Next Door",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0b730",
+"live": false,
+"type": "episode",
+"title": "Jamie Johnson",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06403nj.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08lvm1b",
+"guidance": false,
+"subtitle": "Series 3: 3. The Scorpion",
+"synopses": {
+"large": "Boggy decides it's time for him to move on from just being the team mascot and sets out as chief scout for Jack's new team, Phoenix FC. First mission: find a new goalie so Jack can play outfield. But when it becomes clear his chosen candidate has behaviour issues, Hansard needs some convincing.",
+"small": "Boggy decides it's time for him to move on from just being the team mascot.",
+"medium": "Drama series. Boggy decides it's time for him to move on from just being the team mascot and sets out as chief scout for Jack's new team."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b70m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "31 mins",
+"value": "PT31M"
+},
+"availability": {
+"end": "2018-05-19T20:00:00Z",
+"start": "2018-04-19T16:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 1678,
+"first_broadcast": "5pm 19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064tg22",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "31 mins",
+"value": "PT31M"
+},
+"availability": {
+"end": "2018-05-19T20:00:00Z",
+"start": "2018-04-19T17:12:44Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09ysdq6",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-26T15:30:00.000Z"
+},
+"original_title": "The Scorpion",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true
+},
+{
+"id": "b00q3j3j",
+"live": false,
+"type": "episode",
+"title": "Tracy Beaker Returns",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04f1whc.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00xg6z1",
+"guidance": false,
+"subtitle": "Series 1: 1. Tracy Beaker Superstar",
+"synopses": {
+"small": "Tracy's grown-up life is going well - until she gets arrested.",
+"medium": "Drama set in a children's home. With a published book and TV appearance, Tracy's grown-up life is going well - until she gets arrested."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00q3hzv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T10:00:00Z",
+"start": "2018-04-16T10:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1637,
+"first_broadcast": "8 Jan 2010"
+},
+{
+"hd": false,
+"id": "p0076jwd",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T10:00:00Z",
+"start": "2018-04-16T10:44:07Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8 Jan 2010"
+}
+],
+"parent_id": "b00psz1n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "8 Jan 2010",
+"related_links": [],
+"original_title": "Tracy Beaker Superstar",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2010-01-08T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0b5rq",
+"live": false,
+"type": "episode",
+"title": "4 O'Clock Club",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06402h1.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01psl8r",
+"guidance": false,
+"subtitle": "Series 7: 13. Talent",
+"synopses": {
+"large": "Polly plans the end-of-year Talent Show - but could it mean the end of her school career? And Amber tries to impress Ingrid by inventing the craziest talent act of all time.",
+"small": "Polly plans the end-of-year Talent Show - but could it mean the end of her school career?",
+"medium": "Comedy series. Polly plans the end-of-year Talent Show - but could it mean the end of her school career? And Amber tries to impress Ingrid."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b3xj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-18T20:00:00Z",
+"start": "2018-04-18T16:30:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 1676,
+"first_broadcast": "5pm 18 Apr 2018"
+}
+],
+"parent_id": "b09pyy5w",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-25T15:30:00.000Z"
+},
+"original_title": "Talent",
+"audio_described": false,
+"parent_position": 13,
+"requires_sign_in": false,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "p063w6f7",
+"live": false,
+"type": "episode",
+"title": "Matilda and the Ramsay Bunch",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whrz.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Exclusive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b079yyjs",
+"guidance": false,
+"subtitle": "We Want Some More!",
+"synopses": {
+"large": "Matilda and the Ramsay Bunch return for another full-on summer. Tilly’s doing what she loves best: whipping up deliciously inventive food and crazy adventures leaving Gordon, the family and everyone hungry for more!",
+"small": "Join Tilly and her family as they return for more crazy adventures and delicious food!",
+"medium": "Join Matilda and the Ramsay Bunch as they return for another full-on summer filled with crazy adventures and deliciously inventive food!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p063w6tg",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "3 mins",
+"value": "PT2M40S"
+},
+"availability": {
+"end": "2018-04-27T11:00:00Z",
+"start": "2018-04-13T11:00:00Z",
+"remaining": {
+"text": "Available until Fri 12pm"
+}
+},
+"credits_start": 157,
+"first_broadcast": "13 Apr 2018"
+}
+],
+"parent_id": "b079yyjs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "13 Apr 2018",
+"related_links": [],
+"original_title": "We Want Some More!",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b04knfmh",
+"live": false,
+"type": "episode",
+"title": "Millie Inbetween",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p027dbst.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06qbvnv",
+"guidance": false,
+"subtitle": "Series 1: 1. Surprise Party",
+"synopses": {
+"large": "Comedy drama series about modern family life. Almost a year after Millie and Lauren's parents' break-up, they find themselves commuting between their mum's house and their dad's flat nearby. Millie is the realist in the family, and gives her sister and the audience a witty spin on how complicated their lives have all become. And that's before her mum gets a new boyfriend and her dad a new girlfriend, who both come complete with their own part-time kids too.\n\nIt's Lauren's birthday, and she tells Millie what she wants is for mum and dad to get back together. Millie thinks it's a terrible idea but does her best to fulfil her sister's wish. Dad shows up and all looks rosy, but the party takes a sudden left turn with the appearance of mum's personal trainer, Mike.",
+"small": "Lauren wants her mum and dad to get back together for her birthday.",
+"medium": "Comedy drama series. It is Lauren's birthday, and she tells Millie what she wants is for mum and dad to get back together."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04knfbq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-16T10:30:00Z",
+"start": "2018-04-16T10:30:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1578,
+"first_broadcast": "5pm 1 Oct 2014"
+}
+],
+"parent_id": "b04ksg3n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "1 Oct 2014",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-05-01T19:00:00.000Z"
+},
+"original_title": "Surprise Party",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2014-10-01T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0b5rs",
+"live": false,
+"type": "episode",
+"title": "Got What It Takes?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nkq5.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08dzw1z",
+"guidance": false,
+"subtitle": "Series 3: 10. The Grand Final!",
+"synopses": {
+"large": "It's crunch time as the four finalists go head to head in the grand final. In front of a live studio audience and a panel of music industry judges each singer performs two songs. Who will be crowned the winner of Got What It Takes? and be awarded the ultimate prize of performing on the main stage at Radio 1's Biggest Weekend as well as getting to record an online collaboration with a mystery group.",
+"small": "The four finalists perform in front of a live studio audience for the grand final.",
+"medium": "Talent show. The four finalists perform two songs in front of a live studio audience and a panel of music industry judges in the grand final."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b5js",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "37 mins",
+"value": "PT37M"
+},
+"availability": {
+"end": "2018-05-18T17:20:00Z",
+"start": "2018-04-18T17:20:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 2688,
+"first_broadcast": "5:30pm 18 Apr 2018"
+}
+],
+"parent_id": "b09s7nbf",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBBC",
+"scheduled_start": "2018-04-28T10:25:00.000Z"
+},
+"original_title": "The Grand Final!",
+"audio_described": false,
+"parent_position": 10,
+"requires_sign_in": false,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b0b01tk0",
+"live": false,
+"type": "episode",
+"title": "Mustangs FC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06400bm.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yxy2k",
+"guidance": false,
+"subtitle": "Series 1: 7. Kick It Like A Girl",
+"synopses": {
+"large": "At a tournament, the Mustangs are thrashed by the Wildcats in the first round. Do they need a new captain to pull the team together? And can Anusha handle being second banana to Bella and her new-found confidence?",
+"small": "At a tournament, the Mustangs are thrashed by the Wildcats in the first round.",
+"medium": "Comedy drama. At a tournament, the Mustangs are thrashed by the Wildcats in the first round. Do they need a new captain to pull the team together?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b01thd",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-17T20:00:00Z",
+"start": "2018-04-17T16:25:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 1421,
+"first_broadcast": "5pm 17 Apr 2018"
+}
+],
+"parent_id": "b09yxx67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Kick It Like A Girl",
+"audio_described": false,
+"parent_position": 7,
+"requires_sign_in": false,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b07vd10t",
+"live": false,
+"type": "episode",
+"title": "The Next Step",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p046hs7m.jpg"
+},
+"labels": {
+"category": "CBBC",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05qvqn5",
+"guidance": false,
+"subtitle": "Series 4: 1. One More Time",
+"synopses": {
+"large": "Reality-style drama following the lives of a group of dancers at the Next Step Dance Studio. The Next Step holds an open house to welcome prospective new dancers to the studio, and some A-Troupers say goodbye.",
+"small": "The Next Step holds an open house to welcome prospective new dancers to the studio.",
+"medium": "Reality-style drama. The Next Step holds an open house to welcome prospective new dancers to the studio, and some A-Troupers say goodbye."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07vcv8b",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "22 mins",
+"value": "PT22M"
+},
+"availability": {
+"end": "2018-04-30T12:45:00Z",
+"start": "2018-03-31T12:45:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"credits_start": 1269,
+"first_broadcast": "4pm 5 Sep 2016"
+}
+],
+"parent_id": "b07vcv87",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "5 Sep 2016",
+"related_links": [],
+"original_title": "One More Time",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2016-09-05T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0701qtv",
+"live": false,
+"type": "episode",
+"title": "The Dumping Ground",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03g6vjt.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03ps789",
+"guidance": false,
+"subtitle": "Series 4: 1. Lost and Found",
+"synopses": {
+"large": "Bailey's world is rocked when his mum turns up at Ashdene Ridge. Can he forgive her for abandoning him as a toddler? Meanwhile, Carmen resorts to drastic measures when Ofsted inspectors arrive unexpectedly.",
+"small": "Bailey's world is rocked when his mum turns up at Ashdene Ridge.",
+"medium": "Drama series. Bailey's world is rocked when his mum turns up at Ashdene Ridge. Can he forgive her for abandoning him as a toddler?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b07gyy3d",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-15T13:50:00Z",
+"start": "2018-04-15T13:50:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 1658,
+"first_broadcast": "30 Jan 2016"
+},
+{
+"hd": false,
+"id": "p03ygg2p",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-15T13:50:00Z",
+"start": "2018-04-15T14:11:32Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "30 Jan 2016"
+}
+],
+"parent_id": "b06zhr05",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "30 Jan 2016",
+"related_links": [],
+"original_title": "Lost and Found",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2016-01-30T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

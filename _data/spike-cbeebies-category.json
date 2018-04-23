@@ -1,0 +1,2960 @@
+[
+{
+"id": "b0b09wtj",
+"live": false,
+"type": "episode",
+"title": "Do You Know?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642zmg.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yn3ly",
+"guidance": false,
+"subtitle": "Series 2: 14. Playground and Plant Pot",
+"synopses": {
+"large": "In today's episode, Maddie is having fun outdoors. First, she's in a playground learning how we keep swinging on a swing and how gravity helps us slide down a slide. She uses a special camera to show us how friction stops us from going too fast. Next, Maddie goes to a factory where plant pots are made. She finds out how clay and shale from a quarry are mixed, shaped and baked into plant pots, then uses a special thermal camera to show us how hot the plant pots get when they travel through a kiln!",
+"small": "Maddie learns how playground swings and slides work, then visits a plant pot factory.",
+"medium": "At a playground, Maddie learns how swings and slides work, then she visits a plant pot factory to see how pots are made by mixing clay and shale."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09ssg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-20T15:45:00Z",
+"start": "2018-04-20T15:45:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 830,
+"first_broadcast": "4:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b09yn3xv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Playground and Plant Pot",
+"audio_described": false,
+"parent_position": 14,
+"requires_sign_in": false,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b10ryn",
+"live": false,
+"type": "episode",
+"title": "School of Roars",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064td1t.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08dnr1w",
+"guidance": false,
+"subtitle": "Series 1: 46. Dragon Brigade",
+"synopses": {
+"large": "At film club the monsters decide to make a pretend movie about the dragon brigade. But when Miss Grizzlesniff gets in a pickle with her popcorn machine, the real dragon brigade rushes to her rescue and the monsters capture the action on camera.",
+"small": "At film club the monsters decide to make a pretend movie about the dragon brigade.",
+"medium": "Preschool animation. At film club the monsters decide to make a pretend movie about the dragon brigade."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10rcg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT7M"
+},
+"availability": {
+"end": "2018-05-23T15:05:00Z",
+"start": "2018-04-23T15:05:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "3:55pm 23 Apr 2018"
+}
+],
+"parent_id": "b08dnrcx",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Dragon Brigade",
+"audio_described": false,
+"parent_position": 46,
+"requires_sign_in": false,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b06mdpj9",
+"live": false,
+"type": "episode",
+"title": "Peter Rabbit",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p036050k.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b052sx2p",
+"guidance": false,
+"subtitle": "Series 2: 31. The Tale of the Thing-A-Ma-Jig",
+"synopses": {
+"large": "When Mr Bouncer invents something that seemingly has no specific function, the rabbits endeavour to find out what it's for. But when Mr Tod comes after them, will the 'thing-a-ma-jig' be a help or a hindrance in their escape?",
+"small": "The rabbits endeavour to find out the function of Mr Bouncer's new invention.",
+"medium": "Animated reimagining of Beatrix Potter's children's classic. The rabbits endeavour to find out the function of Mr Bouncer's new invention."
+},
+"versions": [
+{
+"hd": true,
+"id": "b06mdl1c",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "12 mins",
+"value": "PT12M"
+},
+"availability": {
+"end": "2018-05-23T07:00:00Z",
+"start": "2018-04-23T07:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"credits_start": 704,
+"first_broadcast": "4:45pm 26 Oct 2015"
+},
+{
+"hd": false,
+"id": "p0369830",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "12 mins",
+"value": "PT12M"
+},
+"availability": {
+"end": "2018-05-23T07:00:00Z",
+"start": "2018-04-23T07:11:32Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "26 Oct 2015"
+}
+],
+"parent_id": "b052sy2x",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "26 Oct 2015",
+"related_links": [
+{
+"id": "p053ym9d",
+"url": "http://www.bbc.co.uk/cbeebies/games/peter-rabbit-hop-to-it",
+"kind": "priority_content",
+"type": "link",
+"title": "Hop to It with Peter Rabbit"
+}
+],
+"original_title": "The Tale of the Thing-A-Ma-Jig",
+"audio_described": true,
+"parent_position": 31,
+"requires_sign_in": false,
+"release_date_time": "2015-10-26T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b10rxf",
+"live": false,
+"type": "episode",
+"title": "Olobob Top",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064tcx3.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08ysbnd",
+"guidance": false,
+"subtitle": "Series 1: 27. Balloon",
+"synopses": {
+"large": "Bobble can't reach his balloon. Retrieving it, Locks-a-Lottie amazes everyone by discovering a hidden room. Before long they're all floating off in a huge hot air balloon!",
+"small": "Locks-a-Lottie amazes everyone by discovering a hidden room with a huge hot air balloon!",
+"medium": "Preschool animated series. Retrieving Bobble's balloon, Locks-a-Lottie discovers a hidden room. Before long they're all floating off in a huge hot air balloon!"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10pp2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-05-23T12:15:00Z",
+"start": "2018-04-23T08:20:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9:10am 23 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06541cj",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-05-23T12:15:00Z",
+"start": "2018-04-23T08:41:24Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b08ysbwv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Balloon",
+"audio_described": true,
+"parent_position": 27,
+"requires_sign_in": false,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p03rjsf3",
+"type": "group_large",
+"group_type": "curated",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03rjspt.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p03rjsbm.jpg"
+},
+"episode_sort_direction": "asc",
+"stacked": false,
+"related_links": [],
+"master_brand": {
+"id": "cbeebies",
+"ident_id": "p00pvbng",
+"attribution": "cbeebies",
+"titles": {
+"small": "CBeebies",
+"medium": "CBeebies",
+"large": "CBeebies"
+}
+},
+"title": "Shakespeare on CBeebies",
+"synopses": {
+"small": "A Celebration of Shakespeare on CBeebies.",
+"medium": "A Celebration of Shakespeare on CBeebies.",
+"large": "A Celebration of Shakespeare on CBeebies."
+},
+"count": 5,
+"initial_children": [
+{
+"id": "b09xjby9",
+"live": false,
+"type": "episode",
+"title": "CBeebies Shakespeare Special - The Tempest",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062051g.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09xjby9",
+"guidance": false,
+"synopses": {
+"large": "A magical island, a stormy shipwreck and a royal mystery! \n\nFollowing on from CBeebies A Midsummer Night's Dream, Steven Kynman is back as William Shakespeare, this time with backstage help from Swashbuckle's Captain Captain. Andy Day takes on the fantastical Shakespearean role of the island monster Caliban, while Justin Fletcher is the king's comical jester, Trinculo. With Patrick Robinson as Prospero and Annette Badland as his good friend Gonzala, CBeebies The Tempest brings together an amazing cast to perform one of Shakespeare's best-loved plays. \n\nSet on an island not far from Italy, the play tells the story of Prospero, one-time Duke of Milan, who lives with his daughter Miranda, their monster servant Caliban and a magical, musical and mostly invisible sprite called Ariel. Having been sent away from Milan 12 years earlier by his own brother Sebastian and King Alonso, Prospero has spent his time on the island practising his magic, studying and plotting for a time when he can take revenge. That moment has arrived. All his enemies are aboard a ship sailing near the island and it is the perfect time for Prospero's plan.\n\nCreating a magical storm with his sprite Ariel, Prospero causes a shipwreck, landing the king and his lords, ladies, butler and jester all over the island. Slowly Prospero weaves his magic to fulfil his plan, with Ariel carrying out many of his tasks, before eventually forgiving all those who did him wrong.\n\nFilmed at the Lawrence Batley Theatre, Huddersfield, in front of a live invited audience, CBeebies The Tempest is the perfect introduction to Shakespeare for families and preschoolers, with the most famous moments from Shakespeare's original text surrounded by magic, music and mischief.",
+"small": "A magic island, a stormy shipwreck and a royal mystery in CBeebies The Tempest!",
+"medium": "A magic island, a stormy shipwreck and a royal mystery! Patrick Robinson is Prospero as Swashbuckle's Captain Captain helps William Shakespeare stage his play The Tempest."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09z78nb",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "61 mins",
+"value": "PT1H1M"
+},
+"availability": {
+"end": "2018-05-22T11:05:00Z",
+"start": "2018-03-30T09:20:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3624,
+"first_broadcast": "30 Mar 2018"
+},
+{
+"hd": false,
+"id": "p062tmm1",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "61 mins",
+"value": "PT1H1M"
+},
+"availability": {
+"end": "2018-05-22T11:05:00Z",
+"start": "2018-03-30T10:42:48Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "30 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "30 Mar 2018",
+"related_links": [],
+"original_title": "CBeebies Shakespeare Special - The Tempest",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "2018-03-30T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b078jltg",
+"live": false,
+"type": "episode",
+"title": "CBeebies: A Midsummer Night's Dream",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03rtwq9.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b078jltg",
+"guidance": false,
+"synopses": {
+"large": "Fairies, magic, celebration and comical confusion!\n\nJoin Swashbuckle's Cook and Line as they help William Shakespeare put together a magical production of A Midsummer Night's Dream. \n\nFilmed at the Everyman Theatre in Liverpool, the production features lots of CBeebies favourites, including Justin Fletcher as Nick Bottom - the star of the play within a play who undergoes a magical transformation! Whoever heard of a talking and singing donkey?",
+"small": "CBeebies stars perform William Shakespeare's famous comedy play.",
+"medium": "Join Swashbuckle's Cook and Line as they help William Shakespeare put together a magical production of A Midsummer Night's Dream. Filmed at the Everyman Theatre in Liverpool."
+},
+"versions": [
+{
+"hd": true,
+"id": "b078jlkm",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-21T11:00:00Z",
+"start": "2018-04-21T11:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 3027,
+"first_broadcast": "11am 23 Apr 2016"
+},
+{
+"hd": false,
+"id": "p03ryrv0",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-21T11:00:00Z",
+"start": "2018-04-21T12:13:54Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "23 Apr 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"cbeebies"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "23 Apr 2016",
+"related_links": [],
+"original_title": "CBeebies: A Midsummer Night's Dream",
+"audio_described": true,
+"requires_sign_in": false,
+"release_date_time": "2016-04-23T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0790npv",
+"live": false,
+"type": "episode",
+"title": "Magic Hands",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03rmckl.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0756gmh",
+"guidance": false,
+"subtitle": "Series 2: 16. The Tempest",
+"synopses": {
+"large": "Donna and Simon discover The Tempest, by William Shakespeare.\n\nLook at what my hands can do!\n\nDonna and Simon sail the squally seas in a medieval ship. Leapy Lion and Pink Bird dress as Prospero and Miranda from The Tempest and show us what happens when meddling magical Prospero brews up some very stormy waves to cause a horrible shipwreck.",
+"small": "Donna and Simon sail the seas in a medieval ship, discovering Shakespeare's The Tempest.",
+"medium": "Children's sign language poetry series. Donna and Simon sail the seas in a medieval ship, discovering William Shakespeare's The Tempest."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0790n73",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-04-30T13:30:00Z",
+"start": "2018-03-31T13:30:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"credits_start": 600,
+"first_broadcast": "11:10am 25 Apr 2016"
+}
+],
+"parent_id": "b0756gx0",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "25 Apr 2016",
+"related_links": [],
+"original_title": "The Tempest",
+"audio_described": false,
+"parent_position": 16,
+"requires_sign_in": false,
+"release_date_time": "2016-04-25T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b0790rvp",
+"live": false,
+"type": "episode",
+"title": "Magic Hands",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03rmdvp.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b0756gmh",
+"guidance": false,
+"subtitle": "Series 2: 20. Romeo and Juliet",
+"synopses": {
+"large": "Aimee and Ashley discover Romeo and Juliet, by William Shakespeare.\n\nLook at what my hands can do!\n\nTo celebrate the 400-year legacy of Shakespeare, Donna and Simon follow the sweet smell of a rose and head to ancient Verona. They meet young sweethearts Romeo and Juliet, played with great gusto by Leapy Lion and Pink Bird. The two think the world of each other, but their fighting families have forbidden them to be friends.",
+"small": "To celebrate the legacy of Shakespeare, Donna and Simon discover of Romeo and Juliet.",
+"medium": "Children's sign language poetry series. To celebrate the 400-year legacy of William Shakespeare, Donna and Simon discover the story of Romeo and Juliet."
+},
+"versions": [
+{
+"hd": true,
+"id": "b084xmlv",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-21T14:00:00Z",
+"start": "2018-04-21T14:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "29 Apr 2016"
+}
+],
+"parent_id": "b0756gx0",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "29 Apr 2016",
+"related_links": [],
+"original_title": "Romeo and Juliet",
+"audio_described": false,
+"parent_position": 20,
+"requires_sign_in": false,
+"release_date_time": "2016-04-29T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b0790qvn",
+"live": false,
+"type": "episode",
+"title": "Magic Hands",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03rmd9q.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b0756gmh",
+"guidance": false,
+"subtitle": "Series 2: 18. As You Like It",
+"synopses": {
+"large": "Aimee and Ashley discover As You Like It by William Shakespeare.\n\nLook at what my hands can do!\n\nTo celebrate the 400-year legacy of Shakespeare, Ashley and Aimee and the Creature Crew set up camp in the woods for today's special retelling of As You Like It. Bobbles plays a jester with rotten fruit on his clock and the whole team have fun dressing up as babies, soldiers, lovers and old men to find out why all the world's a stage.",
+"small": "To celebrate the 400-year legacy of Shakespeare, Ashley and Aimee discover As You Like It.",
+"medium": "Children's sign language poetry series. To celebrate the 400-year legacy of William Shakespeare, Ashley and Aimee discover As You Like It."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0790qvd",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-22T14:00:00Z",
+"start": "2018-04-22T14:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 587,
+"first_broadcast": "11:10am 27 Apr 2016"
+},
+{
+"hd": true,
+"id": "b0790qvd",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-22T14:00:00Z",
+"start": "2018-04-22T14:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 587,
+"first_broadcast": "27 Apr 2016"
+}
+],
+"parent_id": "b0756gx0",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "27 Apr 2016",
+"related_links": [],
+"original_title": "As You Like It",
+"audio_described": false,
+"parent_position": 18,
+"requires_sign_in": false,
+"release_date_time": "2016-04-27T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b09ys60t",
+"live": false,
+"type": "episode",
+"title": "Bitz & Bob",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062qmnq.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09w6m2v",
+"guidance": false,
+"subtitle": "Series 1: 18. Ahoy There",
+"synopses": {
+"large": "A game of beach volleyball is interrupted when a ball thrown by Bevel dislodges the gang's raft, causing everyone to become stranded on Faraway Island. Bob is worried they might have to spend the night there, so Bitz needs to figure out how to get off the island and fast. She scans the horizon with binoculars and spots Zip and Pop fishing on a boat. But everything they do to try and get their attention fails, it seems the only thing that Zip and Pop are interested in is fish!",
+"small": "When the gang get stranded on Faraway Island, Bitz must find a way to attract rescuers.",
+"medium": "Animated preschool series. The gang get stranded on Faraway Island and need rescuing. Bitz spots Zip and Pop fishing on a boat, but how can she get their attention?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys3c1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-22T08:40:00Z",
+"start": "2018-04-04T15:55:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 646,
+"first_broadcast": "4:45pm 4 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063984s",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-22T08:40:00Z",
+"start": "2018-04-04T16:06:47Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "4 Apr 2018"
+}
+],
+"parent_id": "b09w6vmj",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "4 Apr 2018",
+"related_links": [],
+"original_title": "Ahoy There",
+"audio_described": true,
+"parent_position": 18,
+"requires_sign_in": false,
+"release_date_time": "2018-04-04T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09nnh83",
+"live": false,
+"type": "episode",
+"title": "Go Jetters",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05tjt1f.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b07jld1k",
+"guidance": false,
+"subtitle": "Series 2: 19. Panama Canal, Panama",
+"synopses": {
+"large": "Grandmaster Glitch is late for the European Moustache of the Year award ceremony, and even worse, he's broken down! The Grimbots are on hand to recommend a shortcut: the Panama Canal, a man-made passage that provides a gateway between the Pacific and Atlantic oceans. \n\nMeanwhile, the Go Jetters are also heading to the Panama Canal to see its huge watery steps in action, but they arrive to find honking ships' horns and a huge traffic jam - it's all been glitched! In an attempt to jump the queue of ships, Glitch has jammed the canal doors open. Not only is the canal flooding and the other ships unable to get through, but Grim HQ and Grandmaster Glitch are sinking. With the Grimbots busy with their rubber ducks, it's down to the Go Jetters to save the day.",
+"small": "Glitch's attempt to jump the queue at the Panama Canal leaves him with a sinking feeling!",
+"medium": "Meet the Go Jetters, four explorers on a global adventure! Glitch's attempt to jump the queue at the Panama Canal leaves him with a sinking feeling."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09nnh7z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-21T07:10:00Z",
+"start": "2018-04-21T07:10:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 646,
+"first_broadcast": "5pm 16 Jan 2018"
+},
+{
+"hd": true,
+"id": "b09yx7tc",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-07T14:55:00Z",
+"start": "2018-04-07T14:55:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"first_broadcast": "16 Jan 2018"
+}
+],
+"parent_id": "b095qskv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "16 Jan 2018",
+"related_links": [
+{
+"id": "p053ymgt",
+"url": "https://www.bbc.co.uk/cbeebies/games/go-jetters-cadet-rescue",
+"kind": "priority_content",
+"type": "link",
+"title": "Play the new Go Jetters game"
+}
+],
+"original_title": "Panama Canal, Panama",
+"audio_described": false,
+"parent_position": 19,
+"requires_sign_in": false,
+"release_date_time": "2018-01-16T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p062glb7",
+"live": false,
+"type": "episode",
+"title": "Daydreams",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062glj3.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0638r07",
+"guidance": false,
+"subtitle": "CBeebies Wind Down",
+"synopses": {
+"large": "Wind down with CBeebies Daydreams, an hour-long journey that focuses on the finer details of the world to help you relax. Voiced by Olivia Colman and music by Tom Jenkinson.",
+"small": "A collection of beautiful images and stunning music to help you unwind and relax.",
+"medium": "Wind down with CBeebies Daydreams, an hour-long journey that focuses on the finer details of the world to help you relax. Voiced by Olivia Colman and music by Tom Jenkinson."
+},
+"versions": [
+{
+"hd": true,
+"id": "p062glc9",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2023-04-05T15:00:00Z",
+"start": "2018-04-06T15:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3505,
+"first_broadcast": "6 Apr 2018"
+}
+],
+"parent_id": "p0638r07",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "6 Apr 2018",
+"related_links": [],
+"original_title": "CBeebies Wind Down",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-04-06T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b08r41qb",
+"live": false,
+"type": "episode",
+"title": "Numberblocks",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p052jgnv.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08bzfnh",
+"guidance": false,
+"subtitle": "Series 1: Ten Green Bottles",
+"synopses": {
+"large": "One of the bottles in Ten's collection accidentally falls off the wall, setting off a spectacular numbery hullabaloo. Learn to count down from ten by taking one away with the Numberblocks.",
+"small": "One of Ten's bottles accidentally falls off the wall, setting off a numbery hullabaloo.",
+"medium": "Children's animation. One of the bottles in Ten's collection accidentally falls off the wall, setting off a spectacular numbery hullabaloo."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08r40v9",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-04-29T14:35:00Z",
+"start": "2018-03-30T14:35:00Z",
+"remaining": {
+"text": "Available until Sun 3:35pm"
+}
+},
+"credits_start": 294,
+"first_broadcast": "10:20am 19 May 2017"
+}
+],
+"parent_id": "b08bzg8q",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-cartoons",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "19 May 2017",
+"related_links": [],
+"original_title": "Ten Green Bottles",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2017-05-19T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09tn0ys",
+"type": "group_large",
+"group_type": "tleo",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060d9k9.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p060d9j5.jpg"
+},
+"short_title": "Waffle",
+"episode_sort_direction": "asc",
+"stacked": true,
+"related_links": [],
+"master_brand": {
+"id": "cbeebies",
+"ident_id": "p00pvbng",
+"attribution": "cbeebies",
+"titles": {
+"small": "CBeebies",
+"medium": "CBeebies",
+"large": "CBeebies"
+}
+},
+"title": "Waffle the Wonder Dog",
+"synopses": {
+"small": "When Evie's mum, Jess, marries Simon, they find a lost puppy among the wedding presents.",
+"medium": "Evie's mum, Jess, has just married Doug's dad, Simon. They arrive home to find a puppy hiding in their wedding gifts. This magical talking dog will change their lives forever."
+},
+"labels": {
+"category": "CBeebies"
+},
+"count": 16,
+"initial_children": [
+{
+"id": "b09tn1qy",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ypt3s.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 1. Meeting Waffle",
+"synopses": {
+"large": "Evie's mum, Jess, has just married Doug's dad, Simon. The new family get home to discover a lost puppy hiding in their wedding presents. Evie wants to keep him and call him Waffle.",
+"small": "A newlywed family find a lost puppy among their wedding presents and decide to keep him.",
+"medium": "Preschool comedy drama series. A newlywed family discover a lost puppy hiding among their wedding presents. Daughter Evie wants to keep him and call him Waffle."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09tn1qh",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-09T16:35:00Z",
+"start": "2018-04-09T16:35:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 660,
+"first_broadcast": "5:20pm 26 Feb 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "26 Feb 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBeebies",
+"scheduled_start": "2018-04-30T16:25:00.000Z"
+},
+"original_title": "Meeting Waffle",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2018-02-26T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09tn319",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ypt4h.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 2. Night Night, Waffle",
+"synopses": {
+"large": "The Brooklyn-Bells spend their first night together as a new family, only to be kept awake by Waffle, whose constant barking upsets Mrs Hobbs, their cat-obsessed neighbour.",
+"small": "On their first night together, the family are kept awake by Waffle's constant barking.",
+"medium": "Preschool comedy drama series. The family spend their first night together, but they and their neighbours are kept awake by Waffle's constant barking."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09tn30z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-10T16:35:00Z",
+"start": "2018-04-10T16:35:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 643,
+"first_broadcast": "5:20pm 27 Feb 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "27 Feb 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "CBeebies",
+"scheduled_start": "2018-05-01T16:25:00.000Z"
+},
+"original_title": "Night Night, Waffle",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2018-02-27T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09tn3pm",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ypt51.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 3. Goodbye Waffle?",
+"synopses": {
+"large": "It's the day after the Brooklyn-Bells' wedding and time to say goodbye to the puppy. Evie goes with Jess to her veterinary practice to scan Waffle's microchip.",
+"small": "Evie goes with Jess to her veterinary practice to scan Waffle's microchip.",
+"medium": "Preschool comedy drama series. It's time to say goodbye to the puppy. Evie goes with Jess to her veterinary practice to scan Waffle's microchip."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09tn3mb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-11T16:35:00Z",
+"start": "2018-04-11T16:35:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 646,
+"first_broadcast": "5:20pm 28 Feb 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "28 Feb 2018",
+"related_links": [],
+"original_title": "Goodbye Waffle?",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2018-02-28T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09tn4hy",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ypt5x.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 4. Waffle Explores",
+"synopses": {
+"large": "It's Evie and Doug's first playdate together with their friends. They try out their new ball pit, but Waffle can't join in because he's not toilet trained. He finds fun elsewhere.",
+"small": "Evie and Doug's best friends come over for a playdate while Waffle explores next door.",
+"medium": "Preschool comedy drama series. Evie, Doug and their friends go out to play in their new ball pit, but Waffle can't join in because he's not toilet trained."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09tn4g5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-12T16:35:00Z",
+"start": "2018-04-12T16:35:00Z",
+"remaining": {
+"text": "Available for 19 days"
+}
+},
+"credits_start": 643,
+"first_broadcast": "5:20pm 1 Mar 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "1 Mar 2018",
+"related_links": [],
+"original_title": "Waffle Explores",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": false,
+"release_date_time": "2018-03-01T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09tn5fc",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ypt6v.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 5. Waffle Grows",
+"synopses": {
+"large": "It's Waffle's last day at the Brooklyn-Bells' but he still finds time to upset neighbour Mrs Hobbs. Simon hears Waffle speak. Will he finally agree that the family can keep the special dog?",
+"small": "It's Waffle's last day, but will the Brooklyn-Bells really part with their wonder dog?",
+"medium": "Preschool comedy drama series. On Waffle's last day at the Brooklyn-Bells', Simon hears the puppy speak. Will he now agree that the family should keep the special dog?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09tn50z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-13T16:35:00Z",
+"start": "2018-04-13T16:35:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 650,
+"first_broadcast": "5:20pm 2 Mar 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Mar 2018",
+"related_links": [],
+"original_title": "Waffle Grows",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": false,
+"release_date_time": "2018-03-02T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09vjzv9",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zsczk.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 6. Waffle's Paint Disaster",
+"synopses": {
+"large": "The Brooklyn-Bells decorate Doug's bedroom. Waffle tries to help but causes a green paint disaster and escapes into Mrs Hobbs's house next door.",
+"small": "Can Waffle stay out of trouble and away from Mrs Hobbs while Doug's bedroom is painted?",
+"medium": "Preschool comedy drama series. The Brooklyn-Bells decorate Doug's bedroom. Waffle causes a green paint disaster and escapes into Mrs Hobbs's house next door."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vjxn1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-16T16:35:00Z",
+"start": "2018-03-26T16:35:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 643,
+"first_broadcast": "5:20pm 5 Mar 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "5 Mar 2018",
+"related_links": [],
+"original_title": "Waffle's Paint Disaster",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": false,
+"release_date_time": "2018-03-05T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09vk2cc",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zsd89.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 7. Waffle Walkies",
+"synopses": {
+"large": "Simon and Evie take Waffle for a walk and bump into Evie's friend Anaya and her mum, AJ. An overenthusiastic Waffle drags Simon through the park, soaking him under a sprinkler.",
+"small": "Simon and Evie's walk in the park with Waffle has a muddy ending.",
+"medium": "Preschool comedy drama series. Simon and Evie take Waffle for a walk, but an overenthusiastic Waffle drags Simon through the park, soaking him under a sprinkler."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vk0zj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-17T16:35:00Z",
+"start": "2018-03-27T16:35:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 660,
+"first_broadcast": "5:20pm 6 Mar 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "6 Mar 2018",
+"related_links": [],
+"original_title": "Waffle Walkies",
+"audio_described": false,
+"parent_position": 7,
+"requires_sign_in": false,
+"release_date_time": "2018-03-06T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09vk5th",
+"live": false,
+"type": "episode",
+"title": "Waffle the Wonder Dog",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zsdt0.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tn0ys",
+"guidance": false,
+"subtitle": "Series 1: 8. Training Waffle",
+"synopses": {
+"large": "Evie, Doug, Jess and Gramps take Waffle to his first puppy training class. Waffle can't resist causing chaos. Simon stays at home to look for his missing sock.",
+"small": "Evie, Doug, Jess and Gramps take Waffle to his first puppy training class.",
+"medium": "Preschool comedy drama series. Evie, Doug, Jess and Gramps take Waffle to his first puppy training class. Waffle can't resist causing chaos."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vk59b",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-18T16:35:00Z",
+"start": "2018-03-28T16:35:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 660,
+"first_broadcast": "5:20pm 7 Mar 2018"
+}
+],
+"parent_id": "b09tn13z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "7 Mar 2018",
+"related_links": [],
+"original_title": "Training Waffle",
+"audio_described": false,
+"parent_position": 8,
+"requires_sign_in": false,
+"release_date_time": "2018-03-07T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b05mrd1t",
+"live": false,
+"type": "episode",
+"title": "Twirlywoos",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02lx5pr.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b064cqyf",
+"guidance": false,
+"subtitle": "Series 1: 18. Soft",
+"synopses": {
+"large": "The Twirlywoos are in a bedroom where a soft and fluffy cat is asleep on a bed. Chickedy and Chick are fascinated by the cat's soft fur and can't resist stroking it, but they have to hide when a lady comes in and shoos the cat out of the room. Toodloo and Great BigHoo look around for Chickedy and Chick and see them moving around under the bed covers. They join them and, not being able to see where they are going, they run off the end of the bed, pulling the duvet down with them. They snuggle up in the soft duvet but are interrupted by the cat returning. The Hooter calls them home just as the cat jumps onto the duvet and so the lady returns to find the duvet on the floor at the foot of the bed, with the cat curled up on top of it.\n\nThe Box visits the boat and this time it is filled with soft balls of fluff, which float around the boat and settle on the floor. The Twirlywoos pile them up into a soft nest and settle down to sleep. Meanwhile, a piece of fluff finds its way into Peekaboo's house. It makes him sneeze, which blows all the fluff into the air, and the Twirlywoos wake up and collect it all up again - only for Peekaboo to sneeze it away again! The final time, Peekaboo sneezes so much that he blows all the fluff right out of the door.",
+"small": "The Twirlywoos meet a soft and fluffy cat, and can't resist stroking its fur.",
+"medium": "Stop-motion preschool programme. The Twirlywoos meet a soft and fluffy cat. The Box visits the boat and this time it is filled with soft balls of fluff."
+},
+"versions": [
+{
+"hd": true,
+"id": "b05mrcx6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-18T05:50:00Z",
+"start": "2018-04-18T05:50:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 645,
+"first_broadcast": "9:25am 18 Mar 2015"
+},
+{
+"hd": false,
+"id": "p02m7s4n",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "11 mins",
+"value": "PT11M"
+},
+"availability": {
+"end": "2018-05-18T05:50:00Z",
+"start": "2018-04-18T06:03:21Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "18 Mar 2015"
+}
+],
+"parent_id": "b053mwzq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "18 Mar 2015",
+"related_links": [
+{
+"id": "p053ymrt",
+"url": "http://www.bbc.co.uk/cbeebies/shows/twirlywoos",
+"kind": "priority_content",
+"type": "link",
+"title": "Play Twirlywoos games"
+}
+],
+"original_title": "Soft",
+"audio_described": true,
+"parent_position": 18,
+"requires_sign_in": false,
+"release_date_time": "2015-03-18T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b04v5hhp",
+"live": false,
+"type": "episode",
+"title": "Bing",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02d6w0v.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b046ts1d",
+"guidance": false,
+"subtitle": "56. Skateboard",
+"synopses": {
+"large": "'Skateboarding is fun and you have to try really hard, and then fall down, and then try really hard again.'\n\nBing and Flop are in the park when they see Pando on a skateboard. Bing is full of awe as he watches Pando skate up and down. He can't wait to have a go himself, but it's much harder to balance than Pando made it look. Bing falls off and bumps his knee, but Pando finds a clever way to help Bing get his confidence back.",
+"small": "Bing really wants to go on a skateboard, but it's much harder to balance than it looks.",
+"medium": "Children's animation. Bing can't wait to have a go on a skateboard, but it's much harder to balance than Pando made it look."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04v55sm",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-04-26T06:25:00Z",
+"start": "2018-04-19T06:25:00Z",
+"remaining": {
+"text": "Available until Thu 7:25am"
+}
+},
+"credits_start": 425,
+"first_broadcast": "9:10am 8 Dec 2014"
+},
+{
+"hd": false,
+"id": "p02dsj4p",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-04-26T06:25:00Z",
+"start": "2018-04-19T06:33:09Z",
+"remaining": {
+"text": "Available until Thu 7:25am"
+}
+},
+"first_broadcast": "8 Dec 2014"
+}
+],
+"parent_id": "b046ts1d",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "8 Dec 2014",
+"related_links": [
+{
+"id": "p053ympw",
+"url": "http://www.bbc.co.uk/cbeebies/games/bing-build-and-play",
+"kind": "priority_content",
+"type": "link",
+"title": "Build and Play with Bing"
+}
+],
+"original_title": "Skateboard",
+"audio_described": true,
+"parent_position": 56,
+"requires_sign_in": false,
+"release_date_time": "2014-12-08T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09qhpyk",
+"live": false,
+"type": "episode",
+"title": "Treasure Champs",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05w1p9z.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09m901s",
+"guidance": false,
+"subtitle": "Series 1: 7. Creativity",
+"synopses": {
+"large": "When Kari is about to throw out an old box of rubbish, Barry shows her that they can use it for something creative instead. Kari struggles to get her imagination going, but accidentally dropping a box in green paint leads her to create a fantastic homemade alien! Barry also creates a box to store all their fantastic creations in. \n\nWe meet two young Treasure Champs who make a 'garden perfume' for their mum, and another who creates a picture to help her younger brother communicate. Plus, storyteller Amy tells the fable of The King's Idea.",
+"small": "Barry shows Kari how to use a box of old rubbish creatively.",
+"medium": "When Kari is about to throw out an old box of rubbish, Barry shows her that they can use it for something creative instead."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09qhm5q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-22T16:15:00Z",
+"start": "2018-04-22T16:15:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "5:05pm 27 Jan 2018"
+},
+{
+"hd": false,
+"id": "p05w97f0",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-22T16:15:00Z",
+"start": "2018-04-22T16:33:42Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "27 Jan 2018"
+}
+],
+"parent_id": "b09m904v",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons",
+"childrens-documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "27 Jan 2018",
+"related_links": [],
+"original_title": "Creativity",
+"audio_described": true,
+"parent_position": 7,
+"requires_sign_in": false,
+"release_date_time": "2018-01-27T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064khwp",
+"live": false,
+"type": "episode",
+"title": "Happy Tent Tales",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064ryht.jpg"
+},
+"labels": {
+"category": "CBeebies",
+"editorial": "Exclusive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p064g5r2",
+"guidance": false,
+"subtitle": "1.The Jackal and the Drum",
+"synopses": {
+"large": "The Jackal and the Drum – a story from India. Jackal hears a rhythmic drumming sound and goes to seek out where it is coming from. He discovers a drum but can’t work out how it makes the noise.",
+"small": "Jackal hears a rhythmic drumming sound and goes to seek out where it is coming from.",
+"medium": "Jackal hears a rhythmic drumming sound and goes to seek out where it is coming from. He discovers a drum but can’t work out how it makes the noise."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064l5w3",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "8 mins",
+"value": "PT7M31S"
+},
+"availability": {
+"end": "2021-04-20T05:00:00Z",
+"start": "2018-04-21T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "p064g5r2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "1.The Jackal and the Drum",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05pc2p2",
+"type": "group_large",
+"group_type": "curated",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03fh1sb.jpg",
+"vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p03fh1nf.jpg"
+},
+"episode_sort_direction": "asc",
+"labels": {
+"editorial": "Exclusive"
+},
+"stacked": true,
+"related_links": [],
+"master_brand": {
+"id": "cbeebies",
+"ident_id": "p00pvbng",
+"attribution": "cbeebies",
+"titles": {
+"small": "CBeebies",
+"medium": "CBeebies",
+"large": "CBeebies"
+}
+},
+"title": "Mr Tumble's Songs",
+"synopses": {
+"small": "Join Mr Tumble as we go through nursery rhymes, songs and more",
+"medium": "Join Mr Tumble as we go through nursery rhymes, songs and more"
+},
+"count": 12,
+"initial_children": [
+{
+"id": "p05tf5mm",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05tff3b.jpg"
+},
+"labels": {
+"category": "CBeebies",
+"editorial": "Exclusive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Shine Song",
+"synopses": {
+"small": "Sing and sign along to our brand new Shine Song!",
+"medium": "Sing and sign along to our brand new Shine Song!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05tf63f",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "1 min",
+"value": "PT1M"
+},
+"availability": {
+"end": "2023-01-12T06:00:00Z",
+"start": "2018-01-13T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 76,
+"first_broadcast": "13 Jan 2018"
+}
+],
+"parent_id": "b006m8q4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "13 Jan 2018",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "Shine Song",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-01-13T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pbxcw",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05prckg.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 1. What’s The Weather Today?",
+"synopses": {
+"small": "Sing and sign nursery rhymes all about the weather with Mr Tumble!",
+"medium": "Sing and sign nursery rhymes all about the weather with Mr Tumble!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pbxh4",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "4 mins",
+"value": "PT4M"
+},
+"availability": {
+"end": "2022-12-01T06:00:00Z",
+"start": "2017-12-02T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 171,
+"first_broadcast": "2 Dec 2017"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "What’s The Weather Today?",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": false,
+"release_date_time": "2017-12-02T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pby85",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05prcl8.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 2. We're Off",
+"synopses": {
+"small": "Sing and sign nursery rhymes all about transport with Mr Tumble!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pbyst",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "4 mins",
+"value": "PT4M"
+},
+"availability": {
+"end": "2022-12-01T06:00:00Z",
+"start": "2017-12-02T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 151,
+"first_broadcast": "2 Dec 2017"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "We're Off",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2017-12-02T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pbyz2",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05prcm1.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 3. Let’s Count Together!",
+"synopses": {
+"large": "Count along with Mr Tumble as he sings and signs these nursery rhymes",
+"small": "Count along with Mr Tumble as he sings and signs these nursery rhymes",
+"medium": "Count along with Mr Tumble as he sings and signs these nursery rhymes"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pbz27",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "4 mins",
+"value": "PT4M"
+},
+"availability": {
+"end": "2022-12-01T06:00:00Z",
+"start": "2017-12-02T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 192,
+"first_broadcast": "2 Dec 2017"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "Let’s Count Together!",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2017-12-02T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pbzbv",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05prcpj.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 4. Are You Ready to Join In?",
+"synopses": {
+"large": "Help Mr Tumble by joining in with these nursery rhymes!",
+"small": "Help Mr Tumble by joining in with these nursery rhymes!",
+"medium": "Help Mr Tumble by joining in with these nursery rhymes!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pbzd2",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "4 mins",
+"value": "PT4M"
+},
+"availability": {
+"end": "2022-12-01T06:00:00Z",
+"start": "2017-12-02T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 214,
+"first_broadcast": "2 Dec 2017"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "Are You Ready to Join In?",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": false,
+"release_date_time": "2017-12-02T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pbzyt",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05prcsh.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 5. It's Sleepy Time",
+"synopses": {
+"large": "Sing and sign these nursery rhymes with Mr Tumble before you go to sleep tonight!",
+"small": "Sing and sign these nursery rhymes with Mr Tumble before you go to sleep tonight!",
+"medium": "Sing and sign these nursery rhymes with Mr Tumble before you go to sleep tonight!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pc00d",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "4 mins",
+"value": "PT4M"
+},
+"availability": {
+"end": "2022-12-01T06:00:00Z",
+"start": "2017-12-02T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 211,
+"first_broadcast": "2 Dec 2017"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "2 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "It's Sleepy Time",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": false,
+"release_date_time": "2017-12-02T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p05pc078",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05qgnvc.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "New Goodbye Song",
+"synopses": {
+"large": "Something Special -“We’re All Friends” returns with added sparkle for Series 11. New treats include The Shine Song, Star Selfies, Mr Tumble’s",
+"small": "Sing and sign along to our brand new Goodbye Song!",
+"medium": "Sing and sign along to our brand new Goodbye Song!"
+},
+"versions": [
+{
+"hd": true,
+"id": "p05pc092",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "1 min",
+"value": "PT1M"
+},
+"availability": {
+"end": "2022-12-08T06:00:00Z",
+"start": "2017-12-09T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 49,
+"first_broadcast": "9 Dec 2017"
+}
+],
+"parent_id": "b006m8q4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "9 Dec 2017",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "New Goodbye Song",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": false,
+"release_date_time": "2017-12-09T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p060c7yk",
+"live": false,
+"type": "episode",
+"title": "Something Special",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060dd52.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8q4",
+"guidance": false,
+"subtitle": "Mr Tumble's Songs: 6. It's Bedtime!",
+"synopses": {
+"large": "It’s Time To Sing And Sign Along With Mr Tumble! Brush Your Teeth, Imagination, Make the Bed, Time for Sleep.",
+"small": "It’s Time To Sing And Sign Along With Mr Tumble! It's Time for Sleep.",
+"medium": "It’s Time To Sing And Sign Along With Mr Tumble! Brush Your Teeth, Imagination, Make the Bed, Time for Sleep."
+},
+"versions": [
+{
+"hd": true,
+"id": "p060c8d2",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "3 mins",
+"value": "PT3M"
+},
+"availability": {
+"end": "2023-03-13T06:00:00Z",
+"start": "2018-03-14T06:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 258,
+"first_broadcast": "14 Mar 2018"
+}
+],
+"parent_id": "p05pbxxs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbeebies"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "14 Mar 2018",
+"related_links": [
+{
+"id": "p053ym5m",
+"url": "http://www.bbc.co.uk/cbeebies/games/something-special-the-looking-game",
+"kind": "priority_content",
+"type": "link",
+"title": "Help Mr Tumble and Friends"
+}
+],
+"original_title": "It's Bedtime!",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": false,
+"release_date_time": "2018-03-14T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+}
+]
+},
+{
+"id": "b03ybt07",
+"live": false,
+"type": "episode",
+"title": "Topsy and Tim",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tm9wy.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0499l2q",
+"guidance": false,
+"subtitle": "Series 1: 29. Moving House",
+"synopses": {
+"large": "It's moving day. Topsy and Tim help Mummy and Dad and the removal people pack their belongings into a big van, ready to be taken to their new home. Tony Welch and his family come to collect the twins' bunk beds before Topsy and Tim say goodbye to their old house and friends. The twins are excited, especially when Mr Fishwick gives them the best moving present ever!",
+"small": "It's moving day. Topsy and Tim say goodbye to their old house and friends.",
+"medium": "Live-action children's show. It's moving day. Topsy and Tim help Mummy and Dad and the removal people pack their belongings into a big van."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03ybszh",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-21T11:45:00Z",
+"start": "2018-04-21T11:45:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 643,
+"first_broadcast": "5:30pm 13 Mar 2014"
+},
+{
+"hd": false,
+"id": "p01ty2wf",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-21T11:45:00Z",
+"start": "2018-04-21T11:56:51Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "13 Mar 2014"
+}
+],
+"parent_id": "b03j5wcn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "13 Mar 2014",
+"related_links": [],
+"original_title": "Moving House",
+"audio_described": true,
+"parent_position": 29,
+"requires_sign_in": false,
+"release_date_time": "2014-03-13T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09d43y5",
+"live": false,
+"type": "episode",
+"title": "Apple Tree House",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05l3bmg.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p051qzsz",
+"guidance": false,
+"subtitle": "Series 1: 20. Family Tree",
+"synopses": {
+"large": "The children are learning about their families, their heritage and their family trees, but Bella is concerned that her family might be really boring compared to Sam and Mali's families. Desperate to learn that she might be related to a princess, Bella's about to discover something amazing that will leave her dad, Ian, very impressed.",
+"small": "Researching her family tree, Bella is desperate to learn if she is related to a princess.",
+"medium": "Preschool drama series. The children are learning about their family trees, and Bella is desperate to learn if she is related to a princess."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09d43wp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-21T15:40:00Z",
+"start": "2018-04-21T15:40:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 826,
+"first_broadcast": "5:20pm 3 Nov 2017"
+},
+{
+"hd": false,
+"id": "p05lz028",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-21T15:40:00Z",
+"start": "2018-04-21T16:00:52Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "3 Nov 2017"
+}
+],
+"parent_id": "b08rfs6w",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "3 Nov 2017",
+"related_links": [],
+"original_title": "Family Tree",
+"audio_described": true,
+"parent_position": 20,
+"requires_sign_in": false,
+"release_date_time": "2017-11-03T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

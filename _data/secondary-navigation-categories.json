@@ -28,14 +28,14 @@
 	},
 },{
 	"title": "CBBC",
-	"data-id": "cbbc",
+	"data-id": "cbbc-category",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
 	},
 },{
 	"title": "CBeebies",
-	"data-id": "cbeebies",
+	"data-id": "cbeebies-category",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""
@@ -128,6 +128,13 @@
 },{
 	"title": "From the Archive",
 	"data-id": "from-the-archive",
+	"images": {
+		"focussed": "",
+		"unfocussed": ""
+	},
+},{
+	"title": "Arts",
+	"data-id": "arts",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""

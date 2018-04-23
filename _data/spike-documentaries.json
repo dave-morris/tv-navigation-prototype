@@ -1,0 +1,3373 @@
+[{
+    "id": "p063cjmb",
+    "live": false,
+    "type": "episode",
+    "title": "Miranda Barbour: Serial Killer Or Liar?",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06438zs.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p063cjmb",
+    "guidance": true,
+    "synopses": {
+      "large": "A dead man is found on waste ground in Pennsylvania 2013. He had been stabbed twenty-two times. The 42-year-old municipal worker, Troy LaFerarra, had answered an Internet ad from 18-year old Miranda Barbour and they had arranged to meet.\n\n \n\nThree weeks later Miranda confesses she’d killed him in self-defense. But local Sunbury police officer, Travis Bremigen, suspects the young wife has something to hide. He brings Miranda’s husband, Elytte Barbour, in for questioning. The 22-year-old admits he and his new wife just wanted to murder a stranger, “We had no reason… other than that.”\n\n \n\nHeadlines brand them \"The Craigslist Thrill Killlers\". While awaiting trial, Miranda makes an astonishing confession to a local reporter that Troy was not her first victim. She tells Francis Scarcella she’d killed more than 22 others as part of a Satanic murder cult that began in Alaska. The resulting headlines about a Satanic teen serial killer rocked the world.\n\n \n\nElytte Barbour also reveals to officer Bremigen that the newly weds would cut each other, “having sexual intercourse in their own blood”. Elytte firmly believes that his wife is \"demon possessed\".\n\n \n\nIn Alaska, where Miranda was brought up, local journalist Jill Burke believes there must be more to this story than than the lurid headlines. Digging deep into Miranda's past, Jill uncovers dark secrets about her upbringing and her complex history. Do these hold the key to explaining Miranda's apparent \"thrill kill\" and her claims to have murdered many more people?",
+      "small": "A teenager who kills a man she met through a sex ad claims to be a Satanic serial killer.",
+      "medium": "Miranda Barbour lured a man with a sex ad then killed him. She then confessed to killing 22 more for a Satanic cult. But is the teen mother really a serial killer?",
+      "editorial": "The numerous twists and turns of a murder case that’s not as simple as good and evil."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p063ckfw",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M38S"
+      },
+      "guidance": {
+        "id": "D2L1",
+        "text": {
+          "large": "Contains some strong language and scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-10-15T08:00:00Z",
+        "start": "2018-04-18T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 3373,
+      "first_broadcast": "18 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries-crime-and-justice",
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "18 Apr 2018",
+    "related_links": [],
+    "original_title": "Miranda Barbour: Serial Killer Or Liar?",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-18T00:00:00.000Z",
+    "editorial_subtitle": "Did a teen mum really kill?",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0077dwt",
+    "live": false,
+    "type": "episode",
+    "title": "Arena",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xky2.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006pn88",
+    "guidance": false,
+    "subtitle": "Cigars - Out of the Humidor",
+    "synopses": {
+      "large": "Documentary which follows the story of the cigar - from the tobacco fields west of the Cuban capital of Havana into the factories where poetry and daily newspapers are read aloud to the workers, to Hollywood cigar bars and the gentlemen's haunts of St James's, London. With the worldwide cigar market growing, smoking cigars is perceived as glamorous and yet this is occurring at a time when it is nearly impossible to smoke a cigarette in any public place in the United States. Cigar clubs are opening up in America despite the fact that Cuban cigars are banned. The film looks at the rituals and traditions of cigar smoking, the history of cigars and famous cigar smokers from all walks of life. With Lord Grade, Kenneth Clarke, James Belushi, George Wendt and Peter Weller.",
+      "small": "Film following the story of the cigar from Cuban tobacco fields to Hollywood cigar bars.",
+      "medium": "Documentary following the story of the cigar, from the tobacco fields west of Havana to the Hollywood cigar bars and the gentlemen's haunts of St James's, London."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b1p9xd",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-23T02:20:00Z",
+        "start": "2018-04-22T22:55:16Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "first_broadcast": "25 Dec 1997"
+    }],
+    "parent_id": "b006pn88",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "25 Dec 1997",
+    "related_links": [],
+    "original_title": "Cigars - Out of the Humidor",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "1997-12-25T00:00:00.000Z",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11zyn",
+    "live": false,
+    "type": "episode",
+    "title": "imagine...",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nl61.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007ght1",
+    "guidance": true,
+    "subtitle": "Winter 2017/18: 7. Habaneros: You Say You Want a Revolution? Part One",
+    "synopses": {
+      "large": "Raul Castro has recently stepped down as president of Cuba, almost 60 years after his brother Fidel and a small band of bearded cigar-smoking guerrillas entered the capital Havana and changed the lives of their people forever.\n\nUsing extraordinary and previously unseen archive footage, and shot over the past three years, Julien Temple's two-part film captures the mood of Havana and its people - the Habaneros - at a pivotal moment in time. They share their experience of life in this extraordinary city - the highs and lows, the exhilaration and the suffering. It's a rollercoaster ride from Spanish colony to republic to revolution to the precarious present. Fidel is dead, Obama's hand of friendship is withdrawn and as the US blockade continues to strangle the economy, Havana is literally falling apart.",
+      "small": "Film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment.",
+      "medium": "Two-part film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment in time. They share their experience of life in this extraordinary city.",
+      "editorial": "Julien Temple captures Havana and its people at a pivotal moment - after Castro."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b11zy0",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "63 mins",
+        "value": "PT1H3M"
+      },
+      "guidance": {
+        "id": "D1",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-05-21T21:05:00Z",
+        "start": "2018-04-21T21:05:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "credits_start": 3746,
+      "first_broadcast": "9pm 21 Apr 2018"
+    }],
+    "parent_id": "b09th2v7",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "21 Apr 2018",
+    "related_links": [],
+    "original_title": "Habaneros: You Say You Want a Revolution? Part One",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-21T00:00:00.000Z",
+    "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part One",
+    "lexical_sort_letter": "I",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b0333p",
+    "live": false,
+    "type": "episode",
+    "title": "Natural World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wn2g.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006qnnh",
+    "guidance": false,
+    "subtitle": "2018-2019: 2. Nature's Biggest Beasts",
+    "synopses": {
+      "large": "The world's biggest beasts have always captured the imagination. But whilst being big can have its advantages, it also comes with sizeable challenges. Take the world's largest lizard, the Komodo dragon, whose huge appetite means it must take on prey ten times its weight or the tallest animal of them all, the giraffe, who with such a long neck must control immense blood pressure. Nature's biggest beasts must go to extraordinary lengths to thrive. These are their epic survival stories!",
+      "small": "How the world's biggest beasts overcome the challenges of their size.",
+      "medium": "Documentary. Big beasts have always captured the imagination, but being large comes with sizeable challenges. These are the epic survival stories of the world's largest animals.",
+      "editorial": "From the blue whale to the giraffe, big beasts go to extraordinary lengths to survive."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b032w8",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-19T20:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3522,
+        "first_broadcast": "8pm 19 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064v5sp",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-19T20:50:47Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "19 Apr 2018"
+      }
+    ],
+    "parent_id": "b09z77yq",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-science-and-nature",
+      "documentaries",
+      "science-and-nature"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "19 Apr 2018",
+    "related_links": [],
+    "original_title": "Nature's Biggest Beasts",
+    "audio_described": true,
+    "editorial_title": "Nature's Biggest Beasts",
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-19T00:00:00.000Z",
+    "editorial_subtitle": "The epic survival stories of some incredible creatures",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p064x5w1",
+    "type": "group_large",
+    "group_type": "curated",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064zcyw.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p064zczm.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "stacked": false,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc",
+      "attribution": "bbc",
+      "titles": {
+        "small": "BBC",
+        "medium": "BBC",
+        "large": "BBC"
+      }
+    },
+    "title": "Cuba Season",
+    "synopses": {
+      "small": "Discover Cuba's rich culture, music and history."
+    },
+    "count": 6,
+    "initial_children": [{
+        "id": "b03p8shj",
+        "live": false,
+        "type": "episode",
+        "title": "Buena Vista Social Club",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zb3m.jpg"
+        },
+        "labels": {
+          "category": "Film"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03p8shj",
+        "guidance": false,
+        "synopses": {
+          "large": "Cuba's rich and colourful past comes vividly to life in this legendary, Oscar-nominated documentary.\n\nThe award-winning Buena Vista Social Club album produced by Ry Cooder remains the biggest-selling world music album ever, showcasing the talents of a dream team of veterans from Cuban music's golden age, including Ibrahim Ferrer, Ruben Gonzalez, Eliades Ochoa, Omara Portuondo and Compay Segundo.\n\nNever a regular band, The Buena Vista Social Club had gone their separate ways, but in this extraordinary film Wim Wenders intimately documents Ry Cooder's return to Havana, encountering these musical legends again as they look back to the halcyon days of Cuba's music scene, when the rich and famous travelled from all over the world to listen to them. In the climax, their music comes alive once again, as they rehearse for their first - and only - performance in America, at New York's Carnegie Hall.",
+          "small": "A group of Cuban musicians are brought together by Ry Cooder to record their music.",
+          "medium": "Documentary about a group of legendary Cuban musicians who were brought together by Ry Cooder to record their music. Includes recording sessions in Havana and concert footage.",
+          "editorial": "How Ry Cooder reunited a group of legendary Cuban musicians for a spectacular peformance."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b001301w",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "105 mins",
+            "value": "PT1H45M"
+          },
+          "availability": {
+            "end": "2018-05-20T21:40:00Z",
+            "start": "2018-04-20T22:21:58Z",
+            "remaining": {
+              "text": "Available for 27 days"
+            }
+          },
+          "first_broadcast": "1999"
+        }],
+        "suppliers": [],
+        "tleo_type": "episode",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries-music",
+          "documentaries",
+          "films",
+          "music"
+        ],
+        "has_credits": false,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "1999",
+        "related_links": [],
+        "original_title": "Buena Vista Social Club",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "release_date_time": "1999-01-01T00:00:00.000Z",
+        "editorial_subtitle": "Cuba's musical past comes to life in a classic documentary",
+        "lexical_sort_letter": "B",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00qbzxs",
+        "live": false,
+        "type": "episode",
+        "title": "Latin Music USA",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnfsb.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b00qgyj5",
+        "guidance": false,
+        "subtitle": "1. East Side Story",
+        "synopses": {
+          "large": "The first of a four-part series revealing the deep musical and social impact of Latin music in the USA.\n\nThe massive success of Santana's innovative Latin-blues at the Woodstock Festival leads back in time to the first Cuban immigrants arriving, with their Afro-Cuban music, into the States. Using feature film clips, rare archive and location filming, the programme examines how Afro-Cuban music has impacted - since early last century - on jazz, pop rhythms and dance styles. \n\nFrom Cuban rumba to New York mambo, Latin music enthralled 1950s America, challenging racial attitudes and changing the stereotypes projected in movies like West Side Story. It influenced Hollywood, TV sitcoms and 60s rock 'n' roll, as the Beatles and many American R&B bands absorbed Latin rhythms into the wider worlds of rock music, fashion and culture. \n\nFeaturing Carlos Santana, Cachao, Tito Puente, Dizzy Gillespie and the greatest names in Afro-Cuban music.",
+          "small": "A look at how Afro-Cuban music has impacted on jazz, pop rhythms and dance styles.",
+          "medium": "Series revealing the musical and social impact of Latin music in the USA. This part examines how Afro-Cuban music has affected jazz, pop rhythms and dance styles."
+        },
+        "versions": [{
+          "hd": false,
+          "id": "b00qbzw5",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-22T23:30:00Z",
+            "start": "2018-04-20T22:51:44Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "9pm 29 Jan 2010"
+        }],
+        "parent_id": "b00qgyj5",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "documentaries-music",
+          "documentaries",
+          "music"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "29 Jan 2010",
+        "related_links": [],
+        "original_title": "East Side Story",
+        "audio_described": false,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2010-01-29T00:00:00.000Z",
+        "lexical_sort_letter": "L",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b00qmxcl",
+        "live": false,
+        "type": "episode",
+        "title": "Arena",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnm03.jpg"
+        },
+        "labels": {
+          "category": "Arts"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006pn88",
+        "guidance": false,
+        "subtitle": "My Name Is Celia Cruz",
+        "synopses": {
+          "large": "The queen of salsa, Celia Cruz has been the most adored and dynamic singer in Latin America for more than four decades. Since she left Cuba at the time of the 1959 revolution with her band Sonora Matancera, she lived in New York and rose to international fame with the legendary Latin bands of Tito Puente and Johnny Pacheco, the creators of salsa. \n\nThis profile includes testimony from friends, fans, fellow professionals and a stunning performance at New York's world-famous Apollo Theatre.",
+          "small": "Profile of the legendary Cuban salsa singer Celia Cruz, who lived and worked in New York.",
+          "medium": "Profile of the legendary Cuban salsa singer Celia Cruz, who moved to New York and rose to international fame with the Latin bands of Tito Puente and Johnny Pacheco."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b00qmxbr",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "65 mins",
+            "value": "PT1H5M"
+          },
+          "availability": {
+            "end": "2018-05-20T23:45:00Z",
+            "start": "2018-04-20T23:59:56Z",
+            "remaining": {
+              "text": "Available for 27 days"
+            }
+          }
+        }],
+        "parent_id": "b006pn88",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "related_links": [],
+        "original_title": "My Name Is Celia Cruz",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "lexical_sort_letter": "A",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b11zyn",
+        "live": false,
+        "type": "episode",
+        "title": "imagine...",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nl61.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007ght1",
+        "guidance": true,
+        "subtitle": "Winter 2017/18: 7. Habaneros: You Say You Want a Revolution? Part One",
+        "synopses": {
+          "large": "Raul Castro has recently stepped down as president of Cuba, almost 60 years after his brother Fidel and a small band of bearded cigar-smoking guerrillas entered the capital Havana and changed the lives of their people forever.\n\nUsing extraordinary and previously unseen archive footage, and shot over the past three years, Julien Temple's two-part film captures the mood of Havana and its people - the Habaneros - at a pivotal moment in time. They share their experience of life in this extraordinary city - the highs and lows, the exhilaration and the suffering. It's a rollercoaster ride from Spanish colony to republic to revolution to the precarious present. Fidel is dead, Obama's hand of friendship is withdrawn and as the US blockade continues to strangle the economy, Havana is literally falling apart.",
+          "small": "Film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment.",
+          "medium": "Two-part film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment in time. They share their experience of life in this extraordinary city.",
+          "editorial": "Julien Temple captures Havana and its people at a pivotal moment - after Castro."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b11zy0",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "63 mins",
+            "value": "PT1H3M"
+          },
+          "guidance": {
+            "id": "D1",
+            "text": {
+              "large": "Contains some scenes which some viewers may find upsetting.",
+              "small": "Has guidance",
+              "medium": "Contains some upsetting scenes."
+            }
+          },
+          "availability": {
+            "end": "2018-05-21T21:05:00Z",
+            "start": "2018-04-21T21:05:00Z",
+            "remaining": {
+              "text": "Available for 28 days"
+            }
+          },
+          "credits_start": 3746,
+          "first_broadcast": "9pm 21 Apr 2018"
+        }],
+        "parent_id": "b09th2v7",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "21 Apr 2018",
+        "related_links": [],
+        "original_title": "Habaneros: You Say You Want a Revolution? Part One",
+        "audio_described": false,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-21T00:00:00.000Z",
+        "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part One",
+        "lexical_sort_letter": "I",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0b0g3qk",
+        "live": false,
+        "type": "episode",
+        "title": "imagine...",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nlrp.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007ght1",
+        "guidance": true,
+        "subtitle": "Winter 2017/18: 8. Habaneros: You Say You Want a Revolution? Part Two",
+        "synopses": {
+          "large": "Almost sixty years on, Castro's Cuban revolution continues to split world opinion as decisively as it did when that small band of bearded guerrillas first entered Havana.\n\nIn the second part of Julien Temple's film we hear from the citizens of this extraordinary city how these young revolutionaries put their dreams into practice. With access to remarkable archive footage, we see how they set about building a brave new socialist world on America's doorstep. Now with Obama gone, Trump in the White House, Fidel dead and his brother Raul stepping down from the presidency, Havana too is about to step into the unknown.",
+          "small": "How the young Cuban revolutionaries set about building a brave new socialist world.",
+          "medium": "The citizens of Cuba tell how the young revolutionaries of the 60s put their dreams into practice and set about building a brave new socialist world on America's doorstep."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b0g2c3",
+          "kind": "original",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "90 mins",
+            "value": "PT1H30M"
+          },
+          "guidance": {
+            "id": "D1L1",
+            "text": {
+              "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language and some upsetting scenes."
+            }
+          },
+          "availability": {
+            "end": "2018-05-22T21:30:00Z",
+            "start": "2018-04-22T21:30:00Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "9pm 22 Apr 2018"
+        }],
+        "parent_id": "b09th2v7",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_one",
+          "titles": {
+            "large": "BBC One",
+            "small": "BBC One",
+            "medium": "BBC One"
+          },
+          "ident_id": "p04y9kr4",
+          "attribution": "bbc_one"
+        },
+        "release_date": "22 Apr 2018",
+        "related_links": [],
+        "original_title": "Habaneros: You Say You Want a Revolution? Part Two",
+        "audio_described": false,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2018-04-22T00:00:00.000Z",
+        "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part Two",
+        "lexical_sort_letter": "I",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "b0077dwt",
+        "live": false,
+        "type": "episode",
+        "title": "Arena",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xky2.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006pn88",
+        "guidance": false,
+        "subtitle": "Cigars - Out of the Humidor",
+        "synopses": {
+          "large": "Documentary which follows the story of the cigar - from the tobacco fields west of the Cuban capital of Havana into the factories where poetry and daily newspapers are read aloud to the workers, to Hollywood cigar bars and the gentlemen's haunts of St James's, London. With the worldwide cigar market growing, smoking cigars is perceived as glamorous and yet this is occurring at a time when it is nearly impossible to smoke a cigarette in any public place in the United States. Cigar clubs are opening up in America despite the fact that Cuban cigars are banned. The film looks at the rituals and traditions of cigar smoking, the history of cigars and famous cigar smokers from all walks of life. With Lord Grade, Kenneth Clarke, James Belushi, George Wendt and Peter Weller.",
+          "small": "Film following the story of the cigar from Cuban tobacco fields to Hollywood cigar bars.",
+          "medium": "Documentary following the story of the cigar, from the tobacco fields west of Havana to the Hollywood cigar bars and the gentlemen's haunts of St James's, London."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "b0b1p9xd",
+          "kind": "editorial",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "60 mins",
+            "value": "PT1H"
+          },
+          "availability": {
+            "end": "2018-05-23T02:20:00Z",
+            "start": "2018-04-22T22:55:16Z",
+            "remaining": {
+              "text": "Available for 29 days"
+            }
+          },
+          "first_broadcast": "25 Dec 1997"
+        }],
+        "parent_id": "b006pn88",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "documentaries-arts",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_four",
+          "titles": {
+            "large": "BBC Four",
+            "small": "BBC Four",
+            "medium": "BBC Four"
+          },
+          "ident_id": "p03rqj11",
+          "attribution": "bbc_four"
+        },
+        "release_date": "25 Dec 1997",
+        "related_links": [],
+        "original_title": "Cigars - Out of the Humidor",
+        "audio_described": false,
+        "requires_sign_in": true,
+        "release_date_time": "1997-12-25T00:00:00.000Z",
+        "lexical_sort_letter": "A",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "b0b06h8j",
+    "live": false,
+    "type": "episode",
+    "title": "Panorama",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06473v0.jpg"
+    },
+    "labels": {
+      "category": "Current affairs"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t14n",
+    "guidance": false,
+    "subtitle": "North Korea's Secret Slave Gangs",
+    "synopses": {
+      "large": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery. It is thought that more than one hundred thousand North Korean workers are posted abroad to earn money for the cash-strapped regime - money that is being ploughed into Kim Jong-un's nuclear weapons programme. An international consortium of journalists has filmed undercover to reveal secret work gangs operating in Russia, China and Poland.",
+      "small": "Panorama investigates North Korean modern-day slavery.",
+      "medium": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b19sqf",
+        "kind": "editorial",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2019-04-20T03:00:00Z",
+          "start": "2018-04-16T20:10:11Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "credits_start": 1688,
+        "first_broadcast": "16 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b0bkgc",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2019-04-21T00:05:00Z",
+          "start": "2018-04-21T00:05:00Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "first_broadcast": "16 Apr 2018"
+      }
+    ],
+    "parent_id": "b006t14n",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "news",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "16 Apr 2018",
+    "related_links": [],
+    "original_title": "North Korea's Secret Slave Gangs",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-16T00:00:00.000Z",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b09dss",
+    "live": false,
+    "type": "episode",
+    "title": "Stephen: The Murder that Changed a Nation",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642ps5.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b0br42",
+    "guidance": true,
+    "subtitle": "Series 1: 1. The Loss of Joy",
+    "synopses": {
+      "large": "Three-part documentary series examining the murder of Stephen Lawrence. The first episode focuses on the run-up to Stephen's murder and the police investigation that follows. As the suspects remain free, tip-offs from the community worry Doreen and Neville, Stephen's parents, about why the police are not making arrests.\n\nA visit from Nelson Mandela seems to prompt action, but Stephen's friend Duwayne, also a victim of the attack, gets into difficulty with the police. When the charges against the suspects are dropped, Doreen realises she must take action into her own hands.",
+      "small": "Documentary examining the murder of Stephen Lawrence and the police investigation.",
+      "medium": "Documentary series examining the murder of Stephen Lawrence. The first episode focuses on the run-up to Stephen's murder and the police investigation that followed.",
+      "editorial": "The definitive account of a shocking crime, and the grieving Lawrence family left behind."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b09dn5",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "guidance": {
+          "id": "L3V1",
+          "text": {
+            "large": "Contains very strong language and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and some violence."
+          }
+        },
+        "availability": {
+          "end": "2018-05-17T21:00:00Z",
+          "start": "2018-04-17T21:00:00Z",
+          "remaining": {
+            "text": "Available for 24 days"
+          }
+        },
+        "credits_start": 3529,
+        "first_broadcast": "9pm 17 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064mhdm",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "guidance": {
+          "id": "L3V1",
+          "text": {
+            "large": "Contains very strong language and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and some violence."
+          }
+        },
+        "availability": {
+          "end": "2018-05-17T21:00:00Z",
+          "start": "2018-04-17T21:49:41Z",
+          "remaining": {
+            "text": "Available for 24 days"
+          }
+        },
+        "first_broadcast": "17 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b09drg",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-crime-and-justice",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "17 Apr 2018",
+    "related_links": [],
+    "original_title": "The Loss of Joy",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-17T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. 25 years on",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p0635szw",
+    "live": false,
+    "type": "episode",
+    "title": "A Tattoo To Change Your Life",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hb8b.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05tj86c",
+    "guidance": true,
+    "subtitle": "Series 1: 7. Satanism, Self-Harm and Me",
+    "synopses": {
+      "large": "Ben used to be a satanist, and self-harmed. He is now a vicar and wants to get a tattoo to remember that God saved his life.",
+      "small": "Ben used to be a satanist but now is a vicar.",
+      "medium": "Ben used to be a satanist, and self-harmed. He is now a vicar and wants to get a tattoo to remember that God saved his life.",
+      "editorial": "Once a satanist, vicar Ben wants to get a tattoo to remember that God saved his life."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0635w3w",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "6 mins",
+        "value": "PT5M59S"
+      },
+      "guidance": {
+        "id": "W2",
+        "text": {
+          "large": "Deals with adult themes.",
+          "small": "Has guidance",
+          "medium": "Contains adult themes."
+        }
+      },
+      "availability": {
+        "end": "2019-04-06T08:00:00Z",
+        "start": "2018-04-11T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 355,
+      "first_broadcast": "11 Apr 2018"
+    }],
+    "parent_id": "p05tj8hr",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "11 Apr 2018",
+    "related_links": [],
+    "original_title": "Satanism, Self-Harm and Me",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-11T00:00:00.000Z",
+    "editorial_subtitle": "7/7 Satanism, Self-Harm and Me",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09zcvct",
+    "live": false,
+    "type": "episode",
+    "title": "My Turban and Me",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0643hfh.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09zcvct",
+    "guidance": false,
+    "synopses": {
+      "large": "Documentary exploring Sikh identity in modern Britain. Actor and comedian Sanjeev Kohli goes on a heartwarming personal journey to explore the importance of wearing the Sikh turban in Britain and  investigate why it is becoming more popular. \n\nSanjeev, most famous for his role as Navid in the BBC1 comedy Still Game, comes from a proud Sikh heritage, but is the only male member of his family not to wear the turban and sees this journey as a reconnection with the Sikh community. He starts off by looking into his own family history, how his turban-wearing brothers were bullied at school, and questions whether he was right to make the decision at the age of 14 not to wear one. \n\nAs a father of teenagers, Sanjeev tries find out whether attitudes towards the turban have changed over generations by meeting passionate young Sikhs in all walks of life. Over the course of his journey he discovers that, while many first-generation Punjabi immigrants wanted to try to fit in, their children and grandchildren are trying to stand out, and there is a resurgence of British Sikhs - both men and women - wearing the turban and reclaiming their identity. He also attempts to find out what lies behind this new-found enthusiasm to publicly embrace their religious identity.",
+      "small": "Sanjeev Kohli explores the importance of wearing the Sikh turban in modern Britain.",
+      "medium": "Documentary. Comedian Sanjeev Kohli explores the importance of wearing the Sikh turban in modern Britain and investigates why it is becoming more popular with young people."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09zcvcl",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "32 mins",
+          "value": "PT32M"
+        },
+        "availability": {
+          "end": "2018-05-17T23:20:00Z",
+          "start": "2018-04-17T22:20:00Z",
+          "remaining": {
+            "text": "Available for 24 days"
+          }
+        },
+        "credits_start": 1880,
+        "first_broadcast": "10:45pm 17 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064mlnj",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "32 mins",
+          "value": "PT32M"
+        },
+        "availability": {
+          "end": "2018-05-17T23:20:00Z",
+          "start": "2018-04-17T22:58:47Z",
+          "remaining": {
+            "text": "Available for 24 days"
+          }
+        },
+        "first_broadcast": "17 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "17 Apr 2018",
+    "related_links": [],
+    "original_title": "My Turban and Me",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-17T00:00:00.000Z",
+    "editorial_subtitle": "Why are more British Sikhs embracing their identity?",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p060mvz3",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063d098.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p063d09l.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "labels": {
+      "editorial": "Full Series",
+      "category": "Documentary"
+    },
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_three",
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three",
+      "titles": {
+        "small": "BBC Three",
+        "medium": "BBC Three",
+        "large": "BBC Three"
+      }
+    },
+    "title": "Unsolved",
+    "synopses": {
+      "small": "True-crime investigative series which explores historical crimes, including murder.",
+      "medium": "True-crime investigative series which explores historical crimes, including murder."
+    },
+    "count": 14,
+    "initial_children": [{
+        "id": "p041ggfw",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062qykv.jpg"
+        },
+        "labels": {
+          "category": "Documentary"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": false,
+        "subtitle": "The Boy Who Disappeared: 1. The Night",
+        "synopses": {
+          "large": "Alys and Bronagh establish the events of 2 November 1996 - the night Damien Nettles went missing. Talking to his family and a key witness from that evening, they delve into what was happening in the teenager’s life at the time. Could the island’s drugs underworld be the key to solving this mystery?",
+          "small": "Alys and Bronagh establish the events of the night in 1996 Damien Nettles went missing.",
+          "medium": "Alys and Bronagh establish the events of the night Damien Nettles went missing, talking to his family and a key witness from that evening."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041y9wd",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "15 mins",
+            "value": "PT14M42S"
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:32:50Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 879,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j71s",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Night",
+        "audio_described": false,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "editorial_subtitle": "Full series.  A night in 1996",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041ggmk",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kcws.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": false,
+        "subtitle": "The Boy Who Disappeared: 2. The Informant",
+        "synopses": {
+          "large": "Alys and Bronagh track down an ex-informant from the island’s drug dealing scene. He hands over information about where Damien could be buried. \n\n\n\nBut does this bring us any closer to the truth? And is this everything the informant claims to know?",
+          "small": "Alys and Bronagh track down an ex-informant from the island’s drug dealing scene.",
+          "medium": "Alys and Bronagh track down an ex-informant from the island’s drug dealing scene, who hands over information about where Damien could be buried."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yfk3",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "13 mins",
+            "value": "PT12M34S"
+          },
+          "availability": {
+            "end": "2019-07-15T08:00:00Z",
+            "start": "2017-07-17T15:35:25Z",
+            "remaining": {
+              "text": "Available for over a year"
+            }
+          },
+          "credits_start": 748,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j71k",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Informant",
+        "audio_described": false,
+        "parent_position": 2,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041gh12",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kcx7.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": false,
+        "subtitle": "The Boy Who Disappeared: 3. The Suspect",
+        "synopses": {
+          "large": "Damien’s younger brother James returns to the Isle of Wight after 12 years away to help Alys and Bronagh with their investigation. \n\n\n\nAs they gather more evidence and a key suspect emerges, conflicting accounts arise. But does this deliver a breakthrough?",
+          "small": "Damien’s younger brother James returns after 12 years away to help the investigation.",
+          "medium": "Damien’s younger brother James returns to the Isle of Wight after 12 years away to help Alys and Bronagh with their investigation."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yfy0",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "13 mins",
+            "value": "PT13M1S"
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:37:33Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 778,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j777",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Suspect",
+        "audio_described": false,
+        "parent_position": 3,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041knsf",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kcxh.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": true,
+        "subtitle": "The Boy Who Disappeared: 4. The Weatherman",
+        "synopses": {
+          "large": "Damien’s mother Valerie comes back to the island to help investigate her son’s disappearance. \n\n\n\nMeanwhile, Alys and Bronagh meet with a private investigator who has worked on the case for years. He leads them to an anonymous new witness - ‘The Weatherman’. His evidence is dramatic. But should we believe him?",
+          "small": "Damien’s mother comes back to the island to help investigate her son’s disappearance.",
+          "medium": "Damien’s mother comes to the island to help investigate her son’s disappearance. Meanwhile, Alys and Bronagh meet with a private investigator who has worked on the case for years."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041ysjz",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "15 mins",
+            "value": "PT14M36S"
+          },
+          "guidance": {
+            "id": "L2",
+            "text": {
+              "large": "Contains strong language.",
+              "small": "Has guidance",
+              "medium": "Contains strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:38:29Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 872,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": false,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j7cf",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Weatherman",
+        "audio_described": false,
+        "parent_position": 4,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041kpfk",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kd3s.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": false,
+        "subtitle": "The Boy Who Disappeared: 5. The CCTV",
+        "synopses": {
+          "large": "Alys and Bronagh interrogate the Weatherman’s account and discover the police lost crucial evidence. \n\n\n\nNot only could this prove or disprove the Weatherman’s account, it could also reveal Damien’s last movements. So what could have happened?",
+          "small": "Alys and Bronagh interrogate the Weatherman’s account.",
+          "medium": "Alys and Bronagh interrogate the Weatherman’s account and discover the police lost crucial evidence."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yy4f",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "13 mins",
+            "value": "PT13M12S"
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:31:45Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 788,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j7py",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The CCTV",
+        "audio_described": false,
+        "parent_position": 5,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041kprk",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kd4g.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": true,
+        "subtitle": "The Boy Who Disappeared: 6. The House Of Death",
+        "synopses": {
+          "large": "Alys and Bronagh go on the hunt for one of the island’s most notorious residents - a dealer, who was apparently in a relationship with the key suspect in the case. \n\n\n\nIt turns out the suspect is not the only person to have died of a drug overdose in this dealer’s ‘house of death’. When the team eventually find her, she agrees to talk on camera for the first time about Damien’s disappearance.",
+          "small": "Alys and Bronagh go on the hunt for one of the island’s most notorious residents.",
+          "medium": "Alys and Bronagh go on the hunt for one of the island’s most notorious residents - a dealer, who was apparently in a relationship with the key suspect in the case."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yyby",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "15 mins",
+            "value": "PT15M10S"
+          },
+          "guidance": {
+            "id": "L1",
+            "text": {
+              "large": "Contains some strong language.",
+              "small": "Has guidance",
+              "medium": "Contains some strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:28:44Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 907,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j7wx",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The House Of Death",
+        "audio_described": false,
+        "parent_position": 6,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041kpzp",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kd5c.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": true,
+        "subtitle": "The Boy Who Disappeared: 7. The Search",
+        "synopses": {
+          "large": "In a final push to unearth more evidence, the team meet another friend of Damien’s who was with him the night he disappeared. \n\n\n\nAlys and Bronagh hear about a possible witness who could have vital information about that evening. All they need to do is find him…",
+          "small": "The team meet another friend of Damien’s who was with him the night he disappeared.",
+          "medium": "In a final push to unearth more evidence, the team meet another friend of Damien’s who was with him the night he disappeared."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yz00",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "17 mins",
+            "value": "PT16M32S"
+          },
+          "guidance": {
+            "id": "L3",
+            "text": {
+              "large": "Contains very strong language.",
+              "small": "Has guidance",
+              "medium": "Contains very strong language."
+            }
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:28:21Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 986,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j819",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Search",
+        "audio_described": false,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p041kq8q",
+        "live": false,
+        "type": "episode",
+        "title": "Unsolved",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042kd66.jpg"
+        },
+        "labels": {
+          "category": "Documentary",
+          "editorial": "Full Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p060mvz3",
+        "guidance": false,
+        "subtitle": "The Boy Who Disappeared: 8. The Dig",
+        "synopses": {
+          "large": "Alys and Bronagh deploy a cadaver dog to search for Damien’s body. \n\n\n\nUltimately, they are led to one of the island’s most notorious drug dealers – a man rumoured to have information about Damien’s disappearance.\n\n\n\nWhen the team track this dealer down, he makes an astonishing offer…",
+          "small": "Alys and Bronagh deploy a cadaver dog to search for Damien’s body.",
+          "medium": "Alys and Bronagh deploy a cadaver dog to search for Damien’s body."
+        },
+        "versions": [{
+          "hd": true,
+          "id": "p041yzqs",
+          "kind": "iplayer-version",
+          "type": "version",
+          "download": true,
+          "duration": {
+            "text": "18 mins",
+            "value": "PT17M41S"
+          },
+          "availability": {
+            "end": "2018-07-15T08:00:00Z",
+            "start": "2017-07-17T15:26:56Z",
+            "remaining": {
+              "text": "Available for 2 months"
+            }
+          },
+          "credits_start": 1058,
+          "first_broadcast": "25 Jul 2016"
+        }],
+        "parent_id": "p041fkdp",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "box-set",
+          "documentaries-crime-and-justice",
+          "documentaries"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_three",
+          "titles": {
+            "large": "BBC Three",
+            "small": "BBC Three",
+            "medium": "BBC Three"
+          },
+          "ident_id": "p03bhqhy",
+          "attribution": "bbc_three"
+        },
+        "release_date": "25 Jul 2016",
+        "related_links": [{
+          "id": "p042j87p",
+          "url": "http://www.bbc.co.uk/bbcthree/tag/unsolved",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Discover more about the Unsolved case"
+        }],
+        "original_title": "The Dig",
+        "audio_described": false,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2016-07-25T00:00:00.000Z",
+        "lexical_sort_letter": "U",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "p0635rh6",
+    "live": false,
+    "type": "episode",
+    "title": "Sex Robots and Us",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063j08l.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0635rh6",
+    "guidance": true,
+    "synopses": {
+      "large": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld future where sex bots live amongst us.\n\n\n\nIn Barcelona, James visits Dr Sergi Santos and his wife Maritsa, creators of one of the world’s most advanced sex robots and the answer, they suggest, to many couples' miss-matched libido. Sergi tests out his latest robot and James finds out how Maritsa copes with Sergi using the dolls himself.\n\n\n\nElsewhere in Barcelona James also finds simple versions of the robots - not yet fitted with AI - being used in a brothel, and visits a professional sex toy tester who tries out one of the latest male sex dolls to hit the market.\n\n\n\nBack in the UK, James visits Sergi’s business partner Arran who has been demo’ing a Samantha robot in a sex shop near Liverpool. Arran tells James about his latest plan - to offer his sex robots to elderly people’s homes.\n\n\n\nIn Japan, James meets two of the most human-like robots to have been created before discovering a darker side to the sex robot industry when he visits a factory mass-producing ultra-realistic dolls.\n\n\n\nSo do we really want sex robots in our lives?",
+      "small": "Meet the world’s most advanced sex robots, their makers and users.",
+      "medium": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld-style future where sex bots live amongst us.",
+      "editorial": "James Young travels the world to meet the makers – and users – of advanced sex bots."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0635rt8",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "36 mins",
+        "value": "PT36M5S"
+      },
+      "guidance": {
+        "id": "L1S1",
+        "text": {
+          "large": "Contains some strong language and some scenes of a sexual nature.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some sexual content."
+        }
+      },
+      "availability": {
+        "end": "2019-04-03T08:00:00Z",
+        "start": "2018-04-08T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 2136,
+      "first_broadcast": "8 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "8 Apr 2018",
+    "related_links": [],
+    "original_title": "Sex Robots and Us",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-08T00:00:00.000Z",
+    "editorial_subtitle": "Could bots ever be a familiar visitor to the bedroom?",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11p25",
+    "live": false,
+    "type": "episode",
+    "title": "My Year with the Tribe",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p3fg.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b09812",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "Living in treehouses and using stone tools, the Korowai were only discovered living in the jungles of West Papua around 40 years ago. Since then they have had to adapt rapidly to the ways of the outside world. Writer and adventurer Will Millard visits the Korowai four times over the course of a year, to see if he can get closer to them than is usually possible, to better understand the pressures they face as they leave the forest behind and transition into the modern world. He also wants to find out how much of their traditional hunter-gathering lifestyle still exists. What he finds shocks, surprises and confounds him, as he witnesses the last gasp of an ancient way of life which once defined us all.\n\nWill returns for his second trip to the Korowai to spend more time with Haup (White Beard) and Halap. They are some of the last remaining Korowai still living permanently in a treehouse without any real contact with the outside world. When Will first meets them, their adopted son August is there with them in the forest and his wife Amel gives birth one night, cutting her own umbilical cord with a sharpened piece of wood. But it soon turns out that they spend most of their time in the government-sponsored villages six hours walk away, and have decided to come to the treehouse to see if they can work with the film crew. So Will asks them to return to their government-built village, preparing to spend 10 days living with Haup and Halap alone in the middle of the forest.",
+      "small": "Will Millard returns to the Korowai to spend more time with two old men in the forest.",
+      "medium": "Will Millard returns to the treehouse-dwelling Korowai to spend time with two old men living in the forest, but is shocked by what he sees when he arrives.",
+      "editorial": "Will spends time with Haup and Halap - but there’s more to their life than meets the eye."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b11p0q",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "9pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652w0k",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T21:51:10Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b09819",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 2",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "2/3 The treehouse dwellers cut off from the outside world",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b02x6s",
+    "live": false,
+    "type": "episode",
+    "title": "Gettys: The World's Richest Art Dynasty",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sdmz.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b02x6s",
+    "guidance": false,
+    "synopses": {
+      "large": "There are few families in history who have accumulated more wealth, collected more art and given away more money than the Gettys. With unique access to the family's inner world, this programme unearths the lasting cultural impact of three generations.\n\nThe late patriarch J Paul Getty, founder of the Getty Oil Company and art collector, made the family incredibly wealthy and was once described as the richest living man in America. On his death, he left the largest endowment in history to an art museum, and the billion dollar gift shook the international art market to its foundation. This endowment also gave birth to the Getty Centre in Los Angeles which is now the wealthiest institution of its kind in the world.\n\nGrandson Mark Getty, who himself became the founder of the multi-billion pound media empire Getty Images, tells the story of his family and their cultural legacy. With input from other Getty family members, the programme follows three generations of this art-hungry dynasty and hears stories of personal milestones, art scandals, philanthropy and the kidnapping of grandson Paul Getty III in 1973.",
+      "small": "Following the stories of three generations of the art-hungry dynasty.",
+      "medium": "Documentary. Few families have accumulated more wealth and collected more art than the Gettys. This programme unearths the lasting cultural impact of three generations.",
+      "editorial": "Mark Getty tells the story of his family and their amazing legacy to the art world."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b02x0m",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "74 mins",
+          "value": "PT1H14M"
+        },
+        "availability": {
+          "end": "2018-05-16T23:45:00Z",
+          "start": "2018-04-14T21:15:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "credits_start": 4411,
+        "first_broadcast": "9pm 14 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064b59d",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "74 mins",
+          "value": "PT1H14M"
+        },
+        "availability": {
+          "end": "2018-05-16T23:45:00Z",
+          "start": "2018-04-14T22:18:08Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "14 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "14 Apr 2018",
+    "related_links": [],
+    "original_title": "Gettys: The World's Richest Art Dynasty",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-14T00:00:00.000Z",
+    "editorial_subtitle": "Their lasting cultural impact",
+    "lexical_sort_letter": "G",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11bb1",
+    "live": false,
+    "type": "episode",
+    "title": "Britain's Biggest Warship",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p34s.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b08zfk",
+    "guidance": false,
+    "subtitle": "Series 1: 2. In at the Deep End",
+    "synopses": {
+      "large": "After eight years in build, HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea. The 700 sailors on board have to test everything on the ship for the first time - from galleys to guns and from power plants to propellers. What is the super carrier's top speed? How manoeuvrable is she and how stable in rough waters? Meanwhile, the ship's company start the process of becoming a sea-born community. On board is chef Mohamad Khan, who has to work out how to prepare pork dishes without offending his religion, able seaman Ricky Gleeson, who had 49 convictions before he was 21, and Dave Garraghty, the most senior non-commissioned officer on board, with a passion for car boot sales. \n\nAfter four days at sea, the first aircraft lands on the flight deck and all seems well, but then there is an explosion in a cooling plant, a fuel leak that sprays everyone with diesel and the ship's rubbish disposal system goes wrong. There are also strange knocking sounds coming from underneath the ship.",
+      "small": "HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea.",
+      "medium": "HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea, testing everything from galleys to guns and power plants to propellers.",
+      "editorial": "The 700 sailors on board have to test everything on the ship for the first time."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b119wy",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T20:00:00Z",
+          "start": "2018-04-22T20:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3515,
+        "first_broadcast": "8pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652v8k",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T20:00:00Z",
+          "start": "2018-04-22T21:28:51Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b08zfm",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2018-04-28T12:30:00.000Z"
+    },
+    "original_title": "In at the Deep End",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "2/3 Its maiden voyage",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05xxp5j",
+    "type": "group_large",
+    "group_type": "tleo",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05z098t.jpg",
+      "vertical": "https://ichef.bbci.co.uk/images/ic/560x315/p05z09mg.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "labels": {
+      "editorial": "Full Series",
+      "category": "History"
+    },
+    "stacked": true,
+    "related_links": [],
+    "master_brand": {
+      "id": "bbc_two",
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two",
+      "titles": {
+        "small": "BBC Two",
+        "medium": "BBC Two",
+        "large": "BBC Two"
+      }
+    },
+    "title": "Civilisations",
+    "synopses": {
+      "small": "Thousands of years of visual culture explored on the BBC and beyond.",
+      "medium": "Thousands of years of visual culture explored on the BBC and beyond."
+    },
+    "count": 9,
+    "initial_children": [{
+        "id": "p05xxsmp",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmrcn.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 1. Second Moment of Creation",
+        "synopses": {
+          "large": "The first film by Simon Schama looks at the formative role art and the creative imagination have played in the forging of humanity itself.\n\nThe film opens with Simon's passionate endorsement of the creative spirit in humanity and the way in which art can help to forge the civilised life. Civilisation may be impossible to define, but its opposite - evidenced throughout history in the human urge to destroy - is all too evident whenever and wherever it erupts. Simon Schama explores the remote origins of human creativity with the first known marks made some 80,000 years ago in South African caves - marks which were not dictated merely by humanity's physical needs. He marvels at the later cave works - shapes of hands, in red stencils on the walls of caves, and at the paintings of bison and bulls, and Stone Age carvings.\n\nAs time passes, the elements of civilisation are assembled - written language, codes of law, and expressions of warrior power forged in metals. And humanity begins to produce art not just for ritual, as Simon discovers in Minoan civilisation. But how do such cultures arise and how do they fall? Simon travels to the civilisations of Petra in the Middle East and the Maya in Central America to explore those questions. He finds that ultimately civilisations depend on humanity's relationship with the environment for their survival, and while all believe in their own continuity, all are doomed to fall.",
+          "small": "A look at the formative role art and imagination have played in the forging of humanity.",
+          "medium": "Simon Schama looks at the formative role art and the creative imagination have played in the forging of humanity itself.",
+          "editorial": "Simon Schama looks at the pivotal role art has played in the forging of humanity itself."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxtvp",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:40:00Z",
+              "start": "2018-03-01T22:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3510,
+            "first_broadcast": "9pm 1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p05ztsrz",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:40:00Z",
+              "start": "2018-03-02T00:41:41Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09w7gz4",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T02:20:00Z",
+              "start": "2018-03-17T02:20:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "Second Moment of Creation",
+        "audio_described": true,
+        "parent_position": 1,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "Box Set. The epic story of the art that makes us human",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxvh6",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmsh5.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 2. How Do We Look?",
+        "synopses": {
+          "large": "In this episode of Civilisations, Professor Mary Beard explores images of the human body in ancient art, from Mexico and Greece to Egypt and China. Mary seeks answers to fundamental questions at the heart of ideas about civilisations. Why have human beings always made art about themselves? What were these images for? And in what ways do some ancient conventions of representing the body still affect us now? In raising these questions, Mary explores how the way we look can influence our ideas of what is civilised.\n\nThe colossal prehistoric Olmec heads in Mexico set the scene. In a culture with no written record, all we can do is puzzle about what these images were for, whom they represented, and why they were constructed. Mary Beard moves to other ancient cultures where more evidence has survived. She looks at images that are far more than art objects - images from Egyptian statues to the terracotta warriors of ancient China that actively participate in the social world, that teach men and women how to behave, that assert power and assuage loss. Mary explores what makes a 'realistic' image of the human form. She looks at the 'Greek Revolution', the extraordinary process in the sixth and fifth centuries BCE, which saw the sculpture of the human body dramatically change from a series of static formulaic images to what we now take as living naturalism. Mary shows that Greek ideas of the human form influence the way we look to this day.",
+          "small": "Professor Mary Beard explores images of the human body in ancient art.",
+          "medium": "Mary Beard explores images of the human body in ancient art, from Mexico and Greece to Egypt and China.",
+          "editorial": "Professor Mary Beard explores why how we look influences our ideas of what is civilised."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxvkg",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T03:25:00Z",
+              "start": "2018-03-14T17:33:15Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3483,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p060k8hh",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T03:25:00Z",
+              "start": "2018-03-14T19:33:28Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09x00s0",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T03:00:00Z",
+              "start": "2018-03-24T03:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "How Do We Look?",
+        "audio_described": true,
+        "parent_position": 2,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "2/9 How Do We Look? Our obsession with art about ourselves",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxwh5",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05znrhx.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 3. Picturing Paradise",
+        "synopses": {
+          "large": "Simon Schama explores one of our deepest artistic urges - the depiction of nature. Simon discovers that landscape painting is seldom a straightforward description of observed nature - rather it is a projection of dreams and idylls, as well as of escapes and refuges from human turmoil, the elusive paradise on earth.\n\nSimon begins in the 10th century, in Song dynasty China. The Song's scrolls are never innocent of the values of that world - the landscapes depict immense mountains projecting imperial authority. But as that authority was threatened and overwhelmed, majestic mountains are represented in geological turmoil, writhing and heaving. Imagined paradises in Islamic and western art are often responses to loss and absence. But paradise could be recovered in the country villas of the Renaissance.\n\nSimon goes to the beautiful Palladian house of Daniele Barbaro in the Veneto, with murals painted by Paolo Veronese to contemplate the world of the cultivated country gentleman. It was in the cooler climate of northern Europe that landscape came into its own as a distinctive type of art. Simon explores the works of the northern Renaissance in Germany and the Netherlands, where emerging states sought expression of identity through depiction of their natural worlds. Simon ends in America, where the landscapes of America are as expansive as the landscapes of Holland were confined, but there too, in the numinous photography of Ansel Adams, a kind of earthly paradise is revealed and a sense of nationhood is expressed in the natural world.",
+          "small": "Simon Schama explores one of our deepest artistic urges - the depiction of nature.",
+          "medium": "Simon Schama explores the depiction of nature. Simon discovers that landscape painting is seldom a straightforward description of observed nature.",
+          "editorial": "Simon Schama discovers that landscape painting is a projection of our dreams and idylls."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxwjs",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:15:00Z",
+              "start": "2018-03-16T15:53:55Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3510,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06199cy",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:15:00Z",
+              "start": "2018-03-16T23:14:12Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09xt477",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:25:00Z",
+              "start": "2018-03-31T01:25:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "Picturing Paradise",
+        "audio_described": true,
+        "parent_position": 3,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "3/9 Picturing Paradise. One of our deepest artistic urges",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxvq3",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt3s.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 4. The Eye of Faith",
+        "synopses": {
+          "large": "Professor Mary Beard broaches the controversial, sometimes dangerous, topic of religion and art. For millennia, art has inspired religion as much as religion has inspired art. Yet there are fundamental problems, which all religions share, in making the divine visible in the human world. How, and at what cost, do you make the unseen seen? Beneath all works of religious art there always lies conflict and risk. The result is often iconoclasm - the destruction of works of art - which Mary believes can lead on to new forms of creativity.\n\nMary visits sacred sites across the world to examine the contested boundaries between religion and art. She goes to the temple of Angkor Wat, the Tintoretto Crucifixion in Venice, the Buddhist caves of Ajanta and the Blue Mosque in Istanbul, as she seeks to break down the conventions that centre some religions around images, while others are seen as hostile to artistic representation. She shows how all faiths (and their artists) face the same fundamental problems of treading a careful line between glorifying gods in images and blaspheming by daring to represent the divine.\n\nShe ends at the Parthenon in Athens, a building that has been in turn a pagan temple, a Christian church and a mosque. Now, as a monument to Western civilisation itself and a tourist pilgrimage site, she asks us to wonder what we now worship - how far we look at civilisation itself with 'the eye of faith'.",
+          "small": "Professor Mary Beard broaches the controversial topic of religion and art.",
+          "medium": "Professor Mary Beard explores the controversial topic of religion and art. How, and at what cost, do different religions make the unseen visible?",
+          "editorial": "Professor Mary Beard traces the sometimes dangerous combination of religion and art."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxvxr",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:30:00Z",
+              "start": "2018-03-23T09:46:50Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3507,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06211lk",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:30:00Z",
+              "start": "2018-03-23T10:25:45Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09ym78l",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:45:00Z",
+              "start": "2018-04-07T01:45:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Eye of Faith",
+        "audio_described": true,
+        "parent_position": 4,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "4/9 The Eye of Faith. How do you portray the unseen?",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xxx6p",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt3x.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 5. The Triumph of Art",
+        "synopses": {
+          "large": "Think Renaissance and you think of Italy. But in the 15th and 16th centuries, the great Islamic empires experienced their own extraordinary cultural flowering. The two phenomena did not unfold in separate artistic universes - they were acutely conscious of, and in competition with, each other and mutually open to influences flowing both ways. The fifth film in Civilisations goes east and west with Simon Schama - to Papal Rome, but also to Ottoman Istanbul and Mughal Lahore and Agra, exploring those connections and rivalries, and examining how the role of artists from the different traditions of west and east developed in the years that followed the Renaissances.\n\nThat rivalry unfolds most spectacularly over the creation of domes - in Ottoman Istanbul the great engineer-architect Mimar Sinan builds the light-flooded Suleymaniye Mosque, while at the same time in Rome, Michelangelo designed the great dome over the St Peter's Basilica. The fate of the hero-artist, seemingly touched by God, with the gift of making visual miracles, henceforth diverged in the east and west. In Europe, as the century turned, artists such as Benvenuto Cellini, with his sculpture of Perseus with the Head of Medusa, could lay claim to sovereignty over the world of art. The greatest European artists like Caravaggio, Velasquez and Rembrandt shook off decorum and turned muscular, earthy and theatrical. Meanwhile in the east, Mughal art, still capable of acts of breathtaking architectural and painterly beauty, as expressed in mausoleums like the I'timad-ud-Daulah and gorgeous miniature paintings, became ever more refined, poetic and exquisite.",
+          "small": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+          "medium": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+          "editorial": "Simon Schama examines how the role of artists developed following the Renaissances."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xxx9c",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T00:15:00Z",
+              "start": "2018-04-03T08:32:13Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3509,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p062s7kp",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T00:15:00Z",
+              "start": "2018-04-03T08:50:47Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b09zbrs5",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T00:30:00Z",
+              "start": "2018-04-14T00:30:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Triumph of Art",
+        "audio_described": true,
+        "parent_position": 5,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "5/9 The Triumph of Art. An extraordinary cultural flowering",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xyfg6",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt4h.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": true,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 6. First Contact",
+        "synopses": {
+          "large": "In the 15th and 16th centuries distant and disparate cultures met, often for the first time. These encounters provoked wonder, awe, bafflement and fear. And, as historian of empire David Olusoga shows, art was always on the frontline. Each cultural contact at this time left a mark on both sides: the magnificent Benin bronzes record the meeting of an ancient West African kingdom and Portuguese voyagers in a spirit of mutual respect and exchange. By contrast we think Spain's conquest of Central America in the 16th century as decimating the Aztecs and eviscerating their culture. But David shows even in Mexico rare surviving Aztec artworks recall a more nuanced story. He travels to Japan to explore how the Tokugawa Shogunate, after an initial embrace, became so wary of outside interference that they sought to cut ties with the outside world. But in their art, as in their trade, they could never truly isolate themselves from foreign influences. By contrast the Protestant Dutch Republic was itself an entirely new kind of creature: a market driven nation-state. It was a system that created new freedoms and opportunities as embodied in the world-infused art of Johannes Vermeer, or the watercolours of the naturalist and illustrator Maria Sibylla Merian. David ends with the transitional story of the British in India: at first the British were as open to foreign influence as the Dutch. But by the 1800s they became more aggressive and the era of encounters gave way to the era of muscular empire, that was dismissive of India's arts and cultures.",
+          "small": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+          "medium": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+          "editorial": "David Olusoga shows how art has always been influenced by many disparate cultures."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xyfhd",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T01:30:00Z",
+              "start": "2018-04-06T08:32:42Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3508,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p063fzkl",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T01:30:00Z",
+              "start": "2018-04-06T08:48:26Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": true,
+            "id": "b0b05y9w",
+            "kind": "signed",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-17T01:05:00Z",
+              "start": "2018-04-21T01:05:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history",
+          "signed"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "First Contact",
+        "audio_described": true,
+        "parent_position": 6,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "6/9 First Contact. How art was key when distant cultures met",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xyg7k",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmtr6.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": true,
+        "subtitle": "Series 1: 7. Radiance",
+        "synopses": {
+          "large": "Simon Schama starts his meditation on colour and civilisation with the great Gothic cathedrals of Amiens and Chartres. He then moves to 16th-century Venice, where masterpieces such as Giovanni Bellini's San Zaccaria altarpiece and Titian's Bacchus and Ariadne contested the assumption that drawing would always be superior to colouring. As the Baroque took hold in enlightenment Europe another Venetian, Giambattista Tiepolo, created a ceiling fresco Apollo and the Four Continents at the Bishop's palace in WÃ¼rzburg.\n\nIn a glorious sequence Simon celebrates this grand opera of light, colour, and dancing line: a dizzying lift-off into 18th-century elation. But if light could open the gates of ecstasy it could also drop art into the abyss. Francisco Goya began by working in the Venetian tradition but in the last years of his life his Black Paintings drained colour from the world of light. The art of colour discovered a new mission which somehow sustained the old: how to make life in cities bearable, even beautiful. Simon travels to Japan to where in the 18th and 19th century an urban explosion generated a demand for cheap, mass produced woodblock prints suffused with dazzling colour. These prints by artists such as Hokusai were hugely influential on the impressionists and postimpressionists. Simon ends the film in Matisse's great chapel at Vence, where colour is used - against a backdrop of the Second World War - once more to enrapture, enlighten and as a path to God.",
+          "small": "Simon Schama starts his meditation on colour and civilisation in Amiens and Chartres.",
+          "medium": "Simon Schama starts his meditation on colour and civilisation with the great Gothic cathedrals of Amiens and Chartres. He then moves to 16th-century Venice.",
+          "editorial": "Simon Schama travels from Amiens and Chartres to Japan to explore dazzling colour."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "b09tdqgp",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "guidance": {
+              "id": "S1",
+              "text": {
+                "large": "Contains some scenes of a sexual nature.",
+                "small": "Has guidance",
+                "medium": "Contains some sexual content."
+              }
+            },
+            "availability": {
+              "end": "2019-09-04T01:25:00Z",
+              "start": "2018-04-12T21:00:00Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p06472sb",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "guidance": {
+              "id": "S1",
+              "text": {
+                "large": "Contains some scenes of a sexual nature.",
+                "small": "Has guidance",
+                "medium": "Contains some sexual content."
+              }
+            },
+            "availability": {
+              "end": "2019-09-04T01:25:00Z",
+              "start": "2018-04-13T14:46:47Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "next_broadcast": {
+          "channel_title": "BBC Two",
+          "scheduled_start": "2018-04-28T01:55:00.000Z"
+        },
+        "original_title": "Radiance",
+        "audio_described": true,
+        "parent_position": 7,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "7/9 Radiance. A meditation on colour and civilisation",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      },
+      {
+        "id": "p05xygy9",
+        "live": false,
+        "type": "episode",
+        "title": "Civilisations",
+        "images": {
+          "type": "image",
+          "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmtr8.jpg"
+        },
+        "labels": {
+          "category": "History"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "p05xxp5j",
+        "guidance": false,
+        "subtitle": "Series 1: 8. The Cult of Progress",
+        "synopses": {
+          "large": "If David Olusoga's first film in Civilisations is about the art that followed and reflected early encounters between different cultures, his second explores the artistic reaction to imperialism in the 19th century. David shows the growing ambivalence with which artists reacted to the idea of progress, both intellectual and scientific, that underpinned the imperial mission and followed the Enlightenment and the Industrial Revolution.\n\nAdvances in knowledge and technology imbued Europeans in the 19th century with a sense of their civilisation's superiority. It justified their imperial ideology. But it created among artists deep fascinations with other civilisations which in turn produced a scepticism about their own. By contrast, as European artists questioned their civilisation's 'advance', in America painters sought to capture an idea of their new nation's 'manifest destiny' in landscapes. And in their representation of the Native Americans, they sought to record for posterity the world and the cultures they were violently displacing. But this was not always the case. David show how in New Zealand one artist was co-opted by the Maori who used his sills to record their culture and celebrate their ancestors. As the 19th century came to an end, the certainties of industrial and scientific advance were increasingly questioned - many artists (Gauguin and Picasso amongst them) turned to non-Western art and culture for inspiration. And in the face of the catastrophic conflict of the First World War, the idea that progress, reason and industrial advance were guarantors of higher 'civilisation' was rejected. David ends the film with a powerful meditation on Otto Dix's nightmarish and ironic evocation of the horror of the trenches, the triptych Der Krieg (The War).",
+          "small": "David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+          "medium": "Documentary. David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+          "editorial": "David Olusoga explores how so many artists turned to non-Western culture for inspiration."
+        },
+        "versions": [{
+            "hd": true,
+            "id": "p05xyh3v",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:55:00Z",
+              "start": "2018-04-20T14:21:44Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "credits_start": 3506,
+            "first_broadcast": "1 Mar 2018"
+          },
+          {
+            "hd": false,
+            "id": "p064vbv8",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "59 mins",
+              "value": "PT59M"
+            },
+            "availability": {
+              "end": "2019-09-04T02:55:00Z",
+              "start": "2018-04-20T14:22:34Z",
+              "remaining": {
+                "text": "Available for over a year"
+              }
+            },
+            "first_broadcast": "1 Mar 2018"
+          }
+        ],
+        "parent_id": "p05xxs12",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "arts",
+          "audio-described",
+          "documentaries-arts",
+          "documentaries-history",
+          "documentaries",
+          "history"
+        ],
+        "has_credits": true,
+        "master_brand": {
+          "id": "bbc_two",
+          "titles": {
+            "large": "BBC Two",
+            "small": "BBC Two",
+            "medium": "BBC Two"
+          },
+          "ident_id": "p0393z1f",
+          "attribution": "bbc_two"
+        },
+        "release_date": "1 Mar 2018",
+        "related_links": [{
+          "id": "p05zsx73",
+          "url": "http://www.open.edu/civilisations/civilisations.html",
+          "kind": "priority_content",
+          "type": "link",
+          "title": "Visit The Open University website"
+        }],
+        "original_title": "The Cult of Progress",
+        "audio_described": true,
+        "parent_position": 8,
+        "requires_sign_in": true,
+        "release_date_time": "2018-03-01T00:00:00.000Z",
+        "editorial_subtitle": "8/9 The Cult of Progress. A reaction to imperialism",
+        "lexical_sort_letter": "C",
+        "requires_tv_licence": true
+      }
+    ]
+  },
+  {
+    "id": "b09z8d01",
+    "live": false,
+    "type": "episode",
+    "title": "Bacchus Uncovered: Ancient God of Ecstasy",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0638x2h.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09z8d01",
+    "guidance": false,
+    "synopses": {
+      "large": "Professor Bettany Hughes investigates the story of Bacchus, god of wine, revelry, theatre and excess, travelling to Georgia, Jordan, Greece and Britain to discover his origins and his presence in the modern world, and explore how 'losing oneself' plays a vital role in the development of civilisation.\n\nIn this fascinating journey, Bettany begins in Georgia where she discovers evidence of the world's oldest wine production, and the role it may have played in building communities. In Athens she reveals Bacchus's pivotal role in a society where his ecstatic worship was embraced by all classes, and most importantly women. On Cyprus she uncovers startling parallels between Bacchus and Christ. Finally, Bettany follows the god's modern embrace in Nietzsche's philosophy, experimental theatre and the hedonistic hippie movement to conclude that, while this god of ecstasy is worthy of contemporary reconsideration, it is vital to heed the warning of the ancients - \"MEDEN AGAN\" - nothing in excess.",
+      "small": "Bettany Hughes explores the many incarnations of Bacchus - ancient god of wine.",
+      "medium": "Professor Bettany Hughes investigates the story of Bacchus, god of wine and revelry, travelling to Georgia, Jordan and Greece to discover his origins.",
+      "editorial": "Professor Bettany Hughes tells the story of the god of wine, revelry, theatre and excess."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09z8csx",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-11T21:00:00Z",
+          "start": "2018-04-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "credits_start": 3490,
+        "first_broadcast": "9pm 11 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p06412bj",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-11T21:00:00Z",
+          "start": "2018-04-11T21:41:16Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "11 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09zct3x",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-12T02:30:00Z",
+          "start": "2018-04-12T02:30:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "11 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "11 Apr 2018",
+    "related_links": [],
+    "original_title": "Bacchus Uncovered: Ancient God of Ecstasy",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-11T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b03p8shj",
+    "live": false,
+    "type": "episode",
+    "title": "Buena Vista Social Club",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zb3m.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b03p8shj",
+    "guidance": false,
+    "synopses": {
+      "large": "Cuba's rich and colourful past comes vividly to life in this legendary, Oscar-nominated documentary.\n\nThe award-winning Buena Vista Social Club album produced by Ry Cooder remains the biggest-selling world music album ever, showcasing the talents of a dream team of veterans from Cuban music's golden age, including Ibrahim Ferrer, Ruben Gonzalez, Eliades Ochoa, Omara Portuondo and Compay Segundo.\n\nNever a regular band, The Buena Vista Social Club had gone their separate ways, but in this extraordinary film Wim Wenders intimately documents Ry Cooder's return to Havana, encountering these musical legends again as they look back to the halcyon days of Cuba's music scene, when the rich and famous travelled from all over the world to listen to them. In the climax, their music comes alive once again, as they rehearse for their first - and only - performance in America, at New York's Carnegie Hall.",
+      "small": "A group of Cuban musicians are brought together by Ry Cooder to record their music.",
+      "medium": "Documentary about a group of legendary Cuban musicians who were brought together by Ry Cooder to record their music. Includes recording sessions in Havana and concert footage.",
+      "editorial": "How Ry Cooder reunited a group of legendary Cuban musicians for a spectacular peformance."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b001301w",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "105 mins",
+        "value": "PT1H45M"
+      },
+      "availability": {
+        "end": "2018-05-20T21:40:00Z",
+        "start": "2018-04-20T22:21:58Z",
+        "remaining": {
+          "text": "Available for 27 days"
+        }
+      },
+      "first_broadcast": "1999"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries-music",
+      "documentaries",
+      "films",
+      "music"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_four",
+      "titles": {
+        "large": "BBC Four",
+        "small": "BBC Four",
+        "medium": "BBC Four"
+      },
+      "ident_id": "p03rqj11",
+      "attribution": "bbc_four"
+    },
+    "release_date": "1999",
+    "related_links": [],
+    "original_title": "Buena Vista Social Club",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "1999-01-01T00:00:00.000Z",
+    "editorial_subtitle": "Cuba's musical past comes to life in a classic documentary",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]
