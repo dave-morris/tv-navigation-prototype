@@ -162,6 +162,7 @@
     color: #B2B7C4;
     padding: 16px 32px;;
     margin-right: 24px;
+    opacity: 0.5;
 }
 
 .nav-item.focus {
@@ -173,6 +174,10 @@
 
 .nav-item.wasfocus {
   color: white;
+  opacity: 1;
+}
+
+.nav.carousel.active .nav-item {
   opacity: 1;
 }
 
