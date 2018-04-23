@@ -1,0 +1,1687 @@
+[
+{
+"id": "b09pbk04",
+"live": false,
+"type": "episode",
+"title": "Salamander",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064pj4k.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ng3fq",
+"guidance": true,
+"subtitle": "Series 2: Blood Diamonds: Episode 3",
+"synopses": {
+"large": "As Gerardi searches Jacky Lanciers' apartment, he realises that he has disturbed intruders. He and Danny give chase, but Danny is seriously injured when Paul crashes their car. Vic Adams is alerted that the police have visited Jacky's apartment and arranges for the secret service to collect incriminating evidence.\n\nIn Flemish and French with English subtitles.",
+"small": "As Gerardi searches Jacky Lanciers' apartment, he realises that he's disturbed intruders.",
+"medium": "Crime drama. As Gerardi searches Jacky's apartment, he realises he has disturbed intruders. He and Danny give chase, but Danny is seriously injured when Paul crashes their car.",
+"editorial": "As Gerardi searches Jacky Lanciers' apartment, he realises he’s walked into trouble."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09pbjw6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-21T20:45:00Z",
+"start": "2018-04-21T20:45:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 2760,
+"first_broadcast": "21 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09pbjw6",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-21T20:45:00Z",
+"start": "2018-04-21T20:45:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 2760,
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "b09ng3mg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"editorial_title": "Salamander: Blood Diamonds",
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"editorial_subtitle": "3/10 Gerardi’s not alone...",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zgt0x",
+"live": false,
+"type": "episode",
+"title": "An Art Lovers' Guide",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zhr9.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b08p2c05",
+"guidance": false,
+"subtitle": "Series 2: 2. Beirut",
+"synopses": {
+"large": "Janina Ramirez and Alastair Sooke explore Beirut, the capital city of Lebanon. This fascinating crossroads between east and west has a rich history, and a troubled recent past. It's the most diverse city in the Arab world, with 18 recognised religious sects. Its French influence gave it the reputation as the Paris of the east during the mid 20th century. But this diversity turned to division in 1975 when the city became embroiled in a 15-year civil war.\n\nIn a place of so many identities and memories, art plays a unique role - as Janina and Alastair discover at the start of their journey, taking a cable car to the mountains that ring the city. Here, a stunning brutalist Christian cathedral of the Maronite Church overlooks the city's suburbs. It's an impressive expression of both the city's unique demographic mix, and of the identity of the Maronite community - one of Beirut's biggest minorities.\n\nOn their travels around the city they discover how art - and architecture - is confronting the past but also embracing the future. While Nina discovers how a bullet-ridden house has been transformed into an emotionally powerful war memorial, Alastair meets Bernard Khoury, the Middle East's most controversial architect, whose visionary buildings are designed to improve the social fabric of Beirut.\n\nAt the National Museum, they discover an incredible array of Phoenician and Roman artefacts, revealing Beirut's earliest origins. In a basement room full of sarcophagi, Nina discovers the final resting place for several Phoenician nobles, evidence that Beirut has long been an intersection of cultures, combining classical Greek sculptural details with ancient Egyptian designs.\n\nAlastair also encounters a street artist paying tribute to an actress who united the city in times of trouble, and Nina takes tea with an elderly Armenian couple who reflect on the city's immigrant experience. And together, they experience the hedonistic Beirut nightlife that is drawing increasing numbers of visitors from around the world.\n\nAt this fascinating crossroads between east and west, Ramirez and Sooke discover a city whose cultural life and riches offer an essential way to understand the city's complex history and identity.",
+"small": "Exploring Beirut, which has bounced back to rebuild its reputation as a cosmopolitan city.",
+"medium": "Janina Ramirez and Alastair Sooke explore the city of Beirut, the enthralling capital of Lebanon, which has bounced back to rebuild its reputation as a cosmopolitan city.",
+"editorial": "After a troubled past, Beirut is rebuilding its reputation as a cosmopolitan city."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10m31",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T21:00:00Z",
+"start": "2018-04-16T21:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 3513,
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064j39v",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T21:00:00Z",
+"start": "2018-04-16T21:49:02Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b031nl",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T02:15:00Z",
+"start": "2018-04-17T02:15:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09ys30f",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"audio-described",
+"documentaries-arts",
+"documentaries",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Beirut",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "2/3 Beirut. The most diverse city in the Arab world",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0g3qk",
+"live": false,
+"type": "episode",
+"title": "imagine...",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nlrp.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007ght1",
+"guidance": true,
+"subtitle": "Winter 2017/18: 8. Habaneros: You Say You Want a Revolution? Part Two",
+"synopses": {
+"large": "Almost sixty years on, Castro's Cuban revolution continues to split world opinion as decisively as it did when that small band of bearded guerrillas first entered Havana.\n\nIn the second part of Julien Temple's film we hear from the citizens of this extraordinary city how these young revolutionaries put their dreams into practice. With access to remarkable archive footage, we see how they set about building a brave new socialist world on America's doorstep. Now with Obama gone, Trump in the White House, Fidel dead and his brother Raul stepping down from the presidency, Havana too is about to step into the unknown.",
+"small": "How the young Cuban revolutionaries set about building a brave new socialist world.",
+"medium": "The citizens of Cuba tell how the young revolutionaries of the 60s put their dreams into practice and set about building a brave new socialist world on America's doorstep."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0g2c3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-22T21:30:00Z",
+"start": "2018-04-22T21:30:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9pm 22 Apr 2018"
+}
+],
+"parent_id": "b09th2v7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Habaneros: You Say You Want a Revolution? Part Two",
+"audio_described": false,
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part Two",
+"lexical_sort_letter": "I",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zgyt0",
+"live": false,
+"type": "episode",
+"title": "BBC Young Musician",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063z7nr.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00bb3wt",
+"guidance": false,
+"subtitle": "2018: 3. Woodwind Category Final",
+"synopses": {
+"large": "With two places in the semi-final already decided, it's the turn of the woodwind players to take centre stage. Josie d'Arby is joined by leading bassoonist Amy Harman at the Royal Birmingham Conservatoire to bring highlights from the BBC Young Musician 2018 woodwind final.\n\nFive outstanding musicians have been selected, playing an array of instruments. They are: 18-year-old saxophonist Robert Burton from Cambridgeshire, from London, 17-year-old flautist Marie Sato, Francis Bushell, an 18-year-old bassoonist from Essex, the youngest competitor in these category finals, 14-year-old Eliza Haskins, a recorder player from Devon, and completing the line-up is 16-year-old clarinettist Tom Myles from County Down, Northern Ireland. They perform music from the Baroque period to the 21st century by composers such as Corelli, Faure and Gershwin.\n\nThe category finalists perform in front of an expert panel of judges: clarinettist Emma Johnson, herself a BBC Young Musician winner in 1984, Juliette Bausor, principal flautist with the London Philharmonic Orchestra, and chair of the jury, composer, performer and writer Kerry Andrew. They will decide who will win the woodwind final and proceed through to the semi-final.\n\nThe programme includes profiles of the competitors, extensive highlights of their performances together with the behind-the-scenes story of the competition.\n\n2018 marks the 40th anniversary of BBC Young Musician. During this time the competition has showcased the brightest and best musical talent in the UK and this year is no exception. Throughout the series the aim for our musicians is to win through to the grand final where they will perform at Birmingham's Symphony Hall with the City of Birmingham Symphony Orchestra conducted by Mark Wigglesworth. Only one can claim the title BBC Young Musician 2018.",
+"small": "Five musicians compete in the woodwind category final.",
+"medium": "Josie d'Arby and bassoonist Amy Harman are at the Royal Birmingham Conservatoire for highlights of the woodwind final. Five outstanding musicians compete.",
+"editorial": "Josie d'Arby is joined by bassoonist Amy Harman to assess five outstanding musicians."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgym6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-05-20T20:00:00Z",
+"start": "2018-04-20T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "7:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b09y207b",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Woodwind Category Final",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "3/8 Woodwind Final",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0077dwt",
+"live": false,
+"type": "episode",
+"title": "Arena",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xky2.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006pn88",
+"guidance": false,
+"subtitle": "Cigars - Out of the Humidor",
+"synopses": {
+"large": "Documentary which follows the story of the cigar - from the tobacco fields west of the Cuban capital of Havana into the factories where poetry and daily newspapers are read aloud to the workers, to Hollywood cigar bars and the gentlemen's haunts of St James's, London. With the worldwide cigar market growing, smoking cigars is perceived as glamorous and yet this is occurring at a time when it is nearly impossible to smoke a cigarette in any public place in the United States. Cigar clubs are opening up in America despite the fact that Cuban cigars are banned. The film looks at the rituals and traditions of cigar smoking, the history of cigars and famous cigar smokers from all walks of life. With Lord Grade, Kenneth Clarke, James Belushi, George Wendt and Peter Weller.",
+"small": "Film following the story of the cigar from Cuban tobacco fields to Hollywood cigar bars.",
+"medium": "Documentary following the story of the cigar, from the tobacco fields west of Havana to the Hollywood cigar bars and the gentlemen's haunts of St James's, London."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b1p9xd",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T02:20:00Z",
+"start": "2018-04-22T22:55:16Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "25 Dec 1997"
+}
+],
+"parent_id": "b006pn88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "25 Dec 1997",
+"related_links": [],
+"original_title": "Cigars - Out of the Humidor",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1997-12-25T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b04v644f",
+"live": false,
+"type": "episode",
+"title": "Spike Milligan: Assorted Q",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02d9t2r.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04v55fj",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"small": "Compilation from Spike Milligan's surreal, influential, controversial sketch shows.",
+"medium": "A compilation of sketches from Spike Milligan's pioneering sketch shows - surreal, influential, controversial and sublime."
+},
+"versions": [
+{
+"hd": false,
+"id": "b04v6440",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-21T23:05:00Z",
+"start": "2018-04-21T23:05:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 1757,
+"first_broadcast": "10:30pm 10 Dec 2014"
+}
+],
+"parent_id": "b04v55fj",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "10 Dec 2014",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-12-10T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03p8shj",
+"live": false,
+"type": "episode",
+"title": "Buena Vista Social Club",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zb3m.jpg"
+},
+"labels": {
+"category": "Film"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03p8shj",
+"guidance": false,
+"synopses": {
+"large": "Cuba's rich and colourful past comes vividly to life in this legendary, Oscar-nominated documentary.\n\nThe award-winning Buena Vista Social Club album produced by Ry Cooder remains the biggest-selling world music album ever, showcasing the talents of a dream team of veterans from Cuban music's golden age, including Ibrahim Ferrer, Ruben Gonzalez, Eliades Ochoa, Omara Portuondo and Compay Segundo.\n\nNever a regular band, The Buena Vista Social Club had gone their separate ways, but in this extraordinary film Wim Wenders intimately documents Ry Cooder's return to Havana, encountering these musical legends again as they look back to the halcyon days of Cuba's music scene, when the rich and famous travelled from all over the world to listen to them. In the climax, their music comes alive once again, as they rehearse for their first - and only - performance in America, at New York's Carnegie Hall.",
+"small": "A group of Cuban musicians are brought together by Ry Cooder to record their music.",
+"medium": "Documentary about a group of legendary Cuban musicians who were brought together by Ry Cooder to record their music. Includes recording sessions in Havana and concert footage.",
+"editorial": "How Ry Cooder reunited a group of legendary Cuban musicians for a spectacular peformance."
+},
+"versions": [
+{
+"hd": true,
+"id": "b001301w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "105 mins",
+"value": "PT1H45M"
+},
+"availability": {
+"end": "2018-05-20T21:40:00Z",
+"start": "2018-04-20T22:21:58Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "1999"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries-music",
+"documentaries",
+"films",
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "1999",
+"related_links": [],
+"original_title": "Buena Vista Social Club",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1999-01-01T00:00:00.000Z",
+"editorial_subtitle": "Cuba's musical past comes to life in a classic documentary",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00qbyhq",
+"live": false,
+"type": "episode",
+"title": "The Real Winnie Mandela",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gql3w.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00qbyhq",
+"guidance": false,
+"synopses": {
+"large": "Documentary about the late Winnie Mandela. Was she mother of the nation or an out-of-control egotist? Whilst her husband will forever be associated with taking South Africa to democracy, it is Winnie's life that most accurately mirrors the story of the struggle. The apartheid regime targeted her with harassment, torture and banishment, but Winnie responded with bravery and defiance bordering on recklessness.\n\nIllustrated with rich BBC archive drawn from the last seven decades and interviews with leading British and South African journalists, the film charts the role that Winnie played in the struggle and shows why she continues to divide opinion.",
+"small": "Documentary which looks at the contradictory and controversial life of Winnie Mandela.",
+"medium": "Documentary which looks at the controversial life of Winnie Mandela, asking whether she was the mother of the nation or a wilful egotist who simply got out of control."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00qbygk",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:19:53Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 3510,
+"first_broadcast": "10:30pm 25 Jan 2010"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "25 Jan 2010",
+"related_links": [],
+"original_title": "The Real Winnie Mandela",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2010-01-25T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b086k8db",
+"live": false,
+"type": "episode",
+"title": "Wild Tales from the Village",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04l3vsp.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b086k8db",
+"guidance": false,
+"synopses": {
+"large": "Animal drama that tells the story of a year in the life of an extraordinary village, hidden away in the timeless French countryside. Narrated by Tcheky Karyo, this tale reveals the parallel world of incredible tiny creatures that live side by side with the unsuspecting humans. \n\nRed squirrels, wild boar, edible dormice and a cunning stone marten all take advantage of the riches of the village, whilst doing their best not to get caught. Can they outwit the villagers and survive the seasons? Seen from the perspective of these secretive animals, their adventures are happening right beneath our feet.",
+"small": "A year in the life of an extraordinary village, hidden away in the French countryside.",
+"medium": "A year in the life of an extraordinary village, hidden away in the French countryside, showing the parallel world of tiny creatures that live side by side with unsuspecting humans."
+},
+"versions": [
+{
+"hd": true,
+"id": "b086k86p",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T01:35:00Z",
+"start": "2018-04-21T20:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3491,
+"first_broadcast": "7:30pm 23 Dec 2016"
+},
+{
+"hd": false,
+"id": "p04mcv7y",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T01:35:00Z",
+"start": "2018-04-21T21:01:24Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "23 Dec 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Dec 2016",
+"related_links": [],
+"original_title": "Wild Tales from the Village",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2016-12-23T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00qbzxs",
+"live": false,
+"type": "episode",
+"title": "Latin Music USA",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnfsb.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00qgyj5",
+"guidance": false,
+"subtitle": "1. East Side Story",
+"synopses": {
+"large": "The first of a four-part series revealing the deep musical and social impact of Latin music in the USA.\n\nThe massive success of Santana's innovative Latin-blues at the Woodstock Festival leads back in time to the first Cuban immigrants arriving, with their Afro-Cuban music, into the States. Using feature film clips, rare archive and location filming, the programme examines how Afro-Cuban music has impacted - since early last century - on jazz, pop rhythms and dance styles. \n\nFrom Cuban rumba to New York mambo, Latin music enthralled 1950s America, challenging racial attitudes and changing the stereotypes projected in movies like West Side Story. It influenced Hollywood, TV sitcoms and 60s rock 'n' roll, as the Beatles and many American R&B bands absorbed Latin rhythms into the wider worlds of rock music, fashion and culture. \n\nFeaturing Carlos Santana, Cachao, Tito Puente, Dizzy Gillespie and the greatest names in Afro-Cuban music.",
+"small": "A look at how Afro-Cuban music has impacted on jazz, pop rhythms and dance styles.",
+"medium": "Series revealing the musical and social impact of Latin music in the USA. This part examines how Afro-Cuban music has affected jazz, pop rhythms and dance styles."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00qbzw5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T23:30:00Z",
+"start": "2018-04-20T22:51:44Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9pm 29 Jan 2010"
+}
+],
+"parent_id": "b00qgyj5",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "29 Jan 2010",
+"related_links": [],
+"original_title": "East Side Story",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2010-01-29T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00jks3d",
+"live": false,
+"type": "episode",
+"title": "Law and Order",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063z0s9.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00jj4wt",
+"guidance": true,
+"subtitle": "2. A Villain's Tale",
+"synopses": {
+"large": "Four-part drama series about the British judicial system, dealing with an investigation presented from the perspectives of the police force, the criminal, the solicitor and the prison system. Does Mr English pick the villain from the identity parade?",
+"small": "Does Mr English correctly pick the villain from the identity parade?",
+"medium": "Drama series about the British judicial system, dealing with an investigation presented from different perspectives. Does Mr English identify the villain?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b00jks2r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "70 mins",
+"value": "PT1H10M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-19T22:20:00Z",
+"start": "2018-04-19T22:36:47Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "9pm 13 Apr 1978"
+}
+],
+"parent_id": "b00jj4wt",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "13 Apr 1978",
+"related_links": [],
+"original_title": "A Villain's Tale",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "1978-04-13T00:00:00.000Z",
+"editorial_subtitle": "2/4 A Villain’s Tale. Inside the identity parade",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09z8d01",
+"live": false,
+"type": "episode",
+"title": "Bacchus Uncovered: Ancient God of Ecstasy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0638x2h.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b09z8d01",
+"guidance": false,
+"synopses": {
+"large": "Professor Bettany Hughes investigates the story of Bacchus, god of wine, revelry, theatre and excess, travelling to Georgia, Jordan, Greece and Britain to discover his origins and his presence in the modern world, and explore how 'losing oneself' plays a vital role in the development of civilisation.\n\nIn this fascinating journey, Bettany begins in Georgia where she discovers evidence of the world's oldest wine production, and the role it may have played in building communities. In Athens she reveals Bacchus's pivotal role in a society where his ecstatic worship was embraced by all classes, and most importantly women. On Cyprus she uncovers startling parallels between Bacchus and Christ. Finally, Bettany follows the god's modern embrace in Nietzsche's philosophy, experimental theatre and the hedonistic hippie movement to conclude that, while this god of ecstasy is worthy of contemporary reconsideration, it is vital to heed the warning of the ancients - \"MEDEN AGAN\" - nothing in excess.",
+"small": "Bettany Hughes explores the many incarnations of Bacchus - ancient god of wine.",
+"medium": "Professor Bettany Hughes investigates the story of Bacchus, god of wine and revelry, travelling to Georgia, Jordan and Greece to discover his origins.",
+"editorial": "Professor Bettany Hughes tells the story of the god of wine, revelry, theatre and excess."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09z8csx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T21:00:00Z",
+"start": "2018-04-11T21:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 3490,
+"first_broadcast": "9pm 11 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06412bj",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T21:00:00Z",
+"start": "2018-04-11T21:41:16Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "11 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zct3x",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-12T02:30:00Z",
+"start": "2018-04-12T02:30:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "11 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"audio-described",
+"documentaries-arts",
+"documentaries",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "11 Apr 2018",
+"related_links": [],
+"original_title": "Bacchus Uncovered: Ancient God of Ecstasy",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-04-11T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03bkmvs",
+"live": false,
+"type": "episode",
+"title": "The Story of the Jews",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01k0w8g.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0392pzx",
+"guidance": false,
+"subtitle": "3. A Leap of Faith",
+"synopses": {
+"large": "Simon Schama explores the bright, hopeful moment when Enlightenment thinkers and revolutionary armies brought ghetto walls crashing down - allowing Jews to weave their wisdom, creativity and energies into the very fabric of modern life in Europe. \n\nOne of the most of fruitful branches of this Jewish renaissance was in music, and the stellar careers of Giacomo Meyerbeer and Felix Mendelssohn established the enduring tradition for Jewish musical prodigies. However, the remarkably successful integration of Jewish talent into the mainstream of European culture and commerce stirred up the ghosts of ancient prejudice, decked out in the new clothes of romantic nationalism and the pseudo-science of anti-semitism. The road to the hell of the Holocaust was paved by the diatribes of Richard Wagner, while the trial of Alfred Dreyfus led Theodor Herzl to conclude that without a homeland of their own, Jews would never be free of the millennia-old persecution.",
+"small": "How the Enlightenment allowed Jews to integrate into modern European culture and commerce.",
+"medium": "Documentary series. Simon Schama examines how the Enlightenment brought the ghetto walls crashing down and how this integration ultimately stirred up old prejudices."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03bkmtz",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T21:00:00Z",
+"start": "2018-04-17T21:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 3518,
+"first_broadcast": "9pm 15 Sep 2013"
+},
+{
+"hd": false,
+"id": "p01gsftg",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T21:00:00Z",
+"start": "2018-04-17T21:41:05Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "15 Sep 2013"
+}
+],
+"parent_id": "b0392pzx",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "15 Sep 2013",
+"related_links": [],
+"original_title": "A Leap of Faith",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2013-09-15T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01sbxqw",
+"live": false,
+"type": "episode",
+"title": "Queens of Jazz: The Joy and Pain of the Jazz Divas",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01jxgvx.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01sbxqw",
+"guidance": true,
+"synopses": {
+"large": "A celebration of some of the greatest female jazz singers of the 20th century. It takes an unflinching and revealing look at what it actually took to be a jazz diva during a turbulent time in America's social history - a time when battle lines were being constantly drawn around issues of race, gender and popular culture.\n\nThe documentary tracks the diva's difficult progress as she emerges from the tough, testosterone-fuelled world of the big bands of the 30s and 40s, to fill nightclubs and saloons across the US in the 50s and early 60s as a force in her own right. Looking at the lives and careers of six individual singers (Billie Holiday, Ella Fitzgerald, Peggy Lee, Sarah Vaughan, Nina Simone and Annie Ross), the film not only talks to those who knew and worked with these queens of jazz, but also to contemporary singers who sit on the shoulders of these trailblazing talents without having to endure the pain and hardship it took for them to make their highly individual voices heard above the prejudice of mid-century America.\n\nThis is a documentary about how these women triumphed - always at some personal cost - to become some of the greatest artists of the 20th century, women who chose singing above life itself because singing was their life.",
+"small": "Documentary celebrating some of the greatest female jazz singers of the 20th century.",
+"medium": "Documentary celebrating some of the greatest female jazz singers of the 20th century, including what it took to be a jazz diva during a turbulent time in America's social history."
+},
+"versions": [
+{
+"hd": false,
+"id": "b01sbxnn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-21T00:45:00Z",
+"start": "2018-04-21T00:45:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "9pm 10 May 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "10 May 2013",
+"related_links": [
+{
+"id": "p02kcd3l",
+"url": "http://www.bbc.co.uk/programmes/b04grm6j",
+"kind": "priority_content",
+"type": "link",
+"title": "The Lost Women of British Jazz"
+}
+],
+"original_title": "Queens of Jazz: The Joy and Pain of the Jazz Divas",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2013-05-10T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01ql9xk",
+"live": false,
+"type": "episode",
+"title": "Danny Baker's Great Album Showdown",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l9cv2.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01qkw54",
+"guidance": false,
+"subtitle": "2. File under: Pop",
+"synopses": {
+"large": "What makes a great pop album? Danny Baker celebrates the golden age of the analogue, vinyl LP with pop star Boy George, writer Grace Dent and journalist David Hepworth. Opinionated and impassioned, Baker and his guests select their favourite pop albums and discuss how the LPs of the 60s and 70s were produced - and devoured - in quite a different way to their modern equivalents.",
+"small": "Danny Baker and his three guests explore the essential elements of a great pop album.",
+"medium": "Exploring what makes a great pop album, Danny Baker celebrates the golden age of the analogue, vinyl LP with guests Boy George, Grace Dent and David Hepworth."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01ql9xf",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-20T00:50:00Z",
+"start": "2018-04-20T00:50:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "9pm 6 Feb 2013"
+}
+],
+"parent_id": "b01qkw54",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"arts",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "6 Feb 2013",
+"related_links": [],
+"original_title": "File under: Pop",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2013-02-06T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01qsqd2",
+"live": false,
+"type": "episode",
+"title": "Chivalry and Betrayal: The Hundred Years War",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l944l.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p00yjy5m",
+"guidance": false,
+"subtitle": "2. Breaking the Bonds 1360-1415",
+"synopses": {
+"large": "England, wracked by plague and revolt, loses the upper hand until Henry V, determined to prove his right to be king, turns the tide at the battle of Agincourt.",
+"small": "England loses the upper hand until Henry V turns the tide at the battle of Agincourt.",
+"medium": "England, wracked by plague and revolt, loses the upper hand until Henry V, determined to prove his right to be king, turns the tide at the battle of Agincourt."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01qsqb2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T23:00:00Z",
+"start": "2018-04-17T23:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 3502,
+"first_broadcast": "9pm 18 Feb 2013"
+}
+],
+"parent_id": "p00yjy5m",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "18 Feb 2013",
+"related_links": [],
+"original_title": "Breaking the Bonds 1360-1415",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2013-02-18T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0752bbd",
+"live": false,
+"type": "episode",
+"title": "Chef vs Science: The Ultimate Kitchen Challenge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03mx2hl.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0752bbd",
+"guidance": false,
+"synopses": {
+"large": "Materialist scientist Professor Mark Miodownik challenges two-Michelin-star chef Marcus Wareing to the ultimate cookery competition. Over the course of 90 minutes they cook up some of the nation's best-loved dishes, from starter to dessert, in a head-to-head contest to see who can create the most flavoursome food. Marcus has flair, passion, and experience, while Mark an understanding of cooking at the molecular level and access to state-of-the-art technology. Ultimately the question they will try to answer is this: is cooking a science or an art?",
+"small": "Scientist Mark Miodownik challenges chef Marcus Wareing to a cookery competition.",
+"medium": "Materialist scientist Professor Mark Miodownik challenges two-Michelin-star chef Marcus Wareing to the ultimate cookery competition. Is cooking a science or an art?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0752b9p",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-05-12T00:30:00Z",
+"start": "2018-04-12T00:30:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "9pm 23 Mar 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"food",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "23 Mar 2016",
+"related_links": [
+{
+"id": "p03ntwzk",
+"url": "http://www.bbc.co.uk/guides/zc38xsg",
+"kind": "priority_content",
+"type": "link",
+"title": "The weirdest way to cook steak"
+}
+],
+"original_title": "Chef vs Science: The Ultimate Kitchen Challenge",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2016-03-23T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b06t3mhm",
+"live": false,
+"type": "episode",
+"title": "From Andy Pandy to Zebedee: The Golden Age of Children's Television",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03bmq91.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06t3mhm",
+"guidance": false,
+"synopses": {
+"small": "The story of the struggle to make programmes for children in the pre-digital days.",
+"medium": "Nigel Planer narrates the story of the struggle to make programmes for children in the days before everything went digital."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07453kq",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-14T23:35:00Z",
+"start": "2018-04-14T23:35:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "21 Dec 2015"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "21 Dec 2015",
+"related_links": [],
+"original_title": "From Andy Pandy to Zebedee: The Golden Age of Children's Television",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2015-12-21T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b07hx40t",
+"live": false,
+"type": "episode",
+"title": "Inside Porton Down: Britain's Secret Weapons Research Facility",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03z7hmr.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07hx40t",
+"guidance": true,
+"synopses": {
+"large": "Dr Michael Mosley investigates Britain's most secretive and controversial military research base, Porton Down, on its 100th anniversary. He comes face to face with chemical and biological weapons old and new, reveals the truth about shocking animal and human testing, and discovers how the latest science and technology are helping to defend us against terrorist attacks and rogue nations.",
+"small": "Dr Michael Mosley investigates the secretive and controversial military research base.",
+"medium": "Michael Mosley investigates Porton Down, Britain's most secretive and controversial military research base. He comes face to face with chemical and biological weapons old and new."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07hx407",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "D2",
+"text": {
+"large": "Contains scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-05T22:00:00Z",
+"start": "2018-04-05T22:00:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"credits_start": 3515,
+"first_broadcast": "9pm 28 Jun 2016"
+},
+{
+"hd": false,
+"id": "p03ztfsv",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "D2",
+"text": {
+"large": "Contains scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-05T22:00:00Z",
+"start": "2018-04-05T22:56:29Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"first_broadcast": "28 Jun 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "28 Jun 2016",
+"related_links": [],
+"original_title": "Inside Porton Down: Britain's Secret Weapons Research Facility",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2016-06-28T00:00:00.000Z",
+"lexical_sort_letter": "I",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09x60g3",
+"live": false,
+"type": "episode",
+"title": "Arena",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061ymnr.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006pn88",
+"guidance": false,
+"subtitle": "Bob Dylan - Trouble No More",
+"synopses": {
+"large": "In 1979, Bob Dylan released Slow Train Coming, an album of strictly devotional songs. He declared he had found God in Christianity. For the following two years, accompanied by the finest musicians and gospel singers, he toured with a repertoire solely of songs expressing his new-found faith.\n\nA film was made of one of those performances, but it was never released. After 37 years, it is broadcast for the first time - but with a twist. The performance is enhanced by a series of sermons between the songs, all specially written for the film and preached by Oscar-nominated actor Michael Shannon.\n\nThe result is Bob Dylan's gospel service combining the then of the gig with the now of the message of The Preacher.",
+"small": "A Bob Dylan performance of songs expressing his new-found Christianity in the late 70s.",
+"medium": "A Bob Dylan performance of songs expressing his new-found Christianity in the late 70s, enhanced by a series of sermons between the songs, written by the actor Michael Shannon.",
+"editorial": "A rare Dylan performance of the devotional songs he recorded after finding faith."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgtj9",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-04-29T22:00:00Z",
+"start": "2018-03-30T22:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "30 Mar 2018"
+}
+],
+"parent_id": "b006pn88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "30 Mar 2018",
+"related_links": [],
+"original_title": "Bob Dylan - Trouble No More",
+"audio_described": false,
+"editorial_title": "Bob Dylan - Trouble No More",
+"requires_sign_in": true,
+"release_date_time": "2018-03-30T00:00:00.000Z",
+"editorial_subtitle": "Dylan’s spiritual side",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

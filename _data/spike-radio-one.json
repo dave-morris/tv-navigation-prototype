@@ -1,0 +1,1645 @@
+[
+{
+"id": "p063ypqf",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064rtn5.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Becoming... Loki",
+"synopses": {
+"small": "Tom Hiddleston looks back on life as arch-villain Loki, ahead of Avengers: Infinity War.",
+"medium": "Tom Hiddleston looks back on life as Loki, Marvel's greatest villain, ahead of Avengers: Infinity War, including his love for the character, Chris Hemsworth and the devoted fans.",
+"editorial": "Tom Hiddleston looks back on life as Loki, with his take on Chris Hemsworth and fans."
+},
+"versions": [
+{
+"hd": true,
+"id": "p06545rh",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "20 mins",
+"value": "PT20M8S"
+},
+"availability": {
+"end": "2019-04-20T05:00:00Z",
+"start": "2018-04-23T12:13:24Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "20 Apr 2018"
+},
+{
+"hd": true,
+"id": "p063yprc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "20 mins",
+"value": "PT20M8S"
+},
+"availability": {
+"end": "2019-04-20T05:00:00Z",
+"start": "2018-04-20T05:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Becoming... Loki",
+"audio_described": false,
+"editorial_title": "Becoming... Loki",
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "Tom Hiddleston on Marvel’s favourite villain",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b06tyy",
+"live": false,
+"type": "episode",
+"title": "Sounds Like Friday Night",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06546f8.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09cnb5g",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "Greg James and Dotty present and are joined by Canadian chart topper Shawn Mendes. With over four billion views online, Shawn performs two songs live in the studio. Indie rockers The Vaccines perform their new single I Can't Quit, while Brits Critic Choice winner Jorja Smith delivers a special performance of her track Blue Light. Craig David performs and Dotty meets US singer-songwriter Charlie Puth, while Nile Rodgers and Chic take on the gig in a minute challenge.",
+"small": "Featuring performances from Shawn Mendes, The Vaccines, Jorja Smith and Craig David.",
+"medium": "Live music show. Greg James and Dotty present and are joined by Canadian chart topper Shawn Mendes. Other performers include The Vaccines, Jorja Smith and Craig David.",
+"editorial": "Canadian chart topper and online sensation Shawn Mendes performs two songs live."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06try",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-20T19:00:00Z",
+"start": "2018-04-20T19:06:16Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "7:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b09ys044",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [
+{
+"id": "p05lfr5k",
+"url": "http://www.bbc.co.uk/programmes/p05jvy75",
+"kind": "priority_content",
+"type": "link",
+"title": "Quizzes, features and bonus video"
+}
+],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "3/5 With Shawn Mendes, The Vaccines and Jorja Smith",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063842s",
+"live": false,
+"type": "episode",
+"title": "Live Lounge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064slfx.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p01029mq",
+"guidance": false,
+"subtitle": "Shawn Mendes",
+"synopses": {
+"small": "Performing his new single ‘In My Blood’ and an awesome cover of Post Malone.",
+"medium": "Shawn Mendes performs his new single ‘In My Blood’ and an awesome cover of  ‘Psycho’ by Post Malone."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063846c",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT6M50S"
+},
+"availability": {
+"end": "2018-05-19T16:00:00Z",
+"start": "2018-04-19T16:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p01029mq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Shawn Mendes",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p06383cv",
+"live": false,
+"type": "episode",
+"title": "100% Noughties Playlist",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zpjw.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p06383cv",
+"guidance": false,
+"synopses": {
+"small": "Trevor Nelson delves in to the 1Xtra archive and picks the best Noughties tunes.",
+"medium": "Trevor Nelson delves in to the 1Xtra archive and picks the best Noughties tunes for the ultimate throwback. With classic tracks from Estelle, Akon, Missy Elliott and more.",
+"editorial": "1Xtra presents classic tracks from Aaliyah, Estelle, Akon and many more."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0647l9h",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT56M46S"
+},
+"availability": {
+"end": "2018-05-15T15:00:00Z",
+"start": "2018-04-15T15:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": true,
+"id": "p06383m4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T15:00:00Z",
+"start": "2018-04-15T15:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_1xtra",
+"titles": {
+"large": "BBC Radio 1Xtra",
+"small": "BBC Radio 1Xtra",
+"medium": "BBC Radio 1Xtra"
+},
+"attribution": "bbc_1xtra"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "100% Noughties Playlist",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "Trevor Nelson curates the ultimate throwback",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063831g",
+"live": false,
+"type": "episode",
+"title": "WTF?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hd5z.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05c0thh",
+"guidance": false,
+"subtitle": "Facebook & You: WTF?",
+"synopses": {
+"large": "How much does Facebook know about you? And should you be worried? Newsbeat's James Waterhouse lifts the lid on the data and privacy scandal costing them billions of pounds.\n\n\n\nSince it came out that a personality quiz on Facebook in 2014 may have led to the personal data of up to 87 million people being taken without their permission - then claims that the data was bought and used by the company Cambridge Analytica for targeted advertising - a lot of people are concerned over what Facebook knows about them. \n\n\n\nShould we be worried about our Facebook accounts and how much the social network knows about us?",
+"small": "How much does Facebook know about you? And should you be worried about your data?",
+"medium": "How much does Facebook know about you? And should you be worried? Newsbeat's James Waterhouse lifts the lid on the data and privacy scandal costing them billions.",
+"editorial": "Newsbeat discovers what's the fuss about the Facebook data scandal."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0638352",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT6M42S"
+},
+"availability": {
+"end": "2018-05-10T05:00:00Z",
+"start": "2018-04-10T05:00:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 399,
+"first_broadcast": "10 Apr 2018"
+}
+],
+"parent_id": "p05c0thh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"entertainment",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "10 Apr 2018",
+"related_links": [],
+"original_title": "Facebook & You: WTF?",
+"audio_described": false,
+"editorial_title": "Facebook & You: WTF?",
+"requires_sign_in": true,
+"release_date_time": "2018-04-10T00:00:00.000Z",
+"editorial_subtitle": "Is it time to #deletefacebook?",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0639298",
+"live": false,
+"type": "episode",
+"title": "BBC Music Introducing",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06399kr.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p010j8y5",
+"guidance": false,
+"subtitle": "The Austin Sessions",
+"synopses": {
+"large": "Austin makes a fair claim of being the live music capital of the world. At no time is this truer than during South by Southwest festival when the entirety of the downtown area becomes an enthralling melting pot of different sounds, from the tumult of street performers and buskers on every corner, to the thrum of live bands spilling out from Austin's seemingly endless array of venues.\n\n\n\nBBC Music Introducing invited four artists to help create a musical portrait of this fascinating city, where there is evidence of the local slogan at every turn: \"Keep Austin Weird\". Featuring Suzi Wu, Rhys Lewis, Tayá and Goat Girl live in session.",
+"small": "Introducing takes you on a tour of Austin, Texas during SXSW 2018 with four new artists.",
+"medium": "BBC Music Introducing takes you on a tour of Austin, Texas during South By Southwest festival 2018 with four emerging British artists: Suzi Wu, Rhys Lewis, Tayá and Goat Girl."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063jgs1",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "16 mins",
+"value": "PT15M47S"
+},
+"availability": {
+"end": "2018-05-06T15:45:00Z",
+"start": "2018-04-06T16:54:46Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"first_broadcast": "6 Apr 2018"
+},
+{
+"hd": true,
+"id": "p06393r6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "16 mins",
+"value": "PT15M47S"
+},
+"availability": {
+"end": "2018-05-06T10:00:00Z",
+"start": "2018-04-06T10:00:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"first_broadcast": "6 Apr 2018"
+}
+],
+"parent_id": "p010j8y5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_music",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "6 Apr 2018",
+"related_links": [],
+"original_title": "The Austin Sessions",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-06T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p061mwjm",
+"live": false,
+"type": "episode",
+"title": "Live Lounge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062cw2x.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p01029mq",
+"guidance": false,
+"subtitle": "George Ezra",
+"synopses": {
+"small": "Performing his track ‘Paradise’ and a gospel-inspired cover of ‘These Days' by Rudimental",
+"medium": "George Ezra performs his track ‘Paradise’ and an amazing gospel-inspired cover of ‘These Days' by Rudimental."
+},
+"versions": [
+{
+"hd": true,
+"id": "p061mwtw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT10M50S"
+},
+"availability": {
+"end": "2018-04-25T16:00:00Z",
+"start": "2018-03-26T17:48:14Z",
+"remaining": {
+"text": "Available until Wed 5pm"
+}
+},
+"first_broadcast": "26 Mar 2018"
+}
+],
+"parent_id": "p01029mq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "26 Mar 2018",
+"related_links": [],
+"original_title": "George Ezra",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-26T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true
+},
+{
+"id": "p05x9dtb",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05xm32t.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Becoming... Black Panther",
+"synopses": {
+"small": "Chadwick Boseman reveals how he became Marvel's iconic Black Panther.",
+"medium": "Chadwick Boseman reveals how he became Marvel's iconic Black Panther, what the role means to him and how much his young fans love the character.",
+"editorial": "The star of Marvel's groundbreaking new superhero movie talks to R1's Ali Plumb."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05x9dyg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT11M14S"
+},
+"availability": {
+"end": "2019-02-15T16:00:00Z",
+"start": "2018-02-15T16:00:00Z",
+"remaining": {
+"text": "Available for 9 months"
+}
+},
+"credits_start": 672,
+"first_broadcast": "15 Feb 2018"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "15 Feb 2018",
+"related_links": [],
+"original_title": "Becoming... Black Panther",
+"audio_described": false,
+"editorial_title": "Becoming... Black Panther",
+"requires_sign_in": true,
+"release_date_time": "2018-02-15T00:00:00.000Z",
+"editorial_subtitle": "Ali chats to Chadwick Boseman",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p060x988",
+"live": false,
+"type": "episode",
+"title": "Newsbeat Documentaries",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060xgy6.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0390z6l",
+"guidance": true,
+"subtitle": "Too Young To Go Bald",
+"synopses": {
+"large": "How would you deal with the nightmare of losing your hair early? Chidera Eggerue investigates hair loss and finds out if a hair transplant is the only way of getting it back. Is there anything else that can be done? \n\n\n\nChidera suffers from traction alopecia which means some of her hair has fallen out. She meets rapper Paigey Cakey who had a hair transplant and Jordan who's about to have one. \n\n\n\nShe also speaks to a hair expert who fills her in on some of the truths and myths around hair loss, and chats to 23-year-old Perry who's been losing his hair for four years and gets him to meet George, who's bald already.",
+"small": "How would you deal with the nightmare of losing your hair early?",
+"medium": "How would you deal with the nightmare of losing your hair early? Chidera Eggerue investigates hair loss and finds out if a hair transplant is the only way of getting it back.",
+"editorial": "What's the imapct of losing hair in your teens and twenties? Chidera Eggerue finds out."
+},
+"versions": [
+{
+"hd": true,
+"id": "p060x9c9",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "17 mins",
+"value": "PT16M54S"
+},
+"guidance": {
+"id": "W7",
+"text": {
+"large": "Contains graphic medical scenes.",
+"small": "Has guidance",
+"medium": "Contains graphic medical scenes."
+}
+},
+"availability": {
+"end": "2019-03-20T06:00:00Z",
+"start": "2018-03-20T06:00:00Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"credits_start": 975,
+"first_broadcast": "20 Mar 2018"
+}
+],
+"parent_id": "p0390z6l",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "20 Mar 2018",
+"related_links": [],
+"original_title": "Too Young To Go Bald",
+"audio_described": false,
+"editorial_title": "Too Young To Go Bald",
+"requires_sign_in": true,
+"release_date_time": "2018-03-20T00:00:00.000Z",
+"editorial_subtitle": "Can hair loss ever feel good?",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "p061mx4v",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06234g1.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Steven Spielberg: Movies That Made Me",
+"synopses": {
+"small": "Steven Spielberg talks through the greatest sci-fi movies from his remarkable career.",
+"medium": "Legendary director Steven Spielberg talks through his greatest sci-fi movies, from Jurassic Park, E.T. and Close Encounters Of The Third Kind to his latest film, Ready Player One."
+},
+"versions": [
+{
+"hd": true,
+"id": "p061mx7f",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "27 mins",
+"value": "PT26M33S"
+},
+"availability": {
+"end": "2019-03-28T15:00:00Z",
+"start": "2018-03-28T15:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "28 Mar 2018"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "28 Mar 2018",
+"related_links": [],
+"original_title": "Steven Spielberg: Movies That Made Me",
+"audio_described": false,
+"editorial_title": "Steven Spielberg: Movies That Made Me",
+"requires_sign_in": true,
+"release_date_time": "2018-03-28T00:00:00.000Z",
+"editorial_subtitle": "From E.T. to Ready Player One",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p05yq0m6",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zffbn.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": true,
+"subtitle": "Jennifer Lawrence: Movies That Made Me",
+"synopses": {
+"small": "Jennifer Lawrence talks to Ali about the movies that made her the star she is today.",
+"medium": "Jennifer Lawrence talks to Ali Plumb about her biggest roles, from Katniss in The Hunger Games and Mystique in X-Men to her Oscar winning performance in Silver Linings Playbook.",
+"editorial": "Celebrating her biggest roles, from The Hunger Games to Silver Linings Playbook."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05yq0wy",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "23 mins",
+"value": "PT23M16S"
+},
+"guidance": {
+"id": "L2V1",
+"text": {
+"large": "Contains strong language and some violent scenes.",
+"small": "Has guidance",
+"medium": "Contains strong language and some violence."
+}
+},
+"availability": {
+"end": "2019-02-27T16:00:00Z",
+"start": "2018-02-27T16:00:00Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"credits_start": 1393,
+"first_broadcast": "27 Feb 2018"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "27 Feb 2018",
+"related_links": [],
+"original_title": "Jennifer Lawrence: Movies That Made Me",
+"audio_described": false,
+"editorial_title": "Jennifer Lawrence: Movies That Made Me",
+"requires_sign_in": true,
+"release_date_time": "2018-02-27T00:00:00.000Z",
+"editorial_subtitle": "J-Law speaks to Ali Plumb",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p062lrld",
+"live": false,
+"type": "episode",
+"title": "Radio 1 Live Music",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062w73s.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02zyts3",
+"guidance": true,
+"subtitle": "Annie Mac B2B Monki, in The Rave Lounge",
+"synopses": {
+"small": "Annie Mac and Monki go back to back for the first ever Radio 1 Rave Lounge.",
+"medium": "Annie Mac and Monki go back to back for the first ever Radio 1 Rave Lounge."
+},
+"versions": [
+{
+"hd": true,
+"id": "p06355r0",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "34 mins",
+"value": "PT34M7S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-04-03T19:03:02Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+},
+{
+"hd": true,
+"id": "p062ls8s",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "34 mins",
+"value": "PT34M7S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+}
+],
+"parent_id": "p02zyts3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "Annie Mac B2B Monki, in The Rave Lounge",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true
+},
+{
+"id": "p05y4gpr",
+"live": false,
+"type": "episode",
+"title": "Newsbeat Documentaries",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05y532m.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0390z6l",
+"guidance": false,
+"subtitle": "Going Vegan: Is It Just A Fad?",
+"synopses": {
+"large": "With veganism rising, how hard is it for one meat lover to go meat-free for a month? Committed carnivore Nesta McGregor meets supporters, doubters and experts during Veganuary.\n\n\n\nNo meat. No fish. No eggs. No milk. No cheese. It seems everyone from Ariana Grande to JME is a vegan right now. But is it a fad or are we really changing our eating habits? \n\n\n\nJoin Nesta on his animal-friendly adventure as he meets the people who support the movement and the farmers who doubt it. He tries vegan kebab 'meat' and talks to supporters of the world's first vegan football club.",
+"small": "With veganism on the rise, how hard is it for one meat lover to go meat-free for a month?",
+"medium": "With veganism rising, how hard is it for one meat lover to go meat-free for a month? Committed carnivore Nesta McGregor meets supporters, doubters and experts during Veganuary."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05y4h60",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "16 mins",
+"value": "PT15M53S"
+},
+"availability": {
+"end": "2019-02-20T06:00:00Z",
+"start": "2018-02-20T06:00:00Z",
+"remaining": {
+"text": "Available for 9 months"
+}
+},
+"credits_start": 938,
+"first_broadcast": "20 Feb 2018"
+}
+],
+"parent_id": "p0390z6l",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-life-stories",
+"documentaries",
+"entertainment",
+"food",
+"lifestyle"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "20 Feb 2018",
+"related_links": [],
+"original_title": "Going Vegan: Is It Just A Fad?",
+"audio_described": false,
+"editorial_title": "Going Vegan: Is It Just A Fad?",
+"requires_sign_in": true,
+"release_date_time": "2018-02-20T00:00:00.000Z",
+"editorial_subtitle": "Nesta McGregor takes a look",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "p05kt5hy",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05l6dss.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Becoming... Hulk",
+"synopses": {
+"small": "Mark Ruffalo talks to Radio 1's Ali Plumb about becoming Marvel's incredible Hulk.",
+"medium": "Mark Ruffalo talks to Radio 1's Ali Plumb about becoming Marvel's incredible Hulk, how he does the roar and why we won't (and kind of will) be getting a Hulk standalone movie."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05kt5rs",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT10M51S"
+},
+"availability": {
+"end": "2018-11-01T12:00:00Z",
+"start": "2017-11-01T12:00:00Z",
+"remaining": {
+"text": "Available for 6 months"
+}
+},
+"credits_start": 532,
+"first_broadcast": "1 Nov 2017"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "1 Nov 2017",
+"related_links": [],
+"original_title": "Becoming... Hulk",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-11-01T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p05jk8p7",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05kcr4r.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Becoming... Thor",
+"synopses": {
+"large": "Chris Hemsworth speaks to Radio 1's Ali Plumb about becoming Marvel's God of Thunder, his early career in Home and Away and how Dancing with the Stars nearly lost him the role.",
+"small": "Chris Hemsworth talks to Radio 1's Ali Plumb about becoming Marvel's God of Thunder.",
+"medium": "Chris Hemsworth speaks to Radio 1's Ali Plumb about becoming Marvel's God of Thunder, his early career in Home and Away and how Dancing with the Stars nearly lost him the role."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05jk8s3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M11S"
+},
+"availability": {
+"end": "2018-10-20T15:00:00Z",
+"start": "2017-10-20T12:42:17Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 606,
+"first_broadcast": "20 Oct 2017"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "20 Oct 2017",
+"related_links": [],
+"original_title": "Becoming... Thor",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-10-20T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p05l2qg7",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05mkgg2.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": false,
+"subtitle": "Becoming... Wonder Woman",
+"synopses": {
+"small": "Gal Gadot talks to Ali about becoming DC’s Wonder Woman ahead of the Justice League movie",
+"medium": "Gal Gadot talks to Ali about becoming DC’s Wonder Woman ahead of Justice League, reveals Chris Pine's nickname for her, and explains what she means by Wonder Woman's \"bush\"."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05mp5m1",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT13M42S"
+},
+"availability": {
+"end": "2018-11-10T15:23:00Z",
+"start": "2017-11-10T18:22:57Z",
+"remaining": {
+"text": "Available for 6 months"
+}
+},
+"credits_start": 817,
+"first_broadcast": "10 Nov 2017"
+},
+{
+"hd": true,
+"id": "p05l2qqf",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT13M42S"
+},
+"availability": {
+"end": "2018-11-10T12:00:00Z",
+"start": "2017-11-10T12:00:00Z",
+"remaining": {
+"text": "Available for 6 months"
+}
+},
+"first_broadcast": "10 Nov 2017"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "10 Nov 2017",
+"related_links": [],
+"original_title": "Becoming... Wonder Woman",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-11-10T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p062lppx",
+"live": false,
+"type": "episode",
+"title": "Radio 1 Live Music",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062w73q.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02zyts3",
+"guidance": true,
+"subtitle": "Riton & Kah-Lo, in The Rave Lounge",
+"synopses": {
+"small": "Riton & Kah-Lo perform for the first ever Radio 1 Rave Lounge.",
+"medium": "Riton & Kah-Lo perform for the first ever Radio 1 Rave Lounge."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063552h",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT10M40S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-04-03T18:23:10Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+},
+{
+"hd": true,
+"id": "p062lqk8",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "11 mins",
+"value": "PT10M40S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+}
+],
+"parent_id": "p02zyts3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "Riton & Kah-Lo, in The Rave Lounge",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true
+},
+{
+"id": "p053n48l",
+"live": false,
+"type": "episode",
+"title": "Movies With Ali Plumb",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p057qhzv.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04b15fh",
+"guidance": true,
+"subtitle": "Becoming... Spider-Man",
+"synopses": {
+"small": "Tom Holland talks about his journey to becoming Marvel's world famous web-slinger.",
+"medium": "Tom Holland tells Radio 1's Ali Plumb how he went from playing Billy Elliot in the stage show to becoming Marvel's biggest superhero."
+},
+"versions": [
+{
+"hd": true,
+"id": "p053n4fl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "18 mins",
+"value": "PT18M20S"
+},
+"guidance": {
+"id": "WL",
+"text": {
+"large": "Contains language which some may find offensive.",
+"small": "Has guidance",
+"medium": "Contains language which may offend."
+}
+},
+"availability": {
+"end": "2018-07-04T15:00:00Z",
+"start": "2017-08-25T14:18:40Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"first_broadcast": "4 Jul 2017"
+}
+],
+"parent_id": "p04b15fh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"entertainment"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "4 Jul 2017",
+"related_links": [],
+"original_title": "Becoming... Spider-Man",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-07-04T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p062lt2h",
+"live": false,
+"type": "episode",
+"title": "Radio 1 Live Music",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062w73v.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02zyts3",
+"guidance": true,
+"subtitle": "Artwork, in The Rave Lounge",
+"synopses": {
+"small": "Artwork takes to the decks for the first ever Radio 1 Rave Lounge.",
+"medium": "Artwork takes to the decks for the first ever Radio 1 Rave Lounge."
+},
+"versions": [
+{
+"hd": true,
+"id": "p06355rx",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M4S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-04-03T18:02:22Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+},
+{
+"hd": true,
+"id": "p062ltcq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M4S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+}
+],
+"parent_id": "p02zyts3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "Artwork, in The Rave Lounge",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true
+},
+{
+"id": "p062pkr7",
+"live": false,
+"type": "episode",
+"title": "Radio 1 Live Music",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062wgrg.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02zyts3",
+"guidance": true,
+"subtitle": "Danny Howard B2B Franky Rizardo, in The Rave Lounge",
+"synopses": {
+"small": "Danny Howard goes back to back with Franky Rizardo, in the Radio 1 Rave Lounge.",
+"medium": "Danny Howard goes back to back with Franky Rizardo, for the first ever Radio 1 Rave Lounge."
+},
+"versions": [
+{
+"hd": true,
+"id": "p06356ws",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "46 mins",
+"value": "PT45M46S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-04-03T19:35:57Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+},
+{
+"hd": true,
+"id": "p062pl54",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "46 mins",
+"value": "PT45M46S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"end": "2018-04-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "31 Mar 2018"
+}
+],
+"parent_id": "p02zyts3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "Danny Howard B2B Franky Rizardo, in The Rave Lounge",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true
+}
+]

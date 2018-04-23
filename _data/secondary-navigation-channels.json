@@ -21,14 +21,14 @@
 	},
 },{
 	"title": "CBeebies",
-	"data-id": "cbeebies-category",
+	"data-id": "cbeebies",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-Cbeebies-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-Cbeebies.png"
 	},
 },{
 	"title": "CBBC",
-	"data-id": "cbbc-category",
+	"data-id": "cbbc",
 	"images": {
 		"focussed": "/img/secondary-navigation/secondary-nav-CBBC-focus.png",
 		"unfocussed": "/img/secondary-navigation/secondary-nav-CBBC.png"

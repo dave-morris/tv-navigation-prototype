@@ -1,0 +1,1545 @@
+[
+{
+"id": "p0637gt2",
+"live": false,
+"type": "episode",
+"title": "FFIT Cymru",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064m09r.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p062k9hw",
+"guidance": false,
+"subtitle": "Cyfres 2018: Pennod 2",
+"synopses": {
+"large": "Sut aeth yr wythnos gyntaf ers dechrau cynllun bwyd a ffitrwydd FFIT Cymru?  The start of the journey for the Leaders, Leon, Mathew, Catherine, Judith and Nic. How did the first week go? 2/8",
+"small": "Sut aeth yr wythnos gyntaf ers dechrau cynllun bwyd a ffitrwydd FFIT Cymru?  The start ...",
+"medium": "Sut aeth yr wythnos gyntaf ers dechrau cynllun bwyd a ffitrwydd FFIT Cymru?  The start of the journey for the Leaders, Leon, Mathew, Catherine, Judith and Nic. How did the first..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p0637gt5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "49 mins",
+"value": "PT48M32S"
+},
+"availability": {
+"end": "2018-05-17T20:00:00Z",
+"start": "2018-04-17T20:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "p062k9hz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-23T21:00:00.000Z"
+},
+"original_title": "Pennod 2",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063gbjb",
+"live": false,
+"type": "episode",
+"title": "Y Ty Arian",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nx86.jpg",
+"inherited_from": "series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p063gbj1",
+"guidance": false,
+"subtitle": "Cyfres 1: Llanfrothen",
+"synopses": {
+"large": "Yn y gyfres newydd hon bydd chwe theulu dewr yn wynebu nifer o heriau ariannol fydd yn eu hannog i ail ystyried eu harferion gwario. New show putting family finances under the spotlight.",
+"small": "Yn y gyfres newydd hon bydd chwe theulu dewr yn wynebu nifer o heriau ariannol fydd yn ...",
+"medium": "Yn y gyfres newydd hon bydd chwe theulu dewr yn wynebu nifer o heriau ariannol fydd yn eu hannog i ail ystyried eu harferion gwario. New show putting family finances under the s..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063gbjf",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "49 mins",
+"value": "PT48M30S"
+},
+"availability": {
+"end": "2018-05-19T20:00:00Z",
+"start": "2018-04-19T20:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p063gbj6",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-23T17:05:00.000Z"
+},
+"original_title": "Llanfrothen",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "Y",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063qy0b",
+"live": false,
+"type": "episode",
+"title": "Parch",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064ssx5.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p04373py",
+"guidance": false,
+"subtitle": "Cyfres 3: Pennod 8",
+"synopses": {
+"large": "Ym mhennod olaf Parch mae'r dirgelwch ynghylch marwolaeth Dafydd yn cael ei ddatrys. In the final episode of Parch, the mystery surrounding Dafydd's death is resolved.",
+"small": "Ym mhennod olaf Parch mae'r dirgelwch ynghylch marwolaeth Dafydd yn cael ei ddatrys. In...",
+"medium": "Ym mhennod olaf Parch mae'r dirgelwch ynghylch marwolaeth Dafydd yn cael ei ddatrys. In the final episode of Parch, the mystery surrounding Dafydd's death is resolved."
+},
+"versions": [
+{
+"hd": false,
+"id": "p064xnnm",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "51 mins",
+"value": "PT51M29S"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063qy0d",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "51 mins",
+"value": "PT51M29S"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p05yn3xz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-27T21:40:00.000Z"
+},
+"original_title": "Pennod 8",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p0638zty",
+"live": false,
+"type": "episode",
+"title": "Wil ac Aeron",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063cfkt.jpg"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "p03yy3gc",
+"guidance": false,
+"subtitle": "Taith Rwmania: Pennod 1",
+"synopses": {
+"large": "Taith newydd yn y camperfan dros 4000 o filltiroedd i bwynt pellaf a mwya' dwyreiniol Ewrop, Rwmania. The two farmers set off in their campervan on a new adventure - a trip to Romania.",
+"small": "Taith newydd yn y camperfan dros 4000 o filltiroedd i bwynt pellaf a mwya' dwyreiniol E...",
+"medium": "Taith newydd yn y camperfan dros 4000 o filltiroedd i bwynt pellaf a mwya' dwyreiniol Ewrop, Rwmania. The two farmers set off in their campervan on a new adventure - a trip to R..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063cm4l",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M57S"
+},
+"availability": {
+"end": "2018-05-18T20:00:00Z",
+"start": "2018-04-18T20:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0638zv3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M58S"
+},
+"availability": {
+"end": "2018-05-18T20:00:00Z",
+"start": "2018-04-18T20:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063mzmd",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M57S"
+},
+"availability": {
+"end": "2018-05-18T20:00:00Z",
+"start": "2018-04-20T10:43:53Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "p0638zts",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"signed",
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-24T21:30:00.000Z"
+},
+"original_title": "Pennod 1",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p0638zvk",
+"live": false,
+"type": "episode",
+"title": "Bryn Fôn a PTSD",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063w57s.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0638zvk",
+"guidance": false,
+"synopses": {
+"large": "Mewn ffilm sensitif a theimladwy, mae Bryn Fôn ar daith i ddarganfod mwy am 'PTSD'. Bryn Fôn finds out more about PTSD, the condition which plagues his character on Pobol y Cwm, Dr Elgan.",
+"small": "Mewn ffilm sensitif a theimladwy, mae Bryn Fôn ar daith i ddarganfod mwy am 'PTSD'. Bry...",
+"medium": "Mewn ffilm sensitif a theimladwy, mae Bryn Fôn ar daith i ddarganfod mwy am 'PTSD'. Bryn Fôn finds out more about PTSD, the condition which plagues his character on Pobol y Cwm,..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p0638zvr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M49S"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Bryn Fôn a PTSD",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063kvr1",
+"live": false,
+"type": "episode",
+"title": "Codi Hwyl",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vrbc.jpg"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "p03j4fkm",
+"guidance": false,
+"subtitle": "Cyfres 6: Camlas Crinan, Tarbert a'r Mystique",
+"synopses": {
+"large": "Yn y rhaglen olaf, bydd John a Dilwyn yn darganfod a fydd modd teithio yn ôl i Gymru yn eu cwch eu hunain, y Mystique. Will John and Dilwyn be able to make it back to Wales in the Mystique?",
+"small": "Yn y rhaglen olaf, bydd John a Dilwyn yn darganfod a fydd modd teithio yn ôl i Gymru yn...",
+"medium": "Yn y rhaglen olaf, bydd John a Dilwyn yn darganfod a fydd modd teithio yn ôl i Gymru yn eu cwch eu hunain, y Mystique. Will John and Dilwyn be able to make it back to Wales in t..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063kvr3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M41S"
+},
+"availability": {
+"end": "2018-05-20T20:00:00Z",
+"start": "2018-04-20T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063mzmy",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M41S"
+},
+"availability": {
+"end": "2018-05-20T20:00:00Z",
+"start": "2018-04-20T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "p05ygy1z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"signed",
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-25T21:00:00.000Z"
+},
+"original_title": "Camlas Crinan, Tarbert a'r Mystique",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063gbk1",
+"live": false,
+"type": "episode",
+"title": "Cwymp Yr Ymerodraethau",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063h8z7.jpg"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "p062t2vv",
+"guidance": false,
+"subtitle": "Sbaen: Realiti a Ffantasi",
+"synopses": {
+"large": "Mae'r hanesydd Hywel Williams yn esbonio sut y cyfrannodd rhai digwyddiadau 'dibwys' at gwymp Ymerodraeth Sbaen. Hywel Williams explores the fall of the Spanish Empire.",
+"small": "Mae'r hanesydd Hywel Williams yn esbonio sut y cyfrannodd rhai digwyddiadau 'dibwys' at...",
+"medium": "Mae'r hanesydd Hywel Williams yn esbonio sut y cyfrannodd rhai digwyddiadau 'dibwys' at gwymp Ymerodraeth Sbaen. Hywel Williams explores the fall of the Spanish Empire."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063gbk4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "48 mins",
+"value": "PT47M36S"
+},
+"availability": {
+"end": "2018-05-19T21:30:00Z",
+"start": "2018-04-19T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063mzlk",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "48 mins",
+"value": "PT47M36S"
+},
+"availability": {
+"end": "2018-05-19T21:30:00Z",
+"start": "2018-04-19T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p062t2vv",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"signed",
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "S4C",
+"scheduled_start": "2018-04-24T11:30:00.000Z"
+},
+"original_title": "Sbaen: Realiti a Ffantasi",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063qy05",
+"live": false,
+"type": "episode",
+"title": "Band Cymru",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06543bl.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05zyx2g",
+"guidance": false,
+"subtitle": "Cyfres 2018: Y Rownd Derfynol",
+"synopses": {
+"large": "Band y Cory, Brass Beaumaris, Band BTM a Band Arian Llaneurgain sy'n brwydro am y teitl a'r wobr ariannol hael. Four bands compete in the final, live from the Great Hall, Swansea Univeristy.",
+"small": "Band y Cory, Brass Beaumaris, Band BTM a Band Arian Llaneurgain sy'n brwydro am y teitl...",
+"medium": "Band y Cory, Brass Beaumaris, Band BTM a Band Arian Llaneurgain sy'n brwydro am y teitl a'r wobr ariannol hael. Four bands compete in the final, live from the Great Hall, Swanse..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063qy07",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "104 mins",
+"value": "PT1H43M49S"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-23T00:24:07Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p060tx1b",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Y Rownd Derfynol",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063kvrk",
+"live": false,
+"type": "episode",
+"title": "Bocsio",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064sdzk.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05pnnls",
+"guidance": false,
+"subtitle": "Cyfres 2018: Uchafbwyntiau",
+"synopses": {
+"large": "Uchafbwyntiau estynedig o'r noson o focsio proffesiynol y penwythnos diwethaf. Extended highlights of the Fire and Ice evening of professional boxing from the Ice Arena Wales.",
+"small": "Uchafbwyntiau estynedig o'r noson o focsio proffesiynol y penwythnos diwethaf. Extended...",
+"medium": "Uchafbwyntiau estynedig o'r noson o focsio proffesiynol y penwythnos diwethaf. Extended highlights of the Fire and Ice evening of professional boxing from the Ice Arena Wales."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063kvrn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "48 mins",
+"value": "PT48M8S"
+},
+"availability": {
+"end": "2018-05-20T22:05:00Z",
+"start": "2018-04-20T22:05:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "p062wkm4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Uchafbwyntiau",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063gbg2",
+"live": false,
+"type": "episode",
+"title": "Rownd a Rownd",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v7dv.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02b4k2p",
+"guidance": false,
+"subtitle": "Cyfres 23: Pennod 34",
+"synopses": {
+"large": "Ar ôl cael ei ddal yn y gwesty, mae Mathew yn wynebu diwrnod anodd wrth i fwy o bobl ddod i wybod am ei frad. Mathew faces a difficult day as more people hear about his betrayal.",
+"small": "Ar ôl cael ei ddal yn y gwesty, mae Mathew yn wynebu diwrnod anodd wrth i fwy o bobl dd...",
+"medium": "Ar ôl cael ei ddal yn y gwesty, mae Mathew yn wynebu diwrnod anodd wrth i fwy o bobl ddod i wybod am ei frad. Mathew faces a difficult day as more people hear about his betrayal."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063v6dm",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "20 mins",
+"value": "PT19M57S"
+},
+"availability": {
+"end": "2018-05-19T18:00:00Z",
+"start": "2018-04-19T18:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063gbg9",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "20 mins",
+"value": "PT19M57S"
+},
+"availability": {
+"end": "2018-05-19T18:00:00Z",
+"start": "2018-04-19T18:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p05qyhw3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Pennod 34",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063mzq6",
+"live": false,
+"type": "episode",
+"title": "Band Cymru",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06543bs.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05zyx2g",
+"guidance": false,
+"subtitle": "Cyfres 2018: Ffeinal Band Ieuenctid Cymru 2018",
+"synopses": {
+"large": "Ffeinal y bandiau ieuenctid: Band Jazz Tryfan, Cerddorfa Jazz Ieuenctid Gwasanaeth Cerdd Caerdydd a'r Fro, Band Mawr Ieuenctid Torfaen a Band Pres Ieuenctid Gwent. Live youth band final.",
+"small": "Ffeinal y bandiau ieuenctid: Band Jazz Tryfan, Cerddorfa Jazz Ieuenctid Gwasanaeth Cerd...",
+"medium": "Ffeinal y bandiau ieuenctid: Band Jazz Tryfan, Cerddorfa Jazz Ieuenctid Gwasanaeth Cerdd Caerdydd a'r Fro, Band Mawr Ieuenctid Torfaen a Band Pres Ieuenctid Gwent. Live youth ba..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063mzqh",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "101 mins",
+"value": "PT1H41M25S"
+},
+"availability": {
+"end": "2018-05-21T20:30:00Z",
+"start": "2018-04-22T00:59:39Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "p060tx1b",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Ffeinal Band Ieuenctid Cymru 2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p061t53b",
+"live": false,
+"type": "episode",
+"title": "Y Byd ar Bedwar",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064k579.jpg",
+"inherited_from": "series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p03nsyq8",
+"guidance": false,
+"subtitle": "Cyfres 2017: Tue, 17 Apr 2018 21:30",
+"synopses": {
+"large": "Oes angen gwneud mwy i reoleiddio'r diwydiant adeiladu er mwyn diogelu cwsmeriaid? Does more need to be done to regulate the construction industry in order to protect consumers?",
+"small": "Oes angen gwneud mwy i reoleiddio'r diwydiant adeiladu er mwyn diogelu cwsmeriaid? Does...",
+"medium": "Oes angen gwneud mwy i reoleiddio'r diwydiant adeiladu er mwyn diogelu cwsmeriaid? Does more need to be done to regulate the construction industry in order to protect consumers?"
+},
+"versions": [
+{
+"hd": false,
+"id": "p061t53j",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M54S"
+},
+"availability": {
+"end": "2018-05-22T22:05:00Z",
+"start": "2018-04-17T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "p04xp9z8",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Tue, 17 Apr 2018 21:30",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "Y",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p0638zsw",
+"live": false,
+"type": "episode",
+"title": "Sgorio",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0604chk.jpg",
+"inherited_from": "series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02llrn1",
+"guidance": false,
+"subtitle": "Mwy o Sgorio: Pennod 15",
+"synopses": {
+"large": "Y ddeuawd sylwebu eiconig Nic Parry a Malcolm Allen sy'n ymuno â Dylan Ebenezer a rhoddir sylw i Portsmouth a Wrecsam a'r ymdrech i gael dyrchafiad. Featuring Wrexham's push for promotion.",
+"small": "Y ddeuawd sylwebu eiconig Nic Parry a Malcolm Allen sy'n ymuno â Dylan Ebenezer a rhodd...",
+"medium": "Y ddeuawd sylwebu eiconig Nic Parry a Malcolm Allen sy'n ymuno â Dylan Ebenezer a rhoddir sylw i Portsmouth a Wrecsam a'r ymdrech i gael dyrchafiad. Featuring Wrexham's push for..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p0638zt1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT24M"
+},
+"availability": {
+"end": "2018-05-18T18:00:00Z",
+"start": "2018-04-18T19:29:58Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "p05s3w6l",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Pennod 15",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063mznk",
+"live": false,
+"type": "episode",
+"title": "Rygbi",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kd6g.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02llrpy",
+"guidance": false,
+"subtitle": "Principality / Cwpan Cenedlaethol: Merthyr v Cwins Caerfyrddin",
+"synopses": {
+"large": "Gêm Uwch Gynghrair Principality rhwng Merthyr a Cwins Caerfyrddin yn fyw o'r Wern. Live Principality Premiership match: Merthyr v Carmarthen Quins. K/O, 5.15. English commentary available.",
+"small": "Gêm Uwch Gynghrair Principality rhwng Merthyr a Cwins Caerfyrddin yn fyw o'r Wern. Live...",
+"medium": "Gêm Uwch Gynghrair Principality rhwng Merthyr a Cwins Caerfyrddin yn fyw o'r Wern. Live Principality Premiership match: Merthyr v Carmarthen Quins. K/O, 5.15. English commentary..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063mznq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "126 mins",
+"value": "PT2H6M"
+},
+"availability": {
+"end": "2018-05-21T18:20:00Z",
+"start": "2018-04-22T00:02:02Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "p05qn5pr",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Merthyr v Cwins Caerfyrddin",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063qykr",
+"live": false,
+"type": "episode",
+"title": "Sgorio",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kfbf.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02llrn1",
+"guidance": false,
+"subtitle": "Cyfres 2017: Sgorio: Bangor v Y Derwyddon Cefn",
+"synopses": {
+"large": "Darllediad byw o'r gêm a all fod yn allweddol yn y ras am le Ewropaidd. Bangor City face a potentially crucial fixture against Cefn Druids. (K/O 3.00). English commentary available.",
+"small": "Darllediad byw o'r gêm a all fod yn allweddol yn y ras am le Ewropaidd. Bangor City fac...",
+"medium": "Darllediad byw o'r gêm a all fod yn allweddol yn y ras am le Ewropaidd. Bangor City face a potentially crucial fixture against Cefn Druids. (K/O 3.00). English commentary availa..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063qykt",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "123 mins",
+"value": "PT2H2M40S"
+},
+"availability": {
+"end": "2018-05-22T16:00:00Z",
+"start": "2018-04-22T22:24:57Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p05b3m5g",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Sgorio: Bangor v Y Derwyddon Cefn",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063mzqx",
+"live": false,
+"type": "episode",
+"title": "Seiclo",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kblj.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p03vjj0k",
+"guidance": false,
+"subtitle": "Cyfres 2018: Paris i Roubaix",
+"synopses": {
+"large": "Uchafbwyntiau'r ras feicio enwog yng ngogledd Ffrainc sy'n cael ei hadnabod yn lleol fel Uffern y Gogledd. Highlights of the famous bike race staged in northern France.",
+"small": "Uchafbwyntiau'r ras feicio enwog yng ngogledd Ffrainc sy'n cael ei hadnabod yn lleol fe...",
+"medium": "Uchafbwyntiau'r ras feicio enwog yng ngogledd Ffrainc sy'n cael ei hadnabod yn lleol fel Uffern y Gogledd. Highlights of the famous bike race staged in northern France."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063mzr4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "52 mins",
+"value": "PT51M58S"
+},
+"availability": {
+"end": "2018-05-21T21:30:00Z",
+"start": "2018-04-21T21:30:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "p0608xbl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Paris i Roubaix",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p0633fqp",
+"live": false,
+"type": "episode",
+"title": "Ffermio",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06347wn.jpg"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "p03j1cqy",
+"guidance": false,
+"subtitle": "Mon, 16 Apr 2018",
+"synopses": {
+"large": "Byddwn yn siarad â Gareth Wyn Jones am y tymor wyna ac yn clywed am fenter ddiweddaraf Fferm y Rhug, Corwen. Gareth Wyn Jones talks about the lambing season. Plus Rhug Farm's latest venture.",
+"small": "Byddwn yn siarad â Gareth Wyn Jones am y tymor wyna ac yn clywed am fenter ddiweddaraf ...",
+"medium": "Byddwn yn siarad â Gareth Wyn Jones am y tymor wyna ac yn clywed am fenter ddiweddaraf Fferm y Rhug, Corwen. Gareth Wyn Jones talks about the lambing season. Plus Rhug Farm's la..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p0633fqt",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M43S"
+},
+"availability": {
+"end": "2018-05-16T21:00:00Z",
+"start": "2018-04-16T21:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063mzm6",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M43S"
+},
+"availability": {
+"end": "2018-05-16T21:00:00Z",
+"start": "2018-04-19T19:29:20Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "p03j1cqy",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"signed",
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Mon, 16 Apr 2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p05f9qvd",
+"live": false,
+"type": "episode",
+"title": "Her yr Hinsawdd",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05g2q9v.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05drk66",
+"guidance": false,
+"subtitle": "Cyfres 2: Costa Rica",
+"synopses": {
+"large": "Byddwn yn dilyn yr Athro Siwan Davies i Costa Rica lle mae'r bywyd gwyllt anhygoel a'r golygfeydd hudolus o dan fygythiad enfawr. Costa Rica, where the wildlife & landscape are under threat.",
+"small": "Byddwn yn dilyn yr Athro Siwan Davies i Costa Rica lle mae'r bywyd gwyllt anhygoel a'r ...",
+"medium": "Byddwn yn dilyn yr Athro Siwan Davies i Costa Rica lle mae'r bywyd gwyllt anhygoel a'r golygfeydd hudolus o dan fygythiad enfawr. Costa Rica, where the wildlife & landscape are ..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p0638zsn",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M59S"
+},
+"availability": {
+"end": "2018-05-18T17:30:00Z",
+"start": "2018-04-18T17:30:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "20 Sep 2017"
+},
+{
+"hd": false,
+"id": "p0638zsn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "24 mins",
+"value": "PT23M59S"
+},
+"availability": {
+"end": "2018-05-18T17:30:00Z",
+"start": "2018-04-18T17:30:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "20 Sep 2017"
+}
+],
+"parent_id": "p05drk68",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "20 Sep 2017",
+"related_links": [],
+"original_title": "Costa Rica",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-09-20T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p063gbkh",
+"live": false,
+"type": "episode",
+"title": "Hansh",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05w1f0z.jpg",
+"inherited_from": "brand"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p054nwt7",
+"guidance": true,
+"subtitle": "Cyfres 2017: Pennod 39",
+"synopses": {
+"large": "Tiwns, comedi a lleisiau ffres. Blas o gynnwys arlein @hanshs4c. Tunes, comedy and fresh faces. A taste of online content @hanshs4c.",
+"small": "Tiwns, comedi a lleisiau ffres. Blas o gynnwys arlein @hanshs4c. Tunes, comedy and fres...",
+"medium": "Tiwns, comedi a lleisiau ffres. Blas o gynnwys arlein @hanshs4c. Tunes, comedy and fresh faces. A taste of online content @hanshs4c."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063gbkn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "23 mins",
+"value": "PT23M23S"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-05-19T22:00:00Z",
+"start": "2018-04-19T22:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p054nwt9",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Pennod 39",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": false,
+"promoted": true
+},
+{
+"id": "p02n811m",
+"live": false,
+"type": "episode",
+"title": "Caradoc Evans: Ffrae My People",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02nmt77.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02n811m",
+"guidance": true,
+"synopses": {
+"large": "Beti George sy'n rhoi hanes Caradoc Evans a blas ar y straeon gorddod y dyfroedd gan greu llenyddiaeth newydd Saesneg yng Nghymru. Beti George tells the story of the controversial author.",
+"small": "Beti George sy'n rhoi hanes Caradoc Evans a blas ar y straeon gorddod y dyfroedd gan gr...",
+"medium": "Beti George sy'n rhoi hanes Caradoc Evans a blas ar y straeon gorddod y dyfroedd gan greu llenyddiaeth newydd Saesneg yng Nghymru. Beti George tells the story of the controversi..."
+},
+"versions": [
+{
+"hd": false,
+"id": "p02rcxkn",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "48 mins",
+"value": "PT48M9S"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-05-18T12:30:00Z",
+"start": "2018-04-18T12:30:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "12 Apr 2015"
+},
+{
+"hd": false,
+"id": "p02rcxkn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "48 mins",
+"value": "PT48M9S"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-05-18T12:30:00Z",
+"start": "2018-04-18T12:30:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "12 Apr 2015"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"wales"
+],
+"has_credits": false,
+"master_brand": {
+"id": "s4cpbs",
+"titles": {
+"large": "S4C",
+"small": "S4C",
+"medium": "S4C"
+},
+"attribution": "s4c"
+},
+"release_date": "12 Apr 2015",
+"related_links": [],
+"original_title": "Caradoc Evans: Ffrae My People",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2015-04-12T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": false,
+"promoted": true
+}
+]

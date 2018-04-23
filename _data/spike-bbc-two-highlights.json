@@ -1,0 +1,1786 @@
+[{
+    "id": "p061bmjf",
+    "live": false,
+    "type": "episode",
+    "title": "The City And The City",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062r7gs.jpg"
+    },
+    "labels": {
+      "category": "Sci-Fi"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p061bd5l",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 3",
+    "synopses": {
+      "large": "Borlu is interrogated by the Ul Qoman Militsya and is promptly taken to the Militsya HQ. He broke the terms of his agreement with Dhatt and she is furious - his possible deportation is out of her control. She's got him under constant surveillance. Dhatt knows this case means more to Borlu than being just another murder.\n\nCorwi calls Borlu and tells him that Major Syedr is in bed with Gorse, CEO of multinational mining company Sear & Core. Not the kind of thing Syedr makes public information. Finally, Borlu and Dhatt come face-to-face with Bowden. Borlu wants to know about Bowden's relationship with Mahalia - he sees him as a key suspect. Bowden says he had an argument with Mahalia on the night she went missing. It looks like anyone with a connection to Orciny is under threat. Bowden remembers where he's seen Borlu before - Katrynia had time for his theories.\n\nBorlu and Dhatt head to Bowden's apartment. It's been ransacked, covered with the same glyphs that Borlu saw in the cave, and now Bowden has gone missing.",
+      "small": "Borlu faces the demons of Katrynia's past as anyone linked to the third city is at risk.",
+      "medium": "Borlu is caught up in a dangerous underworld. As he faces the demons of Katrynia's past, anyone connected to the fabled third city, Orciny, is increasingly at serious risk."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p061bmnn",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-27T21:00:00Z",
+          "start": "2018-04-23T09:08:17Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3518,
+        "first_broadcast": "6 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064yn7w",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-27T21:00:00Z",
+          "start": "2018-04-23T09:43:33Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "6 Apr 2018"
+      }
+    ],
+    "parent_id": "p061bdq9",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-sci-fi-and-fantasy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "audio_described": true,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-06T00:00:00.000Z",
+    "editorial_subtitle": "3/4 Borlu is caught up in a dangerous underworld",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09zj6vn",
+    "live": false,
+    "type": "episode",
+    "title": "The Assassination of Gianni Versace - American Crime Story",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wmj5.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09trdxr",
+    "guidance": false,
+    "subtitle": "Series 1: 8. Creator/Destroyer",
+    "synopses": {
+      "large": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father. Then teenage Andrew learns some home truths. The factual US drama turns to the chilling childhood of Versace's killer, and the larger-than-life personality that dominated it.",
+      "small": "The factual US drama turns to the chilling childhood of Versace's killer.",
+      "medium": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father.",
+      "editorial": "The larger-than-life personality that dominated Andrew’s chilling childhood."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09zj6t1",
+        "kind": "original",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "52 mins",
+          "value": "PT52M"
+        },
+        "availability": {
+          "end": "2018-05-18T21:00:00Z",
+          "start": "2018-04-18T21:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "credits_start": 3516,
+        "first_broadcast": "9pm 18 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064qs5g",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "52 mins",
+          "value": "PT52M"
+        },
+        "availability": {
+          "end": "2018-05-18T21:00:00Z",
+          "start": "2018-04-18T21:56:19Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "18 Apr 2018"
+      }
+    ],
+    "parent_id": "b09trfff",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "18 Apr 2018",
+    "related_links": [],
+    "original_title": "Creator/Destroyer",
+    "audio_described": true,
+    "editorial_title": "The Assassination of Gianni Versace",
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-18T00:00:00.000Z",
+    "editorial_subtitle": "8/9 Creator/Destroyer",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b037ct",
+    "live": false,
+    "type": "episode",
+    "title": "The Beechgrove Garden",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0249cy6.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00721bz",
+    "guidance": false,
+    "subtitle": "2018: Episode 1",
+    "synopses": {
+      "large": "2018 marks the Beechgrove Garden's ruby anniversary. This week there are sweet signs of spring as Jim, Carole, George and Chris are surrounded by April's peach and cherry blossom.\n\nGeorge revisits Sheila Harper's ancient apple trees in Banchory. After a severe prune last year, George returns with slightly less sharp secateurs to show how to deal with the old trees this year. Carole visits Rosie Nixon in Perth. Rosie is a passionate wildlife gardener and photographer who creatively uses her all-seasons organic garden as her own green studio.\n\nThroughout the 2018 series, Jim and Carole will be digging in the abundant Beechgrove archive to root out hints and tips from the last 40 years.",
+      "small": "George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth.",
+      "medium": "The Beechgrove team are back for a new series of the gardening show. George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b037cr",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "29 mins",
+        "value": "PT29M"
+      },
+      "availability": {
+        "end": "2018-05-22T07:00:00Z",
+        "start": "2018-04-19T18:30:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "first_broadcast": "7pm 19 Apr 2018"
+    }],
+    "parent_id": "b0b0378l",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle",
+      "scotland"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two_scotland",
+      "titles": {
+        "large": "BBC Two Scotland",
+        "small": "BBC Two",
+        "medium": "BBC Two Scotland"
+      },
+      "attribution": "bbc_two_scotland"
+    },
+    "release_date": "19 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-19T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b06t7y",
+    "live": false,
+    "type": "episode",
+    "title": "Cunk on Britain",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wl8y.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09yp1gr",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 3",
+    "synopses": {
+      "large": "In this insightful mockumentary series from Charlie Brooker, Philomena Cunk takes us on a journey right up Britain's history, to discover who we really are, how we got here and why.\n\nAlong the way Philomena travels the length and breadth of the country enlisting the help of a variety of experts. In this third episode, Philomena examines the Victorians and is joined by Chris Packham who tries to shed some light on Darwin's discoveries. Starring Diane Morgan.",
+      "small": "Philomena examines the Victorians and is joined by Chris Packham.",
+      "medium": "Mockumentary series from Charlie Brooker. In this episode, Philomena examines the Victorians and is joined by Chris Packham who tries to shed some light on Darwin's discoveries.",
+      "editorial": "An extremely in-depth and entirely serious dissertation of the Victorian era."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b06t7s",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "availability": {
+          "end": "2018-05-31T22:45:00Z",
+          "start": "2018-04-17T21:30:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 1711,
+        "first_broadcast": "10pm 17 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064mhrt",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "availability": {
+          "end": "2018-05-31T22:45:00Z",
+          "start": "2018-04-17T21:59:34Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "17 Apr 2018"
+      }
+    ],
+    "parent_id": "b09yp1hl",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "comedy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "17 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "audio_described": true,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-17T00:00:00.000Z",
+    "editorial_subtitle": "3/5 Can Chris Packham help Philomena understand Darwin?",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b0y2f5",
+    "live": false,
+    "type": "episode",
+    "title": "Joe Lycett",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064sskk.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b15tzw",
+    "guidance": true,
+    "subtitle": "That's The Way, A-Ha A-Ha, Joe Lycett",
+    "synopses": {
+      "large": "Comedian, halloumi enthusiast and absolute lad Joe Lycett presents That's The Way, A-Ha A-Ha, Joe Lycett Live.\n\nJoin Edinburgh Comedy Award Newcomer nominee Joe as he tackles the tyranny of Post Office jobsworths, confronts the stupidity of celebrities on Twitter and accidentally gets into an argument with Isis (not that one) in this hilarious Chortle Award-winning show recorded at the Duchess Theatre in London's West End.",
+      "small": "Chortle Award-winning show from comedian, halloumi enthusiast and absolute lad Joe Lycett.",
+      "medium": "Comedian, halloumi enthusiast and absolute lad Joe Lycett performs his hilarious Chortle Award-winning show, recorded at the Duchess Theatre in London's West End.",
+      "editorial": "The comedian and halloumi enthusiast tackles celebs, jobsworths and Isis (not that one)."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b0y2cw",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT59M"
+      },
+      "guidance": {
+        "id": "L2LA",
+        "text": {
+          "large": "Contains strong language and adult humour.",
+          "small": "Has guidance",
+          "medium": "Contains strong language and adult humour."
+        }
+      },
+      "availability": {
+        "end": "2018-05-22T23:20:00Z",
+        "start": "2018-04-22T22:25:00Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "credits_start": 3468,
+      "first_broadcast": "10:25pm 22 Apr 2018"
+    }],
+    "parent_id": "b0b15tzw",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "comedy-stand-up",
+      "comedy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "That's The Way, A-Ha A-Ha, Joe Lycett",
+    "audio_described": false,
+    "editorial_title": "That's The Way, A-Ha A-Ha, Joe Lycett",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "His award-winning live show",
+    "lexical_sort_letter": "J",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11bb1",
+    "live": false,
+    "type": "episode",
+    "title": "Britain's Biggest Warship",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p34s.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b08zfk",
+    "guidance": false,
+    "subtitle": "Series 1: 2. In at the Deep End",
+    "synopses": {
+      "large": "After eight years in build, HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea. The 700 sailors on board have to test everything on the ship for the first time - from galleys to guns and from power plants to propellers. What is the super carrier's top speed? How manoeuvrable is she and how stable in rough waters? Meanwhile the ship's company start the process of becoming a sea-born community. On board is chef Mohamad Khan who has to work out how to prepare pork dishes without offending his religion; able seaman Ricky Gleeson who had 49 convictions before he was 21 and Dave Garraghty the most senior non-commissioned officer on board with a passion for car boot sales. \n\nAfter four days at sea, the first aircraft lands on the flight deck and all seems well but then there is an explosion in a cooling plant, a fuel leak that sprays everyone with diesel and the ship's rubbish disposal system goes wrong. There are also strange knocking sounds coming from underneath the ship.",
+      "small": "HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea.",
+      "medium": "HMS Queen Elizabeth embarks on sea trials in the North Sea, testing everything from galleys to guns and power plants to propellers. How will the ship fare?",
+      "editorial": "The 700 sailors on board have to test everything on the ship for the first time."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b119wy",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T20:00:00Z",
+          "start": "2018-04-22T20:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3515,
+        "first_broadcast": "8pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652v8k",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T20:00:00Z",
+          "start": "2018-04-22T21:28:51Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b08zfm",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2018-04-28T12:30:00.000Z"
+    },
+    "original_title": "In at the Deep End",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "2/3 Its maiden voyage",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11p25",
+    "live": false,
+    "type": "episode",
+    "title": "My Year with the Tribe",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p3fg.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b09812",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "Living in treehouses and using stone tools, the Korowai were only discovered living in the jungles of West Papua around 40 years ago. Since then they have had to adapt rapidly to the ways of the outside world. Writer and adventurer Will Millard visits the Korowai four times over the course of a year, to see if he can get closer to them than is usually possible, to better understand the pressures they face as they leave the forest behind and transition into the modern world. He also wants to find out how much of their traditional hunter-gathering lifestyle still exists. What he finds shocks, surprises and confounds him, as he witnesses the last gasp of an ancient way of life which once defined us all.\n\nWill returns for his second trip to the Korowai to spend more time with Haup (White Beard) and Halap. They are some of the last remaining Korowai still living permanently in a treehouse without any real contact with the outside world. When Will first meets them, their adopted son August is there with them in the forest and his wife Amel gives birth one night, cutting her own umbilical cord with a sharpened piece of wood. But it soon turns out that they spend most of their time in the government-sponsored villages six hours walk away, and have decided to come to the treehouse to see if they can work with the film crew. So Will asks them to return to their government-built village, preparing to spend 10 days living with Haup and Halap alone in the middle of the forest.",
+      "small": "Will Millard returns to the Korowai to spend more time with two old men in the forest.",
+      "medium": "Will Millard returns to the treehouse-dwelling Korowai to spend time with two old men living in the forest, but is shocked by what he sees when he arrives.",
+      "editorial": "Will spends time with Haup and Halap - but there’s more to their life than meets the eye."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b11p0q",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "9pm 22 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0652w0k",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T21:00:00Z",
+          "start": "2018-04-22T21:51:10Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "22 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b09819",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 2",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "2/3 The treehouse dwellers cut off from the outside world",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b10btn",
+    "live": false,
+    "type": "episode",
+    "title": "London Marathon",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lymv4.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Sport"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00b0998",
+    "guidance": false,
+    "subtitle": "2018: Highlights",
+    "synopses": {
+      "large": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon. \n\nGreat Britain's Sir Mo Farah has switched his focus from the track to the road and was targeting a first victory in the race in his home city. In the women's race, defending champion Mary Keitany was running with male pacemakers in a bid to smash Paula Radcliffe's world record.\n\nIn the wheelchair events, Great Britain's David Weir was hoping to extend his record number of victories to eight, while Switzerland's Manuela Schar was hoping for a second successive victory in the women's event.",
+      "small": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon.",
+      "medium": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon. Sir Mo Farah was targeting a first victory in the race in his home city.",
+      "editorial": "From elite athletes to fun runners, reflecting on all the excitement of the big day."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b10btl",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-22T19:00:00Z",
+        "start": "2018-04-22T19:25:21Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "first_broadcast": "7pm 22 Apr 2018"
+    }],
+    "parent_id": "b0b10bjx",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "sport"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_sport",
+      "titles": {
+        "large": "BBC Sport",
+        "small": "BBC Sport",
+        "medium": "BBC Sport"
+      },
+      "attribution": "bbc_sport"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "original_title": "Highlights",
+    "audio_described": false,
+    "editorial_title": "London Marathon: Highlights",
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "All the stories",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b06j49gb",
+    "live": false,
+    "type": "episode",
+    "title": "Testament of Youth",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04sk1cf.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b06j49gb",
+    "guidance": true,
+    "synopses": {
+      "large": "In 1914, despite her father's opposition, Vera Brittain is determined to attempt the entrance examination for Sommerville College Oxford to pursue her literary dreams. Her brother Edward supports her plan, as does his good friend Roland who shares Vera's passion for poetry. Hiding their love from their families, Vera and Roland's plans of a future together is cruelly frustrated by the declaration of the First World War. When the young men sign up for duty, Vera cannot sit idly by and volunteers as a nurse.",
+      "small": "Vera Brittain's plans change with the declaration of the First World War.",
+      "medium": "First World War drama. In 1914, Vera Brittain decides to study at Oxford university. She falls in love with her brother's friend, but then war is declared.",
+      "editorial": "Vera Brittain falls in love with a friend, but the outbreak of war changes everything."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b06d6mz8",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "121 mins",
+          "value": "PT2H1M"
+        },
+        "guidance": {
+          "id": "D1",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-21T23:05:00Z",
+          "start": "2018-04-21T23:05:00Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "credits_start": 7203,
+        "first_broadcast": "2014"
+      },
+      {
+        "hd": false,
+        "id": "p04tbtv8",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "121 mins",
+          "value": "PT2H1M"
+        },
+        "guidance": {
+          "id": "D1",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-21T23:05:00Z",
+          "start": "2018-04-22T00:24:01Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "first_broadcast": "2014"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "films"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "2014",
+    "related_links": [],
+    "original_title": "Testament of Youth",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-01T00:00:00.000Z",
+    "editorial_subtitle": "Alicia Vikander and Kit Harington star in a WWI drama",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b092tm",
+    "live": false,
+    "type": "episode",
+    "title": "Top of the Shop with Tom Kerridge",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sq18.jpg",
+      "inherited_from": "series"
+    },
+    "labels": {
+      "category": "Food"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b090r2",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "In this second heat, four food producers with fledgling businesses come to test out their products on the locals in Malhamdale, in the heart of the Yorkshire Dales. They have two days in the shop to promote and sell their wares.\n\nThis time it is cheesemakers competing against each other for a place in the final. Gillian is a scientist from West Yorkshire, and is a goat's cheese purist. She makes unpasteurised goat's cheese from her own herd, putting 40 hours a week into her small-scale business alongside her day job. But with goat's cheese being an acquired taste, will the Malhamdale locals think it is worth it?\n\nPedro lives in Oxfordshire and keeps his beloved goat Rosie in his back garden. With Rosie's help, he makes flavoured goat's cheese, but with such a small operation, does he have what it takes to become a viable business? Alongside her day job and running her B&B, Jo makes cheddar cheese in the Welsh countryside. She loves using milk from her local cows and is passionate about the cheesemaking process, but when it comes to selling in the shop, she must tone down the details and dial up the flavour if she's going to succeed.\n\nFinally, information governance adviser Julie from Hampshire makes a homemade smoked cheese after her daughter fell in love with the flavours. She does everything from a kitchen at home and hasn't sold commercially before, so whether she has what it takes remains to be seen.\n\nTom Kerridge meets members of the community as they try the range of cheeses. Meanwhile judges Alison Swan Parente and Nisha Katona visit the food producers at home to see how well their product is made, and decide how well they promote and sell their item to the Yorkshire locals in the shop. The winner is the fledgling business that is most viable and most deserving of the title best up and coming artisan.",
+      "small": "This time it is cheesemakers competing against each other for a place in the final.",
+      "medium": "Four food producers with fledgling businesses test out their products. This time it is cheesemakers competing against each other for one place in the final.",
+      "editorial": "Four producers passionate about cheese aim to impress the Malhamdale locals."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b092rg",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-06-11T15:30:00Z",
+          "start": "2018-04-19T09:26:01Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3519,
+        "first_broadcast": "8pm 18 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064qpbm",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-06-11T15:30:00Z",
+          "start": "2018-04-19T11:31:24Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "18 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b090s5",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries",
+      "food"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "18 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 2",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-18T00:00:00.000Z",
+    "editorial_subtitle": "2/8 Finding champion cheese",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b0b6gj",
+    "live": false,
+    "type": "episode",
+    "title": "Episodes",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wnn6.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b01hpdsk",
+    "guidance": true,
+    "subtitle": "Series 5: Episode 4",
+    "synopses": {
+      "small": "Sean and Beverly spend a weekend with Matt at his ranch.",
+      "medium": "Sean and Beverly spend a weekend with Matt at his ranch trying to come up with an idea for a new show. Gunplay ensues and a wild boar is injured...",
+      "editorial": "Matt, Sean and Beverly need an idea for a new show. But how does a wild boar get injured?"
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b096skr3",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "guidance": {
+          "id": "L2LA",
+          "text": {
+            "large": "Contains strong language and adult humour.",
+            "small": "Has guidance",
+            "medium": "Contains strong language and adult humour."
+          }
+        },
+        "availability": {
+          "end": "2018-05-20T21:30:00Z",
+          "start": "2018-04-20T21:30:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "credits_start": 1658,
+        "first_broadcast": "10pm 20 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064ynbn",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "guidance": {
+          "id": "L2LA",
+          "text": {
+            "large": "Contains strong language and adult humour.",
+            "small": "Has guidance",
+            "medium": "Contains strong language and adult humour."
+          }
+        },
+        "availability": {
+          "end": "2018-05-20T21:30:00Z",
+          "start": "2018-04-20T22:10:05Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "first_broadcast": "20 Apr 2018"
+      }
+    ],
+    "parent_id": "b094mqjn",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "comedy-sitcoms",
+      "comedy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 4",
+    "audio_described": true,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "editorial_subtitle": "4/9 Sean and Beverly spend a weekend with Matt at his ranch",
+    "lexical_sort_letter": "E",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b05y8n",
+    "live": false,
+    "type": "episode",
+    "title": "Hospital",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wktb.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08w8ktc",
+    "guidance": true,
+    "subtitle": "Series 3: Episode 4",
+    "synopses": {
+      "large": "On most days in winter, the Paediatric Intensive Care Unit at Queen's Medical Centre is full. Intensive care is often the last resort for very sick children, a place that can keep them alive while doctors work on making them better. It's also where children undergoing the most serious surgery come to recuperate. It's the job of Lead Consultant Paediatrician Patrick Davies to balance the ever increasing demands that are made on the over-flowing unit every day 'We're stretched to breaking point. One patient in, one patient out. There is a queue of patients around the region waiting for our beds'.\n\nLack of children's intensive care beds is a nationwide problem. Four-year-old Esme is rushed to Queens Medical Centre from Hull, 90 miles away, when her closest intensive care units in Leeds and Sheffield are both completely full. She is suffering from septic shock, an extreme form of sepsis, a life threatening condition that occurs when the body reacts to an infection by damaging its own organs. Patrick and the team must first stabilise her so that her life is out of danger. But the sepsis still threatens Esme's limbs and the team must now battle to save her fingers and toes.\n\n22-month-old Amaya has contracted pneumonia on both lungs. Patrick believes her situation is extremely grave and he informs her mum Mel and dad Karl that he can't be sure she will pull through. Patrick battles to restore the oxygen levels in her lungs - the one thing that can save her life. This is not Amaya's first time in intensive care. Born very prematurely at 24 weeks, Amaya has spent 10 of her 22 months in hospital. While doctors are having ever greater success in keeping premature babies alive, those children will often return to intensive care time and time again, further increasing pressure on beds.\n\n14-year-old Ella needs an intensive care bed to recover from major spinal surgery. She's been cancelled before due to a lack of beds in the unit and on the day of her re-scheduled operation it is completely full yet again. She waits on the ward, not knowing whether her life-changing operation will take place, while staff do everything they can to find her a bed.",
+      "small": "Four-year-old Esme must be stabilised so that her life is out of danger.",
+      "medium": "Documentary. Four-year-old Esme is rushed to Queens Medical Centre, suffering from septic shock. The lead paediatrician must stabilise her so that her life is out of danger.",
+      "editorial": "How can doctors balance the increasing demands made on the overflowing unit every day?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b05y7v",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT59M"
+      },
+      "guidance": {
+        "id": "D1",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-05-18T23:25:00Z",
+        "start": "2018-04-17T21:00:00Z",
+        "remaining": {
+          "text": "Available for 25 days"
+        }
+      },
+      "credits_start": 3499,
+      "first_broadcast": "9pm 17 Apr 2018"
+    }],
+    "parent_id": "b09xt5yv",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "17 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 4",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-17T00:00:00.000Z",
+    "editorial_subtitle": "4/6 Doing everything possible to help sick children",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b0333p",
+    "live": false,
+    "type": "episode",
+    "title": "Natural World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wn2g.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006qnnh",
+    "guidance": false,
+    "subtitle": "2018-2019: 2. Nature's Biggest Beasts",
+    "synopses": {
+      "large": "The world's biggest beasts have always captured the imagination. But whilst being big can have its advantages, it also comes with sizeable challenges. Take the world's largest lizard, the Komodo dragon, whose huge appetite means it must take on prey ten times its weight or the tallest animal of them all, the giraffe, who with such a long neck must control immense blood pressure. Nature's biggest beasts must go to extraordinary lengths to thrive. These are their epic survival stories!",
+      "small": "How the world's biggest beasts overcome the challenges of their size.",
+      "medium": "Documentary. Big beasts have always captured the imagination, but being large comes with sizeable challenges. These are the epic survival stories of the world's largest animals.",
+      "editorial": "From the blue whale to the giraffe, big beasts go to extraordinary lengths to survive."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b032w8",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-19T20:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "credits_start": 3522,
+        "first_broadcast": "8pm 19 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064v5sp",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-22T18:00:00Z",
+          "start": "2018-04-19T20:50:47Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "19 Apr 2018"
+      }
+    ],
+    "parent_id": "b09z77yq",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-science-and-nature",
+      "documentaries",
+      "science-and-nature"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "19 Apr 2018",
+    "related_links": [],
+    "original_title": "Nature's Biggest Beasts",
+    "audio_described": true,
+    "editorial_title": "Nature's Biggest Beasts",
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-19T00:00:00.000Z",
+    "editorial_subtitle": "The epic survival stories of some incredible creatures",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b060kj",
+    "live": false,
+    "type": "episode",
+    "title": "Secret Agent Selection: WW2",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sfky.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09zg6dm",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "In episode two, training proper begins as the students are schooled in guns, explosives and silent killing techniques - skills which came together and helped SOE to pull off one of the most audacious assassinations of World War Two. The students need to show a calm head and a killer instinct when handling real weapons, but not everyone makes the grade.",
+      "small": "The students are schooled in guns, explosives and silent killing techniques.",
+      "medium": "Immersive history series, reviving the training programme of one of World War II's most covert organisations.  In episode two, training proper begins.",
+      "editorial": "The students need to show a calm head and a killer instinct when handling real weapons."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b060k2",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-19T23:30:00Z",
+          "start": "2018-04-16T21:00:00Z",
+          "remaining": {
+            "text": "Available for 26 days"
+          }
+        },
+        "credits_start": 3507,
+        "first_broadcast": "9pm 16 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064j48c",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2018-05-19T23:30:00Z",
+          "start": "2018-04-16T22:02:53Z",
+          "remaining": {
+            "text": "Available for 26 days"
+          }
+        },
+        "first_broadcast": "16 Apr 2018"
+      }
+    ],
+    "parent_id": "b09zg6dp",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-history",
+      "documentaries",
+      "history"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "16 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2018-05-02T02:05:00.000Z"
+    },
+    "original_title": "Episode 2",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-16T00:00:00.000Z",
+    "editorial_subtitle": "2/5 The training begins",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b11zyn",
+    "live": false,
+    "type": "episode",
+    "title": "imagine...",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064nl61.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007ght1",
+    "guidance": true,
+    "subtitle": "Winter 2017/18: 7. Habaneros: You Say You Want a Revolution? Part One",
+    "synopses": {
+      "large": "Raul Castro has recently stepped down as president of Cuba, almost 60 years after his brother Fidel and a small band of bearded cigar-smoking guerrillas entered the capital Havana and changed the lives of their people forever.\n\nUsing extraordinary and previously unseen archive footage, and shot over the past three years, Julien Temple's two-part film captures the mood of Havana and its people - the Habaneros - at a pivotal moment in time. They share their experience of life in this extraordinary city - the highs and lows, the exhilaration and the suffering. It's a rollercoaster ride from Spanish colony to republic to revolution to the precarious present. Fidel is dead, Obama's hand of friendship is withdrawn and as the US blockade continues to strangle the economy, Havana is literally falling apart.",
+      "small": "Film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment.",
+      "medium": "Two-part film capturing the mood of Havana and its people, the Habaneros, at a pivotal moment in time. They share their experience of life in this extraordinary city.",
+      "editorial": "Julien Temple captures Havana and its people at a pivotal moment - after Castro."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b11zy0",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "63 mins",
+        "value": "PT1H3M"
+      },
+      "guidance": {
+        "id": "D1",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-05-21T21:05:00Z",
+        "start": "2018-04-21T21:05:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "credits_start": 3746,
+      "first_broadcast": "9pm 21 Apr 2018"
+    }],
+    "parent_id": "b09th2v7",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "documentaries-arts",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "21 Apr 2018",
+    "related_links": [],
+    "original_title": "Habaneros: You Say You Want a Revolution? Part One",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-21T00:00:00.000Z",
+    "editorial_subtitle": "Habaneros: You Say You Want a Revolution? Part One",
+    "lexical_sort_letter": "I",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b06sqj",
+    "live": false,
+    "type": "episode",
+    "title": "Only Connect",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02l7xz8.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00lskhg",
+    "guidance": false,
+    "subtitle": "Series 13: Semi-Final 1",
+    "synopses": {
+      "large": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.\n\nIt is the first of the semi-finals as two returning teams compete to find the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Wolf Man, Dora, Rat Man and Little Hans.",
+      "small": "It is the first of the semi-finals as two returning teams compete.",
+      "medium": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. It is the first of the semi-finals.",
+      "editorial": "Victoria Coren Mitchell asks what connects Wolf Man, Dora, Rat Man and Little Hans."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b06sqg",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "29 mins",
+        "value": "PT29M"
+      },
+      "availability": {
+        "end": "2018-05-22T18:30:00Z",
+        "start": "2018-04-16T19:30:00Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "credits_start": 1715,
+      "first_broadcast": "8pm 16 Apr 2018"
+    }],
+    "parent_id": "b08f13m1",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "entertainment"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "16 Apr 2018",
+    "related_links": [{
+      "id": "p01d0m1g",
+      "url": "http://www.bbc.co.uk/programmes/b00lskhg/features/quiz",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Play the Only Connect game"
+    }],
+    "original_title": "Semi-Final 1",
+    "audio_described": false,
+    "parent_position": 35,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-16T00:00:00.000Z",
+    "editorial_subtitle": "The first semi-final",
+    "lexical_sort_letter": "O",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b038d8",
+    "live": false,
+    "type": "episode",
+    "title": "Gardeners' World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xc34.jpg"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006mw1h",
+    "guidance": false,
+    "subtitle": "2018: Episode 6",
+    "synopses": {
+      "large": "There is a full hour of inspiration as Monty works in his vegetable garden sowing seeds for a bountiful summer, grows some more unusual vegetables and recommends varieties of summer bulbs to plant in the spring. \n\nMark Lane creates a floral celebration in a container and shares his recommendations for great planting partners for seasonal colour. Flo Headlam joins the arborists at Westonbirt Arboretum to find out how they manage their incredible collection of trees from around the world. Adam Frost meets a couple who have recently moved into a new-build house to show them step by step how they can transform their awkwardly shaped garden on a very small budget. Nick Bailey is out and about enjoying that most seasonal of flowers, the daffodil. Plus Monty reveals the first of the finalists in the Every Space Counts competition.",
+      "small": "Monty works in his vegetable garden sowing seeds for a bountiful summer.",
+      "medium": "Monty works in his vegetable garden sowing seeds for a bountiful summer, Mark Lane creates a floral celebration and Flo Headlam joins the arborists at Westonbirt Arboretum.",
+      "editorial": "Adam Frost helps a couple transform an awkwardly shaped garden on a very small budget."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b037n6",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-22T13:00:00Z",
+        "start": "2018-04-20T20:00:00Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "credits_start": 3505,
+      "first_broadcast": "8pm 20 Apr 2018"
+    }],
+    "parent_id": "b09vjs2q",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 6",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "editorial_subtitle": "Monty is sowing seeds for a bountiful summer",
+    "lexical_sort_letter": "G",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09mb99k",
+    "live": false,
+    "type": "episode",
+    "title": "The Forest",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063s6y9.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09m61c0",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "Mark Bonnar narrates a new series revealing the hidden world of Galloway Forest, the country's largest afforested area. Join the amazing men and women who live and work in the place known as Scotland's 'Highlands in the Lowlands', where 600,000 tonnes of timber is produced every year. \n\nJames Jones sawmill in Lockerbie to the east of the forest powers through 20,000 logs a day. But when a six-tonne machine called a crosscut stacker breaks down, a dedicated engineering team must save the day. A decline in salmon numbers in the River Cree near Newton Stewart has led to a tireless effort to restock the river by the Cree Hatchery and Habitat Trust. Archie McNeillie and John 'Cool' Coughtrie from the Forestry Commission's Recreation Department deal with a rat infestation in a public area caused by an overzealous bird feeder. And at Balloch O'Dee campsite, owner James gets ready to stage a comedy night, with hilarious consequences.",
+      "small": "The Cree Hatchery and Habitat Trust attempt to restock salmon in the river.",
+      "medium": "Mark Bonnar narrates a series revealing the world of Galloway Forest. A six-tonne machine at James Jones sawmill requires a dedicated engineering team to fix it when it breaks.",
+      "editorial": "An overzealous bird feeder has caused a rat infestation – so Archie and Cool take action."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09mb992",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT30M"
+      },
+      "availability": {
+        "end": "2018-05-21T19:45:00Z",
+        "start": "2018-04-21T19:30:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "credits_start": 1716,
+      "first_broadcast": "7:30pm 15 Jan 2018"
+    }],
+    "parent_id": "b09m61cg",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries-science-and-nature",
+      "documentaries",
+      "science-and-nature"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "15 Jan 2018",
+    "related_links": [],
+    "original_title": "Episode 2",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-01-15T00:00:00.000Z",
+    "editorial_subtitle": "2/6 The team attempt to restock the river with salmon",
+    "lexical_sort_letter": "F",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09hx36k",
+    "live": false,
+    "type": "episode",
+    "title": "Natural World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r3qnv.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006qnnh",
+    "guidance": false,
+    "subtitle": "2017-2018: 8. Attenborough and the Empire of the Ants",
+    "synopses": {
+      "large": "David Attenborough is in the Swiss Jura Mountains to discover the secrets of a giant. Beneath his feet lies a vast network of tunnels and chambers, home to a huge empire of ants. It is believed to be one of the largest animal societies in the world, where over a billion ants from rival colonies live in peace. Their harmonious existence breaks many of the rules for both ants and evolution, and raises some important questions. Through winter, spring and into summer, David turns detective to find the answers.",
+      "small": "David Attenborough is in the Swiss Jura Mountains to discover the secrets of a giant.",
+      "medium": "David Attenborough is in the Swiss Jura Mountains to discover the secrets of a giant. Beneath his feet lies a vast network of tunnels and chambers, home to a huge empire of ants.",
+      "editorial": "Can an enormous network of ants in the Swiss Jura mountains offer new clues to evolution?"
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09hx33y",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-11T20:00:00Z",
+          "start": "2018-04-11T20:00:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "credits_start": 3518,
+        "first_broadcast": "9:30pm 28 Dec 2017"
+      },
+      {
+        "hd": false,
+        "id": "p05s7j2q",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-11T20:00:00Z",
+          "start": "2018-04-11T20:41:52Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "28 Dec 2017"
+      }
+    ],
+    "parent_id": "b08kfsbg",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-science-and-nature",
+      "documentaries",
+      "science-and-nature"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "28 Dec 2017",
+    "related_links": [],
+    "original_title": "Attenborough and the Empire of the Ants",
+    "audio_described": true,
+    "editorial_title": "Attenborough and the Empire of the Ants",
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2017-12-28T00:00:00.000Z",
+    "editorial_subtitle": "An insect nation like no other",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yj7dz",
+    "live": false,
+    "type": "episode",
+    "title": "Hamlet",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0623lqm.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09yj7dz",
+    "guidance": false,
+    "synopses": {
+      "large": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of William Shakespeare's great play, recorded as-live in its West End transfer on the stage of London's Harold Pinter Theatre.\n\nRobert Icke's innovative modern-dress production, featuring Andrew Scott, Juliet Stevenson, Angus Wright and Jessica Brown Findlay, has been widely acclaimed as a dazzlingly intelligent, forcefully contemporary staging. The Evening Standard hailed Andrew Scott's 'career-defining performance... he makes the most famous speeches feel fresh and unpredictable.'\n\nThe recording features the original cast, and is directed for the screen by Rhodri Huw, working in close collaboration with Robert Icke. Hamlet has design by Hildegard Bechtler, with lighting by Natasha Chivers, sound by Tom Gibbons, and video design by Tal Yarden. The stage production has been nominated for Best Revival, Andrew Scott as Best Actor and Tom Gibbons has been nominated for Best Sound Design in the forthcoming Olivier Awards. The production recently won Best Stage Revival in the WhatsOnStage Awards, and Juliet Stevenson won Best Supporting Actress in a Play whilst Andrew Scott won the Critics' Circle Theatre Award for Best Shakespearean Performance. Hamlet is is an Illuminations/Almeida Theatre production presented by BBC, The Almeida Theatre, The Ambassador Theatre Group, Sonia Friedman Productions.",
+      "small": "Almeida Theatre's 2017 production of Shakespeare's play, recorded as-live in the West End.",
+      "medium": "Hamlet captures the Almeida Theatre's 2017 acclaimed production of Shakespeare's great play, recorded as-live in the West End.",
+      "editorial": "The Almeida Theatre’s dazzling modern-dress production, recorded on the West End stage."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09zcxn9",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "191 mins",
+        "value": "PT3H11M"
+      },
+      "availability": {
+        "end": "2018-04-30T23:15:00Z",
+        "start": "2018-03-31T23:15:00Z",
+        "remaining": {
+          "text": "Available for 7 days"
+        }
+      },
+      "credits_start": 11427,
+      "first_broadcast": "31 Mar 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "31 Mar 2018",
+    "related_links": [],
+    "original_title": "Hamlet",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-31T00:00:00.000Z",
+    "editorial_subtitle": "Andrew Scott stars in an innovative, acclaimed production",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]

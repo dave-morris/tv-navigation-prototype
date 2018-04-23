@@ -1,0 +1,1744 @@
+[
+{
+"id": "b007lc51",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r77gs.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Comedy series about Essex boy Gavin and Welsh lass Stacey.\n\nAfter being phone buddies for months they finally arrange a rendezvous in Leicester Square, with Stacey's best friend Nessa and Gav's pal Smithy coming along for support.",
+"small": "After being phone buddies for months, Gavin and Stacey finally arrange a rendezvous.",
+"medium": "Comedy series about Essex boy Gavin and Welsh lass Stacey. After being phone buddies for months Gavin and Stacey finally manage to arrange a rendezvous in Leicester Square.",
+"editorial": "The absolute highs and awkward lows of a long-distance love affair. Plus...Smithy."
+},
+"versions": [
+{
+"hd": true,
+"id": "b007j8w4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1671,
+"first_broadcast": "9pm 13 May 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "13 May 2007",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"editorial_title": "Gavin & Stacey: Series 1-3",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2007-05-13T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The whole story",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p050zy0v",
+"live": false,
+"type": "episode",
+"title": "Queer Britain",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06429rl.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p050zvxs",
+"guidance": true,
+"subtitle": "Series 1: 1. Does God Hate Queers?",
+"synopses": {
+"large": "YouTuber and journalist Riyadh Khalaf gets under the skin of queer culture and shines a light on the challenges faced by the LGBTQ+ community.\n\nRiyadh meets a disfellowed Jehovah's Witness, a Muslim woman seeking a marriage of convenience and transmasculine Christian Elijah as he is renamed in church.",
+"small": "Riyadh meets a disfellowed Jehovah's Witness and a transmasculine Christian.",
+"medium": "Riyadh Khalaf shines a light on the challenges faced by the LGBTQ+ community. Riyadh meets a disfellowed Jehovah's Witness.",
+"editorial": "YouTuber and journalist Riyadh Khalaf gets under the skin of queer culture in the UK."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05106nd",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2019-04-27T08:00:00Z",
+"start": "2018-04-09T16:12:48Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 1780,
+"first_broadcast": "7 May 2017"
+}
+],
+"parent_id": "p050zw3w",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"documentaries",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "7 May 2017",
+"related_links": [
+{
+"id": "p05339j3",
+"url": "http://www.bbc.co.uk/programmes/articles/2XdHv9H0c7v01fmWplsfH6k/information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"original_title": "Does God Hate Queers?",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-05-07T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Trials and triumphs in the LGBTQ+ community",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b04d773r",
+"live": false,
+"type": "episode",
+"title": "Siblings",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06241zq.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06vmj2s",
+"guidance": true,
+"subtitle": "Series 1: 1. Wheelchair Conference",
+"synopses": {
+"large": "Dan is insanely bored. With no friends other than Hannah, he is left just moping about the flat, taking apart plug sockets and eating yoghurts in the bath for entertainment. \n\nNot that Hannah cares - after all, she's got a job. Hannah's boss Andy is a functioning alcoholic - a fact that she regularly uses to her advantage. Her working day tends to start at 11am with a smoothie and she's out of the office by 2pm. \n\nWhen Andy is sacked and replaced with determined Annette, Hannah realises she's going to have to find a way to keep the status quo or actually - god forbid - work like a normal person. In a moment of panic, she draws Dan into a web of lies that can only end badly.",
+"small": "After her boss is replaced, Hannah draws Dan into a web of lies that can only end badly.",
+"medium": "Comedy series about the worst brother and sister in the world. When her boss is replaced, Hannah realises she will to have to maintain the status quo.",
+"editorial": "They’re dependent on each other - as no one’s else as useless as them in the universe."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04d772x",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-16T08:00:00Z",
+"start": "2018-03-17T09:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1684,
+"first_broadcast": "10:30pm 7 Aug 2014"
+}
+],
+"parent_id": "b04d772q",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "7 Aug 2014",
+"related_links": [
+{
+"id": "p024crm9",
+"url": "http://www.bbc.co.uk/blogs/tv/posts/Siblings-Relationships-we-love-to-hate",
+"kind": "priority_content",
+"type": "link",
+"title": "10 classic comedy sibling relationships"
+}
+],
+"original_title": "Wheelchair Conference",
+"audio_described": false,
+"editorial_title": "Siblings: Series 1-2",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-08-07T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The worst brother and sister in the world",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p04z3xsf",
+"live": false,
+"type": "episode",
+"title": "Murder in Successville",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05rsprp.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07h1mnp",
+"guidance": true,
+"subtitle": "Series 3: 1. The Brass Gnome",
+"synopses": {
+"large": "There has been another Murder in Successville. A priceless piece of art has been stolen from right under DI Sleet's nose, and Bjork is murdered in the process. Sleet and his new sidekick Richard Osman wade into art's black market underworld to catch their culprit. Find the art, and they'll find the killer.\n\nThis time they investigate Arsene Wenger, an avant-garde art collector whose new gallery is opening at a suspiciously convenient time. Sleet and Osman go undercover as turtle-necked arty types to get some answers.\n\nHilary Clinton is an art teacher and a forger who claims to have gone straight. Richard Osman goes undercover as a student to glean some answers.\n\nZayn Malik is a cat burglar who is a little down and out after being thrown out of his gang. Sleet and Osman break into a creepy paint factory to give Zayn an old-fashioned roughing-up, though Zayn turns the tables when he reveals some shocking truths about Sleet's dad. After coming to terms with his daddy issues, Sleet takes Richard Osman down to Successville's sewers to infiltrate a black market art auction ran by Bill Nighy.\n\nHave you kept your eyes and ears open for clues? Could you take out the right person?",
+"small": "DI Sleet and sidekick Richard Osman wade into the art underworld to catch Bjork's killer.",
+"medium": "Improvised comedy. DI Sleet and sidekick Richard Osman wade into the art underworld to catch Bjork's killer.",
+"editorial": "Famous faces join the Successville police department to help capture celebrity criminals."
+},
+"versions": [
+{
+"hd": true,
+"id": "p04z4tct",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-16T08:00:00Z",
+"start": "2018-03-17T09:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1748,
+"first_broadcast": "19 Apr 2017"
+}
+],
+"parent_id": "p04z3rwy",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "19 Apr 2017",
+"related_links": [
+{
+"id": "p05j1hb9",
+"url": "http://www.bbc.co.uk/taster/projects/di-sleet-bot",
+"kind": "priority_content",
+"type": "link",
+"title": "Chat with the DI Sleet Bot on Facebook Messenger"
+}
+],
+"original_title": "The Brass Gnome",
+"audio_described": false,
+"editorial_title": "Murder In Successville: Series 3",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-04-19T00:00:00.000Z",
+"editorial_subtitle": "Box Set. It's crime time",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05h5vn4",
+"live": false,
+"type": "episode",
+"title": "Overshadowed",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062r2vf.jpg"
+},
+"labels": {
+"category": "Drama",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05gl7r2",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "With the arrival of her new camera, Imo challenges herself to document her life - starting with her new health kick. But there’s something strange going on in Imo’s footage.",
+"small": "Imo starts documenting her life - including her new health kick.",
+"medium": "With the arrival of her new camera, Imo challenges herself to document her life - starting with her new health kick. But there’s something strange going on in Imo’s footage.",
+"preview": "A fun, sparkly vlogger becomes gaunt and withdrawn as she documents her new health kick - is her new \"best friend\" Anna the cause? Drama based on Eva O’Connor’s award-winning play.",
+"editorial": "Imo used to be sparky, but her new friend Anna is casting a dark shadow over her life."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05hgxtc",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "9 mins",
+"value": "PT9M24S"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-09-26T08:00:00Z",
+"start": "2017-10-01T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 542,
+"first_broadcast": "1 Oct 2017"
+}
+],
+"parent_id": "p05gl7v1",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"drama-and-soaps"
+],
+"preview_id": "p05jgdfd",
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "1 Oct 2017",
+"related_links": [
+{
+"id": "p05h61fw",
+"url": "http://www.bbc.co.uk/programmes/articles/2DRkg4JC7SLT3B7hlrn6DKN/information-and-support-eating-disorders",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-10-01T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Imo's vlog of her health kick takes a dark turn",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063cn44",
+"live": false,
+"type": "episode",
+"title": "Famalam",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063slr0.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zn7qy",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "Penultimate episode of the sketch show. We look ahead to the next actor to play James Bond, hang out with never-satiated chicken-loving schoolboy Fat Sam, and let rap star Swayze sell us some tat.\n\nWe also learn some important football skills from Senegalese soccer star Patrick Okwonge Okwomge, and get educated on early black British history with garage MC and academic Scribbler P.\n\nMeanwhile in Midsomer, Detective Moses Mountree has problems with some traditional country pastimes. Big problems.",
+"small": "Including some black British history with grime MC and academic Scribbler P.",
+"medium": "Sketch show. Including some black British history with grime MC and academic Scribbler P.",
+"editorial": "In Midsomer, Detective Moses Mountree has problems with traditional country pastimes."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063cp2r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "22 mins",
+"value": "PT22M"
+},
+"guidance": {
+"id": "L3LA",
+"text": {
+"large": "Contains very strong language and adult humour",
+"small": "Has guidance",
+"medium": "Contains very strong language and adult humour"
+}
+},
+"availability": {
+"end": "2018-10-20T08:00:00Z",
+"start": "2018-04-23T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 1258,
+"first_broadcast": "10pm 29 Apr 2018"
+}
+],
+"parent_id": "p062r6r7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "29 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-29T21:00:00.000Z"
+},
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-29T00:00:00.000Z",
+"editorial_subtitle": "3/4 Who will be the next actor to play James Bond?",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0635yyg",
+"live": false,
+"type": "episode",
+"title": "Miss Holland",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zcpm.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0635yyg",
+"guidance": true,
+"synopses": {
+"large": "Comedy. Miss Holland has arrived in Great Britain, keen to become a British lady and find her very own Prince Harry. \n\n\n\nThe world’s most popular beauty queen (sic) leaves a string of unsuspecting contributors in her wake - reality TV stars, former Royal household staff and religious leaders are left bewildered by the idiocy of her questions as she attempts to navigate the intricacies of modern British life. With a clipboard full of ridiculous questions, armpits full of hair, and a camera team following her every move, she’s on mission to find out why Britain is great.  \n\n\n\nJoin Miss Holland on her crash course of Britishness. Award-winning comedian and online sensation Eline Van Der Velden brings her outrageous alter-ego to the UK for the very first time.",
+"small": "Miss Holland has arrived, keen to become a British lady and find her own Prince Harry.",
+"medium": "Award-winning comedian and online sensation Eline Van Der Velden brings her outrageous alter-ego to the UK for the very first time.",
+"editorial": "Miss Holland arrives in the UK, keen to become a British lady and find her own Harry."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0635zf8",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M16S"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2019-04-15T08:00:00Z",
+"start": "2018-04-20T08:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1802,
+"first_broadcast": "20 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"comedy"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Miss Holland",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "Can a beauty queen follow in Meghan’s footsteps?",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p06360qy",
+"live": false,
+"type": "episode",
+"title": "High Life",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064278r.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p06360qy",
+"guidance": true,
+"synopses": {
+"large": "Genevieve is a bright, musically talented 17-year-old student from a respectable family. Her teenage years seem to be panning out just fine, until her mental state starts to spiral out of control as she experiences the first manic episode of her Bipolar Disorder.",
+"small": "17-year-old Genevieve seems fine - until her mental states spirals out of control.",
+"medium": "Genevieve is a bright, musically-talented 17-year-old. Her teenage years seem to be panning out just fine, until she experiences the first manic episode of her Bipolar Disorder.",
+"editorial": "When she experiences her first manic episode, her mental state starts to spiral."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063cgc5",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT56M47S"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-10-12T08:00:00Z",
+"start": "2018-04-15T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 3353,
+"first_broadcast": "15 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"drama-and-soaps"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "15 Apr 2018",
+"related_links": [
+{
+"id": "p063czvf",
+"url": "http://www.bbc.co.uk/programmes/articles/3mTXJ1xmCd6Wv0RLmF9C4ny/information-and-support-the-high-life",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support "
+}
+],
+"original_title": "High Life",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"editorial_subtitle": "Genevieve seems to have teenage life sorted – until...",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063cjmb",
+"live": false,
+"type": "episode",
+"title": "Miranda Barbour: Serial Killer Or Liar?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06438zs.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p063cjmb",
+"guidance": true,
+"synopses": {
+"large": "A dead man is found on waste ground in Pennsylvania 2013. He had been stabbed twenty-two times. The 42-year-old municipal worker, Troy LaFerarra, had answered an Internet ad from 18-year old Miranda Barbour and they had arranged to meet.\n\n \n\nThree weeks later Miranda confesses she’d killed him in self-defense. But local Sunbury police officer, Travis Bremigen, suspects the young wife has something to hide. He brings Miranda’s husband, Elytte Barbour, in for questioning. The 22-year-old admits he and his new wife just wanted to murder a stranger, “We had no reason… other than that.”\n\n \n\nHeadlines brand them \"The Craigslist Thrill Killlers\". While awaiting trial, Miranda makes an astonishing confession to a local reporter that Troy was not her first victim. She tells Francis Scarcella she’d killed more than 22 others as part of a Satanic murder cult that began in Alaska. The resulting headlines about a Satanic teen serial killer rocked the world.\n\n \n\nElytte Barbour also reveals to officer Bremigen that the newly weds would cut each other, “having sexual intercourse in their own blood”. Elytte firmly believes that his wife is \"demon possessed\".\n\n \n\nIn Alaska, where Miranda was brought up, local journalist Jill Burke believes there must be more to this story than than the lurid headlines. Digging deep into Miranda's past, Jill uncovers dark secrets about her upbringing and her complex history. Do these hold the key to explaining Miranda's apparent \"thrill kill\" and her claims to have murdered many more people?",
+"small": "A teenager who kills a man she met through a sex ad claims to be a Satanic serial killer.",
+"medium": "Miranda Barbour lured a man with a sex ad then killed him. She then confessed to killing 22 more for a Satanic cult. But is the teen mother really a serial killer?",
+"editorial": "The numerous twists and turns of a murder case that’s not as simple as good and evil."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063ckfw",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT56M38S"
+},
+"guidance": {
+"id": "D2L1",
+"text": {
+"large": "Contains some strong language and scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-10-15T08:00:00Z",
+"start": "2018-04-18T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 3373,
+"first_broadcast": "18 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-crime-and-justice",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Miranda Barbour: Serial Killer Or Liar?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"editorial_subtitle": "Did a teen mum really kill?",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0635rh6",
+"live": false,
+"type": "episode",
+"title": "Sex Robots and Us",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063j08l.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0635rh6",
+"guidance": true,
+"synopses": {
+"large": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld future where sex bots live amongst us.\n\n\n\nIn Barcelona, James visits Dr Sergi Santos and his wife Maritsa, creators of one of the world’s most advanced sex robots and the answer, they suggest, to many couples' miss-matched libido. Sergi tests out his latest robot and James finds out how Maritsa copes with Sergi using the dolls himself.\n\n\n\nElsewhere in Barcelona James also finds simple versions of the robots - not yet fitted with AI - being used in a brothel, and visits a professional sex toy tester who tries out one of the latest male sex dolls to hit the market.\n\n\n\nBack in the UK, James visits Sergi’s business partner Arran who has been demo’ing a Samantha robot in a sex shop near Liverpool. Arran tells James about his latest plan - to offer his sex robots to elderly people’s homes.\n\n\n\nIn Japan, James meets two of the most human-like robots to have been created before discovering a darker side to the sex robot industry when he visits a factory mass-producing ultra-realistic dolls.\n\n\n\nSo do we really want sex robots in our lives?",
+"small": "Meet the world’s most advanced sex robots, their makers and users.",
+"medium": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld-style future where sex bots live amongst us.",
+"editorial": "James Young travels the world to meet the makers – and users – of advanced sex bots."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0635rt8",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "36 mins",
+"value": "PT36M5S"
+},
+"guidance": {
+"id": "L1S1",
+"text": {
+"large": "Contains some strong language and some scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some sexual content."
+}
+},
+"availability": {
+"end": "2019-04-03T08:00:00Z",
+"start": "2018-04-08T08:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 2136,
+"first_broadcast": "8 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"lifestyle"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "8 Apr 2018",
+"related_links": [],
+"original_title": "Sex Robots and Us",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-08T00:00:00.000Z",
+"editorial_subtitle": "Could bots ever be a familiar visitor to the bedroom?",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p060xg99",
+"live": false,
+"type": "episode",
+"title": "Wannabe",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0618clb.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p060wc3v",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Music manager and mother of two Maxine is left with a dilemma when her girl band Sweet Gyal threaten to ditch her. Should she accept that her glory days are over, or reclaim the spotlight for herself?",
+"small": "Maxine is left with a dilemma when her girl band threaten to ditch her.",
+"medium": "Comedy. Maxine is left with a dilemma when her girl band threaten to ditch her. Should she accept that her glory days are over, or reclaim the spotlight for herself?",
+"preview": "Music manager and mother of two Maxine is left with a dilemma when her girl band Sweet Gyal threaten to ditch her.",
+"editorial": "Music manager Maxine’s band threaten to ditch her. Is this her chance for the spotlight?"
+},
+"versions": [
+{
+"hd": true,
+"id": "p061yv74",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-09-25T08:00:00Z",
+"start": "2018-03-29T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 1398,
+"first_broadcast": "29 Mar 2018"
+}
+],
+"parent_id": "p060wc9t",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"preview_id": "p062p7jn",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "29 Mar 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-03-29T00:00:00.000Z",
+"editorial_subtitle": "Box Set. One last chance for superstardom - maybe...",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0074d8v",
+"live": false,
+"type": "episode",
+"title": "Little Britain",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hhqt.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006q2zd",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Matt Lucas and David Walliams take a comic look at life in Britain. \n\nIn the town of Darkly Noon, Vicky Pollard is in trouble with her teacher. Sebastian Love is jealous of another MP, while Emily Howard visits a pub and finds an admirer. For Andy's birthday, Lou takes him to the opera and at Kelsey Grammar School, the teacher tells the pupils to read Dickens. Hypnotist Kenny Craig goes on a date and Jeremy Rent has a part in Macbeth for Dennis Waterman.",
+"small": "In the town of Darkly Noon, Vicky Pollard is in trouble with her teacher.",
+"medium": "Matt Lucas and David Walliams take a comic look at life in Britain. Vicky Pollard is in trouble with her teacher, while Emily Howard visits a pub and finds an admirer.",
+"editorial": "Yeah but, no but. Classic sketch comedy with Vicky Pollard, Lou and Andy and loads more."
+},
+"versions": [
+{
+"hd": false,
+"id": "b005c803",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-05-04T08:00:00Z",
+"start": "2018-03-06T17:41:02Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"credits_start": 1695,
+"first_broadcast": "9pm 16 Sep 2003"
+}
+],
+"parent_id": "b006t7db",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "16 Sep 2003",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"editorial_title": "Little Britain: Series 1",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2003-09-16T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Go back to the start with Lucas and Walliams",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p060gytf",
+"live": false,
+"type": "episode",
+"title": "Hayley",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061w4jk.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0605ns4",
+"guidance": false,
+"subtitle": "Series 2: 1. Super Skinny",
+"synopses": {
+"large": "Hayley Pearce has a holiday coming up - and that means bikini time. She knows she's not fat, but as a size 10, why does she still feel pressure to lose weight and get skinny? From slimming pills to faddy diets and colonic hydrotherapy, Hayley puts weightloss quick fixes to the test as she explores the rise and impact of the cult of skinny. Meeting fashion models, pop singers and health experts, Hayley reveals what's driving this obsession and the extreme lengths to which some people will go to reach a certain size. But can Hayley learn to love her belly and bare all in a bikini?",
+"small": "Hayley Pearce explores the slimming industry.",
+"medium": "Documentary series. Hayley Pearce explores the pressures to lose weight, meeting fashion models, pop singers and health experts to reveal what is driving the obsession.",
+"editorial": "Hayley’s a size 10 - so why does she still feel pressure to lose weight and get skinny?"
+},
+"versions": [
+{
+"hd": true,
+"id": "p060gz0f",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-09-17T08:00:00Z",
+"start": "2018-03-21T09:00:00Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"credits_start": 1737,
+"first_broadcast": "21 Mar 2018"
+}
+],
+"parent_id": "p0605p6y",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "21 Mar 2018",
+"related_links": [],
+"original_title": "Super Skinny",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-03-21T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The Valley girl gets up close to the latest trends",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b007ck00",
+"live": false,
+"type": "episode",
+"title": "Lara Croft Tomb Raider: The Cradle of Life",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zxkj2.jpg"
+},
+"labels": {
+"category": "Film"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007ck00",
+"guidance": false,
+"synopses": {
+"large": "Globetrotting action sequel in which intrepid archaeologist Lara Croft is recruited by British intelligence to track down mad bioweapons genius Dr Reiss, who holds the orb showing the whereabouts of the mythical Pandora's Box. When he threatens to unleash a deadly plague contained within it, Lara and her marine turned mercenary partner face a race against time to scupper his evil plan.",
+"small": "Archaeologist Lara Croft faces a race against time to find mad bioweapons genius Dr Reiss.",
+"medium": "Globetrotting action sequel in which archaeologist Lara Croft (Angelina Jolie) must track down a mad bioweapons genius who threatens to unleash a deadly plague from Pandora's Box.",
+"editorial": "Lara’s back - and must track down a mad genius who threatens to unleash a deadly plague."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05zzvmm",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "105 mins",
+"value": "PT1H45M"
+},
+"availability": {
+"end": "2018-08-30T08:00:00Z",
+"start": "2018-03-09T11:41:41Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"credits_start": 6227,
+"first_broadcast": "2003"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"drama-and-soaps",
+"films"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "2003",
+"related_links": [],
+"original_title": "Lara Croft Tomb Raider: The Cradle of Life",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2003-01-01T00:00:00.000Z",
+"editorial_subtitle": "A tense race against time",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05ty33h",
+"live": false,
+"type": "episode",
+"title": "Love and Hate Crime",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v8v8c.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05r3vw3",
+"guidance": true,
+"subtitle": "Series 1: 3. Killer with a Camera",
+"synopses": {
+"large": "This film goes inside the mind of a murderer using the video footage he shot during the planning and execution of his crime, and his intimate journal, along with access to the court case that must decide whether to accept his insanity plea.\n\nWhen coastguard officer Adrian Loya breaks into the Cape Cod apartment of married couple Lisa and Anna Trubnikova and opens fire, it is the culmination of many months planning. With Lisa dead, Anna badly wounded and a policeman shot, Loya is taken into custody. Police find he is wearing a video camera to record his actions and also find videos made over many months when he was planning of the attack. There is also a journal charting his obsession with and hate for Lisa and the twisted thought process that lead to his decision to kill.\n\nUsing his videos and journal, this film goes inside the mind of a man as he decides to carry out a multiple shooting, and it watches the trial as the jury tries to decide whether the obsessive, meticulous Loya should have his insanity plea to be accepted.",
+"small": "A look inside the mind of a murderer using the video footage he shot during his crime.",
+"medium": "Documentary going inside the mind of a murderer using the video footage he shot during the planning and execution of his crime, as well as his intimate journal.",
+"preview": "Some crimes polarise opinion like no other. Explore three cases of hate crime in the US that involve passion and prejudice – and find out what really happened.",
+"editorial": "Inside a murderer’s mind. Unprecedented self-shot footage of a killer committing murder."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05ty3c2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-07-21T08:00:00Z",
+"start": "2018-01-22T09:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 3587,
+"first_broadcast": "22 Jan 2018"
+}
+],
+"parent_id": "p05r3wdc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-crime-and-justice",
+"documentaries"
+],
+"preview_id": "p05tynp3",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "22 Jan 2018",
+"related_links": [],
+"original_title": "Killer with a Camera",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-01-22T00:00:00.000Z",
+"editorial_subtitle": "3/3 Killer With A Camera. Murder seen through the lens",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p055b3z3",
+"live": false,
+"type": "episode",
+"title": "Living Differently",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hlkk.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p055b1t0",
+"guidance": false,
+"subtitle": "Series 1: 1. Our Baby Made of Glass",
+"synopses": {
+"large": "Meet Zoe, six, who has brittle bone disease and suffers painful bone fractures very easily. But overcoming these challenges is only making her stronger.",
+"small": "Meet Zoe, six, who has brittle bone disease and suffers painful bone fractures easily.",
+"medium": "Meet Zoe, six, who has brittle bone disease and suffers painful bone fractures very easily. But overcoming these challenges is only making her stronger.",
+"editorial": "They’ve all got serious conditions – but it doesn’t stop them exploring their passions."
+},
+"versions": [
+{
+"hd": true,
+"id": "p055dr0q",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "8 mins",
+"value": "PT8M8S"
+},
+"availability": {
+"end": "2018-06-08T08:00:00Z",
+"start": "2017-06-13T20:56:11Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"first_broadcast": "13 Jun 2017"
+}
+],
+"parent_id": "p055b2mz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"documentaries",
+"lifestyle"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "13 Jun 2017",
+"related_links": [],
+"original_title": "Our Baby Made of Glass",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-06-13T00:00:00.000Z",
+"editorial_subtitle": "Box Set. People achieving great things – against the odds",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p042kl1v",
+"live": false,
+"type": "episode",
+"title": "Jade: Why I Chose Porn",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p042mn9f.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p042kl1v",
+"guidance": true,
+"synopses": {
+"large": "22 year-old Jade graduated with a degree in Fashion from Manchester Metropolitan University in the summer of 2015. But rather than work in the world of fashion, Jade - aka Carly Rae Summers - has decided to pursue a career in porn. \n\n\n\nThis film follows Jade as she embarks on her new full-time career, travelling to shoots in London, Barcelona and Prague, and explores the practical and ethical issues that surround a young female porn star in Britain today. Why would a well-educated young woman with a range of career options choose to pursue a career in porn?",
+"small": "Why would a well-educated woman with a range of career options pursue a career in porn?",
+"medium": "Jade graduated from University in the summer of 2015. But rather than work in the world of fashion, Jade - aka Carly Rae Summers - has decided to pursue a career in porn."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07nnx9v",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "39 mins",
+"value": "PT39M"
+},
+"guidance": {
+"id": "L1S2",
+"text": {
+"large": "Contains some strong language and scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some strong language and sexual content."
+}
+},
+"availability": {
+"end": "2018-05-10T08:00:00Z",
+"start": "2018-04-10T08:00:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 2319,
+"first_broadcast": "2 Aug 2016"
+},
+{
+"hd": true,
+"id": "p042mt37",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "39 mins",
+"value": "PT39M7S"
+},
+"guidance": {
+"id": "L1S2",
+"text": {
+"large": "Contains some strong language and scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some strong language and sexual content."
+}
+},
+"availability": {
+"end": "2018-05-10T08:00:00Z",
+"start": "2018-04-10T08:00:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 2319,
+"first_broadcast": "2 Aug 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "2 Aug 2016",
+"related_links": [
+{
+"id": "p042qkj9",
+"url": "http://www.bbc.co.uk/programmes/articles/22VVM5LPrf3pjYdKqctmMXn/information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"original_title": "Jade: Why I Chose Porn",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2016-08-02T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p046n462",
+"live": false,
+"type": "episode",
+"title": "Obesity: The Post Mortem",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0479ztt.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "p046n462",
+"guidance": true,
+"synopses": {
+"large": "Documentary revealing just how dangerous too much fat is to our most vital internal organs. The programme follows a specialist pathology team as they conduct a post-mortem on the body of a 17-stone woman whose body was donated to medical science. Their findings, as they dissect the body and its organs, are startling, exposing the devastating impact of obesity with stunning visuals and fascinating medical facts.\n\nMorbid obesity reduces life expectancy by an average of nine years and is blamed for over 30,000 deaths in the UK every year. With 65 per cent of people already overweight or obese, this extraordinary film is a powerful contribution to the debate about fat, food, lifestyle and how the health service will cope with the growing obesity crisis.",
+"small": "A specialist pathology team conducts a post-mortem on the body of a 17-stone woman.",
+"medium": "Documentary investigating the dangers of fat to the human body by following a pathology team as they conduct a post-mortem on a woman whose body was donated to medical science."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07wc271",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"guidance": {
+"id": "W7",
+"text": {
+"large": "Contains graphic medical scenes.",
+"small": "Has guidance",
+"medium": "Contains graphic medical scenes."
+}
+},
+"availability": {
+"end": "2018-10-17T08:00:00Z",
+"start": "2018-04-20T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"first_broadcast": "13 Sep 2016"
+},
+{
+"hd": true,
+"id": "b0844dns",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"guidance": {
+"id": "W7",
+"text": {
+"large": "Contains graphic medical scenes.",
+"small": "Has guidance",
+"medium": "Contains graphic medical scenes."
+}
+},
+"availability": {
+"end": "2018-10-17T08:00:00Z",
+"start": "2018-04-20T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"first_broadcast": "13 Sep 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"lifestyle",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "13 Sep 2016",
+"related_links": [
+{
+"id": "p047qxfk",
+"url": "http://www.bbc.co.uk/bbcthree/item/1c45e170-993b-4b5e-b467-b28efc2a03c7",
+"kind": "priority_content",
+"type": "link",
+"title": "A cutting look at our obesity problems"
+}
+],
+"next_broadcast": {
+"channel_title": "BBC One",
+"scheduled_start": "2018-05-01T22:45:00.000Z"
+},
+"original_title": "Obesity: The Post Mortem",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2016-09-13T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0635szw",
+"live": false,
+"type": "episode",
+"title": "A Tattoo To Change Your Life",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hb8b.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05tj86c",
+"guidance": true,
+"subtitle": "Series 1: 7. Satanism, Self-Harm and Me",
+"synopses": {
+"large": "Ben used to be a satanist, and self-harmed. He is now a vicar and wants to get a tattoo to remember that God saved his life.",
+"small": "Ben used to be a satanist but now is a vicar.",
+"medium": "Ben used to be a satanist, and self-harmed. He is now a vicar and wants to get a tattoo to remember that God saved his life.",
+"editorial": "Once a satanist, vicar Ben wants to get a tattoo to remember that God saved his life."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0635w3w",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "6 mins",
+"value": "PT5M59S"
+},
+"guidance": {
+"id": "W2",
+"text": {
+"large": "Deals with adult themes.",
+"small": "Has guidance",
+"medium": "Contains adult themes."
+}
+},
+"availability": {
+"end": "2019-04-06T08:00:00Z",
+"start": "2018-04-11T08:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 355,
+"first_broadcast": "11 Apr 2018"
+}
+],
+"parent_id": "p05tj8hr",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "11 Apr 2018",
+"related_links": [],
+"original_title": "Satanism, Self-Harm and Me",
+"audio_described": false,
+"parent_position": 7,
+"requires_sign_in": true,
+"release_date_time": "2018-04-11T00:00:00.000Z",
+"editorial_subtitle": "7/7 Satanism, Self-Harm and Me",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p060m6qx",
+"live": false,
+"type": "episode",
+"title": "R Kelly: Sex, Girls & Videotapes",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062p921.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p060m6qx",
+"guidance": true,
+"synopses": {
+"large": "Ben Zand explores allegations surrounding the sex life of R&B legend R Kelly, including accusations of holding women against their will in his home in Atlanta and running a degrading sex cult - allegations he denies.",
+"small": "Ben Zand explores allegations surrounding the sex life of R Kelly.",
+"medium": "Ben Zand explores allegations surrounding R Kelly, including accusations of holding women against their will in his home in Atlanta and running a sex cult - allegations he denies.",
+"editorial": "The RnB star has been linked to serious sexual allegations - Ben Zand investigates."
+},
+"versions": [
+{
+"hd": true,
+"id": "p061nhn5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"guidance": {
+"id": "D1L3",
+"text": {
+"large": "Contains very strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains very strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-09-24T08:00:00Z",
+"start": "2018-03-28T08:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 3246,
+"first_broadcast": "28 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "28 Mar 2018",
+"related_links": [
+{
+"id": "p062f4jt",
+"url": "http://www.bbc.co.uk/programmes/articles/22VVM5LPrf3pjYdKqctmMXn/information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information & Support"
+}
+],
+"original_title": "R Kelly: Sex, Girls & Videotapes",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-28T00:00:00.000Z",
+"editorial_subtitle": "Investigating allegations",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

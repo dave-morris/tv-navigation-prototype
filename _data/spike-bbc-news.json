@@ -1,0 +1,1471 @@
+[
+{
+"id": "b0b125bq",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kgw2.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Can Drones Deliver?",
+"synopses": {
+"small": "Click looks at all the latest developments in the field of drones.",
+"medium": "Click looks at all the latest developments in the field of drones - from America's first commercial drone operation to drones saving lives on the beaches of Australia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b124bp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-22T15:00:00Z",
+"start": "2018-04-21T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "1:30am 21 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-26T02:30:00.000Z"
+},
+"original_title": "Can Drones Deliver?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06mvp",
+"live": false,
+"type": "episode",
+"title": "The Film Review",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02kh4jx.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01rk5j5",
+"guidance": false,
+"subtitle": "Every Day, Let the Sunshine In, The Guernsey Literary and Potato Peel Pie Society",
+"synopses": {
+"small": "With Every Day, Let the Sunshine In and The Guernsey Literary and Potato Peel Pie Society.",
+"medium": "Mark Kermode joins Jane Hill to talk about the week's cinema and DVD releases, including Every Day, Let the Sunshine In and The Guernsey Literary and Potato Peel Pie Society."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06mvc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2018-05-22T11:00:00Z",
+"start": "2018-04-20T20:42:29Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "8:45pm 20 Apr 2018"
+}
+],
+"parent_id": "b01rk5j5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Every Day, Let the Sunshine In, The Guernsey Literary and Potato Peel Pie Society",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0fx62",
+"live": false,
+"type": "episode",
+"title": "The Travel Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064wtr1.jpg"
+},
+"labels": {
+"category": "Lifestyle"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03x51n1",
+"guidance": false,
+"subtitle": "The World's Largest Cruise Ship",
+"synopses": {
+"small": "The Travel Show jumps on board the world's biggest ever cruise ship.",
+"medium": "The Travel Show jumps on board the world's biggest ever cruise ship as she prepares to welcome her first paying passengers. Plus a journey back in time on a steam train in China."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0fx5j",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-21T05:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "5:30am 21 Apr 2018"
+}
+],
+"parent_id": "b03x51n1",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"lifestyle"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "21 Apr 2018",
+"related_links": [
+{
+"id": "p02985ht",
+"url": "http://www.bbc.co.uk/programmes/n13xtmtp",
+"kind": "priority_content",
+"type": "link",
+"title": "Travel clips and features"
+}
+],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-24T02:30:00.000Z"
+},
+"original_title": "The World's Largest Cruise Ship",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0bj15",
+"live": false,
+"type": "episode",
+"title": "Dateline London",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04yxnm3.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m93g",
+"guidance": false,
+"subtitle": "21/04/2018",
+"synopses": {
+"small": "Foreign correspondents based in London give their views on the week's international news.",
+"medium": "Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0bhxw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T03:00:00Z",
+"start": "2018-04-21T12:42:03Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "11:30am 21 Apr 2018"
+}
+],
+"parent_id": "b006m93g",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "21/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+},
+{
+"id": "b09yryz1",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642xkn.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Old MacDonald had a farm, AI-A-I/O",
+"synopses": {
+"small": "Click visits a farm where robots drive tractors, manage a field and pick fruit.",
+"medium": "Click visits a farm where robots drive tractors, manage a field and pick fruits, vegetables and flowers. Plus the latest news on the Facebook data scandal."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yryvk",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-19T03:00:00Z",
+"start": "2018-04-14T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "1:30am 14 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "14 Apr 2018",
+"related_links": [],
+"original_title": "Old MacDonald had a farm, AI-A-I/O",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-14T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b09y2b9x",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063f3dc.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "OM5G",
+"synopses": {
+"small": "5G is coming. It will give us self-driving cars and smart cities.",
+"medium": "5G is coming. The next generation of wireless technology will give us self-driving cars, smart cities and could even teach you to score a goal like Messi."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09y2b5v",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-12T03:00:00Z",
+"start": "2018-04-07T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1463,
+"first_broadcast": "1:30am 7 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "7 Apr 2018",
+"related_links": [],
+"original_title": "OM5G",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-07T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg21w",
+"live": false,
+"type": "episode",
+"title": "HARDtalk",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064gn1m.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mg2m",
+"guidance": false,
+"subtitle": "Sergey Lavrov - Foreign Minister of Russia",
+"synopses": {
+"large": "Stephen Sackur is in Moscow for an exclusive interview with Russia's foreign minister Sergey Lavrov. The world has been alarmed by the very real possibility of a direct military confrontation between the United States and Russia. Syria is of course where the current tensions are highest, and where missiles have been fired, but the hostility is deep-seated on a number of fronts. There have been diplomatic expulsions and sanctions, and there is talk of a new cold war. What is Russia's next move?",
+"small": "Stephen Sackur is in Moscow to speak with Russia's foreign minister Sergey Lavrov.",
+"medium": "Stephen Sackur is in Moscow for an exclusive interview with Russia's foreign minister Sergey Lavrov. Stephen asks what Russia's next move is after confrontations with the US."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg1y2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-22T14:25:00Z",
+"start": "2018-04-16T21:19:26Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b006mg2m",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Sergey Lavrov - Foreign Minister of Russia",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcr8v",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 19/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "The latest national and international news, exploring the day's events from a global perspective."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg2g5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T19:00:00Z",
+"start": "2018-04-19T21:20:10Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "7pm 19 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zcr8s",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-19T18:30:00Z",
+"start": "2018-04-19T18:35:32Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09p5m2p",
+"live": false,
+"type": "episode",
+"title": "Our World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05t9vkv.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070w71",
+"guidance": false,
+"subtitle": "Ukraine's Frontline Bakery",
+"synopses": {
+"large": "The war in eastern Ukraine between Russian-backed rebels and the Ukrainian army has killed more than 10,000 people over four years, and peace remains a distant prospect. Despite the violence and poverty though, civilians in the war zone try to live as normal a life as possible. In the frontline town of Marinka, a new bakery has opened which brings some comfort and sustenance to war-weary locals. From Marinka, Lucy Ash reports.",
+"small": "A new bakery in Marinka brings some comfort and sustenance to war-weary locals.",
+"medium": "Lucy Ash reports from Marinka in eastern Ukraine, where a new bakery brings some comfort and sustenance to war-weary locals."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09p5lzy",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-21T05:09:53Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "14 Jan 2018"
+}
+],
+"parent_id": "b0070w71",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "14 Jan 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-28T03:30:00.000Z"
+},
+"original_title": "Ukraine's Frontline Bakery",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-01-14T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcr8p",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 18/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "The latest national and international news, exploring the day's events from a global perspective."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg299",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-18T19:00:00Z",
+"start": "2018-04-18T21:23:19Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "7pm 18 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zcr8m",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-18T18:30:00Z",
+"start": "2018-04-18T18:34:55Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "18/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zd2jx",
+"live": false,
+"type": "episode",
+"title": "The Film Review",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02kh4jx.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01rk5j5",
+"guidance": false,
+"subtitle": "Rampage, Custody, The Titan",
+"synopses": {
+"small": "Jason Solomons and Jane Hill take a look at Rampage, Custody and The Titan.",
+"medium": "Jason Solomons joins Jane Hill for a look at the latest cinema and DVD releases, including Rampage, Custody and The Titan."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zd2jv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2018-05-15T23:00:00Z",
+"start": "2018-04-13T17:50:41Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "5:45pm 13 Apr 2018"
+}
+],
+"parent_id": "b01rk5j5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "13 Apr 2018",
+"related_links": [],
+"original_title": "Rampage, Custody, The Titan",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcr8j",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 17/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "The latest national and international news, exploring the day's events from a global perspective."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg245",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T19:00:00Z",
+"start": "2018-04-17T21:22:58Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "7pm 17 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zcr8g",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-17T18:30:00Z",
+"start": "2018-04-17T18:36:23Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "17/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09x5k4y",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062q7yl.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Who Has Your Data?",
+"synopses": {
+"small": "Click investigates Facebook's data sharing practices.",
+"medium": "Click investigates Facebook's data sharing practices. Who has your personal data and what is being done with it?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09x5k0w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-05T03:00:00Z",
+"start": "2018-03-31T14:03:44Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "31 Mar 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "Who Has Your Data?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06mgw",
+"live": false,
+"type": "episode",
+"title": "Meet the Author",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03l8tkh.jpg",
+"inherited_from": "brand"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01rk58f",
+"guidance": false,
+"subtitle": "Jo Nesbo",
+"synopses": {
+"small": "James Naughtie talks with crime writer Jo Nesbo about his new novel Macbeth.",
+"medium": "James Naughtie talks with crime writer Jo Nesbo about his new novel Macbeth, which tells the story of a policeman who murders his way to the top."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06mg6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2018-05-22T22:00:00Z",
+"start": "2018-04-19T20:51:30Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "8:45pm 19 Apr 2018"
+}
+],
+"parent_id": "b01rk58f",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Jo Nesbo",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcrq0",
+"live": false,
+"type": "episode",
+"title": "Ben Zand: Cults, Gangs and God",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062plct.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zcrf6",
+"guidance": false,
+"subtitle": "Series 1: 2. God's Giant Miracle Carrots",
+"synopses": {
+"large": "Ben Zand meets Pastor Sanchez, from the town of Almolonga. Almolonga is famous for its story of transformation, where God blessed its giant carrots and vegetables, saving people from poverty.",
+"small": "Ben Zand meets Pastor Sanchez, from the town of Almolonga.",
+"medium": "Ben Zand meets Pastor Sanchez from the town of Almolonga, a place said to have been blessed by God, saving people from poverty."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zcrpb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-08T21:00:00Z",
+"start": "2018-04-07T06:14:28Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"first_broadcast": "4:30am 7 Apr 2018"
+}
+],
+"parent_id": "b09zcr26",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "7 Apr 2018",
+"related_links": [],
+"original_title": "God's Giant Miracle Carrots",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-07T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg2cy",
+"live": false,
+"type": "episode",
+"title": "HARDtalk",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064tcbb.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mg2m",
+"guidance": false,
+"subtitle": "Bilawal Bhutto-Zardari, Chairman, Pakistan People's Party",
+"synopses": {
+"large": "Elections are due in Pakistan in July and running for a seat in the National Assembly is the heir to the country's main political dynasty. HARDtalk's Zeinab Badawi speaks to Bilawal Bhutto-Zardari - son of Benazir Bhutto, the two time prime minister of Pakistan who was assassinated in 2007. He is Chairman of the Pakistan People's Party - founded by his grandfather 50 years ago. The PPP has seen its popularity plummet in recent years - can Bilawal Bhutto-Zardari restore its fortunes and turn around a political legacy tarnished by allegations of corruption, patronage and incompetence?",
+"small": "Zeinab Badawi speaks to Bilawal Bhutto-Zardari, chairman of the Pakistan People's Party.",
+"medium": "Zeinab Badawi speaks to Bilawal Bhutto-Zardari, chairman of the Pakistan People's Party. The PPP has seen its popularity plummet in recent years - can he restore its fortunes?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg27t",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-20T00:00:00Z",
+"start": "2018-04-19T05:15:48Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "4:30am 19 Apr 2018"
+}
+],
+"parent_id": "b006mg2m",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Bilawal Bhutto-Zardari, Chairman, Pakistan People's Party",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg2p4",
+"live": false,
+"type": "episode",
+"title": "Newswatch",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tmvhh.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00qjrk2",
+"guidance": false,
+"subtitle": "20/04/2018",
+"synopses": {
+"small": "Jeremy Bowen discusses the difficulties of finding out what is happening in Syria.",
+"medium": "Viewers' comments about BBC News coverage. Samira Ahmed speaks to BBC Middle East editor Jeremy Bowen about the difficulties of getting to the truth of what is happening in Syria."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg2kq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2019-04-21T03:00:00Z",
+"start": "2018-04-20T19:41:29Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "7:45pm 20 Apr 2018"
+}
+],
+"parent_id": "b00qjrk2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "20/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg272",
+"live": false,
+"type": "episode",
+"title": "HARDtalk",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0646b9t.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mg2m",
+"guidance": false,
+"subtitle": "Kofi Annan - Former UN Secretary General",
+"synopses": {
+"large": "HARDtalk is in Geneva, the headquarters of the Kofi Annan Foundation which marks its tenth anniversary this year. Zeinab Badawi speaks to the former secretary general of the United Nations as he reaches his eightieth birthday, in front of an audience. In a career spanning six decades at the United Nations, he has held several senior positions including two terms as secretary general until 2006. There were high points such as the award of the Nobel Peace Prize, as well as tragic events such as the Rwandan genocide and the Srebrenica massacre of Bosnian Muslims. What are his biggest worries today and does he have any regrets?",
+"small": "Zeinab Badawi speaks to the former secretary general of the United Nations Kofi Annan.",
+"medium": "HARDtalk is in Geneva, the headquarters of the Kofi Annan Foundation. Zeinab Badawi speaks to the former secretary general of the United Nations as he reaches his 80th birthday."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg22m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-20T04:00:00Z",
+"start": "2018-04-18T05:15:57Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "4:30am 18 Apr 2018"
+}
+],
+"parent_id": "b006mg2m",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Kofi Annan - Former UN Secretary General",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcr8c",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 16/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "The latest national and international news, exploring the day's events from a global perspective."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg1zf",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T19:00:00Z",
+"start": "2018-04-16T22:02:38Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "7pm 16 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zcr83",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-16T18:30:00Z",
+"start": "2018-04-16T18:35:40Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "16/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg2hg",
+"live": false,
+"type": "episode",
+"title": "BBC Business Live",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02spcn6.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05y1cgd",
+"guidance": false,
+"subtitle": "19/04/2018",
+"synopses": {
+"small": "A look at the global business stories.",
+"medium": "A look at the global business stories."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg2h4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T08:00:00Z",
+"start": "2018-04-19T09:41:40Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "8:30am 19 Apr 2018"
+}
+],
+"parent_id": "b05y1cgd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+}
+]

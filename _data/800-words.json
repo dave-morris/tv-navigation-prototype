@@ -1,0 +1,913 @@
+[
+{
+"id": "b08vp2q4",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vbfk.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 2: Episode 1",
+"synopses": {
+"large": "It is almost Guy Fawkes Night, and in Weld they go crazy for fireworks. Officer Tom is already on Monty's case, insisting that there be no repeat of last year's incident with the fireworks and the surfboard. George is baffled by their enthusiasm, but he has different problems - he is now entangled in a relationship with Jan, and Shay is still in Sydney. Arlo commences Operation Shay to try to tempt her back by pretending they are fine without her.",
+"small": "It is almost Guy Fawkes Night, and in Weld they go crazy for fireworks.",
+"medium": "Comedy drama. It is almost Guy Fawkes Night. Officer Tom is on Monty's case, insisting that there be no repeat of last year's incident with the fireworks and the surfboard."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vp1nn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-19T14:00:00Z",
+"start": "2018-04-19T14:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 2548,
+"first_broadcast": "2:15pm 19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064ss4z",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-19T14:00:00Z",
+"start": "2018-04-19T14:41:54Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b08vp1nd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vlp6c",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb9x.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 8",
+"synopses": {
+"large": "Shay has left George and Arlo and returned to Sydney, and while George is struggling to cope with the aftermath, Jan has flown in the other direction and turned up on his doorstep. Things are chaotic enough without the whole of Weld being camped out on Big Mac's beachside field to protest his plans to build on it.",
+"small": "George struggles to cope as things turn chaotic.",
+"medium": "Comedy drama. Shay has left George and Arlo and returned to Sydney, and while George is struggling to cope with the aftermath, Jan has flown in the other direction."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vln6m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "43 mins",
+"value": "PT43M"
+},
+"availability": {
+"end": "2018-05-18T14:00:00Z",
+"start": "2018-04-18T14:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 2471,
+"first_broadcast": "2:15pm 18 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064p9tv",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "43 mins",
+"value": "PT43M"
+},
+"availability": {
+"end": "2018-05-18T14:00:00Z",
+"start": "2018-04-18T14:45:38Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Episode 8",
+"audio_described": true,
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vlmhd",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb9s.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 7",
+"synopses": {
+"large": "After George finds out about Shay's relationship with Ike and their vandalism of local property, there is conflict in the Turner household. The locals step in to try to help the two of them relate to each other, but Shay remains unpersuadable. Then George receives a surprise visitor.",
+"small": "After George finds out about Shay and Ike, there is conflict in the Turner household.",
+"medium": "Comedy drama. After George finds out about Shay's relationship with Ike and their vandalism of local property, there is conflict in the Turner household."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vlg7l",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-17T14:00:00Z",
+"start": "2018-04-17T14:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 2490,
+"first_broadcast": "2:15pm 17 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064kztw",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-17T14:00:00Z",
+"start": "2018-04-17T14:31:09Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Episode 7",
+"audio_described": true,
+"parent_position": 7,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vl92r",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vb9m.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 6",
+"synopses": {
+"large": "A statue of Weld's celebrated founder has been desecrated. Well, technically it has been desecrated again since it had already lost its head, and no-one knows how. With Constable Tom feeling the long-unsolved crime is a shameful blot on his career, he challenges George to go one better and solve the mystery of the statue, and soon George is drawn into a web of local secrets, lies and intrigue.",
+"small": "Constable Tom challenges George to solve the mystery of a desecrated statue.",
+"medium": "Comedy drama. A statue of Weld's celebrated founder has been desecrated. No-one knows how, and Constable Tom challenges George to solve the mystery."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vl1pb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-16T14:00:00Z",
+"start": "2018-04-16T14:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 2575,
+"first_broadcast": "2:15pm 16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064gsp7",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "44 mins",
+"value": "PT44M"
+},
+"availability": {
+"end": "2018-05-16T14:00:00Z",
+"start": "2018-04-16T14:39:18Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": true,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vg0wh",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063598d.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 5",
+"synopses": {
+"large": "When Woody and Smiler find yet another thing wrong with the Turners' house, they have to evacuate to the motel, where George encounters Dean, a feared nemesis from his childhood.",
+"small": "When Woody and Smiler find yet another thing wrong with the house, they have to evacuate.",
+"medium": "Comedy drama. When Woody and Smiler find yet another thing wrong with the Turners' house, they have to evacuate to the motel, where George encounters a feared nemesis."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vg0vc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-13T14:00:00Z",
+"start": "2018-04-13T14:00:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 2559,
+"first_broadcast": "2:15pm 13 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06470gm",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-13T14:00:00Z",
+"start": "2018-04-13T14:29:24Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"first_broadcast": "13 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "13 Apr 2018",
+"related_links": [],
+"original_title": "Episode 5",
+"audio_described": true,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vf980",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063597z.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 4",
+"synopses": {
+"large": "In a small town like Weld, as one of the only single men, George is getting a lot of unexpected attention from some of the ladies, and things come to a head at Fiona's museum fundraiser. Arlo has a run-in at school with the McNamara family. Shay, still angry at being moved to the middle of nowhere, talks things over with Ike.",
+"small": "As one of the only single men, George is getting a lot of attention from the ladies.",
+"medium": "Comedy drama. As one of the only single men in Weld, George is getting a lot of attention from some of the ladies, and things come to a head at Fiona's museum fundraiser."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vf7cw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "46 mins",
+"value": "PT46M"
+},
+"availability": {
+"end": "2018-05-12T14:00:00Z",
+"start": "2018-04-12T14:00:00Z",
+"remaining": {
+"text": "Available for 19 days"
+}
+},
+"credits_start": 2627,
+"first_broadcast": "2:15pm 12 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06437f6",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "46 mins",
+"value": "PT46M"
+},
+"availability": {
+"end": "2018-05-12T14:00:00Z",
+"start": "2018-04-12T14:46:20Z",
+"remaining": {
+"text": "Available for 19 days"
+}
+},
+"first_broadcast": "12 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "Episode 4",
+"audio_described": true,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08v3fc6",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063594k.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "Gossip about what really happened to George's late wife has taken over the town, and everyone is talking about it. George comes to realise that if he wants a small-town life, he has to accept it - warts, gossip and all.",
+"small": "Gossip about what really happened to George's late wife has taken over the town.",
+"medium": "Comedy drama. Gossip about what really happened to George's late wife has taken over the town, and everyone is talking about it."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08v3fbn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-11T14:00:00Z",
+"start": "2018-04-11T14:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 2501,
+"first_broadcast": "2:15pm 11 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063zj17",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-11T14:00:00Z",
+"start": "2018-04-11T14:29:19Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "11 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "11 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-11T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08trqyt",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635940.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "The Turners are still struggling to settle into Weld life when the septic tank in their rickety house explodes and turns the lawn into a stinking mess. Woody swears he can fix it, and George thinks his day can't get any worse. But he hasn't reckoned on Shay and Arlo's difficulties at their new school, and soon enough he is called into the office.",
+"small": "The Turners' septic tank explodes and turns the lawn into a stinking mess.",
+"medium": "Comedy drama. The Turners are still struggling to settle into Weld life when the septic tank in their rickety house explodes and turns the lawn into a stinking mess."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08trqyg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "46 mins",
+"value": "PT46M"
+},
+"availability": {
+"end": "2018-05-10T14:00:00Z",
+"start": "2018-04-10T14:00:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 2636,
+"first_broadcast": "2:15pm 10 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063w4st",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "46 mins",
+"value": "PT46M"
+},
+"availability": {
+"end": "2018-05-10T14:00:00Z",
+"start": "2018-04-10T14:47:21Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "10 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "10 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-10T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08trgl3",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063jlgk.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "After the sudden death of his wife, grief-stricken journalist George Turner moves his entire family to a remote corner of New Zealand, where he used to spend his childhood holidays, for a fresh start. His children are understandably reluctant, but at least when they arrive they are given a warm and enthusiastic, if unconventional, welcome. After being crashed into by a runaway sculpture and finding out he has bought the wrong house, surely nothing else can go wrong for George?",
+"small": "A grief-stricken journalist moves his entire family to a remote corner of New Zealand.",
+"medium": "Comedy drama. After the sudden death of his wife, grief-stricken journalist George Turner moves his entire family to a remote corner of New Zealand.",
+"editorial": "After the death of his wife, grief-stricken George and family up sticks for a new start."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08trg7q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-09T14:00:00Z",
+"start": "2018-04-09T14:00:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 2577,
+"first_broadcast": "2:15pm 9 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063s743",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-09T14:00:00Z",
+"start": "2018-04-09T14:43:52Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"first_broadcast": "9 Apr 2018"
+}
+],
+"parent_id": "b08trgfl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "9 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"editorial_subtitle": "1/8 A new life in New Zealand - what could go wrong?",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b08vpc08",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vbg2.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 2: Episode 2",
+"synopses": {
+"large": "After Woody sees George dancing with Tracy and gets the wrong end of the stick, he hands George an unitemised bill for forty thousand dollars instead of telling him how he feels. It is left to George to work out what is really going on and to try to make Woody and Tracy say what normally goes unsaid.",
+"small": "Woody sees George dancing with Tracy and gets the wrong end of the stick.",
+"medium": "Comedy drama. After Woody sees George dancing with Tracy and gets the wrong end of the stick, he hands George an unitemised bill instead of telling him how he feels."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vp8sp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-20T14:00:00Z",
+"start": "2018-04-20T14:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "20 Apr 2017"
+},
+{
+"hd": false,
+"id": "p064xkkl",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-20T14:00:00Z",
+"start": "2018-04-20T14:35:45Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "20 Apr 2017"
+}
+],
+"parent_id": "b08vp1nd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2017",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2017-04-20T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+}
+]

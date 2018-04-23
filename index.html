@@ -7,9 +7,9 @@ title: navigation-prototype
   <div class="container-inner">
 
     {% include _slices/large-carousel.html      data='proto-editorial-highlights'  title='' %}
-    {% include _slices/medium-carousel.html      data='proto-most-popular'  title='Most Popular' %}
-    {% include _slices/medium-carousel.html      data='proto-recommended-for-you'  title='Recommended for you' %}
-    {% include _slices/medium-carousel.html      data='proto-comedy'  title='Comedy' %}
+    {% include _slices/medium-carousel-local-image.html      data='proto-most-popular'  title='Most Popular' %}
+    {% include _slices/medium-carousel-local-image.html      data='proto-recommended-for-you'  title='Recommended for you' %}
+    {% include _slices/medium-carousel-local-image.html      data='proto-comedy'  title='Comedy' %}
 
   </div>
 </div>
@@ -21,14 +21,53 @@ title: navigation-prototype
   </div>
 
   <div class="container-inner" data-id="bbc-one">
-    {% include _slices/large-carousel.html      data='spike-bbc-one-highlights'  title='' %}
-    {% include _slices/medium-carousel.html      data='proto-normal-priority'  title='BBC One' %}
+    {% include _slices/large-carousel.html       data='spike-bbc-one-highlights'  title='' %}
+    {% include _slices/medium-carousel-reversed.html      data='ordeal-by-innocence'  title='Ordeal by Innocence' %}
+    {% include _slices/medium-carousel-reversed.html      data='graham-norton-show'  title='The Graham Norton Show' %}
   </div>
 
   <div class="container-inner" data-id="bbc-two">
-    {% include _slices/medium-carousel.html      data='proto-high-priority'  title='BBC Two' %}
-    {% include _slices/medium-carousel.html      data='proto-high-priority'  title='BBC Two' %}
+    {% include _slices/large-carousel.html      data='spike-bbc-two-highlights'  title='' %}
+    {% include _slices/medium-carousel-reversed.html      data='spike-qi'  title='QI' %}
+    {% include _slices/medium-carousel-reversed.html      data='spike-britain-in-bloom'  title='Britain in Bloom' %}
   </div>
+
+  <div class="container-inner" data-id="bbc-three">
+    {% include _slices/large-carousel.html      data='spike-bbc-three'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="bbc-four">
+    {% include _slices/large-carousel.html      data='spike-bbc-four'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="radio-one">
+    {% include _slices/large-carousel.html      data='spike-radio-one'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="news">
+    {% include _slices/large-carousel.html      data='spike-bbc-news'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="parliament">
+    {% include _slices/large-carousel.html      data='spike-parliament'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="alba">
+    {% include _slices/large-carousel.html      data='spike-alba'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="s4c">
+    {% include _slices/large-carousel.html      data='spike-s4c'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="cbbc">
+    {% include _slices/large-carousel.html      data='spike-cbbc'  title='' %}
+  </div>
+
+  <div class="container-inner" data-id="cbeebies">
+    {% include _slices/large-carousel.html      data='spike-cbeebies'  title='' %}
+  </div>
+
 
 </div>
 

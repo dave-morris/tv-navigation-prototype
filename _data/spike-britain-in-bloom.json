@@ -1,0 +1,356 @@
+[
+{
+"id": "b0b09ww3",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wj4d.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 5. Croston",
+"synopses": {
+"large": "Chris Bavin is in the historic Lancashire village of Croston to meet a group of Bloomers who are determined to win gold despite the village still suffering the after effects of a devastating flood. With only six weeks until judging day they have come up an ambitious grand plan to impress the judges but rallying a community that has been through a difficult time is a huge ask. Their key projects this year include an ambitious challenge to transform an overgrown school garden, a village makeover which will involve the whole community and a show-stopping garden in a local pub. The local economy depends on visitors and the Bloomers hope a gold will help draw people to the village, so there is a lot at stake.",
+"small": "Croston Bloomers are determined to win despite still suffering after a devastating flood.",
+"medium": "Chris Bavin is in the village of Croston to meet a group of Bloomers who are determined to win despite the village suffering the after effects of a devastating flood."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09t31",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-20T18:00:00Z",
+"start": "2018-04-20T18:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "6:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Croston",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09qs5",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wj44.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 4. Wednesfield",
+"synopses": {
+"large": "Chris Bavin heads to the heart of the Black Country to meet a multicultural group of Bloomers in Wednesfield, the West Midlands. This is only their second time competing in Britain in Bloom. Last year they won a silver award but this year they are pulling out all the stops to get their first ever gold. Headed up by the communities from the Sikh temple and the local church, this group have few funds so they are relying on the wider community to donate all the plants they will need. They want to impress the judges with three key projects: to fill the grounds of the temple and church with flowers, and to transform a neglected space in the community centre into a colourful garden for toddlers. But without a plan or planting scheme, gold will be hard to achieve.",
+"small": "A multicultural group of Bloomers in Wednesfield are competing for their second time.",
+"medium": "Chris Bavin meets a multicultural group of Bloomers in Wednesfield, the West Midlands. This is only their second time competing in Britain in Bloom."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09q8r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-19T18:00:00Z",
+"start": "2018-04-19T18:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "6:30pm 19 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Wednesfield",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09xg3",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whxg.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 3. Shrewsbury",
+"synopses": {
+"large": "Chris Bavin heads to Shrewsbury in Shropshire where the Bloomers have been taking part in the annual floral competition for 37 years. Backed by the council, this gold-winning team have a big budget and plant a staggering 300,000 flowers every year in their town. The jewel in their crown is The Dingle, a sunken garden in the middle of the town park made famous by Britain's first celebrity gardener, Percy Thrower. Every year the team is under pressure to create a show-stopping garden here to wow the judges. But Bloom isn't only about the big projects. Chris also helps the residents of a sheltered housing scheme on the edge of town plant up their own sustainable garden. Shrewsbury's Bloomers are desperate to retain their gold crown, but every year it gets harder to impress the discerning judges.",
+"small": "In Shrewsbury, the gold-winning team plant a staggering 300,000 flowers every year.",
+"medium": "Chris Bavin heads to Shrewsbury in Shropshire. This gold-winning team have a big budget and plant a staggering 300,000 flowers every year in their town."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09p60",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-18T18:00:00Z",
+"start": "2018-04-18T18:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "6:30pm 18 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Shrewsbury",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09h7c",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whwz.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 2. Mablethorpe",
+"synopses": {
+"large": "Chris Bavin meets the Bloomers from Mablethorpe in Lincolnshire, who have been competing in Bloom for ten years but have never won the top prize. With three ambitious new projects planned this year, they hope to not only win their first ever gold award, but also to put their forgotten seaside town back on the map and encourage tourists to visit. Their unconventional grand plan involves building a row of large, colourful pieces at the entrance to the town, including a three-metre-high helter-skelter and a dalek! The local centre for adults with learning disabilities is creating a show-stopping garden to impress the judges, and finally the Bloomers ask the whole community to join in and brighten up the promenade. These Bloomers take pride in doing things differently in Mablethorpe - but they only have seven weeks to get everything ready for judging.",
+"small": "Bloomers from Mablethorpe plan on building a three-metre-high helter-skelter and a dalek.",
+"medium": "Chris Bavin meets the Bloomers from Mablethorpe in Lincolnshire, who have been competing in Bloom for ten years. Their plan involves building a helter-skelter."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09gcc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-17T18:00:00Z",
+"start": "2018-04-17T18:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "6:30pm 17 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Mablethorpe",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09dv3",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whqy.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "New Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 1. Usk",
+"synopses": {
+"large": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'. The community here have been competing in Britain in Bloom for 36 years and regularly win gold. But every year they have to come up with fresh ideas to retain their crown. This time the community is planning three key projects. Firstly, they plan to fill the entire town square with a colourful new planting scheme. Secondly, the Gardening Gang at the local Primary School are hoping to impress the judges with their vegetable garden. Lastly, the Bloomers plan to convert a drab concrete corner into a new bee-friendly garden, but it is a massive project and the whole community needs to lend a hand.",
+"small": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'.",
+"medium": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'. The community here have been competing in Britain in Bloom for 36 years.",
+"editorial": "Chris Bavin starts his tour in Usk, Monmouthshire, known as the Welsh 'town of flowers'."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09dtc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-16T18:00:00Z",
+"start": "2018-04-16T18:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 1713,
+"first_broadcast": "6:30pm 16 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Usk",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "1/15 The volunteers helping our towns and cities flower",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+}
+]

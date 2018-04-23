@@ -1,0 +1,1708 @@
+[
+{
+"id": "b09ys0ng",
+"live": false,
+"type": "episode",
+"title": "Fianais",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063r84c.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yrzvg",
+"guidance": false,
+"subtitle": "Series 1: 1. Torcuil Crichton",
+"synopses": {
+"large": "Anns a' chiad phrògram de shreath ùr, tha Iain Moireasdan a' còmhradh ris an fhear-naidheachd, Torcuil Crichton, mun sgrios a chunnaic e ann an Sri Lanka agus ann an Indonìsia 's e ag obair dhan Sunday Herald às dèidh Tsunami a' Chuain Ìnnseanaich ann an 2004.\nChaill timcheall air 230,000 am beatha nuair a thachair aon de na crithean-talmhainn as motha riamh far chosta Shumatra ann an Iondonìsia. Dh'adhbhraich seo suailean mòra a sgrios sgìrean ann an 14 dùthchannan.\n\nB' iad Sri Lanka agus Indonìsia dhà de na dùthchannan a bu mhotha a dh'fhulang. Tha Torcuil a' toirt dealbh air mar a chaidh bailtean iasgaich air costa Sri Lanka a mhilleadh, agus mar a bha cuirp is sprùilleach air an sgaoileadh fad is farsaing. Ach bha dòchas ann cuideachd le stòiridh aon iasgair agus mar a fhuair e air ais air a chasan bliadhna às dèidh na tubaist.\n\nIn the first programme of a new series, John Morrison is in conversation with Torcuil Crichton about the devastation he witnessed while covering the Indian Ocean Tsunami of 2004 as a journalist for the Sunday Herald.\n\nIt is estimated that around 230,000 people lost their lives when one of the largest earthquakes on record created a tsunami that hit the coast of 14 countries in the Indian Ocean. Torcuil visited two of the worst affected regions in Sri Lanka and Indonesia, encountering scenes of utter devastation while having to work in the most challenging of conditions. He talks about the mass burials in fishing villages of Sri Lanka and also of hearing poignant stories of survival from those who were fortunate enough to live through it.\n\nToruil also travelled to Banda Aceh in Indonesia, one of regions closest to the original epicentre.",
+"small": "John Morrison in conversation with Torcuil Crichton about the Indian Ocean tsunami of 2004",
+"medium": "John Morrison interviews guests who witnessed major world events. This episode sees John talking with Torcuil Crichton about the Indian Ocean tsunami of 2004."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys0n7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T19:30:00Z",
+"start": "2018-04-19T20:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09ys0n7",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T19:30:00Z",
+"start": "2018-04-19T20:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09ys05t",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Torcuil Crichton",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yrz5z",
+"live": false,
+"type": "episode",
+"title": "Seòid a' Chidsin - The Kitchen Coves",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063rgx0.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08kmkc2",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "'S ann aig na seòid a tha ùidh ann an còcaireachd. Anns a' phrògram seo tha iad trang ag ullachadh iomadh seòrsa de bhiadh partaidh. Tha Uisdean a' deasachadh Feòil-Mhairt, En Croûte Bradain agus briosgaidean aotram mar mhìlsean. Tha Ruairidh a' cur air dòigh Gravlax, Crùbag, Creachainn, Marag Dhubh le Breacagan Neo-Mhilis agus Bàlaichean Taigeis. Measgachadh de bhiadh blasta dha daoine an uair a thig iad a chèilidh.\n\nThe lads prepare a variety of party snacks, with Uisdean cooking roast beef in Yorkshire pudding and salmon en croute, while Roddy prepares gravaldax, crab, scallop, black pudding blinis and haggis balls.",
+"small": "The lads prepare a variety of party snacks.",
+"medium": "Tha na seòid trang ag ullachadh iomadh seòrsa de bhiadh airson partaidh. The lads prepare a variety of party snacks, including roast beef in Yorkshire pudding and salmon en croute."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yrz5x",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T22:55:00Z",
+"start": "2018-04-18T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09yrz5x",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T22:55:00Z",
+"start": "2018-04-18T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "b09y28qr",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"food",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yrxbx",
+"live": false,
+"type": "episode",
+"title": "Scotstar: Teasairginn Eiginneach",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064gv07.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09xyhq5",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "An darna sreath a' leantainn sgiobaidhean tar-aiseag ScotSTAR bhon ionad-obrach aca aig Port-adhair Ghlaschu, 's sinn a' faicinn mar a thathas a' dèiligeadh ri iomadh tubaist agus gairm-èiginn bho air feadh Alba. Sa phrògram seo, tha pàiste hypoxic an dèidh breith dhuilich, agus tha sgioba ScotSTAR ga ghiùlain an dèidh dhan teothachd aige a bhith air a thoirt sìos gus feuchainn ri cron air inntinn a sheachnadh. Tha Helimed 2 a' sgèith gu tuath airson cobhair a thoirt dhan charbad-eiridinn, a tha a' toirt cuideachadh do bhodach a tha air tuiteam na dhachaigh ann an Cataibh, agus a tha air a bhith laighe ann trì latha.\n\nA second series following the work of the ScotSTAR Transfer teams from their purpose-built hub at Glasgow Airport as they handle various emergencies and call-outs from across Scotland.\n\nIn this episode, a baby who is born hypoxic is transferred by the ScotSTAR team after being chilled to below normal body temperature to hopefully reduce the chances of long-term brain damage. Helimed 2 is flying north to assist an elderly gentleman who has had a fall and has been lying on his bedroom floor in a remote cottage for three days.",
+"small": "The team transfer a baby who has been born hypoxic.",
+"medium": "Documentary series following the work of the ScotSTAR transfer teams. In this episode, the team transfer a baby who has been born hypoxic."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yrx9r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-22T20:45:00Z",
+"start": "2018-04-17T20:45:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09yrx9r",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-22T20:45:00Z",
+"start": "2018-04-17T20:45:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b09xyhfp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"lifestyle",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09vppyv",
+"live": false,
+"type": "episode",
+"title": "Trusadh",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zqzf.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00sgbgd",
+"guidance": false,
+"subtitle": "Series 10: 8. Tha Aonarachd Gar Marbhadh/Loneliness is Killing Us",
+"synopses": {
+"large": "Tha an cor aonarachd, a' toirt buaidh air daoine airson iomadach adhbhar . Tha e cuideachd a' fàs nas bitheanta a-nise san là an-diugh. Sùil dhrùidhteach, bhuadhail, smuaineachail air a' bhuaidh a th' aig aonaranachd air daoine san là an-diugh.\n\nLoneliness is something that affects people for many different reasons. From living in an isolated community, through illness, or perhaps due to an incident in their life, or as a result of old age. It's a complex, emotional response to social isolation and its impact is becoming more and more of an issue in our modern-day society.\n\nRecent research has shown that nine million people in the UK are affected by loneliness, and the medical profession see it as a condition that is as dangerous as smoking, heart disease and obesity. We hear the stories of those who have suffered from loneliness, and also find out about different initiatives and support schemes that are being put in place to help deal with it.\n\nTechnology is also playing its part and we learn of some groundbreaking international initiatives, including a multilingual robot who is being developed to help combat loneliness. Loneliness is killing us - a poignant, moving and though provoking account of the impact of loneliness in the modern world.",
+"small": "A moving and thought-provoking look at loneliness.",
+"medium": "Sùil dhrùidhteach, smuaineachail air aonaranachd. A poignant, moving and thought-rovoking account of the impact of loneliness in the modern world."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09vppys",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-17T22:00:00Z",
+"start": "2018-04-16T21:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09vppys",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-17T22:00:00Z",
+"start": "2018-04-16T21:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b094fdtp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-life-stories",
+"documentaries",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Tha Aonarachd Gar Marbhadh/Loneliness is Killing Us",
+"audio_described": false,
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b09w7n",
+"live": false,
+"type": "episode",
+"title": "Seirm",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0645s4s.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07wsx66",
+"guidance": true,
+"subtitle": "Series 4: Episode 3",
+"synopses": {
+"large": "An treas program a sreath air a lìbhrigeadh le Màiri Anna NicUalraig agus Dòmhnall Eòghainn MacFhionghain. Chaidh Seirm a chlàradh air beulamh luchd èisteachd anns an Hillhead Bookclub aig àm fèis Celtic Connections anns am Faoilleach, 2018. Anns a' phrògram roghainneach seo tha feadhainn d'en luchd-ciùil as fheàrr bho'n fhèis. A-nochd air Seirm, chithear seinneadair à Èirinn a tha air deagh chliù a chosnadh dha fhèin, Declan O'Rourke; Lahira, ceithear aig a bheil freumhan ciùil anns na h-Innseachan, Sasainn agus Alba; dithis a tha làn tàlant, puirt agus spionnadh, Ross Couper agus Tom Oakes agus rionnag-ciùil as na Stàitean Aonaichte, Laura Cortese. Luchd-ciùil agus prògram a bheir togail do dhuine sam bith.\n\nThe third episode of Seirm is presented by musician and broadcaster Mary Ann Kennedy. Filmed in the atmospheric Hillhead Bookclub before an audience at the Celtic Connections music festival in January 2018, this eclectic show features lively performances from the best of the festival alongside some unique musical collaborations. \n\nAppearing in this programme are acclaimed singer-songwriter Declan O'Rourke; Lahira, a four-piece band with musical roots in India, England and Scotland; a talented duo Ross Couper and Tom Oakes; and US singer-songwriter Laura Cortese.",
+"small": "Mary Ann Kennedy presents Declan O'Rourke, Laura Cortese and Lahira.",
+"medium": "Music show presented by Mary Ann Kennedy, filmed during Celtic Connections 2018 and featuring Declan O'Rourke, Laura Cortese and Lahira."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b09w6r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-22T22:00:00Z",
+"start": "2018-04-21T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+},
+{
+"hd": false,
+"id": "b0b09w6r",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-22T22:00:00Z",
+"start": "2018-04-21T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "b09yhrvb",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-27T21:00:00.000Z"
+},
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0j1lv",
+"live": false,
+"type": "episode",
+"title": "Scottish Premiership",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05dsfnz.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b038qw5v",
+"guidance": false,
+"subtitle": "2017-18: Partick Thistle v Hamilton Academical",
+"synopses": {
+"large": "Geama ball-coise slàn bho Prìomh Lìg na h-Alba le Partick Thistle a' dol an aghaidh Hamilton Academical.\n\nFull match coverage from the Scottish Premiership as Partick Thistle go up against Hamilton Academical.",
+"small": "Coverage from the Scottish Premiership as Partick Thistle play Hamilton Academical.",
+"medium": "Geama ball-coise slàn bho Prìomh Lìg na h-Alba le Partick Thistle a' dol an aghaidh Hamilton Academical. Full match coverage as Partick Thistle go up against Hamilton Academical."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0j1l7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "120 mins",
+"value": "PT2H"
+},
+"availability": {
+"end": "2018-04-28T23:55:00Z",
+"start": "2018-04-21T22:54:56Z",
+"remaining": {
+"text": "Available until Sun 12:55am"
+}
+},
+"first_broadcast": "6pm 21 Apr 2018"
+}
+],
+"parent_id": "b0907msx",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland",
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Partick Thistle v Hamilton Academical",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ys30z",
+"live": false,
+"type": "episode",
+"title": "Padraig Post: Seirbheis Deis agus Sonraichte",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zrbh.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09kpm3t",
+"guidance": false,
+"subtitle": "Series 3: 16. Padraig Post agus an Calman a th' air Chall",
+"synopses": {
+"large": "Tha Cedric, an calma-rèisidh, air a dhol iomrall ach nuair a thèid a lorg ann an Èirinn, tha Pàdraig 's Gibeag air an cur air misean gus a thogail 's a thilleadh dhachaigh - dùbhlan-lìbhrigidh nach eil cho soirbh dhaibh!\n\nCedric the racing pigeon has flown off course and cannot be found! Thankfully, he is spotted in Ireland and so Pat and Gibeag are sent on a mission to bring him home safely - an unusual and somewhat tricky delivery.",
+"small": "Pàdraig is sent in search of special package.",
+"medium": "'S ann a tha Pàdraig a' lorg parsail an-diugh. Pat and Gibeag are sent on a mission to bring him home Cedric the racing pigeon."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys30t",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-04-27T16:15:00Z",
+"start": "2018-04-20T16:15:00Z",
+"remaining": {
+"text": "Available until Fri 5:15pm"
+}
+},
+"first_broadcast": "5pm 20 Apr 2018"
+}
+],
+"parent_id": "b09kpjln",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-23T16:00:00.000Z"
+},
+"original_title": "Padraig Post agus an Calman a th' air Chall",
+"audio_described": false,
+"parent_position": 16,
+"requires_sign_in": false,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ys11t",
+"live": false,
+"type": "episode",
+"title": "Belladrum",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063rwnl.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01ldk4x",
+"guidance": false,
+"subtitle": "2017 Highlights: 11. Tigerstyle",
+"synopses": {
+"large": "Blas de cuid de na còmhlain a bha cluichd aig Fèis Bhelladruim, 2017. Anns a' phrògram-sa, chìthear Tigerstyle, còmhlan DJ/Bhangra à Ghlaschu a bha a' cluich ceòl fiùisean aca fhèin air Àrd-làir Garden air a' dàrna là den fhèis. Anns a' chòmhlan tha dà bhràthair, Raj agus Pops, mar DJs a' chaidh a thrèanadh ann an ciùil traidiseanta Àisianach, tabla clasaigeach agus gurmat sangeet. Tha na DJ's air am fonn fiùisean seo ainmeachadh Digi-Bhang.\n\nTha Fèis a' Chridhe Tartan Bhelladruim air a bhith ruith o dhà mhìle 'sa ceithir nuair a bha an ceòl a' dol dìreach airson aon là. A-nis, tha an fhèis a ruith fad trì làithean agus abair rionnagan ciùil a bhitheas i tarraing! Anns na bliadhnaichean o chionn ghoirid, bidh faisg air seachd mile deug neach a' tadhail oirre, ach ged a tha an fhèis a' fàs nas motha cha mhòr gach bliadhna, tha an luchd-amharc an còmhnaidh càirdeil agus beòthail.\n\nHighlights from the 2017 Belladrum Tartan Heart music festival.\n\nThis show features highland DJ/Bhangra group Tigerstyle, who blasted their way onto the Garden Stage on the beautiful Belladrum Estate by Beauly on the second day of the festival. Tigerstyle are made up of two DJ brothers, Raj and Pops, who are trained in classical tabla, gurmat sangeet and various forms of Punjabi folk music and instrumentation. The DJs are known for creating a pioneering fusion of sound named digi-bhang.",
+"small": "Tigerstyle at Belladrum 2017: Tartan Heart.",
+"medium": "Highlights from DJ/Bhangra group Tigerstyle's set at the 2017 Belladrum Tartan Heart Festival. The band played the Garden Stage on the second day of the festival."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys11r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T21:30:00Z",
+"start": "2018-04-19T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "10pm 19 Apr 2018"
+}
+],
+"parent_id": "b09r2lkt",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Tigerstyle",
+"audio_described": false,
+"parent_position": 11,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0b3x2",
+"live": false,
+"type": "episode",
+"title": "Scottish League One",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tqn6n.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b052l74x",
+"guidance": false,
+"subtitle": "Alloa Athletic v Ayr United",
+"synopses": {
+"small": "Live football from the Scottish League One as Alloa Athletic entertain Ayr United.",
+"medium": "Ball-coise beò bho Lìg a h-aon le Alloa an aghaidh Àir United. Live football from the Scottish League One as Alloa Athletic entertain Ayr United."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0b3v5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "137 mins",
+"value": "PT2H17M"
+},
+"availability": {
+"end": "2018-04-29T17:20:00Z",
+"start": "2018-04-23T07:05:50Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "4pm 22 Apr 2018"
+}
+],
+"parent_id": "b052l74x",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"scotland",
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Alloa Athletic v Ayr United",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ys1ts",
+"live": false,
+"type": "episode",
+"title": "Luingean Lannsaireachd/Surgery Ships",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v4sk.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09vp1xf",
+"guidance": true,
+"subtitle": "Series 1: Episode 6",
+"synopses": {
+"large": "Tha long ospadail shònraichte a tha a' toirt seachad obair-lannsa aig muir, a' dèanamh air na daoine as bochda ann an Afraga. Chan eil aca ach aon bhliadhna airson an obair do-dhèanta seo a dhèanamh - cùram a' thoirt do dhaoine nach fhaigh e ann an àite sam bith eile. Tha an luchd-meidigeach saor-thoileach a' cumail orra gu trang.\n\nTha an sgioba sgrùdaidh a' gluasad gu tìr, gu sgìrean iomallach Benin gus goireasan an Long Lannsaireachd a thabhainn an sin. Chì sinn Faith, nighean òg a tha a' fulang le casan crom. Cuideachd tha Jonas, a tha tilleadh le cnap air aodann agus e an dòchas gur e seo an obair-lannsa mu dheireadh a dh' fheumas e agus Thierry, duine le cnap mòr air aodann agus slighe-leigheis fhada air thoiseach air.\n\nA unique hospital ship offering life-saving surgery sets sail for the poorest of the poor in Africa. It has just one year to do the impossible - to provide the care these people cannot get any other way.\n\nThe volunteer medics continue to treat extraordinary cases of medical need. Featured patients include Faith, a young girl with severe bilateral bowed legs; Jonas, a return patient whose tumour grew back, hoping this will his last surgery; and Thierry - a man with a huge facial tumour and a dramatic journey of healing.",
+"small": "The screening team travels upcountry to remote areas of Benin.",
+"medium": "Documentary series following surgery ship African Mercy. In this episode, arrivals on the ship include a young girl with severe bilateral bowed legs."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys1tq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-04-28T21:45:00Z",
+"start": "2018-04-19T22:15:00Z",
+"remaining": {
+"text": "Available until Sat 10:45pm"
+}
+},
+"first_broadcast": "19 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09ys1tq",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-04-28T21:45:00Z",
+"start": "2018-04-19T22:15:00Z",
+"remaining": {
+"text": "Available until Sat 10:45pm"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09vp29b",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"lifestyle",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yrxtx",
+"live": false,
+"type": "episode",
+"title": "Seonaidh/Shaun the Sheep",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v220.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b02yl0jr",
+"guidance": false,
+"subtitle": "Series 5: 16. Latha Sona an Tuathanaich/Happy Farmers' Day",
+"synopses": {
+"large": "Tha Bitzer a' toirt cothrom dhan tuathanach ithe ann an àrainneachd thaigh-bìdh, le paidh blasta airson a' phrìomh-chùrsa. Ach nuair a thèid am paidh air chall, tha Bitzer a' dèanamh mearachd ann a bhith a' gabhail taic bho Sheonaidh 's an treud anns a' chidsin.\n\nBitzer treats the Farmer to a restaurant-style dining experience, offering a delicious pie as the main course. However when the pie goes missing, Bitzer makes the mistake of accepting Shaun and the flock's offer of help in the kitchen.",
+"small": "Bitzer treats the Farmer to a restaurant-style dining experience.",
+"medium": "Children's series. Bitzer treats the Farmer to a restaurant-style dining experience, offering a delicious pie as the main course."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yrxtq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT7M"
+},
+"availability": {
+"end": "2018-04-27T17:00:00Z",
+"start": "2018-04-18T17:00:00Z",
+"remaining": {
+"text": "Available until Fri 6pm"
+}
+},
+"first_broadcast": "5:50pm 18 Apr 2018"
+}
+],
+"parent_id": "b09jrm88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-23T16:50:00.000Z"
+},
+"original_title": "Latha Sona an Tuathanaich/Happy Farmers' Day",
+"audio_described": false,
+"parent_position": 16,
+"requires_sign_in": false,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b06sx1cb",
+"live": false,
+"type": "episode",
+"title": "Cluinneam!/The Switch-On",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03c1bxv.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06sx1cb",
+"guidance": false,
+"synopses": {
+"large": "Tha leth mhillean duine air feadh an t-saoghail air an claisneachd fhaighinn air ais ri linn 's rud air am bheil cochla fuadain. 'S tha na clàraidhean iongantach sin dhe'n thachair nuair a fhuair iad cochla fuadain air sgaoileadh air \"you tube\" - air am faicinn leis na milleanan de dhaoine.\n\nAnns na coig bliadhna fichead a dh'fhalbh, tha Ionad Cochla Fuadain na h-Alba aig Ospadal Chrosshouse ann an Cill' Mhàrnaig air cobhair a thoirt do chòrr air mìle is ceithir chiad neach.\n\nAch thathas dhe'n bheachd nacheil an sin ach earran bheag dhe'n fheadhainn aig a bheil feum air. \n\nSeo sgeulachd chòignear a th'air slighe air leth mhìorbhuileach - fear a tha'n eisimeil a  hlaisneachd airson obair a ghleidheadh, deugaire a bha seinn aon mhionaid 's a chaill a claisneachd ann an seachdainean, agus seanair a tha dìreach ag iarraidh còmhradh a dheanamh ris na h-oghaichean aige. Ach tha meatair 'na luib - dh'fhaodadh e bhith 'na cheum gu saoghal ùr, air neo a' bheagan claisneachd a th'ac' a thoirt air falbh gu tur.\n\nHalf a million profoundly deaf people across the world have had their hearing restored thanks to cochlear implantation, and the extraordinary clips of their cochlear implant being 'switched on' have become popular on the internet - shared and watched by millions. \n\nOver the past 25 years, the Scottish Cochlear Implant Unit at Crosshouse Hospital, Kilmarnock, have implanted 1400 people. But the staff here believe that represents only a fraction of the people who need it. This film follows five patients on an extraordinary emotional journey. From the signmaker whose job depends on the implant working, to the teenage girl who went from competitive singer to profoundly deaf over the summer holidays, and the grandfather who desperately wants to be able to\nhear his grandchildren.\n\nThe stakes are high - the implant may give them their hearing back, but it could also take what's left of it away.",
+"small": "Deaf people's lives are suddenly transformed they learn to hear again.",
+"medium": "Documentary following five deaf patients at the Scottish Cochlear Implant Unit as they undergo treatment which will hopefully give them the ability to hear."
+},
+"versions": [
+{
+"hd": false,
+"id": "b06sx0gg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T22:44:55Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "1 Jan 2016"
+},
+{
+"hd": false,
+"id": "b06sx0gg",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T22:44:55Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "1 Jan 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"lifestyle",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "1 Jan 2016",
+"related_links": [
+{
+"id": "p03cnycd",
+"url": "http://www.bbc.co.uk/programmes/articles/efca1ed5-0047-49b8-8564-40779ad7e3ec",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-23T21:30:00.000Z"
+},
+"original_title": "Cluinneam!/The Switch-On",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2016-01-01T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0962kw3",
+"live": false,
+"type": "episode",
+"title": "Dràgonan: Rèis chun an iomaill - Dragons: Race to the Edge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063r5f6.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b094nwk3",
+"guidance": false,
+"subtitle": "Series 1: 2. Eye of the Beholder/Sùil a' Bheachdaire Pt 2",
+"synopses": {
+"large": "Tha Aileag agus a charaidean a' siubhal gu Eilean na Deighe 's iad a' sireadh an dràgon iargalta, Taibhs' an t-Sneachda aig am bheil fuasgladh air dìomhaireachd Sùil nan Dràgon.\n\nHiccup and the Dragon Riders journey to Glacier Island in search of the Snow Wraith, a fearsome dragon that holds key to the Dragon Eye's mysteries.",
+"small": "Hiccup and the Dragon Riders journey to Glacier Island in search of the Snow Wraith.",
+"medium": "Children's animated series. Hiccup and the Dragon Riders journey to Glacier Island in search of the Snow Wraith."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0962kbb",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "22 mins",
+"value": "PT22M"
+},
+"availability": {
+"end": "2018-04-28T16:10:00Z",
+"start": "2018-04-18T17:35:00Z",
+"remaining": {
+"text": "Available until Sat 5:10pm"
+}
+},
+"first_broadcast": "6:05pm 27 Sep 2017"
+}
+],
+"parent_id": "b094nvft",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "27 Sep 2017",
+"related_links": [],
+"original_title": "Eye of the Beholder/Sùil a' Bheachdaire Pt 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": false,
+"release_date_time": "2017-09-27T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0440zfn",
+"live": false,
+"type": "episode",
+"title": "Of Diabolical Purpose - Sgeulachd Monsieur Chantrelle",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0646z2v.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0440zfn",
+"guidance": true,
+"synopses": {
+"large": "In 1868, public hanging was abolished in Britain. A decade later, the first execution behind prison walls took place in Edinburgh - following an explosive trial. The story of Eugene Chantrelle remains one of the most remarkable in Scottish criminal history.\n\nA French man in exile, Chantrelle had a shady past and displayed bizarre behaviour, from his early days in Edinburgh following the French Revolution of 1848. A gifted linguist and teacher, he married one of his young pupils, 16 year old Elizabeth Dyer.\n\nThey had four children, but Elizabeth suffered regular abuse at Chantrelle's hands. He had medical knowledge, and frequently threatened to poison her. When she died at New Year 1878, it seemed that he had done so - although the evidence against him was entirely circumstantial.\n\nUp to the moment he was hanged, Chantrelle insisted he was innocent. Now, his great-grandson speaks movingly of the lasting damage caused to the family. With expert opinion and drama reconstruction.",
+"small": "The story of a French man hanged for murder in Edinburgh, in 1878.",
+"medium": "John Morrison tells the story of Eugene Chantrelle, hanged in Edinburgh in 1878 for the murder of his wife, by poisoning."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0440wcr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-19T21:00:00Z",
+"start": "2018-04-19T21:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "22 May 2014"
+},
+{
+"hd": false,
+"id": "b0440wcr",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-19T21:00:00Z",
+"start": "2018-04-19T21:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "22 May 2014"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-crime-and-justice",
+"documentaries",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "22 May 2014",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-25T21:55:00.000Z"
+},
+"original_title": "Of Diabolical Purpose - Sgeulachd Monsieur Chantrelle",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2014-05-22T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b036b28w",
+"live": false,
+"type": "episode",
+"title": "Innsean an Iar - Hebrides",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01bky5m.jpg"
+},
+"labels": {
+"time": "Last Chance"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b02v2lqx",
+"guidance": false,
+"subtitle": "Episode 4",
+"synopses": {
+"large": "Julie Fowlis a' toirt cuireadh dhuibh tighinn cuide rithe a chur fàilte air an dlùth-cheangal eadar sluagh, creutairean agus ceòl. Anns a' phrògram seo, bithidh Julie Fowlis gar toirt tro na ràithean le òrain air a sheinn leatha fhèin, Maighread Stiùbhairt, Seumas Greumach agus Gillebride Mac 'Ille Mhaoil. \n\nJulie Fowlis narrates an unforgettable celebration of the close relationship found on the Islands between people, wildlife and music. In this programme we explore the changing seasons through songs performed by Julie, Margaret Stewart, James Graham and Gillebride MacMillan.",
+"small": "Songs exploring the changing seasons of the Hebrides.",
+"medium": "Julie Fowlis narrates an exploration of the subtle beauty of the Hebrides throughout the changing seasons of the year."
+},
+"versions": [
+{
+"hd": false,
+"id": "b036b28l",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-25T18:30:00Z",
+"start": "2018-04-18T19:21:56Z",
+"remaining": {
+"text": "Available until Wed 7:30pm"
+}
+},
+"first_broadcast": "8:30pm 25 Jun 2013"
+}
+],
+"parent_id": "b02v2lqx",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "25 Jun 2013",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Alba",
+"scheduled_start": "2018-04-23T18:00:00.000Z"
+},
+"original_title": "Episode 4",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2013-06-25T00:00:00.000Z",
+"lexical_sort_letter": "I",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b04xdk16",
+"live": false,
+"type": "episode",
+"title": "Port",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063yrd4.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06vjl58",
+"guidance": false,
+"subtitle": "Series 1: 1. Glaschu/Glasgow",
+"synopses": {
+"large": "Sreath ùr le Julie Fowlis is Muireann NicAmhlaoibh, 's iad air slighe rannsachaidh mu na freumhan aca fhèin. Tha iad a' tadhal air baile Ghlaschu airson barrachd ionnsachadh mu cheòl tradiseanta anns a bhaile.\n\nNì Port taisbeanadh air na ceanglaichean dualchais a tha eadar an dithis aca agus cluinnidh sinn bho cuid den na caraidean ceòlmhor a tha a fuireachd ann an Glaschu.\n\nCòmhla ri Muireann tha dithis a Èirinn; an sàr sheinneadair Éilis Ní Cheannabhain agus cluicheadair bogsa cho math's a th'ann, Edel Fox. Gheibh iad a mach gu bheil Glàschu làn talant agus tha an ceathrar a coinneachadh ri Karen NicMhathain, Linda NicLeòid, Ceitlin L.R. Nic a Ghobhainn agus maighstir na bogsa-ciùil, Simon Thoumire.\n\nNew series with Julie Fowlis and Muireann NicAmhlaoibh. Julie and Muireann visit Glasgow to uncover more about traditional music in the city.\n\nPort reveals their shared musical heritage and we hear from their musical friends living in the city. Julie and Muireann investigate the music and culture associated with particular cities and areas in Scotland and in Ireland. In each episode, their quest is shared with two guest musicians.\n\nAccompanying Muireann from Ireland are renowned singer Eilis Kennedy and one of the best concertina players around, Edel Fox. They discover that Glasgow is brim-ful of talent and the foursome meet Karen Matheson, Linda MacLeod, Ceitlin L.R. Smith and concertina wizard, Simon Thoumire.",
+"small": "Julie Fowlis and Muireann NicAmhlaoibh explore their musical roots in Glasgow.",
+"medium": "Series in which Julie Fowlis and Muireann NicAmhlaoibh investigate the music and culture of Scotland and Ireland. In this episode, they visit Glasgow."
+},
+"versions": [
+{
+"hd": false,
+"id": "b04xdk0r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-18T22:00:00Z",
+"start": "2018-04-16T21:30:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "5 Jan 2015"
+},
+{
+"hd": false,
+"id": "b04xdk0r",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-18T22:00:00Z",
+"start": "2018-04-16T21:30:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "5 Jan 2015"
+}
+],
+"parent_id": "b04xdn7n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "5 Jan 2015",
+"related_links": [],
+"original_title": "Glaschu/Glasgow",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2015-01-05T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09b295y",
+"live": false,
+"type": "episode",
+"title": "Leugh le Linda",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05jksmr.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b095pjqf",
+"guidance": false,
+"subtitle": "Series 1: 5. Oidhche Mhath, Sam",
+"synopses": {
+"large": "Prògram do chlann òga le Linda NicLeòid a' siubhal a Bheinn na Fadhla far a bheil i a' coinneachadh ri sgoilearan òga. 'S e Oidhche Mhath, Sam air a sgrìobhadh le Amy Hest, air eadar-theangachadh dhan Ghàidhlig le Norma Nicleòid agus le na dealbhan aig Anita Jeram sgeulachd an latha an-diugh.\n\nA programme for young children. Linda Macleod travels to Benbecula to meet local nursery school pupils and read Oidhche Mhath, Sam written by Amy Hest, translated into Gaelic by Norma Macleod and illustrated by Anita Jeram.",
+"small": "Linda Macleod travels to Benbecula to meet local nursery school pupils.",
+"medium": "Sgeulachdan, spòrs is òrain còmhla ri Linda. Linda travels to Benbecula, where she reads Oidhche Mhath, Sam with nursery school pupils."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09b295w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "20 mins",
+"value": "PT20M"
+},
+"availability": {
+"end": "2018-05-19T16:18:00Z",
+"start": "2018-04-17T16:20:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "19 Oct 2017"
+}
+],
+"parent_id": "b095pjt4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "19 Oct 2017",
+"related_links": [],
+"original_title": "Oidhche Mhath, Sam",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": false,
+"release_date_time": "2017-10-19T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00hhp1y",
+"live": false,
+"type": "episode",
+"title": "Charlie is Lola",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064n9vt.jpg"
+},
+"labels": {
+"time": "Last Chance"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01083kr",
+"guidance": false,
+"subtitle": "Series 3: 20. Ach 's e MATA an caraid as fheàrr aig Charlie / But Marv is absolutely Charlie's best friend",
+"synopses": {
+"small": "Lola is worried that Charlie has fallen out with his best friend Mata.",
+"medium": "Lola is worried that Charlie has fallen out with his best friend Mata."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00hhp17",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-04-23T16:46:00Z",
+"start": "2018-04-13T16:50:00Z",
+"remaining": {
+"text": "Expires today 5:46pm"
+}
+},
+"first_broadcast": "8:30am 6 Feb 2009"
+}
+],
+"parent_id": "b011llkd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "6 Feb 2009",
+"related_links": [],
+"original_title": "Ach 's e MATA an caraid as fheàrr aig Charlie / But Marv is absolutely Charlie's best friend",
+"audio_described": false,
+"parent_position": 20,
+"requires_sign_in": false,
+"release_date_time": "2009-02-06T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b088dpm4",
+"live": false,
+"type": "episode",
+"title": "Leugh Mi/Book Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04mtc0b.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06wqg4h",
+"guidance": false,
+"subtitle": "Series 3: Episode 5",
+"synopses": {
+"large": "Anns an treas sreath de Leugh Mi, bidh Anna Nicleòid a' còmhradh ri dithis neach gach seachdain mu na leabhraichean as fheàrr leotha. A bharrachd air bruidhinn mu thrì de na leabhraichean as fheàrr leotha tha gach duine air aon dhiubh sin a mholadh dha chèile 'son a leughadh agus gheibh sinn a-mach anns a' phrògram co- dhiù an do chòrd na leabhraichean riutha - neo nach do chòrd!\n\nBidh Maureen Hammond, neach-ealain agus tidsear à Forres, a toirt sùil air stòiridh dhealbhan mu dheidhinn ceann a deas na Frainge agus bidh Dòmhnall MacCarmaig, à Uibhist a Tuath, a tha air a bhith reic seann leabhraichean phrìseil, cha mhòr fad a bheatha a' toirt iomradh air leabhar bho òige, Kidnapped, le Robert Louis Stevenson le dealbhan bho Dudley D. Watkins. Bidh iad cuideachd a' beachdachadh air leabhraichean mu dheidhinn Na Fuadaichean agus sgeulachdan mu spioradan.\n\nAnna Macleod in conversation with her guests Maureen Hammond, an artist and teacher from Forres, who discusses a pictorial account of Southern France and Donald MacCormick, an antiquarian bookseller from North Uist who recalls a book from his youth; Kidnapped by Robert Louis Stevenson, illustrated by Dudley D. Watkins. Also, they share their views on books about the\nClearances and stories of the spirit world.",
+"small": "Anna MacLeod talks to Maureen Hammond and Donald MacCormick  about their favourite books.",
+"medium": "Anna Nicleòid a' còmhradh ri dithis aoigh mu na leabhraichean as fheàrr leotha. Anna MacLeod talks to guests Maureen Hammond and Donald MacCormick about their favourite books."
+},
+"versions": [
+{
+"hd": false,
+"id": "b088dnk3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-21T20:00:00Z",
+"start": "2018-04-18T20:45:14Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "10 Jan 2017"
+},
+{
+"hd": false,
+"id": "b088dnk3",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-21T20:00:00Z",
+"start": "2018-04-18T20:45:14Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "10 Jan 2017"
+}
+],
+"parent_id": "b084w3wm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "10 Jan 2017",
+"related_links": [],
+"original_title": "Episode 5",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2017-01-10T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b08tbb2d",
+"live": false,
+"type": "episode",
+"title": "Fuine",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p054bl20.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05qk3xw",
+"guidance": false,
+"subtitle": "Series 4: Episode 6",
+"synopses": {
+"large": "Tha Màiri NicRisnidh a' siubhal na Gàidhealtachd is nan Eilean ag ionnsachadh bho chòcairean sgileil a tha fìor mheasail air fuine. Tha iad a' sealltainn dhi na briosgaidean is fheàrr a nì thu airson bogadh san tì, agus cèicean-treadha a bhiodh math air piognaig. Bhon Eilean Sgitheanach gu Inbhirnis, tha Màiri a' feuchainn iomadh greim blasta a tha furasta an dèanamh.\n\nBriosgaidean Bourbon nach bi tiotan gan deasachadh - fada nas brisg na feadhainn na bùtha, le a dhà uibhir de teòclaid! Ionnsaichidh Màiri cuideachd mar a ghabhas Brownies teòclaid a dhèanamh beairteach stiogach, a-rèir 's dè cho fada sa tha iad san àmhainn - agus 's d' fhiach cagnadh a cuir riutha le cnòthan pistachio cuideachd. Staigh aice fhèin an Uibhist tha Màiri a' dèanamh rudan a' chòrdas ri daoine le cupan tì: Madeleines bhrèagha mar a chì thu san Fhraing - briosgaidean de ghnè Vienna air nach bi sgeul an ath latha.\n\nMairi MacRitchie is in the Highlands and Islands learning from home bakers who have a passion for food. With plenty of tips they show her the perfect recipes for biscuits to dunk in your tea and traybakes to take on an afternoon picnic. From the Isle of Skye to Inverness Mairi tastes some delicious recipes that are easily prepared. Homemade classic Bourbon biscuits are so simple to make with the help of a handy biscuit cutter, but they have twice the snap and crunch as well as a much more generous layer of chocolate buttercream.\n\nMairi sees how rich chocolate brownies can be made as gooey as you like with the perfect cooking time and given texture with crunchy pistachio nuts. From her home in Uist Mairi bakes some afternoon tea treats. French madeleines are a pretty addition to any cake stand and Viennese whirls will disappear from the biscuit tin in next to no time.",
+"small": "Briosgaidean is cèicean-treadha. Recipes for biscuits and traybakes.",
+"medium": "Nì Màiri NicRisnidh agus bèiceirean sgileil deagh bhriosgaidean is cèicean-treadha. Mairi MacRitchie and skilful home bakers share their biscuit and traybake recipes."
+},
+"versions": [
+{
+"hd": false,
+"id": "b08tbb28",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-17T20:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7 Jun 2017"
+},
+{
+"hd": false,
+"id": "b08tbb28",
+"kind": "open-subtitled",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-17T20:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7 Jun 2017"
+}
+],
+"parent_id": "b08p5j58",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"food",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_alba",
+"titles": {
+"large": "BBC ALBA",
+"small": "BBC ALBA",
+"medium": "BBC ALBA"
+},
+"ident_id": "p00pvbgm",
+"attribution": "bbc_alba"
+},
+"release_date": "7 Jun 2017",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2017-06-07T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

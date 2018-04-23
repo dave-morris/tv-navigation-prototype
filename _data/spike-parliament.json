@@ -1,0 +1,1368 @@
+[
+{
+"id": "b09zgd25",
+"live": false,
+"type": "episode",
+"title": "Prime Minister's Questions",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064sw17.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006nldz",
+"guidance": false,
+"subtitle": "18/04/2018",
+"synopses": {
+"small": "Coverage of questions in the House of Commons to Theresa May, from Wednesday 18 April.",
+"medium": "Recorded coverage of questions in the House of Commons to prime minister Theresa May, from Wednesday 18 April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgdw3",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2019-04-22T10:30:00Z",
+"start": "2018-04-19T00:05:30Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 2655,
+"first_broadcast": "18 Apr 2018"
+},
+{
+"hd": false,
+"id": "b09zgd0q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2019-04-18T11:45:00Z",
+"start": "2018-04-18T13:02:59Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "12pm 18 Apr 2018"
+}
+],
+"parent_id": "b006nldz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "18/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgbmz",
+"live": false,
+"type": "episode",
+"title": "Tuesday in Parliament",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064rwr4.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01mw30y",
+"guidance": false,
+"subtitle": "17/04/2018",
+"synopses": {
+"small": "Highlights of Tuesday in Parliament presented by Alicia McCarthy.",
+"medium": "Highlights of Tuesday in Parliament presented by Alicia McCarthy."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgbmp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-05-18T06:30:00Z",
+"start": "2018-04-17T23:10:56Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "11pm 17 Apr 2018"
+}
+],
+"parent_id": "b01mw30y",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "17/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b0b20q7v",
+"live": false,
+"type": "episode",
+"title": "Select Committees",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064t4mv.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070w64",
+"guidance": false,
+"subtitle": "Environmental Audit Committee",
+"synopses": {
+"large": "The Environmental Audit select committee session on the government's 25 year environment plan with evidence from the secretary of state for the environment, food and rural affairs, Michael Gove, from Wednesday 18th April.",
+"small": "The Environmental Audit select committee on the government's 25 year environment plan.",
+"medium": "The Environmental Audit select committee session on the government's 25 year environment plan with evidence from Michael Gove, from Wednesday 18th April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b20q7s",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "110 mins",
+"value": "PT1H50M"
+},
+"availability": {
+"end": "2018-05-23T02:20:00Z",
+"start": "2018-04-18T23:43:30Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "8:25pm 18 Apr 2018"
+}
+],
+"parent_id": "b0070w64",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Environmental Audit Committee",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b0b240sv",
+"live": false,
+"type": "episode",
+"title": "House of Commons",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064wv0p.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070x47",
+"guidance": false,
+"subtitle": "House of Commons Business Statement",
+"synopses": {
+"small": "The statement by the leader of the house Andrea Leadsom from Thursday 19 April.",
+"medium": "The statement in the House of Commons by the leader of the house, Andrea Leadsom, announcing the upcoming business and taking questions from backbenchers, from Thursday 19 April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b23yf0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "70 mins",
+"value": "PT1H10M"
+},
+"availability": {
+"end": "2018-05-20T07:10:00Z",
+"start": "2018-04-20T08:37:42Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "7am 20 Apr 2018"
+}
+],
+"parent_id": "b0070x47",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "House of Commons Business Statement",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgl74",
+"live": false,
+"type": "episode",
+"title": "The Week in Parliament",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04bsm60.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01mnxj1",
+"guidance": false,
+"subtitle": "20/04/2018",
+"synopses": {
+"small": "Highlights of the week's proceedings in Parliament, presented by Alicia McCarthy.",
+"medium": "BBC Parliament's programme looking back at the week in Westminster presented by Alicia McCarthy."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgl6p",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-20T22:30:00Z",
+"start": "2018-04-20T23:17:47Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "11pm 20 Apr 2018"
+}
+],
+"parent_id": "b01mnxj1",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "20/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgk29",
+"live": false,
+"type": "episode",
+"title": "Thursday in Parliament",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064wtqy.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01mw325",
+"guidance": false,
+"subtitle": "19/04/2018",
+"synopses": {
+"small": "Highlights of Thursday in Parliament presented by Alicia McCarthy.",
+"medium": "Highlights of Thursday in Parliament presented by Alicia McCarthy."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgjxl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-20T08:30:00Z",
+"start": "2018-04-19T23:00:58Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "11pm 19 Apr 2018"
+}
+],
+"parent_id": "b01mw325",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgdb3",
+"live": false,
+"type": "episode",
+"title": "Wednesday in Parliament",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064srqm.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01mw321",
+"guidance": false,
+"subtitle": "18/04/2018",
+"synopses": {
+"small": "Highlights of Wednesday in Parliament presented by Alicia McCarthy.",
+"medium": "Highlights of Wednesday in Parliament presented by Alicia McCarthy."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgdb1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T08:30:00Z",
+"start": "2018-04-18T23:11:48Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "11pm 18 Apr 2018"
+}
+],
+"parent_id": "b01mw321",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "18/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b0b1rmd8",
+"live": false,
+"type": "episode",
+"title": "House of Commons",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064k90c.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070x47",
+"guidance": false,
+"subtitle": "Home Office Questions",
+"synopses": {
+"small": "Questions to Home Secretary Amber Rudd and her team of ministers, from Monday 16 April.",
+"medium": "Questions in the House of Commons to Home Secretary Amber Rudd and her team of ministers, from Monday 16 April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b1rm3j",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "70 mins",
+"value": "PT1H10M"
+},
+"availability": {
+"end": "2018-05-17T06:50:00Z",
+"start": "2018-04-17T08:52:28Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "6:40am 17 Apr 2018"
+}
+],
+"parent_id": "b0070x47",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Home Office Questions",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgm0g",
+"live": false,
+"type": "episode",
+"title": "Westminster Hall",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lcnfb.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070w9r",
+"guidance": false,
+"subtitle": "21/04/2018",
+"synopses": {
+"small": "Recorded coverage of House of Commons proceedings in Westminster Hall, from 17 April.",
+"medium": "Recorded coverage of House of Commons proceedings in Westminster Hall, from Tuesday 17 April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgm01",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "300 mins",
+"value": "PT5H"
+},
+"availability": {
+"end": "2018-05-21T09:55:00Z",
+"start": "2018-04-21T15:21:12Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "6am 21 Apr 2018"
+}
+],
+"parent_id": "b0070w9r",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "21/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0bhpd",
+"live": false,
+"type": "episode",
+"title": "America this Week",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lcfmq.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070wgc",
+"guidance": false,
+"subtitle": "22/04/2018",
+"synopses": {
+"small": "Highlights of the week in Washington in the first year of Donald Trump's presidency.",
+"medium": "Highlights of the week in Washington in the second year of Donald Trump's presidency."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0bhp7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T12:00:00Z",
+"start": "2018-04-22T14:18:31Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "12pm 22 Apr 2018"
+}
+],
+"parent_id": "b0070wgc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true
+},
+{
+"id": "b09y34dy",
+"live": false,
+"type": "episode",
+"title": "Briefings",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wjmh.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006tbfw",
+"guidance": false,
+"subtitle": "Vernon Bogdanor on the Conservative Party",
+"synopses": {
+"large": "Professor Vernon Bogdanor delivers a Gresham College lecture in the Museum of London on the Conservative Party, from 26 September 2017.",
+"small": "Professor Vernon Bogdanor delivers on the Conservative Party, from 26 September 2017.",
+"medium": "Professor Vernon Bogdanor delivers a Gresham College lecture in the Museum of London on the Conservative Party, from 26 September 2017."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b12k02",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "65 mins",
+"value": "PT1H5M"
+},
+"availability": {
+"end": "2018-05-16T07:30:00Z",
+"start": "2018-04-12T00:02:38Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "1 Apr 2018"
+}
+],
+"parent_id": "b006tbfw",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "1 Apr 2018",
+"related_links": [],
+"original_title": "Vernon Bogdanor on the Conservative Party",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-01T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b08yn1bg",
+"live": false,
+"type": "episode",
+"title": "Conversations",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p058kh54.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07n8xlt",
+"guidance": false,
+"subtitle": "Shirley Williams",
+"synopses": {
+"small": "Sean Curran talks to Baroness Shirley Williams about her life and political career.",
+"medium": "Sean Curran talks to former senior Liberal Democrat Baroness Shirley Williams about her life and political career."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08yn1b4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T06:20:00Z",
+"start": "2018-04-01T19:30:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8pm 16 Jul 2017"
+}
+],
+"parent_id": "b07n8xlt",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "16 Jul 2017",
+"related_links": [],
+"original_title": "Shirley Williams",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-07-16T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06hhh",
+"live": false,
+"type": "episode",
+"title": "A to Z of Parliament",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02z11mt.jpg",
+"inherited_from": "series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b089946c",
+"guidance": false,
+"subtitle": "15/04/2018",
+"synopses": {
+"small": "A guide to the processes and procedures in Parliament.",
+"medium": "A guide to the processes and procedures in Parliament."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b06hdv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-05-15T11:00:00Z",
+"start": "2018-04-15T11:35:55Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "11:55am 15 Apr 2018"
+}
+],
+"parent_id": "b089946c",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "15/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true
+},
+{
+"id": "b0b1db8p",
+"live": false,
+"type": "episode",
+"title": "Good Friday Agreement - 20 Years On",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064khgw.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b1db8p",
+"guidance": false,
+"synopses": {
+"large": "Politicians involved in the Good Friday Agreement take part in a panel discussion in Belfast to mark its 20th anniversary with contributions from Tony Blair (Prime minister, 1997-2007), Bill Clinton (US president, 1993-2001) and Bertie Aherne (Irish Taoiseach, 1997-2008), from Tuesday 10 April.",
+"small": "Politicians involved in the Good Friday Agreement take part in a panel discussion.",
+"medium": "Politicians involved in the Good Friday Agreement take part in a panel discussion to mark its 20th anniversary with contributions from Tony Blair, Bill Clinton and Bertie Aherne."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b1d8gm",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T15:00:00Z",
+"start": "2018-04-15T16:03:06Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "3pm 15 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "Good Friday Agreement - 20 Years On",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b0b15yld",
+"live": false,
+"type": "episode",
+"title": "The Brexit Lectures",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02lrpbt.jpg",
+"inherited_from": "master_brand"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zj6tw",
+"guidance": false,
+"subtitle": "Series 1: Keir Starmer on Brexit",
+"synopses": {
+"small": "Keir Starmer delivers a lecture on Labour and Brexit, from Wednesday 18 April.",
+"medium": "The shadow secretary of state for Exiting the European Union Keir Starmer delivers a lecture on Labour and Brexit at the Institute of Government, from Wednesday 18 April."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b15yk5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2019-04-21T21:00:00Z",
+"start": "2018-04-21T22:29:28Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "9pm 21 Apr 2018"
+}
+],
+"parent_id": "b09zj6zj",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Keir Starmer on Brexit",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zpb7n",
+"live": false,
+"type": "episode",
+"title": "BOOKtalk",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062h2wm.jpg"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006tbfk",
+"guidance": false,
+"subtitle": "David Willetts",
+"synopses": {
+"small": "An interview with David Willetts on his book, A University Education.",
+"medium": "An interview with former universities minister David Willetts on his book, A University Education."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zp9n0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2018-05-16T12:25:00Z",
+"start": "2018-03-31T20:50:56Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8:45pm 31 Mar 2018"
+}
+],
+"parent_id": "b006tbfk",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "31 Mar 2018",
+"related_links": [],
+"original_title": "David Willetts",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-31T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09ysyd4",
+"live": false,
+"type": "episode",
+"title": "Washington Journal",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lcfnv.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070wh0",
+"guidance": false,
+"subtitle": "15/04/2018",
+"synopses": {
+"small": "C-SPAN interviews with leading figures on the American political scene and viewers' calls.",
+"medium": "C-SPAN's White House correspondent Steve Scully interviews leading figures on the American political scene and takes viewers' calls."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09ysycq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "120 mins",
+"value": "PT2H"
+},
+"availability": {
+"end": "2018-05-15T14:00:00Z",
+"start": "2018-04-15T16:16:12Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "1pm 15 Apr 2018"
+}
+],
+"parent_id": "b0070wh0",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "15/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b09zgjpc",
+"live": false,
+"type": "episode",
+"title": "Business Questions",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064wv0p.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0070x2n",
+"guidance": false,
+"subtitle": "19/04/2018",
+"synopses": {
+"small": "Coverage of the announcement of Commons business for the week ahead.",
+"medium": "Live coverage of the announcement of Commons business for the week ahead and questions to Leader of the Commons Andrea Leadsom."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09zgjp0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T10:30:00Z",
+"start": "2018-04-19T13:20:44Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "10:30am 19 Apr 2018"
+}
+],
+"parent_id": "b0070x2n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "p05rmvld",
+"live": false,
+"type": "episode",
+"title": "Conversations",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05rmyp8.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07n8xlt",
+"guidance": false,
+"subtitle": "Peter Hennessy",
+"synopses": {
+"small": "Sean Curran talks to the historian and constitutional expert Peter Hennessy about his life",
+"medium": "Sean Curran talks to the historian and constitutional expert Peter Hennessy about his life and career."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05rmvr9",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-16T00:50:00Z",
+"start": "2018-04-11T11:43:26Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8 Jan 2018"
+},
+{
+"hd": false,
+"id": "b09qdnp7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-16T00:50:00Z",
+"start": "2018-04-03T15:02:25Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8 Jan 2018"
+}
+],
+"parent_id": "b07n8xlt",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "8 Jan 2018",
+"related_links": [],
+"original_title": "Peter Hennessy",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-01-08T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b08z1gjy",
+"live": false,
+"type": "episode",
+"title": "Conversations",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0597fvj.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07n8xlt",
+"guidance": false,
+"subtitle": "Alex Salmond",
+"synopses": {
+"small": "Sean Curran talks to Alex Salmond about his life and political career.",
+"medium": "Sean Curran talks to former first minister of Scotland and SNP leader Alex Salmond about his life and political career."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08z1gh6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-15T22:50:00Z",
+"start": "2018-04-02T02:55:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8pm 23 Jul 2017"
+}
+],
+"parent_id": "b07n8xlt",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_parliament",
+"titles": {
+"large": "BBC Parliament",
+"small": "BBC Parliament",
+"medium": "BBC Parliament"
+},
+"ident_id": "p04bwgld",
+"attribution": "bbc_parliament"
+},
+"release_date": "23 Jul 2017",
+"related_links": [],
+"original_title": "Alex Salmond",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-07-23T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+}
+]

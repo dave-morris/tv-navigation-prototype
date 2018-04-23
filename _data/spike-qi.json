@@ -1,0 +1,222 @@
+[
+{
+"id": "b09hd691",
+"live": false,
+"type": "episode",
+"title": "QI",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05nrx7r.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006ml0g",
+"guidance": false,
+"subtitle": "Series O: 6. Odds and Ends",
+"synopses": {
+"large": "Sandi Toksvig considers various odds and ends. Ever wondered how to tell a schnauzerorgan from a paddywhack? Sandi has the answers. With Romesh Ranganathan, Matt Lucas, Liza Tarbuck and Alan Davies.",
+"small": "Sandi considers odds and ends with Romesh Ranganathan, Matt Lucas, Liza Tarbuck and Alan.",
+"medium": "Sandi Toksvig considers various odds and ends. With Romesh Ranganathan, Matt Lucas, Liza Tarbuck and Alan Davies."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09hd68z",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-17T23:15:00Z",
+"start": "2018-04-16T21:30:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 1745,
+"first_broadcast": "10pm 1 Dec 2017"
+}
+],
+"parent_id": "b09bbtry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-panel-shows",
+"comedy",
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "1 Dec 2017",
+"related_links": [],
+"original_title": "Odds and Ends",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2017-12-01T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+},
+{
+"id": "b09gvfnw",
+"live": false,
+"type": "episode",
+"title": "QI",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05mxhkm.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006ml0g",
+"guidance": false,
+"subtitle": "Series O: 5. Odorous and Odious",
+"synopses": {
+"large": "Sandi Toksvig considers all things odorous and odious. Why is the world's second-smelliest man so frustrated? Sandi has the answer. With Sally Phillips, Ross Noble, Nish Kumar and Alan Davies.",
+"small": "Sandi Toksvig and guests consider all things odorous and odious.",
+"medium": "Sandi Toksvig considers all things odorous and odious. With Sally Phillips, Ross Noble, Nish Kumar and Alan Davies."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09gvf2q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-09T21:30:00Z",
+"start": "2018-04-09T21:30:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 1725,
+"first_broadcast": "10pm 24 Nov 2017"
+}
+],
+"parent_id": "b09bbtry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-panel-shows",
+"comedy",
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "24 Nov 2017",
+"related_links": [],
+"original_title": "Odorous and Odious",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2017-11-24T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+},
+{
+"id": "b09fflzv",
+"live": false,
+"type": "episode",
+"title": "QI",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05lq7ck.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006ml0g",
+"guidance": false,
+"subtitle": "Series O: 4. Over and Ova",
+"synopses": {
+"large": "Sandi Toksvig looks at over and ova. Learn some tricks you can do with eggs, meet a flying pig and join in as the studio audience sings along with western film themes. With Bill Bailey, Jan Ravens, Grayson Perry and Alan Davies.",
+"small": "Sandi Toksvig and guests look at over and ova.",
+"medium": "Sandi Toksvig looks at over and ova. With Bill Bailey, Jan Ravens, Grayson Perry and Alan Davies."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09fflzl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-25T21:30:00Z",
+"start": "2018-03-26T21:30:00Z",
+"remaining": {
+"text": "Available until Wed 10:30pm"
+}
+},
+"credits_start": 1715,
+"first_broadcast": "10pm 10 Nov 2017"
+}
+],
+"parent_id": "b09bbtry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-panel-shows",
+"comedy",
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "10 Nov 2017",
+"related_links": [],
+"original_title": "Over and Ova",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2017-11-10T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+}
+]

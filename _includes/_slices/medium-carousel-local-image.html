@@ -1,0 +1,8 @@
+<div class="carousel medium" data-id="{{include.data}}">
+  <div class="carousel-title">{{include.title}}</div>
+  <div class="carousel-content">
+    {% for entity in site.data[include.data] %}
+      {% include _content-items/medium-content-item-local-image.html %}
+    {% endfor %}
+  </div>
+</div>

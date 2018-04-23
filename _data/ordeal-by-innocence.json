@@ -1,0 +1,326 @@
+[
+{
+"id": "b0b06rmw",
+"live": false,
+"type": "episode",
+"title": "Ordeal by Innocence",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v7t3.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ytrgg",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "The devastating events that led up to Rachel's murder are revealed, and the true identity of her killer is finally unmasked.",
+"small": "The events leading up to Rachel Argyll's death are revealed, and her killer is unmasked.",
+"medium": "Adaptation of Agatha Christie's book. The devastating events that led up to Rachel's murder are revealed, and the true identity of her killer is finally unmasked.",
+"editorial": "Everyone has something to hide – and only by facing these secrets can justice be done."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06rm1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T21:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 3465,
+"first_broadcast": "9pm 15 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064dh2z",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T22:21:27Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "15 Apr 2018"
+}
+],
+"parent_id": "b09ytq7s",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"editorial_subtitle": "3/3 The identity of Rachel’s killer is finally unmasked",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg9dd",
+"live": false,
+"type": "episode",
+"title": "Ordeal by Innocence",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06355yb.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ytrgg",
+"guidance": true,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Calgary is determined to prove that Jack died an innocent man, but his alibi puts him in perilous danger of his own.",
+"small": "Calgary is determined to prove that Jack died an innocent man.",
+"medium": "Adaptation of Agatha Christie's book. Calgary is determined to prove that Jack died an innocent man, but his alibi puts him in perilous danger of his own.",
+"editorial": "Arthur’s revelation has devastating consequences – and puts him in a danger of his own."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0b6gz",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-08T21:00:00Z",
+"start": "2018-04-08T21:00:00Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"credits_start": 3502,
+"first_broadcast": "8 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063prtg",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-08T21:00:00Z",
+"start": "2018-04-08T21:56:21Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"first_broadcast": "8 Apr 2018"
+}
+],
+"parent_id": "b09ytq7s",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "8 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-08T00:00:00.000Z",
+"editorial_subtitle": "2/3 Calgary is determined to prove Argyll’s alibi is true",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b09yswj5",
+"live": false,
+"type": "episode",
+"title": "Ordeal by Innocence",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g7pp.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ytrgg",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, as her widower prepares to marry again, the identity of the murderer is thrown in doubt.",
+"small": "An unexpected guest at Sunny Point throws the identity of Rachel Argyll's killer in doubt.",
+"medium": "Adaptation of Agatha Christie's book. Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, the identity of the murderer is thrown in doubt.",
+"preview": "Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, as her widower prepares to marry again, the identity of the murderer is thrown in doubt.",
+"editorial": "Starring Bill Nighy, Morven Christie, Matthew Goode, Luke Treadaway and Alice Eve."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zn7s9",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-01T21:00:00Z",
+"start": "2018-04-01T21:00:00Z",
+"remaining": {
+"text": "Available for 8 days"
+}
+},
+"credits_start": 3363,
+"first_broadcast": "1 Apr 2018"
+},
+{
+"hd": true,
+"id": "p06399b1",
+"kind": "audio-described",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"availability": {
+"end": "2018-05-01T21:00:00Z",
+"start": "2018-04-06T10:18:30Z",
+"remaining": {
+"text": "Available for 8 days"
+}
+},
+"first_broadcast": "1 Apr 2018"
+}
+],
+"parent_id": "b09ytq7s",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"preview_id": "p062dbml",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "1 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-01T00:00:00.000Z",
+"editorial_subtitle": "Box Set. A victim. A convicted killer. A Christie classic",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+}
+]

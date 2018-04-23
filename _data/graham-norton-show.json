@@ -1,0 +1,249 @@
+[
+{
+"id": "b0b070mc",
+"live": false,
+"type": "episode",
+"title": "The Graham Norton Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xdfm.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006xnzc",
+"guidance": true,
+"subtitle": "Series 23: Episode 3",
+"synopses": {
+"large": "Graham is joined by Oscar nominee Benedict Cumberbatch, playing Dr Strange in Avengers: Infinity War, Matt LeBlanc, playing himself in the final series of Episodes, actress Maxine Peake, playing a 70s club comedian in Funny Cow and Mary Berry and Claudia Winkleman talking about new BBC1 show Britain's Best Cook. Plus music from Calvin Harris featuring Dua Lipa, performing new single One Kiss.",
+"small": "With Benedict Cumberbatch, Matt LeBlanc, Maxine Peake, Mary Berry and Claudia Winkleman.",
+"medium": "Graham is joined by Benedict Cumberbatch, Matt LeBlanc, Maxine Peake, Mary Berry and Claudia Winkleman, and there is music from Calvin Harris featuring Dua Lipa.",
+"editorial": "Mary Berry and Claudia Winkleman search for cooks, and Matt LeBlanc talks Episodes."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b070gs",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-20T22:25:00Z",
+"start": "2018-04-20T22:38:36Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 2819,
+"first_broadcast": "10:35pm 20 Apr 2018"
+}
+],
+"parent_id": "b09ys1v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC One",
+"scheduled_start": "2018-04-23T22:30:00.000Z"
+},
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "3/13 With Benedict Cumberbatch and Maxine Peake",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b09zdgtp",
+"live": false,
+"type": "episode",
+"title": "The Graham Norton Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0646jgl.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006xnzc",
+"guidance": true,
+"subtitle": "Series 23: Episode 2",
+"synopses": {
+"large": "Graham is joined by Dwayne 'The Rock' Johnson and Oscar-nominated star of Moonlight and James Bond Naomie Harris, starring together in monster movie Rampage, and Sherlock and The Hobbit star Martin Freeman, appearing in horror anthology Ghost Stories. Roger Daltrey performs his new single As Long as I Have You.",
+"small": "Graham is joined by Dwayne Johnson, Naomie Harris, Martin Freeman and Roger Daltrey.",
+"medium": "Graham is joined by Dwayne 'The Rock' Johnson, Naomie Harris, Martin Freeman and Roger Daltrey, who performs his new single As Long as I Have You.",
+"editorial": "Martin Freeman talks Ghost Stories and Roger Daltrey performs his new single."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdgt5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-16T23:50:00Z",
+"start": "2018-04-13T22:36:50Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 2666,
+"first_broadcast": "10:35pm 13 Apr 2018"
+}
+],
+"parent_id": "b09ys1v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "13 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"editorial_subtitle": "2/13 With Rampage stars Dwayne Johnson and Naomie Harris",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b09ys0nj",
+"live": false,
+"type": "episode",
+"title": "The Graham Norton Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hr1n.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006xnzc",
+"guidance": true,
+"subtitle": "Series 23: Episode 1",
+"synopses": {
+"large": "Graham is joined by The Devil Wears Prada and Girl on a Train star Emily Blunt and American Office star John Krasinski, who appear together in new horror movie A Quiet Place, and Tom Holland, who is reprising the role of Spider-Man in new Marvel film Avengers: Infinity War. Pop star and actress Kylie Minogue performs her new single Stop Me from Falling, from the album Golden.",
+"small": "Graham is joined by Emily Blunt, John Krasinski, Tom Holland and Kylie Minogue.",
+"medium": "Graham is joined by stars of new horror movie A Quiet Place Emily Blunt and John Krasinski, Spider-Man actor and Avengers: Infinity War star Tom Holland, and Kylie Minogue.",
+"editorial": "Spouses Emily Blunt and John Krasinski talk about their new horror film A Quiet Place."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ys0nd",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-10T00:45:00Z",
+"start": "2018-04-06T22:37:41Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 2717,
+"first_broadcast": "10:35pm 6 Apr 2018"
+}
+],
+"parent_id": "b09ys1v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "6 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-06T00:00:00.000Z",
+"editorial_subtitle": "1/13 With superhero Tom Holland and superstar Kylie Minogue",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+}
+]
