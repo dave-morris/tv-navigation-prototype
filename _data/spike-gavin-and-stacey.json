@@ -1,0 +1,1541 @@
+[
+{
+"id": "b00pk9tg",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gmgwm.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 6",
+"synopses": {
+"large": "Nessa and Dave's wedding is fast approaching, and the preparations are in full swing. Stacey breaks some life-changing news to Gavin, while Bryn and Jason finally put their big secret to bed. \n\nSmithy takes care of Neil the baby, and wishes Nessa all the best as she makes her way to the church to marry Dave.",
+"small": "Nessa and Dave prepare for marriage, and Stacey has some life-changing news for Gavin.",
+"medium": "Comedy. Preparations are in full swing for Nessa and Dave's wedding. Stacey breaks some life-changing news to Gavin, while Bryn and Jason finally put their big secret to bed."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00pk9pq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1745,
+"first_broadcast": "9pm 1 Jan 2010"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "1 Jan 2010",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2010-01-01T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00pk9p4",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gmdmk.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 5",
+"synopses": {
+"large": "It is Bank Holiday Monday, and the Essex contingent arrives for a sunny day out at the beach; even Doris gets her sun dress on. \n\nGavin's heart-to-heart with his dad gives him something more to think about, and a dark cloud looms on the horizon when Dave arrives to find Nessa and Smithy enjoying all the fun of the fair.",
+"small": "The Essex contingent arrives for a sunny day at the beach, and Gavin has a heart-to-heart.",
+"medium": "Comedy. The Essex contingent arrives for a sunny day at the beach, Gavin's heart-to-heart with his dad gives him something to think about, and a dark cloud looms on the horizon."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00pk9jy",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1706,
+"first_broadcast": "10pm 25 Dec 2009"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "25 Dec 2009",
+"related_links": [],
+"original_title": "Episode 5",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2009-12-25T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00pgr8b",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gm62q.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 4",
+"synopses": {
+"large": "Gavin is uncomfortable with Gwen and Bryn knowing the ins and outs of his and Stacey's sex life, and Smithy goes beyond the call of friendship by making a staggering suggestion. Pete and Dawn prepare to renew their wedding vows and everyone heads to Billericay to help them celebrate. How will Dave react to the bombshell revelation about the curry night in Essex?",
+"small": "Gavin is uncomfortable with Gwen and Bryn knowing about his and Stacey's sex life.",
+"medium": "Comedy. Gavin is uncomfortable with Gwen and Bryn knowing the ins and outs of his and Stacey's sex life, and Smithy goes beyond the call of friendship with a staggering suggestion."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00pgr68",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1703,
+"first_broadcast": "9pm 17 Dec 2009"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "17 Dec 2009",
+"related_links": [],
+"original_title": "Episode 4",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2009-12-17T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00pbpyx",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gltdn.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 3",
+"synopses": {
+"large": "Pam and Mick are having second thoughts about the conservatory, whilst Bryn is in his element as he awaits the arrival of his houseguests - all the Essex boys are down for a big night out in Cardiff, and having a sleepover at his! Smithy gets in a state about seeing Nessa after their most recent embarrassing meeting and Stacey makes a worrying discovery. But is telling Gavin the right thing to do?",
+"small": "Pam and Mick are having second thoughts about the conservatory.",
+"medium": "Pam and Mick are having second thoughts about the conservatory, whilst Bryn is in his element as he awaits the arrival of his houseguests - all the Essex boys."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00pbpsj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1698,
+"first_broadcast": "9pm 10 Dec 2009"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "10 Dec 2009",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2009-12-10T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00p4yy1",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01glp5j.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 2",
+"synopses": {
+"large": "Stacey is trying for a new job whilst ensuring that Gavin sticks to his recent promise. Dave is not a happy bunny when Nessa tells him she's taking Neil the baby to Essex to see his dad. Meanwhile, over at the Shipmans' house, Dawn and Pete have joined Pam and Mick for a beer and curry night of huge proportions - at the Billericay house of fun.",
+"small": "Stacey tries for a new job, and Dave is not a happy bunny when Nessa takes Neil to Essex.",
+"medium": "Sitcom. Stacey is trying for a new job whilst ensuring Gavin sticks to his recent promise. Meanwhile Dave is not happy with Nessa's plan to take baby Neil to Essex to see his dad."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00p4yx2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1690,
+"first_broadcast": "9pm 3 Dec 2009"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "3 Dec 2009",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2009-12-03T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00p4h42",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01glp53.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 3: Episode 1",
+"synopses": {
+"large": "Gavin starts his new job in Cardiff, and Stacey is thrilled to be at home again. Smithy comes to terms with life in Essex without his best mate, while Nessa is adjusting to life in Dave's caravan down in Sully.\n\nThe weekend brings with it a big reunion, as everyone meets up for the christening of Neil the baby. How will Smithy react to news from Nessa that it is a double celebration, and what will Gavin's answer be to Stacey's request?",
+"small": "Gavin starts his new job in Cardiff, while Smithy tries to adjust to life without him.",
+"medium": "Sitcom. Gavin starts his new job in Cardiff, and Stacey is thrilled to be home again. The weekend brings a big reunion, as everyone meets up for the christening of Neil the baby."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00p4gxr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1739,
+"first_broadcast": "9pm 26 Nov 2009"
+}
+],
+"parent_id": "b00p62kc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "26 Nov 2009",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2009-11-26T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00gbjhd",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gcjcn.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Christmas Special",
+"synopses": {
+"large": "It's Christmas and the Welsh contingent have been invited to celebrate the festive season with the Shipmans. So, with the help of Dave and his coach, Nessa and the Wests head east.\n\nIn Essex, Dawn and Pete are round for drinks. Mick is preoccupied with the new love of his life, a handsome Norfolk bird, and Smithy cannot wait to spend his first Christmas with Neil the baby.\n\nPam has done a fabulous spread, Bryn has got his mistletoe at the ready and everything looks set to be a cracker of a Christmas. But 'tis no longer the season to be jolly when the bubbly starts flowing and the Christmas spirit gets a grip, and Gavin and Stacey make a startling announcement that will rock their Barry and Billericay boats.",
+"small": "As everyone spends Christmas together, Gavin and Stacey have a startling announcement.",
+"medium": "Festive edition of the hit sitcom. As Nessa and the Wests head to Essex to spend Christmas with the Shipmans, Gavin and Stacey have a startling announcement to make."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00gbj3p",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-06-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 3561,
+"first_broadcast": "25 Dec 2008"
+}
+],
+"parent_id": "b007nf70",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "25 Dec 2008",
+"related_links": [],
+"original_title": "Christmas Special",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2008-12-25T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b00b0c5b",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01g2n07.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 7",
+"synopses": {
+"large": "Stacey returns to Essex to sort out the situation with Gavin, but things are not looking good. Meanwhile in Barry, an unexpected event throws everyone into a panic.",
+"small": "Stacey returns to Essex to sort out the situation with Gavin, but things don't look good.",
+"medium": "Sitcom. When Stacey travels to Essex to sort out the situation with Gavin, things do not go to plan. In Barry, an unexpected event throws everyone into a panic."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00b0c3n",
+"kind": "other",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "WL",
+"text": {
+"large": "Contains language which some may find offensive.",
+"small": "Has guidance",
+"medium": "Contains language which may offend."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1681,
+"first_broadcast": "20 Apr 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2008",
+"related_links": [],
+"original_title": "Episode 7",
+"audio_described": false,
+"parent_position": 7,
+"requires_sign_in": true,
+"release_date_time": "2008-04-20T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009wxbk",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gdst7.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 6",
+"synopses": {
+"large": "Comedy series based around the relationships between Essex boy Gavin and his Welsh wife Stacey and their friends. Gavin is in Essex without his wife, and Stacey is in Barry without her husband. So while Smithy plans a boys' night out, Stacey goes to the bingo. But has living separate lives finally taken its toll on love's young dream?",
+"small": "While Smithy plans a boys' night out in Essex, Stacey goes to the bingo in Wales.",
+"medium": "Comedy series. With the married pair separated again, Smithy plans a boys' night out and Stacey goes to the bingo. Has living separate lives taken its toll on love's young dream?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b009wx56",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1626,
+"first_broadcast": "9pm 13 Apr 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "13 Apr 2008",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2008-04-13T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009s6mj",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01h77pn.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 2: Episode 5",
+"synopses": {
+"large": "Bryn has arranged a special treat for Gwen's birthday, but things take a surprising turn when an uninvited guest turns up, and Stacey tells Gavin of her big decision.",
+"small": "Bryn has arranged a special treat for Gwen's birthday, but events take a surprising turn.",
+"medium": "Comedy series. Bryn arranges a special treat for Gwen's birthday, but things take a surprising turn when an uninvited guest turns up. Stacey tells Gavin of her big decision."
+},
+"versions": [
+{
+"hd": true,
+"id": "b009s6ks",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1639,
+"first_broadcast": "9pm 6 Apr 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "6 Apr 2008",
+"related_links": [],
+"original_title": "Episode 5",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2008-04-06T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009pb4h",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gdlpt.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 4",
+"synopses": {
+"large": "Mick becomes a minor celebrity for the night, while Stacey and Gavin start house-hunting. \n\nNessa visits Stacey and shows the others a thing or two at the bowling alley, but tensions between the newlyweds come to a head at the end of the night, leaving the embarrassed friends to take solace in some corn on the cobs.",
+"small": "Mick becomes a minor celebrity for the night, while Stacey and Gavin start house-hunting.",
+"medium": "Comedy series. Mick becomes a minor celebrity while Stacey and Gavin go house-hunting. Nessa visits Stacey, and tensions between the newlyweds come to a head at the bowling alley."
+},
+"versions": [
+{
+"hd": true,
+"id": "b009pb3d",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1700,
+"first_broadcast": "9pm 30 Mar 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "30 Mar 2008",
+"related_links": [],
+"original_title": "Episode 4",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2008-03-30T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009lt7t",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01g8hxm.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "Comedy series based around the relationship between Essex boy Gavin and Welsh lass Stacey and their friends. Stacey's getting used to being an Essex wife, but it's not as exciting as she'd hoped. She bucks up at the weekend, when it's time for a home visit to Barry. Smithy goes with Nessa for the first scan and they get the first glimpse of their baby.",
+"small": "Stacey's getting used to being an Essex wife, but it's not as exciting as she'd hoped.",
+"medium": "Comedy series. Stacey is getting used to being an Essex wife, but it is not as exciting as she had hoped. Smithy goes with Nessa for the first scan and they glimpse their baby."
+},
+"versions": [
+{
+"hd": true,
+"id": "b009lt4s",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "WL",
+"text": {
+"large": "Contains language which some may find offensive.",
+"small": "Has guidance",
+"medium": "Contains language which may offend."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1702,
+"first_broadcast": "9pm 23 Mar 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Mar 2008",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2008-03-23T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009kcrd",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01g8bpy.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 2",
+"synopses": {
+"large": "Devastated by the news he's to become a father, Smithy goes AWOL. The boys finally track him down, but can he be persuaded to do the right thing? Stacey is shocked to hear of Gwen's new domestic arrangements as the prospect of living in Essex finally hits her.",
+"small": "Devastated by the news that he is to become a father, Smithy goes AWOL.",
+"medium": "Comedy series. Smithy goes AWOL after learning he's to be a dad, but the boys find him. Will he do the right thing? Stacey is shocked to hear of Gwen's new domestic arrangements."
+},
+"versions": [
+{
+"hd": true,
+"id": "b009kclt",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1667,
+"first_broadcast": "9:30pm 16 Mar 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "16 Mar 2008",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2008-03-16T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b009kcrb",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01g82k6.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 2: Episode 1",
+"synopses": {
+"large": "Comedy series about the romance between Essex boy Gavin and Welsh lass Stacey. Stacey and Gavin return from honeymoon to a big welcome from both families. Smithy seems none too happy with his best mate, however, and Nessa has a confession to make that throws the whole evening into disarray.",
+"small": "Stacey and Gavin return from honeymoon to a big welcome from both families.",
+"medium": "Comedy series. The newlyweds return from honeymoon to a big welcome from both families. Smithy seems unhappy with his best mate, however, and Nessa has a confession to make."
+},
+"versions": [
+{
+"hd": true,
+"id": "b009kc97",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1665,
+"first_broadcast": "9pm 16 Mar 2008"
+}
+],
+"parent_id": "b009kcgg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "16 Mar 2008",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2008-03-16T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007rj82",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01jrqr7.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 6",
+"synopses": {
+"large": "Comedy series based around the long-distance relationship of Essex boy Gavin and Welsh girl Stacey. The wedding day has finally arrived, but will they go through with it? Will Uncle Bryn finally admit to what happened on the fishing trip and will Nessa do what she knows she must?",
+"small": "The wedding day has finally arrived, but will they go through with it?",
+"medium": "The wedding day has arrived, but will they go through with it? Will Uncle Bryn finally admit to what happened on the fishing trip, and will Nessa do what she knows she must?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b007rj7n",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1738,
+"first_broadcast": "9pm 10 Jun 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "10 Jun 2007",
+"related_links": [],
+"original_title": "Episode 6",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2007-06-10T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007q875",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05nrfx5.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 5",
+"synopses": {
+"large": "Comedy series about the long-distance relationship of Essex boy Gavin and Welsh girl Stacey. Stacey's brother Jason arrives home early, much to Uncle Bryn's horror. Stacey has her hen night and Gavin has two stag nights, the second of which reveals something about Stacey that could jeopardise the whole wedding.",
+"small": "Gavin's stag night reveals something about Stacey that could jeopardise the whole wedding.",
+"medium": "Comedy series about a long-distance relationship. On one of Gavin's two stag nights, he finds out something about Stacey that could jeopardise the whole wedding."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00hh2sn",
+"kind": "other",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1640,
+"first_broadcast": "3 Jun 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "3 Jun 2007",
+"related_links": [],
+"original_title": "Episode 5",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2007-06-03T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007m0rc",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01h77nn.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 4",
+"synopses": {
+"large": "Comedy series about the long-distance relationship of Essex boy Gavin and Welsh girl Stacey. \n\nThe Shipmans drive down to Wales for the wedding fayre. After an eventful trip to church to hear the banns being read, Nessa confides in Stacey her big secret.",
+"small": "The Shipmans travel to Wales for the wedding fayre.",
+"medium": "Comedy series about a long-distance relationship. The Shipmans travel to Wales for the wedding fayre. Nessa confides in Stacey her big secret."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00mnm72",
+"kind": "other",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1696,
+"first_broadcast": "27 May 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "27 May 2007",
+"related_links": [],
+"original_title": "Episode 4",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2007-05-27T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007l3jw",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01h77n8.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "Comedy series about the long-distance relationship of Essex boy Gavin and Welsh lass Stacey. \n\nAfter his initial angry reaction to Stacey's news, Uncle Bryn agrees to drive the family to Essex to meet the Shipmans. Pam lays on a cracking spread and the party goes with a bang. Then Gavin and Stacey make an announcement that throws the bonhomie out the window.",
+"small": "Uncle Bryn agrees to drive the family to Essex to meet the Shipmans.",
+"medium": "Uncle Bryn drives the family to Essex to meet the Shipmans, and all is going well until Gavin and Stacey make an announcement that throws all the bonhomie out the window."
+},
+"versions": [
+{
+"hd": true,
+"id": "b007l3h0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1698,
+"first_broadcast": "9pm 20 May 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "20 May 2007",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2007-05-20T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007j8x9",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01h77n5.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Comedy series about the long-distance relationship of Essex boy Gavin and Welsh lass Stacey.\n\nAfter a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her. He drives to Wales to explain and ends up taking her home with him. Having never been further than Bridgend before, Stacey's trip to Essex is an eye-opening experience that ends with the biggest surprise of all.",
+"small": "After a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her.",
+"medium": "Comedy series about a long-distance relationship. After a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her. Gavin drives to Wales to explain."
+},
+"versions": [
+{
+"hd": true,
+"id": "b007j8ws",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1656,
+"first_broadcast": "9:30pm 13 May 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "13 May 2007",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2007-05-13T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+},
+{
+"id": "b007lc51",
+"live": false,
+"type": "episode",
+"title": "Gavin & Stacey",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05r77gs.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007nf70",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Comedy series about Essex boy Gavin and Welsh lass Stacey.\n\nAfter being phone buddies for months they finally arrange a rendezvous in Leicester Square, with Stacey's best friend Nessa and Gav's pal Smithy coming along for support.",
+"small": "After being phone buddies for months, Gavin and Stacey finally arrange a rendezvous.",
+"medium": "Comedy series about Essex boy Gavin and Welsh lass Stacey. After being phone buddies for months Gavin and Stacey finally manage to arrange a rendezvous in Leicester Square.",
+"editorial": "The absolute highs and awkward lows of a long-distance love affair. Plus...Smithy."
+},
+"versions": [
+{
+"hd": true,
+"id": "b007j8w4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-07-20T08:00:00Z",
+"start": "2018-04-21T08:00:00Z",
+"remaining": {
+"text": "Available for 2 months"
+}
+},
+"credits_start": 1671,
+"first_broadcast": "9pm 13 May 2007"
+}
+],
+"parent_id": "b007lb93",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "13 May 2007",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"editorial_title": "Gavin & Stacey: Series 1-3",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2007-05-13T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The whole story",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true
+}
+]
