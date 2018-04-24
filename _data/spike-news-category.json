@@ -1,0 +1,1552 @@
+[
+{
+"id": "b0b120k8",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lyn5j.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Current affairs"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "Gangsters' Dirty Money Exposed",
+"synopses": {
+"large": "Why does London attract so much dirty money? Panorama tracks down a violent Ukrainian crime gang using offshore companies and professionals to hide suspicious wealth in the UK. \n\nAn in-depth investigation of leaked documents reveals gangsters, their families and associates taking advantage of offshore secrecy and ineffective money laundering controls to buy luxurious property and expensive works of art. \n\nReporter Andy Verity follows the gangsters' trail from Odessa to Rome and London.",
+"small": "Following the trail of a Ukrainian crime gang from Odessa to Rome and London.",
+"medium": "Why does London attract so much dirty money? Panorama tracks down a violent Ukrainian crime gang using offshore companies and professionals to hide suspicious wealth in the UK."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b120jr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-23T22:10:00Z",
+"start": "2018-04-23T20:08:13Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "8:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-25T02:30:00.000Z"
+},
+"original_title": "Gangsters' Dirty Money Exposed",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06h8j",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06473v0.jpg"
+},
+"labels": {
+"category": "Current affairs"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "North Korea's Secret Slave Gangs",
+"synopses": {
+"large": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery. It is thought that more than one hundred thousand North Korean workers are posted abroad to earn money for the cash-strapped regime - money that is being ploughed into Kim Jong-un's nuclear weapons programme. An international consortium of journalists has filmed undercover to reveal secret work gangs operating in Russia, China and Poland.",
+"small": "Panorama investigates North Korean modern-day slavery.",
+"medium": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b19sqf",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-20T03:00:00Z",
+"start": "2018-04-16T20:10:11Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1688,
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b0bkgc",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-21T00:05:00Z",
+"start": "2018-04-21T00:05:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "North Korea's Secret Slave Gangs",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "p0142pxj",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p028b61q.jpg"
+},
+"labels": {
+"category": "Current affairs",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "Apollo 11: The Impact on Earth",
+"synopses": {
+"large": "First transmitted in 1969, Robin Day hosts a special edition of the current affairs programme, marking man's first steps on the surface of the moon. Julian Pettifer reports on demonstrators who believe the money spent on the Apollo missions should have been used to feed the starving millions back on Earth. In the studio, contributors including science fiction novelist Brian Aldiss debate the issues surrounding the moon landing and its possible legacy.",
+"small": "A special edition to mark man's first steps on the surface of the moon. (1969)",
+"medium": "First transmitted in 1969, Robin Day hosts a special edition, marking man's first steps on the surface of the moon."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0286123",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "49 mins",
+"value": "PT49M"
+},
+"availability": {
+"start": "2017-08-02T12:58:08Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2933,
+"first_broadcast": "21 Jul 1969"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "21 Jul 1969",
+"related_links": [
+{
+"id": "p028dnxk",
+"url": "http://www.bbc.co.uk/iplayer/group/p02865b6",
+"kind": "priority_content",
+"type": "link",
+"title": "Space Race Collection"
+}
+],
+"original_title": "Apollo 11: The Impact on Earth",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1969-07-21T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b0b05pfb",
+"live": false,
+"type": "episode",
+"title": "BBC News at One",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lc2hd.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"time": "Last Chance",
+"category": "News"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b007mpl9",
+"guidance": false,
+"subtitle": "23/04/2018",
+"synopses": {
+"small": "National and international news stories from the BBC News team, followed by weather.",
+"medium": "The latest national and international news stories from the BBC News team, followed by weather."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b05pdy",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-24T12:30:00Z",
+"start": "2018-04-23T12:48:00Z",
+"remaining": {
+"text": "Expires today 1:30pm"
+}
+},
+"first_broadcast": "1pm 23 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b0bjkb",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-04-24T13:00:00Z",
+"start": "2018-04-23T15:38:40Z",
+"remaining": {
+"text": "Expires today 2pm"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b007mpl9",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"signed"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b1dv5l",
+"live": false,
+"type": "episode",
+"title": "Question Time",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05j4b75.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b006t1q9",
+"guidance": false,
+"subtitle": "2018: 19/04/2018",
+"synopses": {
+"large": "David Dimbleby presents topical debate from Chesterfield. On the panel are chief secretary to the treasury and former justice secretary Liz Truss MP, shadow foreign secretary Emily Thornberry MP, Liberal Democrat leader Vince Cable MP, Guardian columnist Nesrine Malik and LBC presenter Iain Dale.",
+"small": "David Dimbleby presents topical debate from Chesterfield.",
+"medium": "David Dimbleby presents topical debate from Chesterfield. On the panel are Liz Truss MP, Emily Thornberry MP, Vince Cable MP, Nesrine Malik and Iain Dale."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b1dv5f",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2019-04-22T18:00:00Z",
+"start": "2018-04-19T23:00:59Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 3517,
+"first_broadcast": "10:45pm 19 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b1dvcd",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2019-04-23T02:15:00Z",
+"start": "2018-04-23T02:15:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09pz217",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [
+{
+"id": "p05vtwtm",
+"url": "http://www.bbc.co.uk/programmes/p05vq0zl",
+"kind": "priority_content",
+"type": "link",
+"title": "Question Time Extra Time"
+}
+],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+},
+{
+"id": "b0b125bq",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kgw2.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Can Drones Deliver?",
+"synopses": {
+"small": "Click looks at all the latest developments in the field of drones.",
+"medium": "Click looks at all the latest developments in the field of drones - from America's first commercial drone operation to drones saving lives on the beaches of Australia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b124bp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-22T15:00:00Z",
+"start": "2018-04-21T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1447,
+"first_broadcast": "1:30am 21 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-26T02:30:00.000Z"
+},
+"original_title": "Can Drones Deliver?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b10zdr",
+"live": false,
+"type": "episode",
+"title": "The Andrew Marr Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06548gf.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0080bbs",
+"guidance": false,
+"subtitle": "22/04/2018",
+"synopses": {
+"large": "Nick Robinson is joined by David Gauke MP, justice secretary, as well as Emily Thornberry MP, shadow foreign secretary. He also speaks to athlete Tom Daley, poet and writer Benjamin Zephaniah and actor Nicola Walker. Reviewing the papers are Layla Moran MP, Liberal Democrats, and former Downing Street adviser Katie Perrior. Plus there is a performance from Ladysmith Black Mambazo.",
+"small": "Nick Robinson is joined by David Gauke MP and Emily Thornberry MP.",
+"medium": "Nick Robinson is joined by David Gauke MP, justice secretary, as well as Emily Thornberry MP, shadow foreign secretary."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10y7h",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T19:00:00Z",
+"start": "2018-04-22T09:16:35Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3550,
+"first_broadcast": "9am 22 Apr 2018"
+}
+],
+"parent_id": "b0080bbs",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true
+},
+{
+"id": "b0b05pg0",
+"live": false,
+"type": "episode",
+"title": "BBC News at Ten",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06401h1.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"time": "Last Chance",
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007mplc",
+"guidance": false,
+"subtitle": "23/04/2018",
+"synopses": {
+"small": "Latest national and international news, with reports from BBC correspondents worldwide.",
+"medium": "The latest national and international news, with reports from BBC correspondents worldwide."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b05pcp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "25 mins",
+"value": "PT25M"
+},
+"availability": {
+"end": "2018-04-24T21:30:00Z",
+"start": "2018-04-23T21:46:30Z",
+"remaining": {
+"text": "Expires tonight 10:30pm"
+}
+},
+"first_broadcast": "10pm 23 Apr 2018"
+}
+],
+"parent_id": "b007mplc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0x40g",
+"live": false,
+"type": "episode",
+"title": "Newsnight",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06562kw.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mk25",
+"guidance": false,
+"subtitle": "23/04/2018",
+"synopses": {
+"large": "A report from the US on a record number of women standing in the 2018 midterm elections. Plus the latest on Windrush and Brexit.",
+"small": "A report on a record number of women standing in the US midterm elections.",
+"medium": "A report from the US on a record number of women standing in the 2018 midterm elections. Plus the latest on Windrush and Brexit."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0x3yl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-23T23:00:00Z",
+"start": "2018-04-23T22:26:35Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "10:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b006mk25",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b0b052zd",
+"live": false,
+"type": "episode",
+"title": "This Week",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064wvfc.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mvhd",
+"guidance": false,
+"subtitle": "19/04/2018",
+"synopses": {
+"large": "Andrew Neil presents a round-up of the political week with Alan Johnson and Priti Patel. There is a review of Westminster life from Richard Madeley. Plus Peter Hitchens presents a film on why he is against bombing Syria, while DJ and TV presenter Ashley James puts morality in the spotlight.",
+"small": "Andrew Neil presents a round-up of the political week with Alan Johnson and Priti Patel.",
+"medium": "Presented by Andrew Neil, with Alan Johnson and Priti Patel. Richard Madeley reviews Westminster life, while Peter Hitchens presents a film on why he is against bombing Syria."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b052xs",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2019-04-20T22:00:00Z",
+"start": "2018-04-20T06:03:24Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 2912,
+"first_broadcast": "11:45pm 19 Apr 2018"
+}
+],
+"parent_id": "b006mvhd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b09w85tc",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060zm6r.jpg"
+},
+"labels": {
+"category": "Current affairs"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "Taking On Putin",
+"synopses": {
+"large": "Vladimir Putin is about to face the voters, and most think his victory is a foregone conclusion. If the Russian president does win six more years in power, he will become the country's longest-serving ruler since Stalin. So why is Putin so powerful? Reporter John Sweeney investigates allegations that the Kremlin has subverted democracy in Russia. He meets the Putin opponent who has been banned from the election, hears from the opposition activists who say they have been attacked and finds out for himself what it is like to be targeted by the Russian state.",
+"small": "John Sweeney investigates allegations that the Kremlin has subverted democracy in Russia.",
+"medium": "Vladimir Putin is about to face the voters, with his victory seen as a foregone conclusion. John Sweeney looks at allegations that the Kremlin has subverted democracy in Russia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09w85sn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-03-14T20:00:00Z",
+"start": "2018-03-14T20:07:15Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"credits_start": 1765,
+"first_broadcast": "7:30pm 14 Mar 2018"
+},
+{
+"hd": true,
+"id": "b09wzj1s",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-03-20T00:45:00Z",
+"start": "2018-03-20T00:45:00Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"first_broadcast": "14 Mar 2018"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "14 Mar 2018",
+"related_links": [],
+"original_title": "Taking On Putin",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-14T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcr8v",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 19/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "The latest national and international news, exploring the day's events from a global perspective."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg2g5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T19:00:00Z",
+"start": "2018-04-19T21:20:10Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "7pm 19 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zcr8s",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-19T18:30:00Z",
+"start": "2018-04-19T18:35:32Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zct6v",
+"live": false,
+"type": "episode",
+"title": "BBC Scotland Investigates",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063spx1.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b009wc83",
+"guidance": false,
+"subtitle": "2018: 2. Help Me Save My Child",
+"synopses": {
+"large": "Lisa Summers meets parents struggling to cope with children whose behaviour is extremely challenging. As the number of young people diagnosed with autism rockets, more and more families are desperate for help. Children whose autism is often mistaken for bad behaviour speak out about what it is like to be judged, and their parents share heartbreaking stories of how hard it is to get the support they need.",
+"small": "The parents struggling to cope with children whose behaviour is extremely challenging.",
+"medium": "Documentary in which Lisa Summers meets parents struggling to cope with children whose behaviour is extremely challenging."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b1p633",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T00:00:00Z",
+"start": "2018-04-16T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 1719,
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09w21v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Help Me Save My Child",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0bjl4",
+"live": false,
+"type": "episode",
+"title": "Victoria Derbyshire",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0654swf.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05qqk5c",
+"guidance": false,
+"subtitle": "23/04/2018",
+"synopses": {
+"large": "Victoria presents from inside a domestic violence refuge for women who have fled their abusive partners. It's the first time a programme has been allowed to broadcast live in such a centre. \n\nShe hears from some of the women who're living there and from staff, police and politicians on how the issue is being tackled.",
+"small": "Victoria presents from inside a domestic violence refuge for women who have fled abuse.",
+"medium": "Victoria presents from inside a domestic violence refuge for women who've fled abusive partners. She hears from the women who live there as well as staff, police and politicians."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0bjks",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "120 mins",
+"value": "PT2H"
+},
+"availability": {
+"end": "2018-05-23T10:00:00Z",
+"start": "2018-04-23T14:54:51Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9am 23 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b113c4",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T09:00:00Z",
+"start": "2018-04-23T09:16:24Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b05qqk5c",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "V",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0bj15",
+"live": false,
+"type": "episode",
+"title": "Dateline London",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04yxnm3.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m93g",
+"guidance": false,
+"subtitle": "21/04/2018",
+"synopses": {
+"small": "Foreign correspondents based in London give their views on the week's international news.",
+"medium": "Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0bhxw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T03:00:00Z",
+"start": "2018-04-21T12:42:03Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "11:30am 21 Apr 2018"
+}
+],
+"parent_id": "b006m93g",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "21/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+},
+{
+"id": "b09yryz1",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642xkn.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Old MacDonald had a farm, AI-A-I/O",
+"synopses": {
+"small": "Click visits a farm where robots drive tractors, manage a field and pick fruit.",
+"medium": "Click visits a farm where robots drive tractors, manage a field and pick fruits, vegetables and flowers. Plus the latest news on the Facebook data scandal."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yryvk",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-19T03:00:00Z",
+"start": "2018-04-14T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "1:30am 14 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "14 Apr 2018",
+"related_links": [],
+"original_title": "Old MacDonald had a farm, AI-A-I/O",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-14T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b00vn5",
+"live": false,
+"type": "episode",
+"title": "Newsnight",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0654bpg.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mk25",
+"guidance": false,
+"subtitle": "20/04/2018",
+"synopses": {
+"small": "With Kirsty Wark.",
+"medium": "In-depth investigation and analysis of the stories behind the day's headlines with Kirsty Wark."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b00vmx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-20T22:45:00Z",
+"start": "2018-04-20T22:18:41Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "10:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b006mk25",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "20/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg21w",
+"live": false,
+"type": "episode",
+"title": "HARDtalk",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064gn1m.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mg2m",
+"guidance": false,
+"subtitle": "Sergey Lavrov - Foreign Minister of Russia",
+"synopses": {
+"large": "Stephen Sackur is in Moscow for an exclusive interview with Russia's foreign minister Sergey Lavrov. The world has been alarmed by the very real possibility of a direct military confrontation between the United States and Russia. Syria is of course where the current tensions are highest, and where missiles have been fired, but the hostility is deep-seated on a number of fronts. There have been diplomatic expulsions and sanctions, and there is talk of a new cold war. What is Russia's next move?",
+"small": "Stephen Sackur is in Moscow to speak with Russia's foreign minister Sergey Lavrov.",
+"medium": "Stephen Sackur is in Moscow for an exclusive interview with Russia's foreign minister Sergey Lavrov. Stephen asks what Russia's next move is after confrontations with the US."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg1y2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-22T14:25:00Z",
+"start": "2018-04-16T21:19:26Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b006mg2m",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Sergey Lavrov - Foreign Minister of Russia",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09y2b9x",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063f3dc.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "OM5G",
+"synopses": {
+"small": "5G is coming. It will give us self-driving cars and smart cities.",
+"medium": "5G is coming. The next generation of wireless technology will give us self-driving cars, smart cities and could even teach you to score a goal like Messi."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09y2b5v",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-12T03:00:00Z",
+"start": "2018-04-07T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1463,
+"first_broadcast": "1:30am 7 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "7 Apr 2018",
+"related_links": [],
+"original_title": "OM5G",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-07T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0by41",
+"live": false,
+"type": "episode",
+"title": "Beyond 100 Days",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05v0vnf.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09575tt",
+"guidance": false,
+"subtitle": "Series 1: 23/04/2018",
+"synopses": {
+"small": "The latest news, exploring the day's events from a global perspective.",
+"medium": "Katty Kay in Washington and Christian Fraser in London return to report on the events that are shaping the world."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0bjhv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T19:00:00Z",
+"start": "2018-04-23T21:45:56Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7pm 23 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b0by3s",
+"kind": "shortened",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-05-23T18:30:00Z",
+"start": "2018-04-23T18:44:56Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b09575yn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_news",
+"titles": {
+"large": "BBC News",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"attribution": "bbc_news"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+}
+]

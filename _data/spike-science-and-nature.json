@@ -1,0 +1,1690 @@
+[
+{
+"id": "b0b11p25",
+"live": false,
+"type": "episode",
+"title": "My Year with the Tribe",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p3fg.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09812",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Living in treehouses and using stone tools, the Korowai were only discovered living in the jungles of West Papua around 40 years ago. Since then they have had to adapt rapidly to the ways of the outside world. Writer and adventurer Will Millard visits the Korowai four times over the course of a year, to see if he can get closer to them than is usually possible, to better understand the pressures they face as they leave the forest behind and transition into the modern world. He also wants to find out how much of their traditional hunter-gathering lifestyle still exists. What he finds shocks, surprises and confounds him, as he witnesses the last gasp of an ancient way of life which once defined us all.\n\nWill returns for his second trip to the Korowai to spend more time with Haup (White Beard) and Halap. They are some of the last remaining Korowai still living permanently in a treehouse without any real contact with the outside world. When Will first meets them, their adopted son August is there with them in the forest and his wife Amel gives birth one night, cutting her own umbilical cord with a sharpened piece of wood. But it soon turns out that they spend most of their time in the government-sponsored villages six hours walk away, and have decided to come to the treehouse to see if they can work with the film crew. So Will asks them to return to their government-built village, preparing to spend 10 days living with Haup and Halap alone in the middle of the forest.",
+"small": "Will Millard returns to the Korowai to spend more time with two old men in the forest.",
+"medium": "Will Millard returns to the treehouse-dwelling Korowai to spend time with two old men living in the forest, but is shocked by what he sees when he arrives.",
+"editorial": "Will spends time with Haup and Halap - but there’s more to their life than meets the eye."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b11p0q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3496,
+"first_broadcast": "9pm 22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0652w0k",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:51:10Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "b0b09819",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "2/3 The treehouse dwellers cut off from the outside world",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b09dv3",
+"live": false,
+"type": "episode",
+"title": "Britain in Bloom",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063whqy.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09dt5",
+"guidance": false,
+"subtitle": "Series 1: 1. Usk",
+"synopses": {
+"large": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'. The community here have been competing in Britain in Bloom for 36 years and regularly win gold. But every year they have to come up with fresh ideas to retain their crown. This time the community is planning three key projects. Firstly, they plan to fill the entire town square with a colourful new planting scheme. Secondly, the Gardening Gang at the local Primary School are hoping to impress the judges with their vegetable garden. Lastly, the Bloomers plan to convert a drab concrete corner into a new bee-friendly garden, but it is a massive project and the whole community needs to lend a hand.",
+"small": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'.",
+"medium": "Chris Bavin travels to Usk in Monmouthshire, known as the Welsh 'town of flowers'. The community here have been competing in Britain in Bloom for 36 years.",
+"editorial": "Chris Bavin starts his tour in Usk, Monmouthshire, known as the Welsh 'town of flowers'."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09dtc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-16T18:00:00Z",
+"start": "2018-04-16T18:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1713,
+"first_broadcast": "6:30pm 16 Apr 2018"
+}
+],
+"parent_id": "b0b09dt7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Usk",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "1/15 The volunteers helping our towns and cities flower",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ynh9w",
+"live": false,
+"type": "episode",
+"title": "The Sky at Night",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0638c15.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mk7h",
+"guidance": false,
+"subtitle": "Mars: Red and Dead?",
+"synopses": {
+"large": "Maggie Aderin-Pocock and Chris Lintott reveal the latest results from Nasa's Curiosity and Esa's ExoMars TGO missions that are attempting to find signs of life on Mars. Maggie visits the Airbus 'Mars Yard' to find out how the next lander heading to Mars is being built to survive the planet's incredibly hostile environment. And the team asks - if Mars is a dead planet, could the first life on Mars be humans? Chris talks to Andy Weir, author of The Martian, about whether a manned mission to Mars is just a fantasy.",
+"small": "The latest results from missions that are attempting to find signs of life on Mars.",
+"medium": "Maggie and Chris reveal the latest results from Nasa's Curiosity and Esa's ExoMars TGO missions that are attempting to find signs of life on Mars.",
+"editorial": "Is a manned mission to Mars a fantasy? And what could survive the hostile environment?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ynh9n",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-12T19:00:00Z",
+"start": "2018-04-08T21:30:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 1711,
+"first_broadcast": "10pm 8 Apr 2018"
+}
+],
+"parent_id": "b006mk7h",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "8 Apr 2018",
+"related_links": [],
+"original_title": "Mars: Red and Dead?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-08T00:00:00.000Z",
+"editorial_subtitle": "Mars: Red and Dead? Could the first life on Mars be humans?",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b10rnf",
+"live": false,
+"type": "episode",
+"title": "Countryfile",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xcrt.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006t0bv",
+"guidance": false,
+"subtitle": "Heritage Crafts",
+"synopses": {
+"large": "Anita Rani is in Norfolk meeting the people keeping some of the UK's vanishing trades alive. Her first stop is Horsey Windpump which has been restored to full working glory by Tim Whiting, one of the last millwrights in the country. Next she joins the reed cutters making a living on the Norfolk Broads, where she gets to try her hand at cutting. Then she joins Nigel Ford, a man on a mission to restore all of Norfolk's ancient milestones. Finally, she meets David Wolstenholme who makes cricket bats by hand, a skill that's listed by the Heritage Crafts Association as being critically endangered, before she takes her place at the crease to put the bat to the test.",
+"small": "In Norfolk, Anita Rani meets the people keeping some of the UK's vanishing trades alive.",
+"medium": "Anita Rani is in Norfolk meeting the people keeping some of the UK's vanishing trades alive, including a millwright and a reed cutter.",
+"editorial": "In Norfolk, Anita meets one of Britain’s last millwrights and reed cutters on the Broads."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10rks",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"availability": {
+"end": "2018-05-22T19:00:00Z",
+"start": "2018-04-22T21:51:19Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "7pm 22 Apr 2018"
+}
+],
+"parent_id": "b006t0bv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-29T06:35:00.000Z"
+},
+"original_title": "Heritage Crafts",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "Heritage Crafts. The people keeping vanishing trades alive",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0635rh6",
+"live": false,
+"type": "episode",
+"title": "Sex Robots and Us",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063j08l.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0635rh6",
+"guidance": true,
+"synopses": {
+"large": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld future where sex bots live amongst us.\n\n\n\nIn Barcelona, James visits Dr Sergi Santos and his wife Maritsa, creators of one of the world’s most advanced sex robots and the answer, they suggest, to many couples' miss-matched libido. Sergi tests out his latest robot and James finds out how Maritsa copes with Sergi using the dolls himself.\n\n\n\nElsewhere in Barcelona James also finds simple versions of the robots - not yet fitted with AI - being used in a brothel, and visits a professional sex toy tester who tries out one of the latest male sex dolls to hit the market.\n\n\n\nBack in the UK, James visits Sergi’s business partner Arran who has been demo’ing a Samantha robot in a sex shop near Liverpool. Arran tells James about his latest plan - to offer his sex robots to elderly people’s homes.\n\n\n\nIn Japan, James meets two of the most human-like robots to have been created before discovering a darker side to the sex robot industry when he visits a factory mass-producing ultra-realistic dolls.\n\n\n\nSo do we really want sex robots in our lives?",
+"small": "Meet the world’s most advanced sex robots, their makers and users.",
+"medium": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld-style future where sex bots live amongst us.",
+"editorial": "James Young travels the world to meet the makers – and users – of advanced sex bots."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0635rt8",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "36 mins",
+"value": "PT36M5S"
+},
+"guidance": {
+"id": "L1S1",
+"text": {
+"large": "Contains some strong language and some scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some sexual content."
+}
+},
+"availability": {
+"end": "2019-04-03T08:00:00Z",
+"start": "2018-04-08T08:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 2136,
+"first_broadcast": "8 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"lifestyle"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "8 Apr 2018",
+"related_links": [],
+"original_title": "Sex Robots and Us",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-08T00:00:00.000Z",
+"editorial_subtitle": "Could bots ever be a familiar visitor to the bedroom?",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b125bq",
+"live": false,
+"type": "episode",
+"title": "Click",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064kgw2.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m9ry",
+"guidance": false,
+"subtitle": "Can Drones Deliver?",
+"synopses": {
+"small": "Click looks at all the latest developments in the field of drones.",
+"medium": "Click looks at all the latest developments in the field of drones - from America's first commercial drone operation to drones saving lives on the beaches of Australia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b124bp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-22T15:00:00Z",
+"start": "2018-04-21T01:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1447,
+"first_broadcast": "1:30am 21 Apr 2018"
+}
+],
+"parent_id": "b006m9ry",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_news24",
+"titles": {
+"large": "BBC News Channel",
+"small": "BBC News",
+"medium": "BBC News"
+},
+"ident_id": "p00pvbhm",
+"attribution": "bbc_news24"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC News",
+"scheduled_start": "2018-04-26T02:30:00.000Z"
+},
+"original_title": "Can Drones Deliver?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09mb99k",
+"live": false,
+"type": "episode",
+"title": "The Forest",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063s6y9.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09m61c0",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Mark Bonnar narrates a new series revealing the hidden world of Galloway Forest, the country's largest afforested area. Join the amazing men and women who live and work in the place known as Scotland's 'Highlands in the Lowlands', where 600,000 tonnes of timber is produced every year. \n\nJames Jones sawmill in Lockerbie to the east of the forest powers through 20,000 logs a day. But when a six-tonne machine called a crosscut stacker breaks down, a dedicated engineering team must save the day. A decline in salmon numbers in the River Cree near Newton Stewart has led to a tireless effort to restock the river by the Cree Hatchery and Habitat Trust. Archie McNeillie and John 'Cool' Coughtrie from the Forestry Commission's Recreation Department deal with a rat infestation in a public area caused by an overzealous bird feeder. And at Balloch O'Dee campsite, owner James gets ready to stage a comedy night, with hilarious consequences.",
+"small": "The Cree Hatchery and Habitat Trust attempt to restock salmon in the river.",
+"medium": "Mark Bonnar narrates a series revealing the world of Galloway Forest. A six-tonne machine at James Jones sawmill requires a dedicated engineering team to fix it when it breaks.",
+"editorial": "An overzealous bird feeder has caused a rat infestation – so Archie and Cool take action."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09mb992",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-21T19:45:00Z",
+"start": "2018-04-21T19:30:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 1716,
+"first_broadcast": "7:30pm 15 Jan 2018"
+}
+],
+"parent_id": "b09m61cg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "15 Jan 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-01-15T00:00:00.000Z",
+"editorial_subtitle": "2/6 The team attempt to restock the river with salmon",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00qhs5v",
+"live": false,
+"type": "episode",
+"title": "The Great Rift: Africa's Wild Heart",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l5341.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00mfldk",
+"guidance": false,
+"subtitle": "1. Fire",
+"synopses": {
+"large": "Visible from space, Africa's Great Rift Valley runs three thousand miles from the Red Sea to the mouth of the Zambezi. It's a diverse terrain of erupting volcanoes, forest-clad mountains, spectacular valleys, rolling grasslands, huge lakes and mighty rivers, and is home to crocodiles, hippos, lions, elephants, flocks of flamingos and a diversity of indigenous peoples. \n\nUsing state-of-the-art high-definition filming techniques, this series investigates the geological forces which shaped East Africa's Great Rift, and which make it one of the world's most wildlife-rich landscapes.\n\nThe valley is the product of deep-seated geological forces which have spewed out a line of cloud-wreathed volcanoes stretching from Ethiopia to Tanzania. Their peaks provide a refuge for East Africa's most extraordinary wildlife, including newly discovered and previously unfilmed species which have evolved surprising survival strategies to cope with their challenging mountain environment.",
+"small": "Looking at the unique wildlife of East Africa's volcanic mountains.",
+"medium": "Volcanic peaks soaring above the scorching plains of East Africa create cool islands of habitat where strange creatures have evolved in splendid isolation."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00qhrxr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-19T01:50:00Z",
+"start": "2018-04-18T20:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "9pm 24 Jan 2010"
+},
+{
+"hd": false,
+"id": "p05b60b1",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T01:50:00Z",
+"start": "2018-04-18T20:51:54Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "24 Jan 2010"
+}
+],
+"parent_id": "b00mfldk",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "24 Jan 2010",
+"related_links": [],
+"original_title": "Fire",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2010-01-24T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p02wnhfh",
+"live": false,
+"type": "episode",
+"title": "Atlantic: The Wildest Ocean on Earth",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02wntw7.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02wnh09",
+"guidance": false,
+"subtitle": "2. Mountains of the Deep",
+"synopses": {
+"large": "In the vast South Atlantic, huge pods of dolphins, massive penguin colonies and the largest gathering of marine mammals on earth pack chains of extraordinary islands, created by powerful volcanic forces far below them. Nutrient-rich upwellings create profusions of life in some areas, whilst extreme isolation and abyssal depths host a world of bizarre creatures in others.",
+"small": "In the South Atlantic, chains of extraordinary islands are packed with marine life.",
+"medium": "Documentary on the Atlantic Ocean. In the South Atlantic, chains of extraordinary islands are packed with huge pods of dolphins and massive penguin colonies."
+},
+"versions": [
+{
+"hd": true,
+"id": "b063n9rb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T00:35:00Z",
+"start": "2018-04-21T19:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "9pm 6 Aug 2015"
+},
+{
+"hd": false,
+"id": "p02yyzpn",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T00:35:00Z",
+"start": "2018-04-21T21:01:24Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "6 Aug 2015"
+}
+],
+"parent_id": "p02wnh09",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "6 Aug 2015",
+"related_links": [
+{
+"id": "p02yss41",
+"url": "http://www.bbc.co.uk/programmes/articles/3dM6FwP5RcfQTPn60JXPFdC/in-search-of-orcas",
+"kind": "priority_content",
+"type": "link",
+"title": "Going in search of orcas"
+}
+],
+"original_title": "Mountains of the Deep",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2015-08-06T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01l2s60",
+"live": false,
+"type": "episode",
+"title": "Nature's Microworlds",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hj411.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01l2swt",
+"guidance": false,
+"subtitle": "1. Galapagos",
+"synopses": {
+"large": "A visit to arguably the most famous archipelago on Earth, the Galapagos. It's home to a myriad of bizarre and unique creatures endemic to these islands - but how did they get here and what is the key to these extraordinary islands that allows them to thrive? The programme reveals that this key holds not just the secret to life here, but also to how Darwin was able to leave with the ideas that would revolutionise biology.",
+"small": "How did the unique wildlife of the Galapagos get there and what allows them to thrive?",
+"medium": "The Galapagos is home to a myriad of bizarre and unique creatures endemic to these islands - but how did they get here and what is the key that allows them to thrive?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b01l2s5x",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-02T19:00:00Z",
+"start": "2018-04-02T19:09:09Z",
+"remaining": {
+"text": "Available for 8 days"
+}
+},
+"first_broadcast": "8:30pm 16 Jul 2012"
+}
+],
+"parent_id": "b01l2swt",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "16 Jul 2012",
+"related_links": [],
+"original_title": "Galapagos",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2012-07-16T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b08zpp",
+"live": false,
+"type": "episode",
+"title": "Britain's Biggest Warship",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v9td.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "All New"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b08zfk",
+"guidance": false,
+"subtitle": "Series 1: 1. Crewing Up",
+"synopses": {
+"large": "It is early 2016 and sailors begin to arrive at Rosyth dockyard in Scotland where HMS Queen Elizabeth is still under construction. Captain Jerry Kyd and his 700 sailors assemble to take up their posts on the biggest warship constructed for the Royal Navy. Their mission? To take the prototype warship to sea for the first time on dangerous make or break sea trials in the North Sea.\n\nBefore sailing, the crew have to undergo rigorous fire and flood training, but suddenly they are faced with the real thing. Has the training paid off? And how will they get the supercarrier out of the dockyard sea gate with only a few centimetres clearance either side? They will also have to sail her under the Forth road and rail bridges - no easy task when HMS Queen Elizabeth is taller than both.\n\nWith unprecedented access, this series - three years in the making - tells the behind-the-scenes story of what makes HMS Queen Elizabeth so unique and how her crew are working together to breathe life into Britain's biggest warship.",
+"small": "How the crew of HMS Queen Elizabeth breathe life into Britain's biggest warship.",
+"medium": "The behind-the-scenes story of what makes HMS Queen Elizabeth so unique and how her crew are working together to breathe life into Britain's biggest warship.",
+"editorial": "On board HMS Queen Elizabeth – the most advanced warship ever constructed in Britain."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b08zfp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-21T13:30:00Z",
+"start": "2018-04-15T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 3516,
+"first_broadcast": "8pm 15 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064d9dy",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-21T13:30:00Z",
+"start": "2018-04-15T20:46:36Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "15 Apr 2018"
+}
+],
+"parent_id": "b0b08zfm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "Crewing Up",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"editorial_subtitle": "1/3 Crewing Up",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0gg8v",
+"live": false,
+"type": "episode",
+"title": "Home Ground",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xhrv.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08kgdck",
+"guidance": false,
+"subtitle": "Series 4: Episode 1",
+"synopses": {
+"large": "The rural affairs magazine show returns for another series. Gavin Andrews and Jo Scott introduce a host of stories and people who use the countryside for work, rest and play.",
+"small": "Magazine series celebrating the richness of rural life in Northern Ireland.",
+"medium": "Gavin Andrews and Jo Scott present a new series of the rural affairs magazine celebrating the richness of rural life in Northern Ireland."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0gc22",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:00:00Z",
+"start": "2018-04-23T19:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b0b0gc08",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"lifestyle",
+"northern-ireland",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "23 Apr 2018",
+"related_links": [
+{
+"id": "p0654yvm",
+"url": "https://www.bbc.co.uk/programmes/p0654dxb/p0654193",
+"kind": "priority_content",
+"type": "link",
+"title": "Behind the scenes from Episode 1"
+}
+],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-28T18:30:00.000Z"
+},
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b08qgbc3",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p052dhsq.jpg"
+},
+"labels": {
+"category": "Current affairs"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "What Facebook Knows About You",
+"synopses": {
+"large": "Facebook is thought to know more about us than any other business in history, but what does the social network that Mark Zuckerberg built do with all of our personal information? \n\nReporter Darragh MacIntyre investigates how Facebook's powerful algorithms allow advertisers and politicians to target us more directly than ever before, and he questions whether the company's size and complexity now makes it impossible to regulate.",
+"small": "Darragh MacIntyre investigates Facebook and its regulation.",
+"medium": "Current affairs programme. Darragh MacIntyre investigates Facebook and questions whether the company's size and complexity now makes it impossible to regulate."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08r7m8b",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-12T03:00:00Z",
+"start": "2017-05-08T18:57:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 1711,
+"first_broadcast": "8 May 2017"
+},
+{
+"hd": true,
+"id": "b08r2vdg",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-13T00:25:00Z",
+"start": "2017-05-13T00:25:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "8 May 2017"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature",
+"signed"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "8 May 2017",
+"related_links": [],
+"original_title": "What Facebook Knows About You",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-05-08T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b007c68n",
+"live": false,
+"type": "episode",
+"title": "The Bermuda Triangle: Beneath the Waves",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01nrfg7.jpg"
+},
+"labels": {
+"category": "Science & Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007c68n",
+"guidance": false,
+"synopses": {
+"large": "Professor Bruce Denardo attempts to prove whether there is any truth behind the legend of the Bermuda Triangle, where many ships and planes have disappeared in mysterious circumstances. New investigation techniques reveal the truth behind the infamous disappearance of Flight 19. Graham Hawkes is also able to reveal, by using a state-of-the-art submarine, how five wrecks mysteriously wound up 730 feet down in the heart of the Bermuda Triangle.",
+"small": "An attempt to prove whether there is any truth behind the legend of the Bermuda Triangle.",
+"medium": "Professor Bruce Denardo attempts to prove if there is any truth behind the legend of the Bermuda Triangle, where many ships and planes have disappeared in mysterious circumstances."
+},
+"versions": [
+{
+"hd": false,
+"id": "b005g5t1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T02:05:00Z",
+"start": "2018-04-14T22:35:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 3524,
+"first_broadcast": "7pm 14 Mar 2004"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-history",
+"documentaries-science-and-nature",
+"documentaries",
+"history",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "14 Mar 2004",
+"related_links": [],
+"original_title": "The Bermuda Triangle: Beneath the Waves",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2004-03-14T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01pz9d6",
+"live": false,
+"type": "episode",
+"title": "Why the Industrial Revolution Happened Here",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01j1lp9.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01pz9d6",
+"guidance": false,
+"synopses": {
+"large": "Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th century, led to Britain becoming the richest, most powerful nation on Earth. It was a time that transformed the way people think, work and play forever.\n\nHe traces the unprecedented explosion of new ideas and technological inventions that transformed Britain's agricultural society into an increasingly industrial and urbanised one. The documentary explores two fascinating questions - why did the industrial revolution happen when it did, and why did it happen in Britain?\n\nProfessor Black discusses the reasons behind this transformation - from Britain's coal reserves, which gave it a seemingly inexhaustible source of power, to the ascendency of political liberalism, with engineers and industrialists able to meet and share ideas and inventions. He explains the influence that geniuses like Josiah Wedgewood had on the consumer revolution and travels to Antigua to examine the impact Britain's empire had on this extraordinary period of growth.",
+"small": "Jeremy Black examines an extraordinary time in British history, the Industrial Revolution.",
+"medium": "Professor Jeremy Black explains the unique economic, social and political factors that helped Britain transform itself almost entirely by the 19th century."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01pz92z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T22:00:00Z",
+"start": "2018-04-15T22:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 3452,
+"first_broadcast": "9:30pm 14 Jan 2013"
+},
+{
+"hd": false,
+"id": "p013stk4",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T22:00:00Z",
+"start": "2018-04-15T22:44:18Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "14 Jan 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries-science-and-nature",
+"documentaries",
+"history",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "14 Jan 2013",
+"related_links": [],
+"original_title": "Why the Industrial Revolution Happened Here",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2013-01-14T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p062d8cl",
+"live": false,
+"type": "episode",
+"title": "The Gaming Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062dg9k.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0428jy7",
+"guidance": false,
+"subtitle": "Ready Player One: Visions of the Future",
+"synopses": {
+"large": "Can sci-fi predict our future? Julia Hardy looks at the games that imagine a new tomorrow, and speaks to the experts to find out if fantasy could eventually become reality.\n\n\n\nJulia ventures into the many future worlds that video games have predicted for humanity – from sci-fi dystopias and ruined remnants of our contemporary civilisations, to more optimistic and hopeful scenarios, where people benefit from technological advances and augmentations, and even invite A.I. assistants into our homes.\n\n\n\nSpeaking to games journalists Tamoor Hussain and Alice Bell, Julia discovers how games developers have mined the rich resource of a sci-fi future for inspiration. She meets Anthony Steed, Professor in Virtual Environments and Computer Graphics at UCL, to determine just how likely these futures could be. Will androids walk among us, blending into the crowds of any modern metropolis? Will schools use VR for time-travelling history lessons? Will we all be wearing full-body exoskeletons to mimic 'real life' touch sensations when we play games?\n\n\n\nJulia also meets the cast of Steven Spielberg’s new movie Ready Player One, as well as the director himself, to talk about their favourite future-set video games. She finds out if the massive online virtual reality world the film is set in, The OASIS, is something they can imagine happening in the near future. After all, gamers already play online for millions of hours per year – what’s really stopping us from spending even more time interacting in a digital space, rather than a physical one?\n\n\n\nIs it all doom and gloom? Or will the next technological age enrich humankind, and the human condition? As Julia quickly realises: there’s a lot more to virtual reality and advanced A.I. than simple fun and games.",
+"small": "Can sci-fi predict our future? Julia Hardy looks at the games that imagine a new tomorrow",
+"medium": "Can sci-fi predict our future? Julia Hardy looks at the games that imagine a new tomorrow, and speaks to the experts to find out if fantasy could eventually become reality."
+},
+"versions": [
+{
+"hd": true,
+"id": "p062d8fx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "17 mins",
+"value": "PT16M53S"
+},
+"availability": {
+"end": "2019-04-06T05:00:00Z",
+"start": "2018-04-06T05:00:00Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"first_broadcast": "6 Apr 2018"
+}
+],
+"parent_id": "p0428jy7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"entertainment",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "6 Apr 2018",
+"related_links": [],
+"original_title": "Ready Player One: Visions of the Future",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-06T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05cyxtz",
+"live": false,
+"type": "episode",
+"title": "Can Robots Love Us?",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05dsr3m.jpg"
+},
+"labels": {
+"category": "Science & Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05cyxtz",
+"guidance": true,
+"synopses": {
+"large": "James Young, 27, takes us on a personal journey to explore the latest robots being developed to engage with humans on an emotional level. \n\n\n\nAfter turning to cutting edge tech since an accident five years ago which left him as a double amputee, James has started to explore the limits of the human-robot connection.\n\n\n\nIn this film, James goes on a journey to meet the people designing tech solutions to mental health, loneliness and even romance. From meeting a sex doll with AI to robots designed to stop us being lonely, James asks whether robots can ever truly love us.\n\n\n\nMade in association with BBC Make it Digital.",
+"small": "Meet the latest robots designed to engage with humans on emotional and romantic levels.",
+"medium": "From a sex doll with AI, to robots designed to stop us being lonely, James Young asks whether humans and robots can ever love one another."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05cyyc4",
+"kind": "iplayer-version",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M4S"
+},
+"guidance": {
+"id": "S1",
+"text": {
+"large": "Contains some scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some sexual content."
+}
+},
+"availability": {
+"end": "2018-08-30T08:00:00Z",
+"start": "2017-09-04T08:00:00Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"credits_start": 1684,
+"first_broadcast": "4 Sep 2017"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"lifestyle",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "4 Sep 2017",
+"related_links": [],
+"original_title": "Can Robots Love Us?",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-09-04T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0333p",
+"live": false,
+"type": "episode",
+"title": "Natural World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wn2g.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006qnnh",
+"guidance": false,
+"subtitle": "2018-2019: 2. Nature's Biggest Beasts",
+"synopses": {
+"large": "The world's biggest beasts have always captured the imagination. But whilst being big can have its advantages, it also comes with sizeable challenges. Take the world's largest lizard, the Komodo dragon, whose huge appetite means it must take on prey ten times its weight or the tallest animal of them all, the giraffe, who with such a long neck must control immense blood pressure. Nature's biggest beasts must go to extraordinary lengths to thrive. These are their epic survival stories!",
+"small": "How the world's biggest beasts overcome the challenges of their size.",
+"medium": "Documentary. Big beasts have always captured the imagination, but being large comes with sizeable challenges. These are the epic survival stories of the world's largest animals.",
+"editorial": "From the blue whale to the giraffe, big beasts go to extraordinary lengths to survive."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b032w8",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T18:00:00Z",
+"start": "2018-04-19T20:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3522,
+"first_broadcast": "8pm 19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064v5sp",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T18:00:00Z",
+"start": "2018-04-19T20:50:47Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b09z77yq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Nature's Biggest Beasts",
+"audio_described": true,
+"editorial_title": "Nature's Biggest Beasts",
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"editorial_subtitle": "The epic survival stories of some incredible creatures",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b0078z71",
+"live": false,
+"type": "episode",
+"title": "Natural World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064tlnq.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006qnnh",
+"guidance": false,
+"subtitle": "Cuba - Wild Island of the Caribbean",
+"synopses": {
+"large": "Documentary revealing the spectacular wildlife of Cuba, home to the bee hummingbird - the world's smallest bird - Cuban crocodiles, swarms of purple land crabs, sea turtles and giant iguanas.",
+"small": "Documentary about the spectacular wildlife of Cuba, from bee hummingbirds to land crabs.",
+"medium": "Documentary revealing the varied wildlife of Cuba, including the bee hummingbird, crocodiles, purple land crabs, sea turtles and giant iguanas."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00627l0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-23T00:20:00Z",
+"start": "2018-04-22T20:16:05Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "23 Nov 2005"
+},
+{
+"hd": false,
+"id": "p0652tds",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-23T00:20:00Z",
+"start": "2018-04-22T21:16:55Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "23 Nov 2005"
+}
+],
+"parent_id": "b006qnnh",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Nov 2005",
+"related_links": [],
+"original_title": "Cuba - Wild Island of the Caribbean",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2005-11-23T00:00:00.000Z",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "b09ymbk9",
+"live": false,
+"type": "episode",
+"title": "Big Cats About the House",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062h2st.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09wzxsj",
+"guidance": false,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "Maya is ten weeks old and is starting to push the family to their limits. She is wreaking havoc in the house, destroying the bookshelf, getting into the fridge and ripping up the sofa. She is showing possessive behaviours with her toys and Kathryn and Sam are noticing that she is starting to bite hard too. Maya is doing so well that Giles is invited to take her on BBC Breakfast so he can raise the profile of all big cats around the world.\n\nGiles takes in a cheetah called Willow - at five months old she is recovering from an incident where she broke her paw. She was unable to return to her mother and siblings and it is back to late nights for Giles as he builds her trust. Having raised enough money, Giles goes to Kenya with GPS collars he has funded and darts and collars a female in a pride that needs his help. Maya is given the all clear on her health by the vet. Both Maya and Willow now live with all the other cats at the sanctuary playing their role as ambassadors for their wild cousins globally.",
+"small": "Maya is ten weeks old and is starting to push the family to their limits.",
+"medium": "Documentary series. Maya is ten weeks old and is starting to push the family to their limits. Giles is invited to take her on BBC Breakfast.",
+"editorial": "Giles takes in a cheetah – and it’s back to late nights as he builds her trust."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ymbjm",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-07T17:00:00Z",
+"start": "2018-04-05T20:00:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"credits_start": 3513,
+"first_broadcast": "8pm 5 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063fy13",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-07T17:00:00Z",
+"start": "2018-04-05T21:12:39Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"first_broadcast": "5 Apr 2018"
+}
+],
+"parent_id": "b09wzcr4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-science-and-nature",
+"documentaries",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "5 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-05T00:00:00.000Z",
+"editorial_subtitle": "3/3 Ten weeks old, Maya is wreaking havoc at home",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+}
+]

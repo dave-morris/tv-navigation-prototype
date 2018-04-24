@@ -1,0 +1,1471 @@
+[
+{
+"id": "p064sl3z",
+"live": false,
+"type": "episode",
+"title": "Snooker: World Championship",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06564gj.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b010nsbf",
+"guidance": false,
+"subtitle": "2018 - Live: Ding v Xiao - Table 2",
+"synopses": {
+"small": "Watch live coverage of the 2018 World Snooker Championship from the Crucible in Sheffield",
+"medium": "Watch live coverage of the 2018 World Snooker Championship from the Crucible in Sheffield"
+},
+"versions": [
+{
+"hd": true,
+"id": "p064sl68",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "65 mins",
+"value": "PT1H5M24S"
+},
+"availability": {
+"end": "2018-06-06T09:00:00Z",
+"start": "2018-04-24T10:28:15Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"first_broadcast": "24 Apr 2018"
+}
+],
+"parent_id": "p064pfj2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "24 Apr 2018",
+"related_links": [],
+"original_title": "Ding v Xiao - Table 2",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-24T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0wvw0",
+"live": false,
+"type": "episode",
+"title": "Match of the Day 2",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p065737h.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007t9yb",
+"guidance": false,
+"subtitle": "2017/18: 22/04/2018",
+"synopses": {
+"large": "Mark Chapman presents highlights of the day's Premier League games. The leaders Manchester City take on Swansea at the Etihad, Arsenal face West Ham in a London derby, and relegation-threatened Stoke play Burnley. Plus the winner of the PFA Player of the Year award is revealed.",
+"small": "Mark Chapman presents Premier League highlights, including Arsenal v West Ham.",
+"medium": "Mark Chapman presents highlights of the day's Premier League games. Manchester City v Swansea at the Etihad, Arsenal face West Ham, and relegation-threatened Stoke play Burnley.",
+"editorial": "Who has been voted Player of the Year by their peers? All the news from the PFA Awards."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0wv2r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-04-30T23:00:00Z",
+"start": "2018-04-23T23:00:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"credits_start": 3541,
+"first_broadcast": "10:30pm 22 Apr 2018"
+}
+],
+"parent_id": "b091sysj",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "22/04/2018: With Man City v Swansea and Arsenal v West Ham",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064st6d",
+"live": false,
+"type": "episode",
+"title": "London Marathon",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01lymv4.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00b0998",
+"guidance": false,
+"subtitle": "2018: Finish-line cameras",
+"synopses": {
+"small": "Coverage of the marathon quad split from the 2018 London Marathon.",
+"medium": "Coverage of the marathon quad split from the 2018 London Marathon."
+},
+"versions": [
+{
+"hd": false,
+"id": "p064sth7",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "210 mins",
+"value": "PT3H30M"
+},
+"availability": {
+"end": "2018-05-22T14:00:00Z",
+"start": "2018-04-23T14:59:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p064bljm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Finish-line cameras",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0grcv",
+"live": false,
+"type": "episode",
+"title": "Super League Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06572xx.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0071mmc",
+"guidance": false,
+"subtitle": "2018: 23/04/2018",
+"synopses": {
+"large": "Tanya Arnold presents highlights and analysis from round 12 of the Super League season. Hull FC take on champions Leeds at the KCOM Stadium in a meeting of the teams who claimed the two major trophies in 2017. Hull lifted the Challenge Cup at Wembley and are defending a perfect home record so far this season. They have won all four matches played in front of their own supporters this year. Wigan are also unbeaten at home in 2018, and they take on Castleford Tigers at the DW Stadium. Wigan were the leading scorers through the first ten rounds of the competition this year and face another of the League's great entertainers in a match which promises to feature plenty of points. The Super League leaders St Helens are at home to Huddersfield and Salford Red Devils take on Wakefield Trinity.",
+"small": "Hull FC v Leeds, Wigan v Castleford, St Helens v Huddersfield and Salford v Wakefield.",
+"medium": "Highlights from round 12 of the Super League. Hull FC v Leeds, Wigan v Castleford Tigers, St Helens v Huddersfield and Salford Red Devils v Wakefield Trinity."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0grcl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-24T07:00:00Z",
+"start": "2018-04-24T00:03:20Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "11:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b09qr707",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"parent_position": 13,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b15lht",
+"live": false,
+"type": "episode",
+"title": "The Women's Football Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0656xpr.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04073t0",
+"guidance": false,
+"subtitle": "2018: 23/04/2018",
+"synopses": {
+"small": "The latest highlights and talking points from the women's game.",
+"medium": "The latest highlights and talking points from the women's game.",
+"editorial": "Are Man City and Chelsea set for the Champions League Final after their first legs?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b15lgp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "40 mins",
+"value": "PT40M"
+},
+"availability": {
+"end": "2018-05-23T00:40:00Z",
+"start": "2018-04-22T23:50:23Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "12am 23 Apr 2018"
+}
+],
+"parent_id": "b09mk3zc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"editorial_subtitle": "22/04/2018: The top stories",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b10btn",
+"live": false,
+"type": "episode",
+"title": "London Marathon",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06571qt.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00b0998",
+"guidance": false,
+"subtitle": "2018: Highlights",
+"synopses": {
+"large": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon. \n\nGreat Britain's Sir Mo Farah has switched his focus from the track to the road and was targeting a first victory in the race in his home city. In the women's race, defending champion Mary Keitany was running with male pacemakers in a bid to smash Paula Radcliffe's world record.\n\nIn the wheelchair events, Great Britain's David Weir was hoping to extend his record number of victories to eight, while Switzerland's Manuela Schar was hoping for a second successive victory in the women's event.",
+"small": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon.",
+"medium": "JJ Chalmers presents the stories, key moments and best action of the 38th London Marathon. Sir Mo Farah was targeting a first victory in the race in his home city.",
+"editorial": "From elite athletes to fun runners, reflecting on all the excitement of the big day."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10btl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T19:00:00Z",
+"start": "2018-04-22T19:25:21Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3541,
+"first_broadcast": "7pm 22 Apr 2018"
+}
+],
+"parent_id": "b0b10bjx",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Highlights",
+"audio_described": false,
+"editorial_title": "London Marathon: Highlights",
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "All the stories",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0y0bs",
+"live": false,
+"type": "episode",
+"title": "Snooker: World Championship Highlights",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02gl194.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00b436n",
+"guidance": false,
+"subtitle": "2018: Day 3",
+"synopses": {
+"small": "Jason Mohammad introduces highlights from day three of the World Championship.",
+"medium": "Jason Mohammad introduces highlights from day three of the World Championship, in which the total prize fund is almost £2 million."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0y07q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2018-05-23T23:05:00Z",
+"start": "2018-04-23T23:19:57Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "11:15pm 23 Apr 2018"
+}
+],
+"parent_id": "b0b0xljy",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Day 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064pwpj",
+"live": false,
+"type": "episode",
+"title": "Rugby League: Challenge Cup",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0656zht.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0071xf7",
+"guidance": false,
+"subtitle": "2018: York v Catalans",
+"synopses": {
+"small": "Watch coverage from the Challenge Cup as York face Catalans.",
+"medium": "Watch coverage from the Challenge Cup as York face Catalans."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064pwz2",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "120 mins",
+"value": "PT2H"
+},
+"availability": {
+"end": "2018-05-22T15:55:00Z",
+"start": "2018-04-23T18:08:57Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p05q8psl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "York v Catalans",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064rsn2",
+"live": false,
+"type": "episode",
+"title": "FA Cup Catch-Up",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0652p0v.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04t6pty",
+"guidance": false,
+"subtitle": "2017/18: Semi-Finals",
+"synopses": {
+"small": "Catch up with all the goals, highlights and funnies from the FA Cup semi-finals.",
+"medium": "Catch up with all the goals, highlights and funnies from the FA Cup semi-finals."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064rsqj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "10 mins",
+"value": "PT10M"
+},
+"availability": {
+"end": "2018-05-23T05:00:00Z",
+"start": "2018-04-23T05:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 345,
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "p05lt0tc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Semi-Finals",
+"audio_described": false,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zdfts",
+"live": false,
+"type": "episode",
+"title": "Sportscene",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0656xls.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006zrbv",
+"guidance": false,
+"subtitle": "22/04/2018",
+"synopses": {
+"large": "Introduced by Jonathan Sutherland.\n\nHighlights of this weekend's SPFL Premiership matches in the first fixture card since the table split into two halves. At the top end, Celtic close in on what will be their seventh title in a row, while Rangers, Aberdeen and Hibs are locked in a battle for second place. At the other end, Partick Thistle currently occupy bottom spot with Ross County one place above them.",
+"small": "Jonathan Sutherland introduces highlights from the weekend's SPFL Premiership action.",
+"medium": "Jonathan Sutherland introduces highlights from the SPFL Premiership. Celtic close in on their seventh consecutive title, while Rangers, Aberdeen and Hibs battle for second place.",
+"editorial": "Action from the first set of post-split fixtures as the season heads towards its climax."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdftc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-04-29T23:30:00Z",
+"start": "2018-04-22T19:21:06Z",
+"remaining": {
+"text": "Available until Mon 12:30am"
+}
+},
+"first_broadcast": "6pm 22 Apr 2018"
+}
+],
+"parent_id": "b006zrbv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland",
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "22/04/2018: With Rangers v Hearts and Hibs v Celtic",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zn9xp",
+"live": false,
+"type": "episode",
+"title": "MOTD Kickabout",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0654ckh.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03tj9j8",
+"guidance": false,
+"subtitle": "Record-Breaking Champions and FIFA FUT Cup",
+"synopses": {
+"large": "We take a look back at how Manchester City became Premier League winners for the third time in their history. Tyler West meets the best FIFA players on the planet at the FUT Cup in Manchester, and we also find out who's been nominated for this year's PFA Player of the Year awards.",
+"small": "A look at how Manchester City became Premier League winners for the third time.",
+"medium": "We take a look back at how Manchester City became Premier League winners for the third time in their history."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zn9xh",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "5 mins",
+"value": "PT5M"
+},
+"availability": {
+"end": "2018-05-21T07:00:00Z",
+"start": "2018-04-21T07:06:55Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "7:45am 21 Apr 2018"
+}
+],
+"parent_id": "b03tj9j8",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"cbbc",
+"childrens-sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Record-Breaking Champions and FIFA FUT Cup",
+"audio_described": false,
+"requires_sign_in": false,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064kccv",
+"live": false,
+"type": "episode",
+"title": "The Irish League Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0655320.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p029ydhd",
+"guidance": false,
+"subtitle": "2017/18: 23/04/2018",
+"synopses": {
+"large": "Joel Taggart and Chris Morgan review the latest Danske Bank Premiership action as Crusaders and Coleraine continue their battle at the top of the table. The Bannsiders were away to Linfield and Cliftonville made the trip to Seaview for a highly anticipated orth Belfast derby. At the other end of the table, Ballinamallard United and Carrick Rangers continued their attempts to avoid relegation. The Mallards travelled to take on Ards while Glentoran hosted Carrick Rangers.",
+"small": "Joel Taggart and Chris Morgan review the latest Danske Bank Premiership action.",
+"medium": "Joel Taggart and Chris Morgan review the latest Danske Bank Premiership action as Crusaders and Coleraine continue their battle at the top of the table."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064kcgs",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "33 mins",
+"value": "PT33M"
+},
+"availability": {
+"end": "2018-05-23T20:00:00Z",
+"start": "2018-04-23T20:30:23Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "p059q688",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": false,
+"parent_position": 36,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "I",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064pw28",
+"live": false,
+"type": "episode",
+"title": "Women's Super League",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0656pl2.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p050jfjv",
+"guidance": false,
+"subtitle": "2017/18: Reading v Everton",
+"synopses": {
+"small": "Coverage from the WSL 1 as Reading host Everton.",
+"medium": "Coverage from the WSL 1 as Reading host Everton."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064pw8n",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "120 mins",
+"value": "PT2H"
+},
+"availability": {
+"end": "2018-05-22T13:25:00Z",
+"start": "2018-04-22T14:02:46Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "p05ggj43",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_sport",
+"titles": {
+"large": "BBC Sport",
+"small": "BBC Sport",
+"medium": "BBC Sport"
+},
+"attribution": "bbc_sport"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Reading v Everton",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0389wrj",
+"live": false,
+"type": "episode",
+"title": "When Snooker Ruled the World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03chrhs.jpg"
+},
+"labels": {
+"category": "Sport",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0389wrj",
+"guidance": true,
+"synopses": {
+"large": "A nostalgic look at the glory years of snooker in the 1970s and 80s.\n\n\n\nDuring the 1980s, snooker was the number one televised sport in the UK, turning its players into genuine superstars. When Snooker Ruled The World charts the rise of snooker as the UK's most popular sport, with the heroes and villains that helped it build such a huge audience.\n\n\n\nWith contributions from, amongst others: Steve Davis, Terry Griffiths, Stephen Hendry, Ronnie O'Sullivan, Dennis Taylor, Cliff Thorburn, John Virgo, Jimmy White, Johnny Vegas, Julia Carling and Gary Lineker. (2002)",
+"small": "Take a look back to the golden era of snooker in the 1970s and 80s. (2002)",
+"medium": "A nostalgic look back at the heroes and villains that helped snooker become the UK's number one televised sport of the 1980s. (2002)"
+},
+"versions": [
+{
+"hd": true,
+"id": "p0389x2m",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT59M38S"
+},
+"guidance": {
+"id": "RFI",
+"text": {
+"large": "Contains scenes of flashing images.",
+"small": "Has guidance",
+"medium": "Contains flashing images."
+}
+},
+"availability": {
+"start": "2016-01-15T12:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3580,
+"first_broadcast": "28 Apr 2002"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"archive",
+"entertainment",
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "28 Apr 2002",
+"related_links": [
+{
+"id": "p03fvffx",
+"url": "http://www.bbc.co.uk/guides/zcvfcwx",
+"kind": "priority_content",
+"type": "link",
+"title": "Why did the 80s give snooker its big break?"
+}
+],
+"original_title": "When Snooker Ruled the World",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2002-04-28T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ynypg",
+"live": false,
+"type": "episode",
+"title": "Wales Football: The Women in Red",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062kpzj.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ynypg",
+"guidance": false,
+"synopses": {
+"large": "The Wales women's football team are so far unbeaten on their journey to qualify for the World Cup.\n\nOn the eve of their crucial clash with England, we go behind the scenes to meet the player making waves across the Atlantic with Seattle Reign, as well as Wales's all-time top scorer, who juggles motherhood with football, and the new generation of women footballers dreaming of their first pro contracts.",
+"small": "Behind the scenes look with the Wales women's football squad.",
+"medium": "Documentary that goes behind the scenes with the Wales women's football team on the eve of their crucial clash with England.",
+"editorial": "An inside look at the Wales team on the eve of their crucial clash with England."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b094r4",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-06T16:45:00Z",
+"start": "2018-04-05T22:15:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"first_broadcast": "5 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"sport",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "5 Apr 2018",
+"related_links": [],
+"original_title": "Wales Football: The Women in Red",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-05T00:00:00.000Z",
+"editorial_subtitle": "How the Dragons are firing",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09wc4td",
+"live": false,
+"type": "episode",
+"title": "My Life",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060hsl1.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00wsntc",
+"guidance": false,
+"subtitle": "Series 9: 12. Motocross Girl",
+"synopses": {
+"large": "Since the age of five, Zimbabwean teenager Tanya has been training to become the first African female to win an international motocross race. She has just a few months to prepare for the ride of her life at the MXGP Championships. We follow her journey to the UK as she realizes her dream.",
+"small": "Zimbabwean teenager Tanya trains for an international motocross race in the UK.",
+"medium": "Documentary. Tanya is a motocross sensation from Zimbabwe. She has just a few months to train for the race of her life. She has to travel thousands of miles to the UK to compete."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09wc4hw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-04-27T09:05:00Z",
+"start": "2018-03-12T18:00:00Z",
+"remaining": {
+"text": "Available until Fri 10:05am"
+}
+},
+"credits_start": 1652,
+"first_broadcast": "5:30pm 12 Mar 2018"
+},
+{
+"hd": false,
+"id": "p060xmxc",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "28 mins",
+"value": "PT28M"
+},
+"availability": {
+"end": "2018-04-27T09:05:00Z",
+"start": "2018-03-12T18:30:59Z",
+"remaining": {
+"text": "Available until Fri 10:05am"
+}
+},
+"first_broadcast": "12 Mar 2018"
+}
+],
+"parent_id": "b09cbwrq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-documentaries",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "12 Mar 2018",
+"related_links": [
+{
+"id": "p0151nb9",
+"url": "http://www.bbc.co.uk/cbbc/shows/my-life",
+"kind": "priority_content",
+"type": "link",
+"title": "Visit the My Life website"
+}
+],
+"original_title": "Motocross Girl",
+"audio_described": true,
+"parent_position": 12,
+"requires_sign_in": false,
+"release_date_time": "2018-03-12T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b08sx1j0",
+"live": false,
+"type": "episode",
+"title": "Suzi Perry's Queens of the Road",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p053n2y0.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08sx1j0",
+"guidance": false,
+"synopses": {
+"large": "In this Our Lives documentary, Suzi Perry travels to Northern Ireland to meet three women who compete in the exhilarating yet highly dangerous sport of motorcycle road racing.",
+"small": "Suzi Perry meets three Northern Irish women who compete in motorcycle road racing.",
+"medium": "Documentary in which Suzi Perry meets three Northern Irish women who compete in the exhilarating yet highly dangerous sport of motorcycle road racing."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08sx1bv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-07T17:30:00Z",
+"start": "2018-04-07T17:30:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"credits_start": 1714,
+"first_broadcast": "28 May 2017"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries",
+"northern-ireland",
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "28 May 2017",
+"related_links": [],
+"original_title": "Suzi Perry's Queens of the Road",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-05-28T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09wd0fk",
+"live": false,
+"type": "episode",
+"title": "Flex Lewis: Superstar Bodybuilder",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061794h.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09wd0fk",
+"guidance": true,
+"synopses": {
+"large": "Welsh bodybuilder James 'Flex' Lewis is on a mission. The reigning Mr Olympia champion is determined to claim his sixth title in a row and equal the record of his all-time hero Arnold Schwarzenegger. Known as the Super Bowl of bodybuilding, the Mr Olympia competition in Las Vegas is the biggest event of the bodybuilding calendar. A star attraction among the competitors is Flex. With more than a million Instagram followers and a host of successful businesses, he is a huge celebrity in America. He has more than 30 national and international titles under his belt and graces covers of numerous bodybuilding magazines. By contrast, back on home soil in Wales, the fame of this Llanelli-born star has barely caused a ripple.\n\nOver several months, we follow Flex in the run-up to his sixth Mr Olympia competition. We see the punishing daily regime it takes to have a shot at winning. We join him in his bespoke Florida gym where, at his daily training sessions, he can bench up to the same weight at a grand piano. But sweat and tears in the gym alone won't cut it. Flex must also stick to the superstrict diet set by coach Neil if he has any hope of shredding every last ounce of excess fat to qualify for his weight category in Vegas. Every grain of rice is accounted for. But as the calorie intake drops, the daily routine gets harder and harder to achieve. Flex has won the 212lb weight category every year since 2012. But just weeks before his sixth Mr Olympia, Flex faces the double blow of both personal tragedy and a natural disaster that forces him from his home. Out of the blue, life throws a couple of curveballs that look certain to disrupt his dreams. It falls to the tight team around Flex and his family who travel from Wales to Vegas to pull him through. As his legions of devoted fans descend upon Vegas to watch with the competition with baited breath, will Flex make it to the finish line and take his sixth consecutive title, or will his desire to equal his hero Arnold Schwarzenegger's record be shattered?",
+"small": "Bodybuilder and reigning Mr Olympia Flex Lewis prepares to claim his 6th title in a row.",
+"medium": "Following Welsh bodybuilder and reigning Mr Olympia James 'Flex' Lewis as he prepares to claim his sixth title in a row and equal the record held by Arnold Schwarzenegger.",
+"editorial": "He’s a musclebound megastar - can the Welshman make it six Mr Olympia titles in a row?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09wd05w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-01T21:55:00Z",
+"start": "2018-03-19T23:35:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"credits_start": 3001,
+"first_broadcast": "10:40pm 19 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries",
+"lifestyle",
+"sport",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "19 Mar 2018",
+"related_links": [],
+"original_title": "Flex Lewis: Superstar Bodybuilder",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-19T00:00:00.000Z",
+"editorial_subtitle": "Taking on the world",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0wsgk",
+"live": false,
+"type": "episode",
+"title": "Match of the Day",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03y6jf1.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007t9y1",
+"guidance": false,
+"subtitle": "2017/18: 21/04/2018",
+"synopses": {
+"large": "Dan Walker introduces highlights of Saturday's Premier League games, including the match between Watford and Crystal Palace at Vicarage Road. For Roy Hodgson's Palace points remain vital as they battle to secure their Premier League status. They face a tricky game against a Watford side that have also improved under new management since Javi Gracia took over. At the Hawthorns, West Brom face Liverpool.",
+"small": "Dan Walker introduces highlights of Watford v Crystal Palace and West Brom v Liverpool.",
+"medium": "Dan Walker introduces highlights of Saturday's Premier League games, featuring Watford v Crystal Palace and West Brom v Liverpool.",
+"editorial": "Can West Brom spring another surprise? And can Palace take a giant step towards safety?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0wnv3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-29T23:00:00Z",
+"start": "2018-04-22T23:00:00Z",
+"remaining": {
+"text": "Available until Mon 12am"
+}
+},
+"credits_start": 1780,
+"first_broadcast": "10:30pm 21 Apr 2018"
+}
+],
+"parent_id": "b0916v7z",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "21/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"editorial_subtitle": "21/04/2018: West Brom v Liverpool and Watford v Palace",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "p064sjxq",
+"live": false,
+"type": "episode",
+"title": "Snooker: World Championship",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0655sq2.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b010nsbf",
+"guidance": false,
+"subtitle": "2018 - Live: Hawkins v Carrington - Table 2",
+"synopses": {
+"small": "Watch live coverage of the 2018 World Snooker Championship from the Crucible in Sheffield",
+"medium": "Watch live coverage of the 2018 World Snooker Championship from the Crucible in Sheffield"
+},
+"versions": [
+{
+"hd": true,
+"id": "p064sk0k",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "300 mins",
+"value": "PT5H"
+},
+"availability": {
+"end": "2018-06-06T09:00:00Z",
+"start": "2018-04-24T00:02:34Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 16990
+}
+],
+"parent_id": "p064pfj2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"related_links": [],
+"original_title": "Hawkins v Carrington - Table 2",
+"audio_described": false,
+"requires_sign_in": true,
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+}
+]

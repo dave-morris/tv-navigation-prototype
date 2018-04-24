@@ -42,6 +42,20 @@
   padding-top: 320px;
 }
 
+.container.search {
+  display: none;
+  background-image: url("../img/search-background-image.png");
+  background-position: 0 204px;
+  background-repeat: no-repeat;
+}
+
+.container.settings {
+  display: none;
+  background-image: url("../img/settings-background-image.png");
+  background-position: 0 204px;
+  background-repeat: no-repeat;
+}
+
 .switching {
   background-color: #101010;
   background-image: url("../img/user-switching-background.png");

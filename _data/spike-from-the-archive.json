@@ -1,0 +1,1524 @@
+[
+{
+"id": "p00b997m",
+"live": false,
+"type": "episode",
+"title": "Louis Theroux's Weird Weekends",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05glz3q.jpg"
+},
+"labels": {
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006w7gn",
+"guidance": true,
+"subtitle": "Series 2: 5. Off-Off Broadway",
+"synopses": {
+"large": "Louis Theroux spends time in New York among the subculture of off-Broadway performers in his latest foray into the weirder fringes of American society. Only a small proportion of actors make a decent living and Louis soon finds himself struggling to get work alongside the thousands of out-of-work actors. To improve his chances he joins a talent grooming agency, puts together a portfolio and has acting and voice coaching lessons. But as he discovers, an actor's lot is not an easy one. (1999)",
+"small": "Louis endures Broadway's nightmare audition circuit. (1999)",
+"medium": "Louis Theroux spends time in New York among the subculture of off-Broadway performers in his latest foray into the weirder fringes of American society. (1999)"
+},
+"versions": [
+{
+"hd": true,
+"id": "p00b997n",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "49 mins",
+"value": "PT48M54S"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"start": "2018-02-09T08:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "9:30pm 16 Jun 1999"
+}
+],
+"parent_id": "p00b65z1",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "16 Jun 1999",
+"related_links": [],
+"original_title": "Off-Off Broadway",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "1999-06-16T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00jf36j",
+"live": false,
+"type": "episode",
+"title": "Law and Order",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063z0kf.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00jj4wt",
+"guidance": true,
+"subtitle": "1. A Detective's Tale",
+"synopses": {
+"small": "Drama series, dealing with an investigation from the perspectives of the police force.",
+"medium": "A play about the law: those who keep it, those who break it and those who live off it. A Detective's Tale tells the detective's view of a crime.",
+"editorial": "The law, 1970s style - those who keep it, those who break it and those who live off it."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00jf344",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "80 mins",
+"value": "PT1H20M"
+},
+"guidance": {
+"id": "WL",
+"text": {
+"large": "Contains language which some may find offensive.",
+"small": "Has guidance",
+"medium": "Contains language which may offend."
+}
+},
+"availability": {
+"end": "2018-05-12T22:20:00Z",
+"start": "2018-04-12T22:30:15Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "9pm 6 Apr 1978"
+}
+],
+"parent_id": "b00jj4wt",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "6 Apr 1978",
+"related_links": [],
+"original_title": "A Detective's Tale",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1978-04-06T00:00:00.000Z",
+"editorial_subtitle": "1/4 A Detective’s Tale. The classic, controversial drama",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05t6764",
+"live": false,
+"type": "episode",
+"title": "Madhur Jaffrey's Flavours of India",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062ctnk.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05rtvrt",
+"guidance": false,
+"subtitle": "Kerala",
+"synopses": {
+"large": "Indian cookery expert Madhur Jaffrey shows how to prepare delectable dishes from six Indian states. In the first programme, we are introduced to spices, coconut and fish dishes from Kerala. (1995)",
+"small": "Madhur Jaffrey shows how to prepare delectable dishes from Kerala. (1995)",
+"medium": "First of a six-part series in which Indian cookery expert Madhur Jaffrey shows how to prepare delectable dishes from six Indian states, starting in Kerala. (1995)"
+},
+"versions": [
+{
+"hd": false,
+"id": "p05t67c4",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M13S"
+},
+"availability": {
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "8:30pm 7 Mar 1995"
+}
+],
+"parent_id": "p05rtvrt",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "7 Mar 1995",
+"related_links": [],
+"original_title": "Kerala",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1995-03-07T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p01hs5t8",
+"live": false,
+"type": "episode",
+"title": "Storyville",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l9xtx.jpg"
+},
+"labels": {
+"category": "Film",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mfx6",
+"guidance": true,
+"subtitle": "Pussy Riot - A Punk Prayer",
+"synopses": {
+"large": "Sundance award-winning documentary which tells the compelling story of how a group of young, feminist punk rockers known as Pussy Riot captured the world's attention by protesting against Putin's Russia. Through first-hand interviews with band members, their families and the defence team, and exclusive footage of the trial, it highlights the forces that transformed these women from playful political activists to modern-day icons. \n\nIn early 2012, members of the collective donned their colourful trademark balaclavas and participated in a 40-second 'punk prayer protest' on the altar of Moscow's cathedral. Once arrested, Nadia, Masha and Katia were accused of religious hatred in a trial that triggered protests and arrests in Russia and caused uproar around the world. The film reveals the personal motives and courage of the women behind the balaclavas and exposes the state of Russian justice through the court's final verdict.",
+"small": "How a group of feminist punk rockers, known as Pussy Riot, captured the world's attention.",
+"medium": "Documentary which tells the compelling story of how a group of young, feminist punk rockers known as Pussy Riot captured the world's attention by protesting against Putin's Russia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03f429q",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "87 mins",
+"value": "PT1H27M"
+},
+"guidance": {
+"id": "L1S2",
+"text": {
+"large": "Contains some strong language and scenes of a sexual nature.",
+"small": "Has guidance",
+"medium": "Contains some strong language and sexual content."
+}
+},
+"availability": {
+"end": "2018-04-29T11:00:00Z",
+"start": "2016-04-29T11:00:00Z",
+"remaining": {
+"text": "Available until Sun 12pm"
+}
+},
+"credits_start": 5191,
+"first_broadcast": "10pm 21 Oct 2013"
+}
+],
+"parent_id": "b006mfx6",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"documentaries-music",
+"documentaries",
+"films",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "21 Oct 2013",
+"related_links": [],
+"original_title": "Pussy Riot - A Punk Prayer",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2013-10-21T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p04chjl7",
+"live": false,
+"type": "episode",
+"title": "Whicker's World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04chq70.jpg"
+},
+"labels": {
+"category": "Lifestyle",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p00lfvx9",
+"guidance": false,
+"subtitle": "The Love Generation",
+"synopses": {
+"large": "San Francisco has become the capital of the world for a rapidly growing tribal community of self-styled beautiful people. They are staging a peaceful revolution against the pressures and greed of the western way of life. \n\n\n\nBut the 'straight world' outside shows little enthusiasm for these Flower Children, with their long hair, far-out clothes, and dropped-out ideals. They're often viewed as parasitic and drug-addled.\n\n\n\nAlan Whicker finds himself surrounded by love, peace and harmony in 1960s San Francisco. (1967)",
+"small": "Alan Whicker finds himself surrounded by love and peace in San Francisco. (1967)",
+"medium": "San Francisco has become the capital of the world for a rapidly growing tribal community of self-styled beautiful people. Alan Whicker drops in on the Summer of Love. (1967)"
+},
+"versions": [
+{
+"hd": true,
+"id": "p04chkck",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"start": "2016-11-03T12:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2637,
+"first_broadcast": "8:25pm 9 Sep 1967"
+}
+],
+"parent_id": "p00lfvx9",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "9 Sep 1967",
+"related_links": [],
+"original_title": "The Love Generation",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1967-09-09T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p055t73r",
+"live": false,
+"type": "episode",
+"title": "The Colony",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0563bck.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p055t73r",
+"guidance": false,
+"synopses": {
+"large": "A railwayman from St. Kitts, a bus conductor from Jamaica, a family of singers from Trinidad and a nurse from Barbados ...\n\n\n\nPhilip Donnellan's Birmingham-based film gives a voice to West Indian immigrants who movingly describe their experiences of trying to integrate into a surprisingly unwelcoming ‘mother country’. Shot in 1964 the film provides an important snapshot of Britain in the early stages of momentous social change and first-generation Afro-Caribbean immigration. (1964)",
+"small": "Documentary about West Indian immigrants now living in Birmingham. (1964)",
+"medium": "Philip Donnellan's film looks at a railwayman from St. Kitts, a bus conductor from Jamaica, singers from Trinidad and a nurse from Barbados, all now living in Birmingham. (1964)",
+"editorial": "A Jamaican bus conductor, a Barbadian nurse and others offer a snapshot of British life."
+},
+"versions": [
+{
+"hd": true,
+"id": "p055t73y",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "57 mins",
+"value": "PT57M19S"
+},
+"availability": {
+"start": "2017-06-23T11:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3406,
+"first_broadcast": "16 Jun 1964"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"archive",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "16 Jun 1964",
+"related_links": [],
+"original_title": "The Colony",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1964-06-16T00:00:00.000Z",
+"editorial_subtitle": "In 1964, West Indian immigrants describe their experiences",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00mf3h1",
+"live": false,
+"type": "episode",
+"title": "Caribbean Food Made Easy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gjd6w.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00mh31r",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "Four-part Caribbean cookery series in which passionate food enthusiast Levi Roots travels around Jamaica and across the UK showing how to bring sunshine flavours to your kitchen.\n\n\n\nLevi returns to Jamaica where he grew up to cook spicy lamb in his childhood village, eat delicious yam mash with the family of Jamaican Olympic hero Usain Bolt, and barbecue fish Caribbean style - on the beach.",
+"small": "Levi Roots eats delicious yam mash with the family of Jamaican Olympic hero Usain Bolt.",
+"medium": "Caribbean cookery series. Levi Roots returns to Jamaica where he grew up, to cook spicy lamb, eat yam mash with the family of Usain Bolt, and barbecue fish on the beach."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00mf3gl",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "8:30pm 24 Aug 2009"
+}
+],
+"parent_id": "b00mh31r",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "24 Aug 2009",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2009-08-24T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0074syv",
+"live": false,
+"type": "episode",
+"title": "More Dawn French's Girls Who Do: Comedy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p046n05s.jpg"
+},
+"labels": {
+"category": "Comedy",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m8pr",
+"guidance": false,
+"subtitle": "Series 1: 5. Victoria Wood",
+"synopses": {
+"large": "Dawn French talks to Victoria Wood about her comedy life and influences. (2006)",
+"small": "Dawn French talks to Victoria Wood about her life in comedy. (2006)",
+"medium": "Dawn French talks to Victoria Wood about her comedy life and influences. (2006)",
+"editorial": "Dawn talks to the comedy icon about her life, work and influences."
+},
+"versions": [
+{
+"hd": true,
+"id": "b006kzdz",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2021-09-14T11:00:00Z",
+"start": "2016-09-14T11:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 1715,
+"first_broadcast": "9:30pm 18 Oct 2006"
+}
+],
+"parent_id": "b006m8pp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "18 Oct 2006",
+"related_links": [],
+"original_title": "Victoria Wood",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2006-10-18T00:00:00.000Z",
+"editorial_subtitle": "Victoria Wood",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p03zvvhl",
+"live": false,
+"type": "episode",
+"title": "50 Places To See Before You Die",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04141pt.jpg"
+},
+"labels": {
+"category": "Lifestyle",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p03zvvhl",
+"guidance": false,
+"synopses": {
+"large": "Earlier this year 20,000 members of the public cast their vote on what they saw as the locations everyone should visit at least once. The result is a definitive wishlist of global hotspots. In addition to the top 50, four viewers file a report from their favourite place. (2002)",
+"small": "The top 50 must-see places in the world, as voted for by the public. (2002)",
+"medium": "Craig Doyle presents a rundown of the top 50 must-see places in the world, as voted for earlier this year by 20,000 members of the public. (2002)"
+},
+"versions": [
+{
+"hd": true,
+"id": "p040j1vy",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M10S"
+},
+"availability": {
+"start": "2016-07-15T11:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3545,
+"first_broadcast": "10 Nov 2002"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"archive",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "10 Nov 2002",
+"related_links": [],
+"original_title": "50 Places To See Before You Die",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2002-11-10T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0080tp3",
+"live": false,
+"type": "episode",
+"title": "Arena",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p053rzkj.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006pn88",
+"guidance": false,
+"subtitle": "Desert Island Discs",
+"synopses": {
+"large": "First transmitted in 1982, Arena celebrates Roy Plomley's Desert Island Discs with the help of many celebrity castaways, including Frankie Howerd, Russell Harty, Trevor Brooking, the Lord Mayor of London, Professor JK Galbraith and Arthur Askey. The special guest for the 40th anniversary programme was Paul McCartney who was also a fan of the show: 'I love its homeliness. It conjures up the best in traditional British pleasure, like the great British breakfast. It's an honour to be asked'.",
+"small": "A celebration of Roy Plomley's radio favourite with some celebrity castaways' help. (1982)",
+"medium": "First transmitted in 1982, Arena celebrates Roy Plomley's classic radio favourite, with the help of celebrity castaways, including Frankie Howerd, Arthur Askey and Paul McCartney."
+},
+"versions": [
+{
+"hd": true,
+"id": "p037rj4w",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "47 mins",
+"value": "PT46M51S"
+},
+"availability": {
+"start": "2015-11-20T12:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2761,
+"first_broadcast": "23 Feb 1982"
+}
+],
+"parent_id": "b006pn88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "23 Feb 1982",
+"related_links": [
+{
+"id": "p0542xp5",
+"url": "http://www.bbc.co.uk/programmes/p04qvrx7",
+"kind": "priority_content",
+"type": "link",
+"title": "Listen to newly discovered episodes"
+}
+],
+"original_title": "Desert Island Discs",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1982-02-23T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01lxyzc",
+"live": false,
+"type": "episode",
+"title": "Horizon",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hk2l7.jpg"
+},
+"labels": {
+"category": "Science",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mgxf",
+"guidance": false,
+"subtitle": "2012-2013: 3. Eat, Fast and Live Longer",
+"synopses": {
+"large": "Michael Mosley has set himself a truly ambitious goal: he wants to live longer, stay younger and lose weight in the bargain. And he wants to make as few changes to his life as possible along the way. He discovers the powerful new science behind the ancient idea of fasting, and he thinks he's found a way of doing it that still allows him to enjoy his food. Michael tests out the science of fasting on himself - with life-changing results.",
+"small": "Michael Mosley examines the powerful science behind the ancient idea of fasting.",
+"medium": "Michael Mosley examines the science behind fasting, as he sets himself the ambitious goal of living longer, staying younger and losing weight without changing his lifestyle.",
+"editorial": "Michael Mosley tries out the science of fasting on himself - with life-changing results."
+},
+"versions": [
+{
+"hd": false,
+"id": "p01z2knv",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"start": "2014-05-20T09:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3525,
+"first_broadcast": "6 Aug 2012"
+}
+],
+"parent_id": "b01lbgw8",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "6 Aug 2012",
+"related_links": [
+{
+"id": "p0222n76",
+"url": "http://www.bbc.co.uk/iplayer/group/p01qvnmd",
+"kind": "priority_content",
+"type": "link",
+"title": "The Horizon Collection"
+}
+],
+"original_title": "Eat, Fast and Live Longer",
+"audio_described": false,
+"editorial_title": "Horizon: Eat, Fast and Live Longer",
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2012-08-06T00:00:00.000Z",
+"editorial_subtitle": "Putting fasting to the test",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0147qqb",
+"live": false,
+"type": "episode",
+"title": "David Attenborough - The Early Years",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p014dfnt.jpg"
+},
+"labels": {
+"category": "Science & Nature",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0147qqb",
+"guidance": false,
+"synopses": {
+"large": "First transmitted in 2013, Sir David Attenborough recalls key moments from his early broadcasting career and shares the stories behind them.\n\nAmong the highlights featured are Sir David's first encounter with Elsa the lioness immortalised by the Born Free book, and the logistics behind being the first to film indri lemurs, using a recording of their loud, distinctive calls to entice the animals out of hiding.\n\nHaving recently completed the landmark natural history series Africa (2012), Sir David also reflects on his first trip to the continent while filming Zoo Quest to West Africa in 1955.",
+"small": "David Attenborough recalls key moments from his early career. (2013)",
+"medium": "First transmitted in 2013, Sir David Attenborough recalls key moments from his early broadcasting career and shares the stories behind them."
+},
+"versions": [
+{
+"hd": false,
+"id": "p014f9wz",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "28 mins",
+"value": "PT28M22S"
+},
+"availability": {
+"start": "2014-05-29T16:03:20Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 1712,
+"first_broadcast": "10pm 23 Jan 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"archive",
+"science-and-nature"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "23 Jan 2013",
+"related_links": [
+{
+"id": "p017bckl",
+"url": "http://www.bbc.co.uk/iplayer/group/p00zw1jd",
+"kind": "priority_content",
+"type": "link",
+"title": "The Attenborough Collection"
+}
+],
+"original_title": "David Attenborough - The Early Years",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2013-01-23T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0074lzv",
+"live": false,
+"type": "episode",
+"title": "Arena",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hdh6q.jpg"
+},
+"labels": {
+"category": "Arts",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006pn88",
+"guidance": false,
+"subtitle": "Chelsea Hotel",
+"synopses": {
+"large": "First transmitted in 1981, this documentary programme looks at New York's Chelsea Hotel, a legendary haven for some of the 20th Century's greatest talent, from Mark Twain to Dylan Thomas. With appearances from Andy Warhol and William Burroughs, who have dinner in the room where Arthur C Clarke wrote 2001, and Quentin Crisp, who lived in the hotel for more than 35 years.",
+"small": "Chelsea Hotel in New York, a haven for some of the 20th Century's greatest talent. (1981)",
+"medium": "First transmitted in 1981, this documentary looks at the New York's Chelsea Hotel - a haven for some of the 20th Century's greatest talents, from Mark Twain to Dylan Thomas."
+},
+"versions": [
+{
+"hd": true,
+"id": "p02cbt8j",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "56 mins",
+"value": "PT55M33S"
+},
+"availability": {
+"start": "2017-08-15T15:25:42Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3307,
+"first_broadcast": "3 Jan 1981"
+}
+],
+"parent_id": "b006pn88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"arts"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "3 Jan 1981",
+"related_links": [
+{
+"id": "p01zvsvb",
+"url": "http://www.bbc.co.uk/iplayer/group/p00lk1tt",
+"kind": "priority_content",
+"type": "link",
+"title": "All American Collection"
+}
+],
+"original_title": "Chelsea Hotel",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1981-01-03T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05rprm8",
+"live": false,
+"type": "episode",
+"title": "Delia Smith's Cookery Course",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062csbx.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05rml64",
+"guidance": false,
+"subtitle": "Series 1: 1. Eggs",
+"synopses": {
+"large": "Do you know how to poach an egg successfully? Do you know how to tell if an egg is fresh? And a challenge even to the experienced cook: do you know the secrets of making a good souffle?\n\n\n\nIn this first programme of her classic cookery course, Delia Smith tackles eggs - a simple, cheap ingredient that almost everyone has in their cupboard. (1978)",
+"small": "Delia Smith starts her cookery course by tackling eggs. (1978)",
+"medium": "Delia Smith starts her cookery course by tackling eggs. (1978)"
+},
+"versions": [
+{
+"hd": false,
+"id": "p05rps7p",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "25 mins",
+"value": "PT24M35S"
+},
+"availability": {
+"end": "2020-03-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "7:35pm 3 Nov 1978"
+}
+],
+"parent_id": "p05rmlds",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "3 Nov 1978",
+"related_links": [],
+"original_title": "Eggs",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1978-11-03T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p00b6c9m",
+"live": false,
+"type": "episode",
+"title": "Louis Theroux's Weird Weekends",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05glyzb.jpg"
+},
+"labels": {
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006w7gn",
+"guidance": true,
+"subtitle": "Series 2: 4. Demolition Derby",
+"synopses": {
+"large": "This week, Louis Theroux tries to infiltrate Michigan’s demolition derby industry and drive in a race himself. He seeks advice from drivers Jon Lipka and Rick Arnold and cousins Kevin and Steve Hanna, who find him a car and get him ready for his first competition. But after seeing them in action, Theroux begins to wonder if he is up to the challenge. (1999)",
+"small": "Can Louis Theroux cut it as a demolition derby driver? (1999)",
+"medium": "This week, Louis Theroux tries to infiltrate Michigan’s demolition derby industry and drive in a race himself. (1999)"
+},
+"versions": [
+{
+"hd": true,
+"id": "p00b6c9p",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "48 mins",
+"value": "PT48M17S"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"start": "2018-02-09T08:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "9:30pm 9 Jun 1999"
+}
+],
+"parent_id": "p00b65z1",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "9 Jun 1999",
+"related_links": [],
+"original_title": "Demolition Derby",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "1999-06-09T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03j5hgr",
+"live": false,
+"type": "episode",
+"title": "Floyd on France",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062ct6v.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03j86yd",
+"guidance": false,
+"subtitle": "1. Provence",
+"synopses": {
+"large": "In the first programme in the series celebrating the great gastronomic regions of France, shy and retiring cook Keith Floyd returns to the rich landscape of Provence where he discovered his passion for good food and cooking. (1987)",
+"small": "Keith Floyd celebrates the great gastronomic regions of France. (1987)",
+"medium": "Keith Floyd celebrates the great gastronomic regions of France by returning to the rich landscape of Provence where he discovered his passion for good food and cooking. (1987)"
+},
+"versions": [
+{
+"hd": false,
+"id": "p061tqc5",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "38 mins",
+"value": "PT38M4S"
+},
+"availability": {
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "1 Sep 1987"
+}
+],
+"parent_id": "b03j86yd",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "1 Sep 1987",
+"related_links": [],
+"original_title": "Provence",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1987-09-01T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0074r2x",
+"live": false,
+"type": "episode",
+"title": "Civilisation",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04xl4yd.jpg"
+},
+"labels": {
+"category": "History",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00dtjbv",
+"guidance": false,
+"subtitle": "1. The Skin of Our Teeth",
+"synopses": {
+"large": "Sir Kenneth Clark begins his classic 1969 series on the history of civilisation with the re-establishment of civilisation in Western Europe, in the tenth century after the fall of Rome to barbarism. He travels from Byzantine Ravenna to the Celtic Hebrides examining aqueducts, cathedrals, the lives of the Vikings and of the Holy Roman Emperor Charlemagne.",
+"small": "Kenneth Clark's classic 1969 series looks at how European art survived the Dark Ages.",
+"medium": "Classic 1969 series. Kenneth Clark looks at the re-establishment of civilisation in Western Europe after the fall of Rome.",
+"editorial": "Exploring the history of Western civilisation through art, ideas, music and philosophy."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0007bpf",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "50 mins",
+"value": "PT50M"
+},
+"availability": {
+"end": "2022-04-20T11:00:00Z",
+"start": "2018-02-07T11:59:34Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2949,
+"first_broadcast": "8:15pm 23 Feb 1969"
+}
+],
+"parent_id": "b00dtjbv",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"archive",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "23 Feb 1969",
+"related_links": [
+{
+"id": "p05zr0cy",
+"url": "https://www.bbc.co.uk/programmes/p05xxp5j",
+"kind": "priority_content",
+"type": "link",
+"title": "Civilisations: The new landmark series"
+}
+],
+"original_title": "The Skin of Our Teeth",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1969-02-23T00:00:00.000Z",
+"editorial_subtitle": "Full series. Sir Kenneth Clarke's celebrated landmark series",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p0142pxj",
+"live": false,
+"type": "episode",
+"title": "Panorama",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p028b61q.jpg"
+},
+"labels": {
+"category": "Current affairs",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006t14n",
+"guidance": false,
+"subtitle": "Apollo 11: The Impact on Earth",
+"synopses": {
+"large": "First transmitted in 1969, Robin Day hosts a special edition of the current affairs programme, marking man's first steps on the surface of the moon. Julian Pettifer reports on demonstrators who believe the money spent on the Apollo missions should have been used to feed the starving millions back on Earth. In the studio, contributors including science fiction novelist Brian Aldiss debate the issues surrounding the moon landing and its possible legacy.",
+"small": "A special edition to mark man's first steps on the surface of the moon. (1969)",
+"medium": "First transmitted in 1969, Robin Day hosts a special edition, marking man's first steps on the surface of the moon."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0286123",
+"kind": "iplayer-version",
+"type": "version",
+"download": false,
+"duration": {
+"text": "49 mins",
+"value": "PT49M"
+},
+"availability": {
+"start": "2017-08-02T12:58:08Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2933,
+"first_broadcast": "21 Jul 1969"
+}
+],
+"parent_id": "b006t14n",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"news"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "21 Jul 1969",
+"related_links": [
+{
+"id": "p028dnxk",
+"url": "http://www.bbc.co.uk/iplayer/group/p02865b6",
+"kind": "priority_content",
+"type": "link",
+"title": "Space Race Collection"
+}
+],
+"original_title": "Apollo 11: The Impact on Earth",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1969-07-21T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b01ml70w",
+"live": false,
+"type": "episode",
+"title": "Lorraine's Fast, Fresh and Easy Food",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hx9pn.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01m28pp",
+"guidance": false,
+"subtitle": "4. Baking It",
+"synopses": {
+"large": "Lorraine indulges in her passion for baking and shows us some quick and simple fuss-free ideas, including a slow-baked leg of lamb, a beautiful crusty loaf and some show-stopping strawberry cakes.",
+"small": "Lorraine makes a slow-baked leg of lamb, a crusty loaf and show-stopping strawberry cakes.",
+"medium": "Lorraine indulges in her passion for baking and shows us some simple ideas, including a slow-baked leg of lamb, a beautiful crusty loaf and some show-stopping strawberry cakes."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01ml70r",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 1718,
+"first_broadcast": "8:30pm 3 Sep 2012"
+}
+],
+"parent_id": "b01m28pp",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "3 Sep 2012",
+"related_links": [
+{
+"id": "p00xzy5j",
+"url": "http://www.bbc.co.uk/food/programmes/b01ml70w",
+"kind": "priority_content",
+"type": "link",
+"title": "Recipes"
+}
+],
+"original_title": "Baking It",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2012-09-03T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true
+},
+{
+"id": "p05rqhbv",
+"live": false,
+"type": "episode",
+"title": "Delia Smith's Cookery Course",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062csfm.jpg"
+},
+"labels": {
+"category": "Food",
+"editorial": "Archive"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05rml64",
+"guidance": false,
+"subtitle": "Series 1: 4. Fish",
+"synopses": {
+"large": "As a nation we eat far too little fish, yet fish is nutritious, easily digested and, best of all, quick to cook. In this programme, Delia Smith shows some basic and some more unusual ways of preparing a range of tasty fish dishes. (1978)",
+"small": "Delia shows a range of ways of preparing tasty fish dishes. (1978)",
+"medium": "Delia Smith shows some basic and some more unusual ways of preparing a range of tasty fish dishes. (1978)"
+},
+"versions": [
+{
+"hd": false,
+"id": "p05rqhk9",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "23 mins",
+"value": "PT23M4S"
+},
+"availability": {
+"end": "2020-03-30T05:00:00Z",
+"start": "2018-03-31T05:00:00Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "7:35pm 24 Nov 1978"
+}
+],
+"parent_id": "p05rmlds",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"archive",
+"food"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "24 Nov 1978",
+"related_links": [],
+"original_title": "Fish",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "1978-11-24T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+}
+]

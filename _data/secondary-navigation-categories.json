@@ -106,7 +106,7 @@
 	},
 },{
 	"title": "News",
-	"data-id": "news",
+	"data-id": "news-category",
 	"images": {
 		"focussed": "",
 		"unfocussed": ""

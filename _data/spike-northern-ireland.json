@@ -1,0 +1,1526 @@
+[
+{
+"id": "b0b0xjfc",
+"live": false,
+"type": "episode",
+"title": "Flog It!",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0483s0c.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Lifestyle"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006mk0g",
+"guidance": false,
+"subtitle": "Series 15: 54. Belfast 44",
+"synopses": {
+"large": "Paul Martin presents from the Ulster Folk and Transport Museum in Northern Ireland, a gallery celebrating traditional ways of life which plays host to antiques experts Mark Stacey and Thomas Plant. Turning up out of the hundreds of bags and boxes is a collection of football memorabilia for fans of footballers George Best and Pat Jennings, and two bronze vases from the 19th-century Japanese Meiji period. And presenter Paul Martin delves into the early days of Northern Irish punk and meets a member of The Undertones.",
+"small": "Paul Martin presents from the Ulster Folk and Transport Museum in Northern Ireland.",
+"medium": "Paul Martin presents from the Ulster Folk and Transport Museum in Northern Ireland. Experts Mark Stacey and Thomas Plant view items including football memorabilia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0xj0w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-23T16:15:00Z",
+"start": "2018-04-23T16:15:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "4:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b073j39h",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Belfast 44",
+"audio_described": false,
+"parent_position": 54,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "F",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b117yp",
+"live": false,
+"type": "episode",
+"title": "Hame",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064g5nq.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09wzbnc",
+"guidance": false,
+"subtitle": "Series 1: 5. Foyle Valley",
+"synopses": {
+"large": "In this episode, Ruth Sanderson and Mark Thompson head for Co Tyrone. From ancient forts to a stately home they explore stories of fishing and farming, as they trace the communities who settled along the banks of the River Foyle.",
+"small": "Mark Thompson and Ruth Sanderson along the banks of the River Foyle.",
+"medium": "This episode sees presenters Mark Thompson and Ruth Sanderson tracing the communities who settled along the banks of the River Foyle."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b1179k",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T21:30:00Z",
+"start": "2018-04-22T21:30:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "10pm 22 Apr 2018"
+}
+],
+"parent_id": "b09wzcc9",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Foyle Valley",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcz0q",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v8m7.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 4. Cowboys",
+"synopses": {
+"large": "We're out on the open range with the cowboys and cowgirls of Ireland as we saddle up with the men and women who live their lives western-style. From Desperate Dans competing in the All-Ireland western riding championships to a magnificent seven from Donegal staging an old-time bank robbery, it's like the Wild West out there!",
+"small": "Venturing out with the cowboys and cowgirls of Ireland.",
+"medium": "Series about Northern Ireland's country music scene. This edition ventures out with the cowboys and cowgirls of Ireland, men and women who live their lives western-style."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zcyz1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-17T21:30:00Z",
+"start": "2018-04-16T22:10:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "10:40pm 16 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Cowboys",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0gg8x",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064g3zs.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 5. Town and Country",
+"synopses": {
+"large": "The tiny village of Clonmany in Donegal hosts the longest-running country music festival in Ireland, and as it prepares for its 50th anniversary this year, we meet the locals who make it all possible. With a night of nostalgia focusing on the veteran stars, Philomena Begley and TR Dallas take centre stage in this trip down memory lane.",
+"small": "The preparations for the 50th anniversary of NI's longest-running country music festival.",
+"medium": "Series about Northern Ireland's country music scene. Following preparations for the 50th anniversary of the longest-running country music festival in Ireland."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0gg86",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-23T22:10:00Z",
+"start": "2018-04-23T22:10:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "10:40pm 23 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-24T21:00:00.000Z"
+},
+"original_title": "Town and Country",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b083dp3s",
+"live": false,
+"type": "episode",
+"title": "Titanic's Tragic Twin: The Britannic Disaster",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04g8mj9.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b083dp3s",
+"guidance": false,
+"synopses": {
+"large": "The Titanic sank in April 1912, and her sister ship, the Britannic, ultimately suffered the fate, sinking in 1916 due to an explosion caused by an underwater mine.\n\nIn the wake of the Titanic disaster, Britannic was re-engineered to be even stronger. And yet she sank in just 55 minutes - three times faster than Titanic. It's one of Britain's greatest untold disaster stories. Now on the 100th anniversary, presenters Kate Humble and Andy Torbet piece together exactly what happened in those 55 minutes.\n\nWhile Andy makes a dangerous dive to the wreck, Kate speaks to descendants of the survivors. The characters she uncovers include Violet 'Miss Unsinkable' Jessops, who survived both Titanic and Britannic, Captain 'Iceberg Charlie' Bartlett and lookout Archie Jewell, who miraculously survived while those around him died.",
+"small": "A look at how and why the Britannic, sister ship of the Titanic, sank 100 years ago.",
+"medium": "Documentary about the sinking of the Britannic during the First World War, examining how she ultimately came to suffer the same fate as her sister ship, the Titanic."
+},
+"versions": [
+{
+"hd": true,
+"id": "b083dnz9",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T21:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 3524,
+"first_broadcast": "9pm 21 Nov 2016"
+},
+{
+"hd": false,
+"id": "p04k9m24",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T21:50:37Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "21 Nov 2016"
+},
+{
+"hd": true,
+"id": "b08bbbxf",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-16T02:20:00Z",
+"start": "2018-04-16T02:20:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "21 Nov 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries-life-stories",
+"documentaries",
+"history",
+"northern-ireland",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "21 Nov 2016",
+"related_links": [],
+"original_title": "Titanic's Tragic Twin: The Britannic Disaster",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2016-11-21T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b07w92d9",
+"live": false,
+"type": "episode",
+"title": "The Call of the Pipes",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p047tntd.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07w92d9",
+"guidance": false,
+"synopses": {
+"large": "The bagpipes may be the national instrument of Scotland, but in the past fifty years, Ulster has become the bedrock of the pipe band world. This is the inside story of two pipe bands. Thiepval Memorial is led by a fearsome female pipe major with a serious passion for the music. McDonald Memorial are a band with family traditions to uphold. From practices to competition, we follow them to the climax of their year - performing at the Belfast Tattoo.",
+"small": "An inside story of two pipe bands, Thiepval Memorial and McDonald Memorial.",
+"medium": "An inside story of two pipe bands, Thiepval Memorial and McDonald Memorial. The film follows them as they prepare for the climax of their year - performing at the Belfast Tattoo."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07w928x",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"start": "2017-10-04T12:36:33Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 1755,
+"first_broadcast": "10pm 17 Sep 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "17 Sep 2016",
+"related_links": [],
+"original_title": "The Call of the Pipes",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2016-09-17T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0gg8v",
+"live": false,
+"type": "episode",
+"title": "Home Ground",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xhrv.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08kgdck",
+"guidance": false,
+"subtitle": "Series 4: Episode 1",
+"synopses": {
+"large": "The rural affairs magazine show returns for another series. Gavin Andrews and Jo Scott introduce a host of stories and people who use the countryside for work, rest and play.",
+"small": "Magazine series celebrating the richness of rural life in Northern Ireland.",
+"medium": "Gavin Andrews and Jo Scott present a new series of the rural affairs magazine celebrating the richness of rural life in Northern Ireland."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0gc22",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:00:00Z",
+"start": "2018-04-23T19:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b0b0gc08",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-science-and-nature",
+"documentaries",
+"lifestyle",
+"northern-ireland",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "23 Apr 2018",
+"related_links": [
+{
+"id": "p0654yvm",
+"url": "https://www.bbc.co.uk/programmes/p0654dxb/p0654193",
+"kind": "priority_content",
+"type": "link",
+"title": "Behind the scenes from Episode 1"
+}
+],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-28T18:30:00.000Z"
+},
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09tn2sv",
+"live": false,
+"type": "episode",
+"title": "Ulster Rugby Live",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06549r3.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b014rh7y",
+"guidance": false,
+"subtitle": "2017-18: Ulster v Glasgow Warriors",
+"synopses": {
+"large": "Stephen Watson presents coverage of Ulster's rescheduled Pro14 fixture against Glasgow Warriors. Paddy Wallace and Stephen Ferris are in the studio to offer expert opinion and match analysis, while Jim Neilly provides the commentary.",
+"small": "Pro14 rugby coverage as Ulster welcome Glasgow Warriors to Kingspan Stadium.",
+"medium": "Stephen Watson presents live rugby coverage as Ulster welcome Glasgow Warriors to Kingspan Stadium in a rescheduled Pro14 fixture."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09tn2rj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "119 mins",
+"value": "PT1H59M"
+},
+"availability": {
+"end": "2018-05-21T19:15:00Z",
+"start": "2018-04-21T23:40:10Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "6pm 21 Apr 2018"
+}
+],
+"parent_id": "b0938ckm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"northern-ireland",
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Ulster v Glasgow Warriors",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "U",
+"requires_tv_licence": true
+},
+{
+"id": "b08402cz",
+"live": false,
+"type": "episode",
+"title": "The Priest in the Jeans",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061qbjp.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08402cz",
+"guidance": true,
+"synopses": {
+"large": "Stephen Nolan meets people who have gone on a remarkable journey and reveals the events that have changed their lives. This week, he meets Ardoyne priest Gary Donegan, who shares his experiences of mediating at Twaddell Avenue.",
+"small": "Stephen Nolan meets Gary Donegan, who shares his experiences mediating at Twaddell Avenue.",
+"medium": "Stephen Nolan meets those whose lives have been changed by unexpected events. He meets Ardoyne priest Gary Donegan, who shares his experiences of mediating at Twaddell Avenue."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgkhr",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-04T21:25:00Z",
+"start": "2018-03-28T22:15:00Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"first_broadcast": "28 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-history",
+"documentaries-life-stories",
+"documentaries",
+"history",
+"lifestyle",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "28 Mar 2018",
+"related_links": [
+{
+"id": "p062kk1h",
+"url": "http://www.bbc.co.uk/programmes/articles/4WLs5NlwrySXJR2n8Snszdg/emotional-distress-information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"original_title": "The Priest in the Jeans",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-28T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b08sx1j0",
+"live": false,
+"type": "episode",
+"title": "Suzi Perry's Queens of the Road",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p053n2y0.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08sx1j0",
+"guidance": false,
+"synopses": {
+"large": "In this Our Lives documentary, Suzi Perry travels to Northern Ireland to meet three women who compete in the exhilarating yet highly dangerous sport of motorcycle road racing.",
+"small": "Suzi Perry meets three Northern Irish women who compete in motorcycle road racing.",
+"medium": "Documentary in which Suzi Perry meets three Northern Irish women who compete in the exhilarating yet highly dangerous sport of motorcycle road racing."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08sx1bv",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-07T17:30:00Z",
+"start": "2018-04-07T17:30:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"credits_start": 1714,
+"first_broadcast": "28 May 2017"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries",
+"northern-ireland",
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "28 May 2017",
+"related_links": [],
+"original_title": "Suzi Perry's Queens of the Road",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-05-28T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p060bxbd",
+"live": false,
+"type": "episode",
+"title": "Coast Lives",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060zkx2.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09tnbth",
+"guidance": false,
+"subtitle": "Journey by Air: 3. Belfast Lough to Warrenpoint port",
+"synopses": {
+"large": "In the last of three journeys by air around the picturesque coastline of Northern Ireland we pass Holywood, Helen’s Bay, Bangor, the Copeland Islands, Donaghadee, Millisle, Ballywalter, Ballyhalbert, Portavogie, Portaferry, Strangford Lough (taking in Greyabbey, Mount Stewart, Whiterock and Castle Ward), Ardglass, St. John’s Point Lighthouse, the Mourne Mountains, Annalong, Ballymartin and Kilkeel, before arriving in Carlingford Lough and disembarking at Warrenpoint port. Take it all in at a leisurely pace, set to a musical soundtrack with no commentary.",
+"small": "The final journey by air around the picturesque coastline of Northern Ireland.",
+"medium": "In the final journey by air around the picturesque coastline of Northern Ireland, we fly over North Down and continue to Carlingford before disembarking at Warrenpoint port."
+},
+"versions": [
+{
+"hd": true,
+"id": "p060bxjg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "96 mins",
+"value": "PT1H36M13S"
+},
+"availability": {
+"end": "2018-09-02T19:00:00Z",
+"start": "2018-03-17T03:08:13Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"first_broadcast": "16 Mar 2018"
+}
+],
+"parent_id": "p05yrwcz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"northern-ireland",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "16 Mar 2018",
+"related_links": [],
+"original_title": "Belfast Lough to Warrenpoint port",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-03-16T00:00:00.000Z",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+},
+{
+"id": "b09ynzy2",
+"live": false,
+"type": "episode",
+"title": "BBC Radio 2 Folk Awards",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063dqz8.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00yrkrj",
+"guidance": false,
+"subtitle": "2018: 2. Highlights",
+"synopses": {
+"large": "Mark Radcliffe and Julie Fowlis present this year's prestigious awards ceremony from Belfast's Waterfront Hall. Live music is provided by Paul Brady, Eliza Carthy, Donal Lunny, Cara Dillon and more.",
+"small": "The BBC Radio 2 Folk Awards from Belfast's Waterfront Hall.",
+"medium": "Mark Radcliffe and Julie Fowlis present this year's awards ceremony from Belfast's Waterfront Hall. With live music from Paul Brady, Eliza Carthy and Donal Lunny among others.",
+"editorial": "Paul Brady, Eliza Carthy and Cara Dillon are among those performing in Belfast."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09ynz7y",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-09T23:10:00Z",
+"start": "2018-04-08T17:30:00Z",
+"remaining": {
+"text": "Available for 15 days"
+}
+},
+"first_broadcast": "9 Apr 2018"
+}
+],
+"parent_id": "b09rj3q4",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "9 Apr 2018",
+"related_links": [],
+"original_title": "Highlights",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"editorial_subtitle": "A celebration of the biggest stars in folk",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09yjgmd",
+"live": false,
+"type": "episode",
+"title": "Hame",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062pv9y.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09wzbnc",
+"guidance": false,
+"subtitle": "Series 1: 3. Cullybackey",
+"synopses": {
+"large": "Mark Thompson and Ruth Sanderson are in Co. Antrim in this episode. There's praise and poetry, country fiddling and a rare glimpse into the village's industrial heritage to be explored in Cullybackey.",
+"small": "Mark Thompson and Ruth Sanderson are in village of Cullybackey, Co Antrim.",
+"medium": "Ulster-Scots series. This episode sees presenters Mark Thompson and Ruth Sanderson in the village of Cullybackey, Co Antrim."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09yjgkj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-01T21:35:00Z",
+"start": "2018-04-01T21:35:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "10pm 1 Apr 2018"
+}
+],
+"parent_id": "b09wzcc9",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "1 Apr 2018",
+"related_links": [],
+"original_title": "Cullybackey",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-01T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b09d5tg8",
+"live": false,
+"type": "episode",
+"title": "Luther agus An Domhan Gaelach",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05ktq8h.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09d5tg8",
+"guidance": false,
+"synopses": {
+"large": "Le 500 bliain ón Reifirméisean Phrotastúnach a chomóradh, beidh an Dr Art Hughes, scoláire Gaeilge, ag amharc ar thionchar Martin Luther agus a chuid smaointe ar lucht labhartha na Gaeilge in Albain agus in Éirinn.\n\n\n\nIn a protest against the extravagance of the Catholic Church the little known German friar pinned a controversial document - The 95 theses - on a church door and caused a sensation. The event led to major religious and political upheavals across Europe as Protestantism was born.\n\n\n\nTo mark the 500th anniversary of the Reformation, Dr Art Hughes examines the impact of Martin Luther and his ideas on the Gaelic-speaking peoples. In a journey that takes him from Rome, Germany and Geneva to the Outer Hebrides and across the island of Ireland, Art uncovers why the Gaelic-speaking areas of Scotland became, to a large extent, Protestant while most of Ireland remained Catholic. He shows how Luther's legacy still looms large over the Gaelic world.",
+"small": "The impact of Martin Luther and his ideas on the Gaelic-speaking peoples.",
+"medium": "Documentary in which Dr Art Hughes examines the impact of Martin Luther and his ideas on the Gaelic-speaking peoples of Scotland and Ireland."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09d5tcs",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"availability": {
+"start": "2018-02-06T16:29:02Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 3504,
+"first_broadcast": "6 Feb 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"lifestyle",
+"northern-ireland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "6 Feb 2018",
+"related_links": [
+{
+"id": "p05l5njf",
+"url": "https://www.bbc.co.uk/iplayer/groups/gaeilge",
+"kind": "priority_content",
+"type": "link",
+"title": "BBC Gaeilge Collections"
+}
+],
+"original_title": "Luther agus An Domhan Gaelach",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-02-06T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true
+},
+{
+"id": "b09x8ddz",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061m4jk.jpg"
+},
+"labels": {
+"time": "Last Chance",
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 1. Trucks",
+"synopses": {
+"large": "We're on the road with the men and women who, when they aren't jiving, just keep on trucking. With Ireland's biggest truck show in their sights, we jump in the cab with lorry-loving women who spend hundreds of thousands on their vehicles to keep them in tip-top condition, and the men who combine their weekly workload with pulling up to country music festivals at the weekends.",
+"small": "Joining the male and female truckers who have Ireland's biggest truck show in their sights",
+"medium": "Series about Northern Ireland's country music scene. This edition joins male and female truckers who have Ireland's biggest truck show in their sights."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09x8ddj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-04-26T21:30:00Z",
+"start": "2018-03-26T23:30:31Z",
+"remaining": {
+"text": "Available until Thu 10:30pm"
+}
+},
+"first_broadcast": "10:40pm 26 Mar 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "26 Mar 2018",
+"related_links": [],
+"original_title": "Trucks",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-03-26T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b09yn6xc",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061m5hj.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 3. Festival of Love",
+"synopses": {
+"large": "There is love in the country air as thousands of young singles descend on a festival dedicated to country music and romance. With bad Wi-Fi out in the sticks, the best way to meet a partner is face to face on the dance floor, but as some hopefuls find out, if you can't dance you might have trouble finding a soulmate. But with an actual wedding taking place on the main stage, and a proposal in the audience, there is more to this festival than a quick shift.",
+"small": "Joining the young singles at a festival dedicated to country music and romance.",
+"medium": "Series about Northern Ireland's country music scene. This edition joins young singles as they descend on a festival dedicated to country music and romance."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yn6x1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-10T21:30:00Z",
+"start": "2018-04-09T22:10:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"first_broadcast": "10:40pm 9 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "9 Apr 2018",
+"related_links": [],
+"original_title": "Festival of Love",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "p063r9hz",
+"live": false,
+"type": "episode",
+"title": "The Arts Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063rnl1.jpg"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04q0z5b",
+"guidance": false,
+"subtitle": "Arts Show X: 10. April 2018",
+"synopses": {
+"large": "A miniature world at war, an emigrant’s song from Daoirí/LondonDaoirí Farrell and an Ode to a Greasy Bird from prize-winning poet Dawn Watson. Peter McCaughan is this month’s digital Sherpa for your latest emerging arts talent.",
+"small": "A miniature world at war, prize-winning poet Dawn Watson and a song from Daoirí Farrell.",
+"medium": "A miniature world at war, an emigrant’s song from Daoirí/LondonDaoirí Farrell and an Ode to a Greasy Bird from prize-winning poet Dawn Watson. Peter McCaughan is your Sherpa."
+},
+"versions": [
+{
+"hd": false,
+"id": "p063rmpt",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "12 mins",
+"value": "PT12M25S"
+},
+"availability": {
+"end": "2018-05-12T09:00:00Z",
+"start": "2018-04-12T09:00:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "12 Apr 2018"
+}
+],
+"parent_id": "p05bjp45",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"northern-ireland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "April 2018",
+"audio_described": false,
+"parent_position": 10,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true
+},
+{
+"id": "b09c5622",
+"live": false,
+"type": "episode",
+"title": "Brave New World",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05k5r7n.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b06ktlf0",
+"guidance": false,
+"subtitle": "Back Home",
+"synopses": {
+"large": "Over four years and across seven hours of television William Crawley has travelled to America, Canada, New Zealand and Australia to tell the stories of some remarkable Ulster-Scots men and women who made their mark in the New World. Now he returns to home soil to find out what those stories reveal about the Ulster-Scots diaspora as a whole and how the loss of sons and daughters, neighbours and friends over generations has made emigration part of our story and of this world, Back Home.",
+"small": "William Crawley explains how emigration is part of the Ulster-Scots story.",
+"medium": "William Crawley has been to America, Canada, New Zealand and Australia, now he returns to home soil to find out what the stories he heard reveal about the Ulster-Scots diaspora."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09c560j",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"start": "2017-10-22T22:55:01Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2617,
+"first_broadcast": "10pm 22 Oct 2017"
+}
+],
+"parent_id": "b06ktlf0",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_northern_ireland_digital",
+"titles": {
+"large": "BBC Two Northern Ireland",
+"small": "BBC Two",
+"medium": "BBC Two Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_two_northern_ireland"
+},
+"release_date": "22 Oct 2017",
+"related_links": [
+{
+"id": "p05kglcy",
+"url": "https://www.bbc.co.uk/iplayer/groups/ulster-scots",
+"kind": "priority_content",
+"type": "link",
+"title": "Ulster-Scots Collections on iPlayer"
+}
+],
+"original_title": "Back Home",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2017-10-22T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09xtcfz",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062c94z.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 2. For God and Country",
+"synopses": {
+"large": "The religious anthem 'One Day at a Time' by country artist Gloria still remains the biggest hit in the Irish charts, so it is unsurprising then that country music that speaks to believers is a genre all of its own. In this episode, we meet the men of the cloth who are religious about country music. From singing reverends to jiving priests, it's a communion of the holy and the hooley.",
+"small": "The men of the cloth who are religious about country music.",
+"medium": "Series about Northern Ireland's country music scene. The men of the cloth who are religious about country music."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09xtc8r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-03T21:30:00Z",
+"start": "2018-04-02T22:00:00Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"first_broadcast": "10:30pm 2 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "2 Apr 2018",
+"related_links": [],
+"original_title": "For God and Country",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-02T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0bhpl",
+"live": false,
+"type": "episode",
+"title": "The View",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tmwpp.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01mzml5",
+"guidance": false,
+"subtitle": "22/04/2018",
+"synopses": {
+"large": "Join Mark Carruthers and guests on Thursdays for The View - the week's political news, comments and expert analysis. The View reports events at Stormont and Westminster and how they are affecting issues such as health and the economy. It follows the ups and downs of the political parties and debates the highs and lows of the political week. It also has an alternative view on the week's political headlines.",
+"small": "Mark Carruthers reviews the week's political events from Stormont and Westminster.",
+"medium": "Mark Carruthers and guests review the week's political events from Stormont and Westminster and follow the highs and lows of the political week."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0bhp1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "40 mins",
+"value": "PT40M"
+},
+"availability": {
+"end": "2018-05-22T15:15:00Z",
+"start": "2018-04-22T16:32:32Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "3:35pm 22 Apr 2018"
+}
+],
+"parent_id": "b01mzml5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"northern-ireland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "V",
+"requires_tv_licence": true
+}
+]

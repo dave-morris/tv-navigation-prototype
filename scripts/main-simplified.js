@@ -40,7 +40,7 @@ $(document).ready(function() {
 
         //show the channels container
         $('.container.channels').show();
-        chanToShow = $('.container.channels .secondary-navigation .nav.carousel .carousel-content .content-wrapper.wasfocus').attr('data-id');
+        chanToShow = $('.container.channels .carousel-content .content-wrapper.wasfocus').attr('data-id');
 
         //show the container that has the thing last focussed in the secondary nav
         $('[data-id=' + chanToShow + ']').show();
@@ -54,15 +54,30 @@ $(document).ready(function() {
 
         //show the channels container
         $('.container.categories').show();
-        catToShow = $('.container.categories .secondary-navigation .nav.carousel .carousel-content .content-wrapper.wasfocus').attr('data-id');
+        catToShow = $('.container.categories .carousel-content .content-wrapper.wasfocus').attr('data-id');
 
         //show the container that has the thing last focussed in the secondary nav
         $('[data-id=' + catToShow + ']').show();
 
+      } else if (currentSection == 5) {
+
+        //hide the current container
+        $('.container').hide();
+
+        //show the channels container
+        $('.container.search').show();
+
+      } else if (currentSection == 6) {
+
+        //hide the current container
+        $('.container').hide();
+
+        //show the channels container
+        $('.container.settings').show();
 
       }
 
-    }, 600);
+    }, 100);
 
   }
 
@@ -352,6 +367,16 @@ $(document).ready(function() {
 
         $('.container.categories .secondary-navigation').children().eq(0).addClass('active');
 
+      } else if ($('.primary-navigation .content-wrapper:eq(4)').hasClass('focus')) {
+
+        //give the primary nav active class again
+        $('.primary-navigation').addClass('active');
+
+      } else if ($('.primary-navigation .content-wrapper:eq(5)').hasClass('focus')) {
+
+        //give the primary nav active class again
+        $('.primary-navigation').addClass('active');
+
       }
 
       //Remove the focus state from the primary nav and add to the first item
@@ -535,10 +560,9 @@ $(document).ready(function() {
 
       if (current > 1) {
 
-        //give focus to the first content item in the carousel
+        //Return focus to the first item and reset the carousel
+        $('.active .content-wrapper.focus').removeClass('focus');
         $('.active .content-wrapper:first').addClass('focus');
-
-        //reset the translateX position of the carousel
         $('.active .carousel-content').css('transform', 'translateX(0px)');
 
       } else {

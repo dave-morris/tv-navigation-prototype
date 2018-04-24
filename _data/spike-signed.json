@@ -1,0 +1,2208 @@
+[{
+    "id": "b09ynfng",
+    "live": false,
+    "type": "episode",
+    "title": "See Hear",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02m7sby.jpg",
+      "inherited_from": "brand"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006m9cb",
+    "guidance": false,
+    "subtitle": "Series 38: 1. The Silent Child",
+    "synopses": {
+      "large": "One month on from success at the Oscars, we meet Maisie Sly, the star of the short film The Silent Child, and her parents Gilson and Elizabeth. Will the film's Oscar triumph be a turning point for deaf children? Plus, the deaf video gamers throwing down their controllers in frustration at the lack of access, and asking whether the future will see them left even further behind.\n\nAnd in our news round-up with Julian and Lynn, the future of sign language on the National Curriculum, and a preview of an intriguing new feature film called The Quiet Place.",
+      "small": "We meet Maisie Sly, the star of the short film The Silent Child.",
+      "medium": "Topical magazine series for deaf and hard-of-hearing people. One month on from success at the Oscars, we meet Maisie Sly, star of the short film The Silent Child."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yndwb",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2018-05-12T23:15:00Z",
+          "start": "2018-04-04T07:30:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "8am 4 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09yndwb",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2018-05-12T23:15:00Z",
+          "start": "2018-04-04T07:30:00Z",
+          "remaining": {
+            "text": "Available for 18 days"
+          }
+        },
+        "first_broadcast": "4 Apr 2018"
+      }
+    ],
+    "parent_id": "b09yndw8",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "4 Apr 2018",
+    "related_links": [],
+    "original_title": "The Silent Child",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-04T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yj9pd",
+    "live": false,
+    "type": "episode",
+    "title": "Lenny Henry: The Commonwealth Kid",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062dlxr.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09yj9pd",
+    "guidance": true,
+    "synopses": {
+      "large": "In a revealing and emotional journey, Lenny Henry travels to the Caribbean to investigate his own heritage and the relationship between the Commonwealth, the Caribbean and the UK.\n\nLenny's life would be very different without the influence of the Commonwealth. Because of it, his parents were able to move to Dudley from Jamaica in the 1950s, putting Lenny on the path to fame and fortune in the UK. Lenny examines the deep-rooted and complicated connection between the Caribbean and Great Britain, and the role the Commonwealth plays in this relationship. Where did this organisation, made up of 53 countries and 2,3 billion people, come from? How can it survive its legacy of empire and slavery? Does it have any role in the 21st century?\n\nLenny sets off on a tour into the body, mind and soul of the Caribbean, to investigate the experiences of those who live so far from the UK but remain members of this vast and populous club. He travels back to Jamaica to investigate his own beginnings and finds out why, 60 years ago, his mother uprooted the family to travel thousands of miles to the rainy Midlands. He meets his older brother Seymour for a tour of the remote and rural plot he would have called home if the Henrys had remained on the island. He visits a lush rum plantation in an attempt to understand what life was like for his ancestors - African slaves brought to the Caribbean against their will. Lenny spends time with Commonwealth champion Rasheed Dwyer and Olympian Sashalee Forbes, and hangs out at a Chronixx gig to hear what importance, if any, the Commonwealth has to Jamaicans today.\n\nIn Antigua, Lenny traces the roots of why the British ended up in the Caribbean in the first place and meets some of the expats who have decided to make the Caribbean their home. Finally he travels to Barbuda to visit the island community devastated by Hurricane Irma, to hear tragic tales from survivors and consider the role the Commonwealth could play in the future around the world.\n\nMeeting a collection of real people along the way - street vendors and historians, teachers and students, entrepreneurs and politicians, as well as members of his own family - Lenny examines the special bond that exists between the people of the Caribbean and the UK, a microcosm of the wider relationship between all of the people of the Commonwealth.",
+      "small": "Lenny investigates the relationship between the Commonwealth, the Caribbean and the UK.",
+      "medium": "In a revealing and emotional journey, Lenny Henry travels to the Caribbean to investigate his heritage and the relationship between the Commonwealth, the Caribbean and the UK.",
+      "editorial": "Lenny examines the role the Commonwealth has played in his life - from Jamaica to Dudley."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yj9br",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "WD",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-04T23:40:00Z",
+          "start": "2018-04-02T21:00:00Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "credits_start": 3453,
+        "first_broadcast": "9pm 2 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063390q",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "WD",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-04T23:40:00Z",
+          "start": "2018-04-02T22:10:16Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "first_broadcast": "2 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b05d2l",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "WD",
+          "text": {
+            "large": "Contains some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-18T01:15:00Z",
+          "start": "2018-04-18T01:15:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "2 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "2 Apr 2018",
+    "related_links": [],
+    "original_title": "Lenny Henry: The Commonwealth Kid",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-02T00:00:00.000Z",
+    "editorial_subtitle": "An emotional journey",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09xybcd",
+    "live": false,
+    "type": "episode",
+    "title": "MasterChef",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062qngk.jpg"
+    },
+    "labels": {
+      "category": "Food"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t1k5",
+    "guidance": false,
+    "subtitle": "Series 14: Episode 16",
+    "synopses": {
+      "large": "The second group of amateurs get their first taste of professional cooking. They are heading to Sartoria in London's Mayfair, run by renowned Italian chef patron Francesco Mazzei. The six contestants are responsible for serving up every dish on the menu to paying customers during a packed lunch service.\n\nThen it is back to MasterChef HQ for an invention test for John and Gregg. In a last-chance bid to stay in the competition, each cook has to show they have learned from their experience and can create a unique and outstanding dish worthy of gracing the table of a restaurant. Guest judge two Michelin-starred Nathan Outlaw returns to help John and Gregg evaluate the six amateur cooks' dishes After this challenge, one of the contestants is sent home.",
+      "small": "The second group of amateurs get their first taste of professional cooking.",
+      "medium": "The second group of amateurs get their first taste of professional cooking at Sartoria in London's Mayfair. They must then impress guest judge Nathan Outlaw.",
+      "editorial": "The second group of amateurs get a taste of professional cooking in London's Mayfair."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09znd7x",
+        "kind": "editorial",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-01T15:00:00Z",
+          "start": "2018-04-01T14:25:00Z",
+          "remaining": {
+            "text": "Available for 7 days"
+          }
+        },
+        "credits_start": 3466,
+        "first_broadcast": "29 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062zz28",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-01T15:00:00Z",
+          "start": "2018-04-01T16:02:38Z",
+          "remaining": {
+            "text": "Available for 7 days"
+          }
+        },
+        "first_broadcast": "29 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b05d07",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-18T00:15:00Z",
+          "start": "2018-04-18T00:15:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "29 Mar 2018"
+      }
+    ],
+    "parent_id": "b09trz3q",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "entertainment",
+      "food",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "29 Mar 2018",
+    "related_links": [{
+      "id": "p0515fyt",
+      "url": "http://apply.masterchef.com/amateurs.html?utm_source=iplayer&utm_medium=online&utm_campaign=amateurs",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Apply for the next series"
+    }],
+    "original_title": "Episode 16",
+    "audio_described": true,
+    "parent_position": 16,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-29T00:00:00.000Z",
+    "editorial_subtitle": "16/25 The cooks must impress top chef Nathan Outlaw",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09ts94b",
+    "live": false,
+    "type": "episode",
+    "title": "Murder, Mystery and My Family",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zw6p3.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09ts770",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 3",
+    "synopses": {
+      "large": "Top criminal barristers Sasha Wass and Jeremy Dein reinvestigate the historic murders of two policemen, and the mysterious case, conviction and execution of Alfred Moore.\n\nHuddersfield, 1951. Two policemen are shot dead in cold blood while staking out the farmhouse of suspected burglar Alfred Moore. Now, nearly 65 years later, Moore's daughter Bronwyne is convinced of her father's innocence and teams up with Jeremy and Sasha to investigate the case.\n\nWith no murder weapon and a number of other suspects in the frame, notably a local gangster, Jeremy and Sasha have some serious concerns over the conviction. But will it be enough to clear the family name?",
+      "small": "Jeremy Dein and Sasha Wass reinvestigate the historic murders of two policemen.",
+      "medium": "Criminal barristers Jeremy Dein and Sasha Wass explore the questionable case against Alfred Moore, who was sentenced to death for murdering two policemen in Huddersfield in 1951."
+    },
+    "versions": [{
+        "hd": false,
+        "id": "p064jq5n",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "availability": {
+          "end": "2018-05-17T02:10:00Z",
+          "start": "2018-04-17T03:19:56Z",
+          "remaining": {
+            "text": "Available for 22 days"
+          }
+        },
+        "first_broadcast": "28 Feb 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b057v9",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "availability": {
+          "end": "2018-05-17T02:10:00Z",
+          "start": "2018-04-17T02:10:00Z",
+          "remaining": {
+            "text": "Available for 22 days"
+          }
+        },
+        "first_broadcast": "28 Feb 2018"
+      }
+    ],
+    "parent_id": "b09ts6t3",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-crime-and-justice",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "28 Feb 2018",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "audio_described": true,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-02-28T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yj7dx",
+    "live": false,
+    "type": "episode",
+    "title": "Natural World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062dlnd.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006qnnh",
+    "guidance": false,
+    "subtitle": "2018-2019: 1. Attenborough's Wonder of Eggs",
+    "synopses": {
+      "large": "David Attenborough has a passion for birds' eggs. These remarkable structures nurture new life, protecting it from the outside world at the same time as allowing it to breathe. They are strong enough to withstand the full weight of an incubating parent and weak enough to allow a chick to break free.\n\nBut how is an egg made? Why are they the shape they are? And perhaps most importantly, why lay an egg at all? Piece by piece, from creation to hatching, David reveals the wonder behind these miracles of nature.",
+      "small": "From creation to hatching, David Attenborough reveals the wonder behind eggs.",
+      "medium": "David Attenborough explores his passion for birds' eggs. Piece by piece, from creation to hatching, David reveals the wonder behind these miracles of nature.",
+      "editorial": "Piece by piece, from creation to hatching, David explores his passion for birds' eggs."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yj7cv",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-04T20:00:00Z",
+          "start": "2018-03-31T20:00:00Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "credits_start": 3516,
+        "first_broadcast": "8pm 31 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062y0jh",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-04T20:00:00Z",
+          "start": "2018-03-31T21:32:54Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "first_broadcast": "31 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b057sl",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-17T01:25:00Z",
+          "start": "2018-04-17T01:25:00Z",
+          "remaining": {
+            "text": "Available for 22 days"
+          }
+        },
+        "first_broadcast": "31 Mar 2018"
+      }
+    ],
+    "parent_id": "b09z77yq",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-science-and-nature",
+      "documentaries",
+      "science-and-nature",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "31 Mar 2018",
+    "related_links": [],
+    "original_title": "Attenborough's Wonder of Eggs",
+    "audio_described": true,
+    "editorial_title": "Attenborough's Wonder of Eggs",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-31T00:00:00.000Z",
+    "editorial_subtitle": "Nature’s little miracles",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09zdhjs",
+    "live": false,
+    "type": "episode",
+    "title": "Countryfile",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063d955.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t0bv",
+    "guidance": false,
+    "subtitle": "Loch Ness",
+    "synopses": {
+      "large": "Sean Fletcher and Naomi Wilkinson are in the wilds around Loch Ness. Sean is on the Erchless Estate, where they are busy tapping birch trees for the next big culinary thing - birch sap. He also meets the sporran maker putting a twist on this traditional item of Scottish clothing.\n\nNaomi spends the day with seventh-generation crofter Iain McLeod and his daughter Chloe to get a taste of crofting life. It is lambing time so there is plenty to keep Naomi busy. She then meets Michelle Anderson Carrol, a vegetarian who rears rare breed pigs for meat.\n\nThen it is off to Glenurquhart, the home of shinty, where Naomi and Sean take sides and go head to head in this ancient Scottish game.\n\nTom Heap takes a look at the rise in popularity of a vegan diet, and Adam Henson is on the Welsh estate where they keep bison.",
+      "small": "Sean Fletcher and Naomi Wilkinson visit the wilds around Loch Ness.",
+      "medium": "Sean Fletcher and Naomi Wilkinson are in the wilds around Loch Ness. They travel to to Glenurquhart where they go head to head in a game of shinty.",
+      "editorial": "Tom looks at the rise of veganism, and Adam is on a Welsh estate where they keep bison."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09zdh9j",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "availability": {
+          "end": "2018-05-08T19:00:00Z",
+          "start": "2018-04-08T21:26:46Z",
+          "remaining": {
+            "text": "Available for 14 days"
+          }
+        },
+        "credits_start": 3520,
+        "first_broadcast": "7pm 8 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b057pd",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "availability": {
+          "end": "2018-05-17T00:25:00Z",
+          "start": "2018-04-17T00:25:00Z",
+          "remaining": {
+            "text": "Available for 22 days"
+          }
+        },
+        "first_broadcast": "8 Apr 2018"
+      }
+    ],
+    "parent_id": "b006t0bv",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "science-and-nature",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "8 Apr 2018",
+    "related_links": [],
+    "original_title": "Loch Ness",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-08T00:00:00.000Z",
+    "editorial_subtitle": "Loch Ness. Sean and Naomi go head to head at shinty",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09z6mk0",
+    "live": false,
+    "type": "episode",
+    "title": "Holby City",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635gh8.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006mhd6",
+    "guidance": false,
+    "subtitle": "Series 20: 15. Tate Gallery",
+    "synopses": {
+      "large": "Roxanna is excited to be working alongside Gaskell on the stem cell trial, but her faith in her friend is put to the test when she makes a shocking discovery.\n\nStill on restricted duties, Ric wonders if he will ever escape the shadow of his time in prison. However, the arrival of an old patient offers him a chance to be a lifesaver once again, but at what cost?\n\nWhen Fletch suspects Abigail is giving a patient less than her full attention, he begins to question who his new boss really is.",
+      "small": "A revelation about Gaskell forces Roxanna to choose where her loyalties lie.",
+      "medium": "A revelation about Gaskell forces Roxanna to choose where her loyalties lie. Still on probation, Ric risks his job to save a familiar face.",
+      "editorial": "An old patient’s return gives Ric the chance to be a lifesaver again, but at what cost?"
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09z6mj4",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "56 mins",
+          "value": "PT56M"
+        },
+        "availability": {
+          "end": "2018-05-10T22:45:00Z",
+          "start": "2018-04-10T20:00:00Z",
+          "remaining": {
+            "text": "Available for 16 days"
+          }
+        },
+        "credits_start": 3330,
+        "first_broadcast": "8pm 10 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063xk64",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "56 mins",
+          "value": "PT56M"
+        },
+        "availability": {
+          "end": "2018-05-10T22:45:00Z",
+          "start": "2018-04-10T20:40:16Z",
+          "remaining": {
+            "text": "Available for 16 days"
+          }
+        },
+        "first_broadcast": "10 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b055vy",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "56 mins",
+          "value": "PT56M"
+        },
+        "availability": {
+          "end": "2018-05-16T03:05:00Z",
+          "start": "2018-04-16T03:05:00Z",
+          "remaining": {
+            "text": "Available for 21 days"
+          }
+        },
+        "first_broadcast": "10 Apr 2018"
+      }
+    ],
+    "parent_id": "b09ktt39",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "10 Apr 2018",
+    "related_links": [{
+      "id": "p063h91d",
+      "url": "http://www.bbc.co.uk/programmes/articles/5WfMjzZ9404XmWYXy0X4Q51/information-and-support",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support"
+    }],
+    "original_title": "Tate Gallery",
+    "audio_described": true,
+    "parent_position": 15,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-10T00:00:00.000Z",
+    "editorial_subtitle": "Tate Gallery. Roxanna’s faith in Gaskell is put to the test",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09xymcn",
+    "live": false,
+    "type": "episode",
+    "title": "The Assassination of Gianni Versace - American Crime Story",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061q5g6.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09trdxr",
+    "guidance": true,
+    "subtitle": "Series 1: 5. Don't Ask Don't Tell",
+    "synopses": {
+      "large": "April, 1997. Andrew appears unaware of how unhappy David is to see him in Minneapolis, and that Jeff nurses a hurt from his Navy days, around the time Gianni Versace 'outed' himself.",
+      "small": "Andrew appears unaware of how unhappy David is to see him in Minneapolis.",
+      "medium": "Drama. April, 1997. Andrew appears unaware of how unhappy David is to see him in Minneapolis, and that Jeff nurses a hurt from his Navy days."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09xym0v",
+        "kind": "original",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "guidance": {
+          "id": "WV",
+          "text": {
+            "large": "Contains scenes of moderate violence.",
+            "small": "Has guidance",
+            "medium": "Contains moderate violence."
+          }
+        },
+        "availability": {
+          "end": "2018-04-27T20:55:00Z",
+          "start": "2018-03-28T20:55:00Z",
+          "remaining": {
+            "text": "Available until Fri 9:55pm"
+          }
+        },
+        "credits_start": 3114,
+        "first_broadcast": "9pm 28 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062nc9j",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "guidance": {
+          "id": "WV",
+          "text": {
+            "large": "Contains scenes of moderate violence.",
+            "small": "Has guidance",
+            "medium": "Contains moderate violence."
+          }
+        },
+        "availability": {
+          "end": "2018-04-27T20:55:00Z",
+          "start": "2018-03-28T22:14:10Z",
+          "remaining": {
+            "text": "Available until Fri 9:55pm"
+          }
+        },
+        "first_broadcast": "28 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09zbryz",
+        "kind": "signed",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT45M"
+        },
+        "guidance": {
+          "id": "WV",
+          "text": {
+            "large": "Contains scenes of moderate violence.",
+            "small": "Has guidance",
+            "medium": "Contains moderate violence."
+          }
+        },
+        "availability": {
+          "end": "2018-04-28T02:25:00Z",
+          "start": "2018-04-14T02:25:00Z",
+          "remaining": {
+            "text": "Available until Sat 3:25am"
+          }
+        },
+        "first_broadcast": "28 Mar 2018"
+      }
+    ],
+    "parent_id": "b09trfff",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "28 Mar 2018",
+    "related_links": [],
+    "original_title": "Don't Ask Don't Tell",
+    "audio_described": true,
+    "editorial_title": "The Assassination of Gianni Versace",
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-28T00:00:00.000Z",
+    "editorial_subtitle": "5/9 Don’t Ask Don’t Tell",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09xptbr",
+    "live": false,
+    "type": "episode",
+    "title": "Picasso's Last Stand",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061n9rm.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09xptbr",
+    "guidance": true,
+    "synopses": {
+      "large": "Picasso's Last Stand reveals the untold story of the last decade of the great artist's life, through the testimony of family and close friends - many of them the people he allowed into his private world in the 1960s. As his health declined in these final years, Picasso faced damaging criticism of his work and intimate revelations about his bohemian lifestyle for the first time. And yet, in the midst of disaster, he rediscovered his revolutionary spirit with a creative surge that produced some of his most sexually frank and comic work. Exhibitions of the new style horrified and disappointed contemporaries. But now his biographer Sir John Richardson and granddaughter Diana Widmaier Picasso argue that this last enormous effort produced some of his greatest and most profound art: the stunning counter-attack of a protean genius coming to terms with old age.",
+      "small": "The story of the last decade of Picasso's life, through the words of family and friends.",
+      "medium": "Documentary revealing the untold story of the last decade of the great artist's life, through the testimony of family and close friends.",
+      "editorial": "How Picasso produced what some consider his greatest and most profound art late in life."
+    },
+    "versions": [{
+        "hd": false,
+        "id": "p0648h2z",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-14T01:30:00Z",
+          "start": "2018-04-14T02:10:37Z",
+          "remaining": {
+            "text": "Available for 19 days"
+          }
+        },
+        "first_broadcast": "24 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09zbrw3",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-14T01:30:00Z",
+          "start": "2018-04-14T01:30:00Z",
+          "remaining": {
+            "text": "Available for 19 days"
+          }
+        },
+        "first_broadcast": "24 Mar 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries-life-stories",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "24 Mar 2018",
+    "related_links": [],
+    "original_title": "Picasso's Last Stand",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-24T00:00:00.000Z",
+    "editorial_subtitle": "How the great artist came to terms with old age",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05xxx6p",
+    "live": false,
+    "type": "episode",
+    "title": "Civilisations",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt3x.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "p05xxp5j",
+    "guidance": false,
+    "subtitle": "Series 1: 5. The Triumph of Art",
+    "synopses": {
+      "large": "Think Renaissance and you think of Italy. But in the 15th and 16th centuries, the great Islamic empires experienced their own extraordinary cultural flowering. The two phenomena did not unfold in separate artistic universes - they were acutely conscious of, and in competition with, each other and mutually open to influences flowing both ways. The fifth film in Civilisations goes east and west with Simon Schama - to Papal Rome, but also to Ottoman Istanbul and Mughal Lahore and Agra, exploring those connections and rivalries, and examining how the role of artists from the different traditions of west and east developed in the years that followed the Renaissances.\n\nThat rivalry unfolds most spectacularly over the creation of domes - in Ottoman Istanbul the great engineer-architect Mimar Sinan builds the light-flooded Suleymaniye Mosque, while at the same time in Rome, Michelangelo designed the great dome over the St Peter's Basilica. The fate of the hero-artist, seemingly touched by God, with the gift of making visual miracles, henceforth diverged in the east and west. In Europe, as the century turned, artists such as Benvenuto Cellini, with his sculpture of Perseus with the Head of Medusa, could lay claim to sovereignty over the world of art. The greatest European artists like Caravaggio, Velasquez and Rembrandt shook off decorum and turned muscular, earthy and theatrical. Meanwhile in the east, Mughal art, still capable of acts of breathtaking architectural and painterly beauty, as expressed in mausoleums like the I'timad-ud-Daulah and gorgeous miniature paintings, became ever more refined, poetic and exquisite.",
+      "small": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+      "medium": "Simon Schama examines how traditions developed in the years following the Renaissances.",
+      "editorial": "Simon Schama examines how the role of artists developed following the Renaissances."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05xxx9c",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T00:15:00Z",
+          "start": "2018-04-03T08:32:13Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "credits_start": 3509,
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p062s7kp",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T00:15:00Z",
+          "start": "2018-04-03T08:50:47Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b09zbrs5",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-17T00:30:00Z",
+          "start": "2018-04-14T00:30:00Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      }
+    ],
+    "parent_id": "p05xxs12",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries-history",
+      "documentaries",
+      "history",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "1 Mar 2018",
+    "related_links": [{
+      "id": "p05zsx73",
+      "url": "http://www.open.edu/civilisations/civilisations.html",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Visit The Open University website"
+    }],
+    "original_title": "The Triumph of Art",
+    "audio_described": true,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-01T00:00:00.000Z",
+    "editorial_subtitle": "5/9 The Triumph of Art. An extraordinary cultural flowering",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09ts99r",
+    "live": false,
+    "type": "episode",
+    "title": "Murder, Mystery and My Family",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p060w14r.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09ts770",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 4",
+    "synopses": {
+      "large": "The case of John Dickman, who in 1910 became the last man to be hanged in Newcastle Prison, is re-examined by criminal barristers Jeremy Dein and Sasha Wass. They reveal a story of robbery, murder and a potential miscarriage of justice.\n\nOn Friday 18 March 1910, 44-year-old John Nisbet boarded a 10.27am train from Newcastle Central Station. By the time the train reached the end of the line, he was dead. He had been shot five times, his bag, containing £370 in cash, had been stolen, and his body had been stuffed beneath the carriage seats. Local bookmaker John Dickman was convicted of his murder and sentenced to death, but he always protested his innocence.\n\nNow, over 100 years later, his great-grandson Rowan is on a mission to find out the truth. Rowan enlists the help of Sasha and Jeremy, who retrace the steps that John Dickman took on that fateful day, and they work together get to the bottom of this notorious case. Was John Dickman really responsible for this brutal crime? Or was he the victim of a terrible miscarriage of justice? And will the team find enough new evidence to present the case to a Crown Court judge?",
+      "small": "Jeremy and Sasha reassess a case of robbery, murder and a possible miscarriage of justice.",
+      "medium": "Criminal barristers Jeremy Dein and Sasha Wass review the historic case against John Dickman - a story of robbery, murder and potentially a fatal miscarriage of justice from 1910."
+    },
+    "versions": [{
+        "hd": false,
+        "id": "p0656hgm",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "44 mins",
+          "value": "PT44M"
+        },
+        "availability": {
+          "end": "2018-05-24T03:45:00Z",
+          "start": "2018-04-24T04:22:22Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b10kmh",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "44 mins",
+          "value": "PT44M"
+        },
+        "availability": {
+          "end": "2018-05-24T03:45:00Z",
+          "start": "2018-04-24T03:45:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      }
+    ],
+    "parent_id": "b09ts6t3",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-crime-and-justice",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "1 Mar 2018",
+    "related_links": [],
+    "original_title": "Episode 4",
+    "audio_described": true,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-01T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09y26jk",
+    "live": false,
+    "type": "episode",
+    "title": "My Dad, the Peace Deal and Me",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062ggcz.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09y26jk",
+    "guidance": true,
+    "synopses": {
+      "large": "Patrick Kielty was born in Northern Ireland during the Troubles and was only sixteen when his dad was murdered by paramilitary gunmen. Despite his loss, just 18 months later Patrick was taking to the stand-up stage in Belfast, forging a comedy career by telling jokes about life in what felt like a warzone.\n\nYear after year, the sectarian killings continued. Then in 1998, along with the majority of the Northern Irish population, Patrick voted in favour of the Good Friday Agreement. It meant those convicted over his dad's murder would be released from prison, but it brought a promise of peace after 30 years of conflict, with the potential to build a new society based on reconciliation.\n\nNow, on the 20th anniversary of the Good Friday Agreement, Patrick wants to find out if the historic peace deal has delivered on its pledge to create a new Northern Ireland, free of the hatred that took Jack Kielty's life.\n\nPatrick returns to his home village of Dundrum, where his dad was killed, and then travels around Northern Ireland meeting other people whose lives were shattered by the Troubles. He confronts those responsible for committing acts of violence on both sides, asking why they became radicalised by the bloodshed and why some still seem to be wedded to their weapons. Patrick also meets other people caught up in the conflict, including Richard Moore, who was a ten-year-old boy on his way home from school when he was shot and blinded by a British army officer's rubber bullet. He wants to know whether it's possible for victims to be reconciled to a peaceful life alongside those who hurt them.\n\nPatrick visits the border country, exploring why Brexit has put the peace deal back in the spotlight, and meets politicians from both sides. Hearing their personal stories of how their families were also caught up in the conflict, he asks DUP leader Arlene Foster and a young Sinn Fein representative, Emma Rogan, why the power-sharing government between nationalists and unionists, a key part of the agreement, has collapsed.\n\nFinally, Patrick returns to Dundrum and asks young people, Catholics and Protestants who attend one of the Province's integrated schools, where they feel Northern Ireland is headed.",
+      "small": "Patrick Kielty explores the legacy of Northern Ireland's peace deal, 20 years on.",
+      "medium": "Documentary in which Patrick Kielty, whose father was murdered by paramilitary gunmen, returns home to explore the legacy of Northern Ireland's peace deal, 20 years on.",
+      "editorial": "Patrick Kielty, whose dad died in the Troubles, reflects on 20 years of peace in NI."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09y25pn",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "D1L1",
+          "text": {
+            "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-05T23:20:00Z",
+          "start": "2018-04-04T21:00:00Z",
+          "remaining": {
+            "text": "Available for 11 days"
+          }
+        },
+        "credits_start": 3486,
+        "first_broadcast": "9pm 4 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063b201",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "D1L1",
+          "text": {
+            "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-05T23:20:00Z",
+          "start": "2018-04-04T22:35:40Z",
+          "remaining": {
+            "text": "Available for 11 days"
+          }
+        },
+        "first_broadcast": "4 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b10jsm",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "guidance": {
+          "id": "D1L1",
+          "text": {
+            "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language and some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-24T03:00:00Z",
+          "start": "2018-04-24T03:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "4 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries-history",
+      "documentaries",
+      "history",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "4 Apr 2018",
+    "related_links": [],
+    "original_title": "My Dad, the Peace Deal and Me",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-04T00:00:00.000Z",
+    "editorial_subtitle": "A personal perspective",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b06bbj8g",
+    "live": false,
+    "type": "episode",
+    "title": "Countryfile",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03ymsq2.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t0bv",
+    "guidance": false,
+    "subtitle": "Cumbria",
+    "synopses": {
+      "large": "Countryfile is in Cumbria, where John Craven takes to the skies with the Environment Agency to discover a new line of defence in the battle against flooding - river restoration. Returning the rivers to their original meandering routes also has a positive impact on wildlife, as John finds out. \n\nAnita Rani meets the rural farming community that lost its livelihood to foot and mouth. The community is now pulling together and, with the support of rural reverend Sarah Dunn, are rebuilding their lives and businesses. Anita also meets the horse whisperer whose life was turned around by her love of horses. Will Anita have what it takes to tame a feral pony? \n\nIt is almost two years since a group of controversial pesticides were banned from fields across Europe over fears they were harming bees. Charlotte Smith discovers that the search is still on to find conclusive evidence to back up that fear, and that there is no end in sight to the ban. \n\nIn three weeks' time, Countryfile hosts the One Man and His Dog 2015 sheepdog trial championship. Between now and then we meet the teams from England, Ireland, Scotland and Wales, all hoping to take home the trophy. Adam Henson heads to Ireland to meet the team hoping to retain the title for the Irish, and Charlotte Smith goes north to meet the Scottish contenders.",
+      "small": "John Craven takes to the skies with the Environment Agency in Cumbria.",
+      "medium": "Countryfile is in Cumbria, where John Craven takes to the skies to discover a new line of defence in the battle against flooding - river restoration."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b10wv8",
+        "kind": "editorial",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "availability": {
+          "end": "2018-05-22T06:30:00Z",
+          "start": "2018-04-22T06:30:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "first_broadcast": "6 Sep 2015"
+      },
+      {
+        "hd": true,
+        "id": "b0b10hxc",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "availability": {
+          "end": "2018-05-24T02:00:00Z",
+          "start": "2018-04-24T02:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "6 Sep 2015"
+      }
+    ],
+    "parent_id": "b006t0bv",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "science-and-nature",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "6 Sep 2015",
+    "related_links": [],
+    "original_title": "Cumbria",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2015-09-06T00:00:00.000Z",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b01npw",
+    "live": false,
+    "type": "episode",
+    "title": "Holby City",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vf8h.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006mhd6",
+    "guidance": false,
+    "subtitle": "Series 20: 16. New Ain't All It's Cracked Up to Be",
+    "synopses": {
+      "large": "Desperate to impress Frieda as the new Darwin F1, Nicky helps with the tricky diagnosis of her first patient. But when she is offered the chance to witness Professor Gaskell in action, Nicky's torn between loyalty to her department and her desire for validation.\n\nMeena's first official day on Neuro crashes when she's ignored by Gaskell and temporarily traded back to Sacha's team for an underwhelming procedure. When Nicky's golden opportunity spikes Meena's jealousy, how far will she go sabotage her friend and reassert her position?\n\nXavier's dismayed when Serena puts him in charge of Sheilagh's care to teach him a lesson in humility. But does Xavier's arrogance hide an Achilles heel? And how soon before Sheilagh spots it?",
+      "small": "Frieda forces new mentee Nicky to question what kind of doctor she ultimately wants to be.",
+      "medium": "Frieda forces new mentee Nicky to question what kind of doctor she ultimately wants to be. Meena puts her friendship with Nicky on the line.",
+      "editorial": "When Nicky's golden opportunity spikes Meena's jealousy, how far will she go to sabotage?"
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b01nnw",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-17T22:45:00Z",
+          "start": "2018-04-17T20:00:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "credits_start": 3448,
+        "first_broadcast": "8pm 17 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064mdc7",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-17T22:45:00Z",
+          "start": "2018-04-17T20:54:33Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "17 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b10h05",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-23T03:15:00Z",
+          "start": "2018-04-23T03:15:00Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "first_broadcast": "17 Apr 2018"
+      }
+    ],
+    "parent_id": "b09ktt39",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "17 Apr 2018",
+    "related_links": [],
+    "original_title": "New Ain't All It's Cracked Up to Be",
+    "audio_described": true,
+    "parent_position": 16,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-17T00:00:00.000Z",
+    "editorial_subtitle": "New Ain't All It's Cracked Up to Be",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b1dv5l",
+    "live": false,
+    "type": "episode",
+    "title": "Question Time",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05j4b75.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "News"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t1q9",
+    "guidance": false,
+    "subtitle": "2018: 19/04/2018",
+    "synopses": {
+      "large": "David Dimbleby presents topical debate from Chesterfield. On the panel are chief secretary to the treasury and former justice secretary Liz Truss MP, shadow foreign secretary Emily Thornberry MP, Liberal Democrat leader Vince Cable MP, Guardian columnist Nesrine Malik and LBC presenter Iain Dale.",
+      "small": "David Dimbleby presents topical debate from Chesterfield.",
+      "medium": "David Dimbleby presents topical debate from Chesterfield. On the panel are Liz Truss MP, Emily Thornberry MP, Vince Cable MP, Nesrine Malik and Iain Dale."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b1dv5f",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2019-04-22T18:00:00Z",
+          "start": "2018-04-19T23:00:59Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "credits_start": 3517,
+        "first_broadcast": "10:45pm 19 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b1dvcd",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2019-04-23T02:15:00Z",
+          "start": "2018-04-23T02:15:00Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "first_broadcast": "19 Apr 2018"
+      }
+    ],
+    "parent_id": "b09pz217",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "news",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "19 Apr 2018",
+    "related_links": [{
+      "id": "p05vtwtm",
+      "url": "http://www.bbc.co.uk/programmes/p05vq0zl",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Question Time Extra Time"
+    }],
+    "original_title": "19/04/2018",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-19T00:00:00.000Z",
+    "lexical_sort_letter": "Q",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05xygy9",
+    "live": false,
+    "type": "episode",
+    "title": "Civilisations",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmtr8.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05xxp5j",
+    "guidance": false,
+    "subtitle": "Series 1: 8. The Cult of Progress",
+    "synopses": {
+      "large": "If David Olusoga's first film in Civilisations is about the art that followed and reflected early encounters between different cultures, his second explores the artistic reaction to imperialism in the 19th century. David shows the growing ambivalence with which artists reacted to the idea of progress, both intellectual and scientific, that underpinned the imperial mission and followed the Enlightenment and the Industrial Revolution.\n\nAdvances in knowledge and technology imbued Europeans in the 19th century with a sense of their civilisation's superiority. It justified their imperial ideology. But it created among artists deep fascinations with other civilisations which in turn produced a scepticism about their own. By contrast, as European artists questioned their civilisation's 'advance', in America painters sought to capture an idea of their new nation's 'manifest destiny' in landscapes. And in their representation of the Native Americans, they sought to record for posterity the world and the cultures they were violently displacing. But this was not always the case. David show how in New Zealand one artist was co-opted by the Maori who used his sills to record their culture and celebrate their ancestors. As the 19th century came to an end, the certainties of industrial and scientific advance were increasingly questioned - many artists (Gauguin and Picasso amongst them) turned to non-Western art and culture for inspiration. And in the face of the catastrophic conflict of the First World War, the idea that progress, reason and industrial advance were guarantors of higher 'civilisation' was rejected. David ends the film with a powerful meditation on Otto Dix's nightmarish and ironic evocation of the horror of the trenches, the triptych Der Krieg (The War).",
+      "small": "David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+      "medium": "Documentary. David Olusoga explores the artistic reaction to imperialism in the 19th century.",
+      "editorial": "David Olusoga explores how so many artists turned to non-Western culture for inspiration."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05xyh3v",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T02:55:00Z",
+          "start": "2018-04-20T14:21:44Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "credits_start": 3506,
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064vbv8",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T02:55:00Z",
+          "start": "2018-04-20T14:22:34Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      }
+    ],
+    "parent_id": "p05xxs12",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries-history",
+      "documentaries",
+      "history"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "1 Mar 2018",
+    "related_links": [{
+      "id": "p05zsx73",
+      "url": "http://www.open.edu/civilisations/civilisations.html",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Visit The Open University website"
+    }],
+    "original_title": "The Cult of Progress",
+    "audio_described": true,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-01T00:00:00.000Z",
+    "editorial_subtitle": "8/9 The Cult of Progress. A reaction to imperialism",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09yn39x",
+    "live": false,
+    "type": "episode",
+    "title": "The Assassination of Gianni Versace - American Crime Story",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062h0hj.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09trdxr",
+    "guidance": true,
+    "subtitle": "Series 1: 6. Descent",
+    "synopses": {
+      "large": "1996, California. Stage-managing matters to impress David at a flashy party, Andrew's gamble misfires and his demands become unmanageable. A year before the killings, Cunanan's inflated sense of entitlement sours relationships.",
+      "small": "Andrew's gamble misfires and his demands become unmanageable.",
+      "medium": "Drama. 1996, California. In an attempt to impress David, Andrew's gamble misfires and his demands become unmanageable."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09yn38x",
+        "kind": "original",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "49 mins",
+          "value": "PT49M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-04T20:50:00Z",
+          "start": "2018-04-04T20:50:00Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "credits_start": 2750,
+        "first_broadcast": "9pm 4 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0639xl8",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "49 mins",
+          "value": "PT49M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-04T20:50:00Z",
+          "start": "2018-04-04T21:50:47Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "first_broadcast": "4 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b05ycc",
+        "kind": "signed",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "49 mins",
+          "value": "PT49M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2018-05-05T01:55:00Z",
+          "start": "2018-04-21T01:55:00Z",
+          "remaining": {
+            "text": "Available for 10 days"
+          }
+        },
+        "first_broadcast": "4 Apr 2018"
+      }
+    ],
+    "parent_id": "b09trfff",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "4 Apr 2018",
+    "related_links": [],
+    "original_title": "Descent",
+    "audio_described": true,
+    "editorial_title": "The Assassination of Gianni Versace",
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-04T00:00:00.000Z",
+    "editorial_subtitle": "6/9 Descent",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05xyfg6",
+    "live": false,
+    "type": "episode",
+    "title": "Civilisations",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zmt4h.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "p05xxp5j",
+    "guidance": false,
+    "subtitle": "Series 1: 6. First Contact",
+    "synopses": {
+      "large": "In the 15th and 16th centuries distant and disparate cultures met, often for the first time. These encounters provoked wonder, awe, bafflement and fear. And, as historian of empire David Olusoga shows, art was always on the frontline. Each cultural contact at this time left a mark on both sides: the magnificent Benin bronzes record the meeting of an ancient West African kingdom and Portuguese voyagers in a spirit of mutual respect and exchange. By contrast we think Spain's conquest of Central America in the 16th century as decimating the Aztecs and eviscerating their culture. But David shows even in Mexico rare surviving Aztec artworks recall a more nuanced story. He travels to Japan to explore how the Tokugawa Shogunate, after an initial embrace, became so wary of outside interference that they sought to cut ties with the outside world. But in their art, as in their trade, they could never truly isolate themselves from foreign influences. By contrast the Protestant Dutch Republic was itself an entirely new kind of creature: a market driven nation-state. It was a system that created new freedoms and opportunities as embodied in the world-infused art of Johannes Vermeer, or the watercolours of the naturalist and illustrator Maria Sibylla Merian. David ends with the transitional story of the British in India: at first the British were as open to foreign influence as the Dutch. But by the 1800s they became more aggressive and the era of encounters gave way to the era of muscular empire, that was dismissive of India's arts and cultures.",
+      "small": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+      "medium": "David Olusoga shows how art was always on the frontline when distant cultures met.",
+      "editorial": "David Olusoga shows how art has always been influenced by many disparate cultures."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05xyfhd",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T01:30:00Z",
+          "start": "2018-04-06T08:32:42Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "credits_start": 3508,
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": false,
+        "id": "p063fzkl",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-04T01:30:00Z",
+          "start": "2018-04-06T08:48:26Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b05y9w",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2019-09-17T01:05:00Z",
+          "start": "2018-04-21T01:05:00Z",
+          "remaining": {
+            "text": "Available for over a year"
+          }
+        },
+        "first_broadcast": "1 Mar 2018"
+      }
+    ],
+    "parent_id": "p05xxs12",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "arts",
+      "audio-described",
+      "documentaries-arts",
+      "documentaries-history",
+      "documentaries",
+      "history",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "1 Mar 2018",
+    "related_links": [{
+      "id": "p05zsx73",
+      "url": "http://www.open.edu/civilisations/civilisations.html",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Visit The Open University website"
+    }],
+    "original_title": "First Contact",
+    "audio_described": true,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-01T00:00:00.000Z",
+    "editorial_subtitle": "6/9 First Contact. How art was key when distant cultures met",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b06h8j",
+    "live": false,
+    "type": "episode",
+    "title": "Panorama",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06473v0.jpg"
+    },
+    "labels": {
+      "category": "Current affairs"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006t14n",
+    "guidance": false,
+    "subtitle": "North Korea's Secret Slave Gangs",
+    "synopses": {
+      "large": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery. It is thought that more than one hundred thousand North Korean workers are posted abroad to earn money for the cash-strapped regime - money that is being ploughed into Kim Jong-un's nuclear weapons programme. An international consortium of journalists has filmed undercover to reveal secret work gangs operating in Russia, China and Poland.",
+      "small": "Panorama investigates North Korean modern-day slavery.",
+      "medium": "As President Trump and the North Korean leader, Kim Jong-un, prepare for an unprecedented summit, Panorama investigates North Korean modern-day slavery."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b19sqf",
+        "kind": "editorial",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2019-04-20T03:00:00Z",
+          "start": "2018-04-16T20:10:11Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "credits_start": 1688,
+        "first_broadcast": "16 Apr 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b0bkgc",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "30 mins",
+          "value": "PT30M"
+        },
+        "availability": {
+          "end": "2019-04-21T00:05:00Z",
+          "start": "2018-04-21T00:05:00Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "first_broadcast": "16 Apr 2018"
+      }
+    ],
+    "parent_id": "b006t14n",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "news",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "16 Apr 2018",
+    "related_links": [],
+    "original_title": "North Korea's Secret Slave Gangs",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-16T00:00:00.000Z",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09x4wqc",
+    "live": false,
+    "type": "episode",
+    "title": "The Secret Helpers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061499b.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b09x51qs",
+    "guidance": false,
+    "subtitle": "Series 1: 1. Dan and Brett",
+    "synopses": {
+      "large": "In a warm and entertaining five-part series, ten Brits, about to embark on one of the toughest weeks of their lives, welcome the support and advice of wise strangers from around the world through a secret in-ear device for one week. Whilst the sages' words are beamed live right into their ear day and night, family, friends and colleagues remain totally unaware of these unseen secret helpers. As the Brits face challenges and dilemmas, the sages tell them exactly what they think in real time, offering tips, advice and home-grown perspectives on life, love and everything in between.\n \nVia the wonders of modern technology, an Irish nun, a traditional healer and her friend from South Africa, a couple of retired cops from New York, two Italian mamas and a Norwegian health guru watch the person live going about their week and hand-hold them towards their significant event, whether it is a wedding, the first week of fatherhood or a new business launch. \n \nIn the first episode, it's Dan and Brett's turn to prove themselves with the help of the secret friends. Dan, 32, used to be a gregarious, motorbike riding salesman with the world at his feet. After suffering two massive strokes, he was left blind and unable to walk, and his girlfriend Suzy has spent the last year helping him to regain his sight, speech and mobility. \n \nAlthough he may look like someone who has fully recovered, when he pushes himself too hard he gets migraines, cannot walk and gets aches and pains down the left side of his body. He also gets anxious when faced with large crowds of people. With a week to go to their wedding, Dan is desperate to support Suzy, but he is worried that if he pushes himself too hard he won't make it to the altar. Dan needs all the help he can get from the sages in the lead-up to the most important day of his life. Will Suzy discover she has unusual guests at her big day?\n \nBrett is a first-time parent. He and his wife Jess have just brought their identical twins home from the hospital. They are exhausted from a scary pregnancy fraught with medical complications. It is not long before he is secretly getting instructions from the secret helpers and is impressing his wife with burping techniques, home-cooked meals and South African lullabies. Brett wants to learn to be a dad who fully supports his wife and will help settle the twins before he returns to work. \n \nThe sages are Gwen and Elisa from South Africa, italian mamas Chiara and Agata, Mark and Joe the New York cops, Sister Una from Ireland and health guru Lillian from Norway.",
+      "small": "Dan, recovering from two strokes, gets support and advice to make it to his wedding.",
+      "medium": "Ten Brits embark on one of the toughest weeks of their lives with the secret advice of strangers from around the world. Here, a husband-to-be and a new dad get help.",
+      "editorial": "Weddings and baby twins are hard, but a secret army of helpers will get them through."
+    },
+    "versions": [{
+        "hd": false,
+        "id": "p064vmbb",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-20T01:45:00Z",
+          "start": "2018-04-20T02:25:37Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "21 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "b0b05vqx",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-20T01:45:00Z",
+          "start": "2018-04-20T01:45:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "21 Mar 2018"
+      }
+    ],
+    "parent_id": "b09x51qz",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "21 Mar 2018",
+    "related_links": [],
+    "original_title": "Dan and Brett",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-21T00:00:00.000Z",
+    "editorial_subtitle": "1/5 People facing tough tasks get a helping hand",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]

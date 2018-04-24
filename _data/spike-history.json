@@ -1,0 +1,1926 @@
+[
+{
+"id": "b0b110v4",
+"live": false,
+"type": "episode",
+"title": "Secret Agent Selection: WW2",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p985.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zg6dm",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "The students are dropped in the middle of the remote Scottish Highlands, where they learn survival skills required for life in the field. Training in the same mountains as 1940s agents, they are schooled in the same techniques which prepared a group of agents tasked with putting a stop to Hitler's atomic ambitions in Norway. In a freezing Scottish lake and on a sheer rock face, some of the students are forced to find previously-untapped reserves of mental and physical strength, but not everyone makes it to the Special Operation Executives's famous 'finishing school'.",
+"small": "The students are dropped in the remote Scottish Highlands to learn survival skills.",
+"medium": "Immersive history series, reviving the training programme of one of World War II's most covert organisations. The students learn survival skills in the remote Scottish Highlands.",
+"editorial": "The students must use all their mental and physical strength in a freezing Scottish lake."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b110v0",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-23T21:00:00Z",
+"start": "2018-04-23T21:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9pm 23 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06563wt",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-23T21:00:00Z",
+"start": "2018-04-23T21:42:36Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b09zg6dp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"editorial_subtitle": "3/5 Testing survival skills",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03dwq95",
+"live": false,
+"type": "episode",
+"title": "The Ottomans: Europe's Muslim Emperors",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l9zc3.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03d0jhz",
+"guidance": false,
+"subtitle": "Episode 2",
+"synopses": {
+"large": "Continuing his fascinating journey to rediscover the central role played by the Ottoman empire in Europe and the Middle East, Rageh Omaar explores the huge contrasts in the times of two very different Ottoman sultans. The famed Suleiman the Magnificent in the golden age of the 16th century and the troubled reign of Abdul Hamid II in the 19th century, when the Ottomans were dubbed 'the Sick Man of Europe'.\n\nTo find out what a Muslim world run from Europe was really like, Rageh examines the cultural legacy of the empire, as well as the physical, religious and political architecture of Ottoman rule. It reveals the backdrop to the relationship between Islam and Europe today, how the Ottomans became central in the power politics of the continent and what could have happened had they succeeded in their successive bids to seize Vienna, then a key European capital.",
+"small": "Rageh Omaar explores the contrasts between two very different Ottoman sultans.",
+"medium": "Rageh Omaar explores the contrasts between two very different Ottoman sultans, Suleiman the Magnificent in the 16th century and the reign of Abdul Hamid II in the 19th century."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03dwq8w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T22:00:00Z",
+"start": "2018-04-23T22:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9pm 13 Oct 2013"
+},
+{
+"hd": false,
+"id": "p01jpw5f",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T22:00:00Z",
+"start": "2018-04-23T23:16:28Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "13 Oct 2013"
+}
+],
+"parent_id": "b03d0jhz",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "13 Oct 2013",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2013-10-13T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0398rkj",
+"live": false,
+"type": "episode",
+"title": "The Story of the Jews",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01k0qf6.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b0392pzx",
+"guidance": false,
+"subtitle": "1. In the Beginning",
+"synopses": {
+"large": "The story of the Jewish experience begins 3,000 years ago with the emergence of a tribal people in a contested land and their extraordinary book, the Hebrew Bible, a chronicle of their stormy relationship with a faceless, formless, jealous God. It was loyalty to this 'God of Words' that defined the distinct identity of the ancient Jews and preserved it despite all that history could throw their way - war, invasion, deportation, enslavement, exile and assimilation. \n\nThe story unfolds with a dazzling cast of historical characters: Sigmund Freud dying in exile in London; Victorian evangelicals and explorers following 'in the footsteps' of Moses; Jewish mercenaries living, prospering and intermarrying in the pagan land of Egypt; Messianic Jews dreaming of the Apocalypse; and a Jewish historian, Josephus, who witnessed first-hand the moment when the apocalypse finally came and the Romans destroyed the Jewish High Temple in Jerusalem.",
+"small": "Simon Schama begins his exploration of the Jewish story at the start, 3,000 years ago.",
+"medium": "Simon Schama looks at the Jewish story, starting 3,000 years ago with the emergence of tribal people in contested land and a book to define them across millennia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0392q67",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-03T21:00:00Z",
+"start": "2018-04-03T21:00:00Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"credits_start": 3501,
+"first_broadcast": "9pm 1 Sep 2013"
+},
+{
+"hd": false,
+"id": "p01g0g7t",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-03T21:00:00Z",
+"start": "2018-04-03T21:56:47Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"first_broadcast": "1 Sep 2013"
+},
+{
+"hd": false,
+"id": "b03d6tl8",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-06T02:30:00Z",
+"start": "2018-04-06T02:36:40Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"first_broadcast": "1 Sep 2013"
+}
+],
+"parent_id": "b0392pzx",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "1 Sep 2013",
+"related_links": [],
+"original_title": "In the Beginning",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-09-01T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09y26jk",
+"live": false,
+"type": "episode",
+"title": "My Dad, the Peace Deal and Me",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062ggcz.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b09y26jk",
+"guidance": true,
+"synopses": {
+"large": "Patrick Kielty was born in Northern Ireland during the Troubles and was only sixteen when his dad was murdered by paramilitary gunmen. Despite his loss, just 18 months later Patrick was taking to the stand-up stage in Belfast, forging a comedy career by telling jokes about life in what felt like a warzone.\n\nYear after year, the sectarian killings continued. Then in 1998, along with the majority of the Northern Irish population, Patrick voted in favour of the Good Friday Agreement. It meant those convicted over his dad's murder would be released from prison, but it brought a promise of peace after 30 years of conflict, with the potential to build a new society based on reconciliation.\n\nNow, on the 20th anniversary of the Good Friday Agreement, Patrick wants to find out if the historic peace deal has delivered on its pledge to create a new Northern Ireland, free of the hatred that took Jack Kielty's life.\n\nPatrick returns to his home village of Dundrum, where his dad was killed, and then travels around Northern Ireland meeting other people whose lives were shattered by the Troubles. He confronts those responsible for committing acts of violence on both sides, asking why they became radicalised by the bloodshed and why some still seem to be wedded to their weapons. Patrick also meets other people caught up in the conflict, including Richard Moore, who was a ten-year-old boy on his way home from school when he was shot and blinded by a British army officer's rubber bullet. He wants to know whether it's possible for victims to be reconciled to a peaceful life alongside those who hurt them.\n\nPatrick visits the border country, exploring why Brexit has put the peace deal back in the spotlight, and meets politicians from both sides. Hearing their personal stories of how their families were also caught up in the conflict, he asks DUP leader Arlene Foster and a young Sinn Fein representative, Emma Rogan, why the power-sharing government between nationalists and unionists, a key part of the agreement, has collapsed.\n\nFinally, Patrick returns to Dundrum and asks young people, Catholics and Protestants who attend one of the Province's integrated schools, where they feel Northern Ireland is headed.",
+"small": "Patrick Kielty explores the legacy of Northern Ireland's peace deal, 20 years on.",
+"medium": "Documentary in which Patrick Kielty, whose father was murdered by paramilitary gunmen, returns home to explore the legacy of Northern Ireland's peace deal, 20 years on.",
+"editorial": "Patrick Kielty, whose dad died in the Troubles, reflects on 20 years of peace in NI."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09y25pn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-05T23:20:00Z",
+"start": "2018-04-04T21:00:00Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"credits_start": 3486,
+"first_broadcast": "9pm 4 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063b201",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-05T23:20:00Z",
+"start": "2018-04-04T22:35:40Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"first_broadcast": "4 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b10jsm",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-24T03:00:00Z",
+"start": "2018-04-24T03:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "4 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "4 Apr 2018",
+"related_links": [],
+"original_title": "My Dad, the Peace Deal and Me",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-04-04T00:00:00.000Z",
+"editorial_subtitle": "A personal perspective",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09z8d01",
+"live": false,
+"type": "episode",
+"title": "Bacchus Uncovered: Ancient God of Ecstasy",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0638x2h.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b09z8d01",
+"guidance": false,
+"synopses": {
+"large": "Professor Bettany Hughes investigates the story of Bacchus, god of wine, revelry, theatre and excess, travelling to Georgia, Jordan, Greece and Britain to discover his origins and his presence in the modern world, and explore how 'losing oneself' plays a vital role in the development of civilisation.\n\nIn this fascinating journey, Bettany begins in Georgia where she discovers evidence of the world's oldest wine production, and the role it may have played in building communities. In Athens she reveals Bacchus's pivotal role in a society where his ecstatic worship was embraced by all classes, and most importantly women. On Cyprus she uncovers startling parallels between Bacchus and Christ. Finally, Bettany follows the god's modern embrace in Nietzsche's philosophy, experimental theatre and the hedonistic hippie movement to conclude that, while this god of ecstasy is worthy of contemporary reconsideration, it is vital to heed the warning of the ancients - \"MEDEN AGAN\" - nothing in excess.",
+"small": "Bettany Hughes explores the many incarnations of Bacchus - ancient god of wine.",
+"medium": "Professor Bettany Hughes investigates the story of Bacchus, god of wine and revelry, travelling to Georgia, Jordan and Greece to discover his origins.",
+"editorial": "Professor Bettany Hughes tells the story of the god of wine, revelry, theatre and excess."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09z8csx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T21:00:00Z",
+"start": "2018-04-11T21:00:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 3490,
+"first_broadcast": "9pm 11 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06412bj",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T21:00:00Z",
+"start": "2018-04-11T21:41:16Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "11 Apr 2018"
+},
+{
+"hd": true,
+"id": "b09zct3x",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-12T02:30:00Z",
+"start": "2018-04-12T02:30:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "11 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"audio-described",
+"documentaries-arts",
+"documentaries",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "11 Apr 2018",
+"related_links": [],
+"original_title": "Bacchus Uncovered: Ancient God of Ecstasy",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-04-11T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0077dwt",
+"live": false,
+"type": "episode",
+"title": "Arena",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xky2.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006pn88",
+"guidance": false,
+"subtitle": "Cigars - Out of the Humidor",
+"synopses": {
+"large": "Documentary which follows the story of the cigar - from the tobacco fields west of the Cuban capital of Havana into the factories where poetry and daily newspapers are read aloud to the workers, to Hollywood cigar bars and the gentlemen's haunts of St James's, London. With the worldwide cigar market growing, smoking cigars is perceived as glamorous and yet this is occurring at a time when it is nearly impossible to smoke a cigarette in any public place in the United States. Cigar clubs are opening up in America despite the fact that Cuban cigars are banned. The film looks at the rituals and traditions of cigar smoking, the history of cigars and famous cigar smokers from all walks of life. With Lord Grade, Kenneth Clarke, James Belushi, George Wendt and Peter Weller.",
+"small": "Film following the story of the cigar from Cuban tobacco fields to Hollywood cigar bars.",
+"medium": "Documentary following the story of the cigar, from the tobacco fields west of Havana to the Hollywood cigar bars and the gentlemen's haunts of St James's, London."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b1p9xd",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T02:20:00Z",
+"start": "2018-04-22T22:55:16Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "25 Dec 1997"
+}
+],
+"parent_id": "b006pn88",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "25 Dec 1997",
+"related_links": [],
+"original_title": "Cigars - Out of the Humidor",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1997-12-25T00:00:00.000Z",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yj9pd",
+"live": false,
+"type": "episode",
+"title": "Lenny Henry: The Commonwealth Kid",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062dlxr.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b09yj9pd",
+"guidance": true,
+"synopses": {
+"large": "In a revealing and emotional journey, Lenny Henry travels to the Caribbean to investigate his own heritage and the relationship between the Commonwealth, the Caribbean and the UK.\n\nLenny's life would be very different without the influence of the Commonwealth. Because of it, his parents were able to move to Dudley from Jamaica in the 1950s, putting Lenny on the path to fame and fortune in the UK. Lenny examines the deep-rooted and complicated connection between the Caribbean and Great Britain, and the role the Commonwealth plays in this relationship. Where did this organisation, made up of 53 countries and 2,3 billion people, come from? How can it survive its legacy of empire and slavery? Does it have any role in the 21st century?\n\nLenny sets off on a tour into the body, mind and soul of the Caribbean, to investigate the experiences of those who live so far from the UK but remain members of this vast and populous club. He travels back to Jamaica to investigate his own beginnings and finds out why, 60 years ago, his mother uprooted the family to travel thousands of miles to the rainy Midlands. He meets his older brother Seymour for a tour of the remote and rural plot he would have called home if the Henrys had remained on the island. He visits a lush rum plantation in an attempt to understand what life was like for his ancestors - African slaves brought to the Caribbean against their will. Lenny spends time with Commonwealth champion Rasheed Dwyer and Olympian Sashalee Forbes, and hangs out at a Chronixx gig to hear what importance, if any, the Commonwealth has to Jamaicans today.\n\nIn Antigua, Lenny traces the roots of why the British ended up in the Caribbean in the first place and meets some of the expats who have decided to make the Caribbean their home. Finally he travels to Barbuda to visit the island community devastated by Hurricane Irma, to hear tragic tales from survivors and consider the role the Commonwealth could play in the future around the world.\n\nMeeting a collection of real people along the way - street vendors and historians, teachers and students, entrepreneurs and politicians, as well as members of his own family - Lenny examines the special bond that exists between the people of the Caribbean and the UK, a microcosm of the wider relationship between all of the people of the Commonwealth.",
+"small": "Lenny investigates the relationship between the Commonwealth, the Caribbean and the UK.",
+"medium": "In a revealing and emotional journey, Lenny Henry travels to the Caribbean to investigate his heritage and the relationship between the Commonwealth, the Caribbean and the UK.",
+"editorial": "Lenny examines the role the Commonwealth has played in his life - from Jamaica to Dudley."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yj9br",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-04T23:40:00Z",
+"start": "2018-04-02T21:00:00Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"credits_start": 3453,
+"first_broadcast": "9pm 2 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063390q",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-04T23:40:00Z",
+"start": "2018-04-02T22:10:16Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"first_broadcast": "2 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b05d2l",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-18T01:15:00Z",
+"start": "2018-04-18T01:15:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "2 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-life-stories",
+"documentaries",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "2 Apr 2018",
+"related_links": [],
+"original_title": "Lenny Henry: The Commonwealth Kid",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-04-02T00:00:00.000Z",
+"editorial_subtitle": "An emotional journey",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00qbyhq",
+"live": false,
+"type": "episode",
+"title": "The Real Winnie Mandela",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gql3w.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00qbyhq",
+"guidance": false,
+"synopses": {
+"large": "Documentary about the late Winnie Mandela. Was she mother of the nation or an out-of-control egotist? Whilst her husband will forever be associated with taking South Africa to democracy, it is Winnie's life that most accurately mirrors the story of the struggle. The apartheid regime targeted her with harassment, torture and banishment, but Winnie responded with bravery and defiance bordering on recklessness.\n\nIllustrated with rich BBC archive drawn from the last seven decades and interviews with leading British and South African journalists, the film charts the role that Winnie played in the struggle and shows why she continues to divide opinion.",
+"small": "Documentary which looks at the contradictory and controversial life of Winnie Mandela.",
+"medium": "Documentary which looks at the controversial life of Winnie Mandela, asking whether she was the mother of the nation or a wilful egotist who simply got out of control."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00qbygk",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:19:53Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 3510,
+"first_broadcast": "10:30pm 25 Jan 2010"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "25 Jan 2010",
+"related_links": [],
+"original_title": "The Real Winnie Mandela",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2010-01-25T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03816y5",
+"live": false,
+"type": "episode",
+"title": "King Alfred and the Anglo Saxons",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02z9x70.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b038118n",
+"guidance": false,
+"subtitle": "1. Alfred of Wessex",
+"synopses": {
+"large": "King Alfred the Great fights a desperate guerrilla war in the marshes of Somerset - burning the cakes on the way - before his decisive victory at Edington. Creating towns, trade and coinage, reviving learning and literacy, Alfred then laid the foundations of a single kingdom of 'all the English'. Filmed on location from Reading to Rome, using original texts read in old English, and interviews with leading scholars, Michael Wood describes a man who was  'not just the greatest Briton, but one of the greatest rulers of any time or place'.",
+"small": "King Alfred the Great fights a desperate guerrilla war in the marshes of Somerset.",
+"medium": "Michael Wood tells the story of King Alfred the Great and his children and grandson. Alfred fights a desperate guerrilla war in the marshes of Somerset."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03811s3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T20:00:00Z",
+"start": "2018-04-17T20:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 3519,
+"first_broadcast": "9pm 6 Aug 2013"
+},
+{
+"hd": false,
+"id": "p01dsp24",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-17T20:00:00Z",
+"start": "2018-04-17T21:01:31Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "6 Aug 2013"
+}
+],
+"parent_id": "b038118n",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "6 Aug 2013",
+"related_links": [],
+"original_title": "Alfred of Wessex",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-08-06T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01q6xh6",
+"live": false,
+"type": "episode",
+"title": "Timeshift",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01j225y.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006np8r",
+"guidance": false,
+"subtitle": "Series 12: 8. Eyes Down! The Story of Bingo",
+"synopses": {
+"large": "It is one of Britain's most popular leisure pursuits, but high street bingo came about almost by accident as the result of a loophole in an obscure piece of gambling legislation. Almost overnight, in January 1961 what had been a quiet parlour game or occasional seaside flutter was turned into a brash multimillion-pound business. \n\nAs Timeshift affectionately recalls in this documentary, soon nearly a quarter of the population were playing and becoming fluent in the rhyming slang of 'bingo lingo' - from 'Legs Eleven' to 'Clickety Click, Sixty Six'. This explosion of interest quickly led to a moral panic about the dangers of easy prize money, but bingo was defiantly here to stay - and not just as the preserve of older women, as today's mega-halls full of hen night parties show.",
+"small": "How a loophole in gambling legislation led to the huge popularity of high street bingo.",
+"medium": "Documentary looking at how a loophole in an obscure piece of gambling legislation led to nearly a quarter of Britain's population playing high street bingo in the 1960s."
+},
+"versions": [
+{
+"hd": false,
+"id": "b01qth03",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T23:50:00Z",
+"start": "2018-04-16T00:18:18Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "23 Jan 2013"
+}
+],
+"parent_id": "b01nb0k7",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "23 Jan 2013",
+"related_links": [],
+"original_title": "Eyes Down! The Story of Bingo",
+"audio_described": false,
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2013-01-23T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b07d7sdp",
+"live": false,
+"type": "episode",
+"title": "Dan Cruickshank: At Home with the British",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03w4kmm.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07c5zj1",
+"guidance": false,
+"subtitle": "3. The Flat",
+"synopses": {
+"large": "If modern Britain lives in a terrace house and loves a cottage, it cannot make its mind up about the high-rise flat. Is the skyscraper a blot on the landscape, or the answer to the national housing crisis? \n\nFor Dan Cruickshank, the idea of living high above the city streets really is the future once again. 21st-century London is the site of an extraordinary building boom. Hundreds of residential high-rise towers are being built at record speed, many hugely controversial, as private developers cotton on to what social housing idealists realised 60 years ago. \n\nDan is in Bow in east London, charting the extraordinary history of one estate - the Lincoln. Designed in 1960 for the London County Council by a young idealistic architect, the 19-storey Lincoln was once the tallest residential building in London. Inside every flat were the latest space-age gadgets - a lift, a shower and a fitted kitchen. But the dream turned sour. The Lincoln became notorious for drugs and violence. There was even a brutal murder. It was the same all over Britain - the flat was a byword for deprivation and social exclusion. But then, just as everything looked lost, the Lincoln was saved and with, perhaps, the hopes of an entire generation for that most precious of things - a home. For Dan, as perhaps for Britain, 'the only way is up'.",
+"small": "Dan is in London's East End to explore the rejuvenation of a high-rise tower block.",
+"medium": "Dan explores the high-rise flat in London's East End. He charts the history of the Lincoln estate, which went from a dream of luxury to deprivation and social exclusion."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07d7rhq",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T23:00:00Z",
+"start": "2018-04-23T23:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "9pm 2 Jun 2016"
+},
+{
+"hd": false,
+"id": "p03x2rdp",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-23T23:00:00Z",
+"start": "2018-04-23T23:43:49Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "2 Jun 2016"
+}
+],
+"parent_id": "b07c5zj1",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "2 Jun 2016",
+"related_links": [],
+"original_title": "The Flat",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2016-06-02T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01pz9d6",
+"live": false,
+"type": "episode",
+"title": "Why the Industrial Revolution Happened Here",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01j1lp9.jpg"
+},
+"labels": {
+"category": "Science"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01pz9d6",
+"guidance": false,
+"synopses": {
+"large": "Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th century, led to Britain becoming the richest, most powerful nation on Earth. It was a time that transformed the way people think, work and play forever.\n\nHe traces the unprecedented explosion of new ideas and technological inventions that transformed Britain's agricultural society into an increasingly industrial and urbanised one. The documentary explores two fascinating questions - why did the industrial revolution happen when it did, and why did it happen in Britain?\n\nProfessor Black discusses the reasons behind this transformation - from Britain's coal reserves, which gave it a seemingly inexhaustible source of power, to the ascendency of political liberalism, with engineers and industrialists able to meet and share ideas and inventions. He explains the influence that geniuses like Josiah Wedgewood had on the consumer revolution and travels to Antigua to examine the impact Britain's empire had on this extraordinary period of growth.",
+"small": "Jeremy Black examines an extraordinary time in British history, the Industrial Revolution.",
+"medium": "Professor Jeremy Black explains the unique economic, social and political factors that helped Britain transform itself almost entirely by the 19th century."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01pz92z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T22:00:00Z",
+"start": "2018-04-15T22:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 3452,
+"first_broadcast": "9:30pm 14 Jan 2013"
+},
+{
+"hd": false,
+"id": "p013stk4",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T22:00:00Z",
+"start": "2018-04-15T22:44:18Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "14 Jan 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries-science-and-nature",
+"documentaries",
+"history",
+"science-and-nature"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "14 Jan 2013",
+"related_links": [],
+"original_title": "Why the Industrial Revolution Happened Here",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2013-01-14T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b084fmgq",
+"live": false,
+"type": "episode",
+"title": "The Mayflower Pilgrims: Behind the Myth",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04h7cf2.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b084fmgq",
+"guidance": false,
+"synopses": {
+"large": "Documentary exploring the Pilgrims' journey west across the Atlantic in the early 17th century. The voyage of the Mayflower in 1620 has come to define the founding moment of America, celebrated each year at Thanksgiving. This drama documentary, based on governor William Bradford's extraordinary eye-witness account, reveals the grim truth behind their voyage across the Atlantic. \n\nThe Pilgrims' story has come to define the founding moment of America and all it stands for. It is remembered as a pious crusade aimed at founding a Puritan paradise. However, their journey from a harsh, often violent part of England to a colony assured of survival less than ten years later is also one of wealth, cruelty and entrepreneurial genius.",
+"small": "Documentary exploring the Pilgrims' journey across the Atlantic in the early 17th century.",
+"medium": "Documentary exploring the Pilgrims' journey west across the Atlantic in the 17th century. Celebrated each year at Thanksgiving, the event has become shrouded in myth."
+},
+"versions": [
+{
+"hd": true,
+"id": "b084fm8m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T23:00:00Z",
+"start": "2018-04-11T23:00:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 3545,
+"first_broadcast": "8pm 27 Nov 2016"
+},
+{
+"hd": false,
+"id": "p04j4xz1",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-11T23:00:00Z",
+"start": "2018-04-11T23:52:48Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "27 Nov 2016"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "27 Nov 2016",
+"related_links": [],
+"original_title": "The Mayflower Pilgrims: Behind the Myth",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2016-11-27T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b046w5c1",
+"live": false,
+"type": "episode",
+"title": "Majesty and Mortar: Britain's Great Palaces",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p020rsgj.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04776qs",
+"guidance": false,
+"subtitle": "1. Towards an Architecture of Majesty",
+"synopses": {
+"large": "Royal palaces are the most magnificent buildings in our history. Often built to extraordinary levels of luxury and excess, they express the personalities of our kings and queens since 1066.\n\nFrom the Tower of London to Hampton Court Palace, Dan Cruickshank reveals an extraordinary story of buildings, often fortified, that cemented the monarch's claim to the throne. Palaces reveal our monarchs like no other buildings - their taste for luxury, their fear of the mob, even their relationship with God. Palaces have been caught up in some of the most dramatic events in history - some survive in all their magnificence like Hampton Court while others have vanished from the surface of the earth as completely as if they'd never existed.",
+"small": "Dan Cruickshank reveals the buildings which cemented the monarch's claim to the throne.",
+"medium": "From the Tower of London to Hampton Court Palace, Dan Cruickshank reveals a story of buildings which cemented the monarch's claim to the throne."
+},
+"versions": [
+{
+"hd": true,
+"id": "b046w4lc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-10T22:00:00Z",
+"start": "2018-04-10T22:00:00Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"credits_start": 3513,
+"first_broadcast": "9pm 18 Jun 2014"
+},
+{
+"hd": false,
+"id": "p0216xs0",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-10T22:00:00Z",
+"start": "2018-04-10T23:13:15Z",
+"remaining": {
+"text": "Available for 16 days"
+}
+},
+"first_broadcast": "18 Jun 2014"
+}
+],
+"parent_id": "b04776qs",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"arts",
+"audio-described",
+"documentaries-arts",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "18 Jun 2014",
+"related_links": [],
+"original_title": "Towards an Architecture of Majesty",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-06-18T00:00:00.000Z",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03yr973",
+"live": false,
+"type": "episode",
+"title": "The Plantagenets",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01vs0hj.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b042yyhx",
+"guidance": false,
+"subtitle": "Original Series: 1. The Devil's Brood",
+"synopses": {
+"large": "Professor Robert Bartlett tells the extraordinary story of England's most dysfunctional, yet longest-ruling, royal dynasty. Henry II forges a mighty empire encompassing England and much of France. His sons, Richard the Lionheart and John, then turn on their father and each other, bringing the dynasty to the edge of annihilation.",
+"small": "Henry II forges a mighty empire encompassing England and much of France.",
+"medium": "Professor Robert Bartlett tells the story of England's longest-ruling royal dynasty. Henry II forges a mighty empire encompassing England and much of France."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03yr96z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T22:00:00Z",
+"start": "2018-04-11T22:00:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"credits_start": 3539,
+"first_broadcast": "9pm 17 Mar 2014"
+},
+{
+"hd": false,
+"id": "p01vj4bv",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-11T22:00:00Z",
+"start": "2018-04-11T23:05:15Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "17 Mar 2014"
+}
+],
+"parent_id": "b03yrdwc",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "17 Mar 2014",
+"related_links": [],
+"original_title": "The Devil's Brood",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-03-17T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b00dzzdc",
+"live": false,
+"type": "episode",
+"title": "Timeshift",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01g6xlt.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006np8r",
+"guidance": false,
+"subtitle": "Series 8: The Last Days of Steam",
+"synopses": {
+"large": "The surprising story of how Britain entered a new age of steam railways after the Second World War and why it quickly came to an end.\n \nAfter the war, the largely destroyed railways of Europe were rebuilt to carry more modern diesel and electric trains. Britain, however, chose to build thousands of brand new steam locomotives. Did we stay with steam because coal was seen as the most reliable power source or were the railways run by men who couldn't bear to let go of their beloved steam trains?\n \nThe new British locomotives were designed to stay in service well into the 1970s, but in some cases they were taken off the railways and scrapped within just five years. When Dr Richard Beeching took over British Railways in the 1960s the writing was on the wall, and in 1968 the last steam passenger train blew its whistle. \n\nBut while steam use declined, steam enthusiasm grew. As many steam engines lay rusting in scrapyards around Britain, enthusiasts raised funds to buy, restore and return them to their former glory. In 2008, the first brand new steam locomotive to be built in Britain in nearly 50 years rolled off the line, proving our enduring love of these machines.",
+"small": "How Britain entered a new age of steam railways after World War II and why it soon ended.",
+"medium": "Documentary which tells the surprising story of how Britain entered a new age of steam railways after the Second World War and why it quickly came to an end."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00dzz7c",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T02:55:00Z",
+"start": "2018-04-18T23:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "9pm 16 Oct 2008"
+}
+],
+"parent_id": "b00cw3cv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "16 Oct 2008",
+"related_links": [],
+"original_title": "The Last Days of Steam",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2008-10-16T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b01kxyhd",
+"live": false,
+"type": "episode",
+"title": "The Toilet: An Unspoken History",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hj51v.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01kxyhd",
+"guidance": false,
+"synopses": {
+"large": "We each spend three years of our lives on the toilet, but how happy are we talking about this essential part of our lives? This film challenges that mindset by uncovering its role in our culture and exploring the social history of the toilet in Britain and abroad - as well as exploring many of our cultural toilet taboos. \n\nStarting in Merida, Spain, with some of the earliest surviving Roman toilets, we journey around the world - from the UK to China, Japan and Bangladesh - visiting toilets, ranging from the historically significant to the beautiful, from the functional and sometimes not-so-functional to the downright bizarre.\n\nLeading our journey is Everyman figure, Welsh poet and presenter Ifor ap Glyn, who has a passionate interest in the toilet, its history and how it has evolved over the centuries, right up to the development of the current design. Finally, there's a glimpse of the future and a possible solution to the global sanitation issues we now face.",
+"small": "Film looking at the role of the toilet in our culture and exploring its social history.",
+"medium": "Documentary looking at the role of the toilet in our culture, exploring its social history in Britain and abroad, and finding possible future solutions to global sanitation issues."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01kxygw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-17T00:00:00Z",
+"start": "2018-04-17T00:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 3511,
+"first_broadcast": "18 Jul 2012"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "18 Jul 2012",
+"related_links": [],
+"original_title": "The Toilet: An Unspoken History",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2012-07-18T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b060kj",
+"live": false,
+"type": "episode",
+"title": "Secret Agent Selection: WW2",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sfky.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zg6dm",
+"guidance": true,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "In episode two, training proper begins as the students are schooled in guns, explosives and silent killing techniques - skills which came together and helped SOE to pull off one of the most audacious assassinations of World War Two. The students need to show a calm head and a killer instinct when handling real weapons, but not everyone makes the grade.",
+"small": "The students are schooled in guns, explosives and silent killing techniques.",
+"medium": "Immersive history series, reviving the training programme of one of World War II's most covert organisations.  In episode two, training proper begins.",
+"editorial": "The students need to show a calm head and a killer instinct when handling real weapons."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b060k2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-19T23:30:00Z",
+"start": "2018-04-16T21:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 3507,
+"first_broadcast": "9pm 16 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064j48c",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-19T23:30:00Z",
+"start": "2018-04-16T22:02:53Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09zg6dp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-05-02T02:05:00.000Z"
+},
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "2/5 The training begins",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b09zg6f4",
+"live": false,
+"type": "episode",
+"title": "Secret Agent Selection: WW2",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063r7ct.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zg6dm",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "The students face SOE's demanding selection process. Known as the Student Assessment Board, this intense four-day course puts the students through a series of physical and mental tests, all with the aim of finding out who has the raw talent required to progress to full training. The programme charts the beginning of SOE, which started with a handful of agents, in an organisation determined to find a way back into Nazi-controlled Europe.",
+"small": "The students face SOE's demanding selection process.",
+"medium": "Immersive history series, reviving the training programme of one of World War II's most covert organisations. In episode one, the students face SOE's demanding selection process.",
+"editorial": "An intense physical and mental challenge to join the Special Operations Executive."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zg6dr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-16T00:50:00Z",
+"start": "2018-04-09T21:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 3510,
+"first_broadcast": "9pm 9 Apr 2018"
+},
+{
+"hd": false,
+"id": "p063t6d6",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-16T00:50:00Z",
+"start": "2018-04-09T22:02:19Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "9 Apr 2018"
+}
+],
+"parent_id": "b09zg6dp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "9 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-25T02:05:00.000Z"
+},
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"editorial_subtitle": "1/5 Wartime’s toughest test",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b03d0d5d",
+"live": false,
+"type": "episode",
+"title": "The Ottomans: Europe's Muslim Emperors",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01k186d.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03d0jhz",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "It was the world's last Islamic empire - a superpower of a million square miles. From its capital in Istanbul it matched the glories of Ancient Rome. And after six centuries in power it collapsed less than a hundred years ago.\n\nRageh Omaar, who has reported from across this former empire, sets out to discover why the Ottomans have vanished from our understanding of the history of Europe, why so few realise the importance of Ottoman history in today's Middle East, and why you have to know the Ottoman story to understand the roots of many of today's trouble spots, from Palestine, Iraq and Israel to Libya, Syria, Egypt, Bosnia and Kosovo.\n\nIn this first episode, the unlikely roots of the Ottomans are revealed. From nomadic horsemen, in a rural backwater of modern-day Turkey, they became rulers of a vast empire spanning three continents. At an incredible speed they came to rule over Baghdad and Cairo in the south, where they controlled the holiest sites of Islam - Mecca, Medina and Jerusalem, and they reached deep into Europe, taking in Sarajevo and threatening the gates of Vienna. \n\nThis is the forgotten story of how one dynasty, a single family, became Islamic rulers over huge swathes of the modern world.",
+"small": "Rageh Omaar begins his examination of the Ottoman empire by looking at its unlikely roots.",
+"medium": "Rageh Omaar examines the history of the Ottoman empire. He starts by looking at the unlikely roots of the Ottomans, as nomadic horsemen in a rural backwater of modern-day Turkey."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03d0d57",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T22:00:00Z",
+"start": "2018-04-16T22:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 3531,
+"first_broadcast": "9pm 6 Oct 2013"
+},
+{
+"hd": false,
+"id": "p01j9wm1",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T22:00:00Z",
+"start": "2018-04-16T22:50:45Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "6 Oct 2013"
+}
+],
+"parent_id": "b03d0jhz",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "6 Oct 2013",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-10-06T00:00:00.000Z",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+}
+]

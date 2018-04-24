@@ -1,0 +1,1509 @@
+[
+{
+"id": "b0b0g5sn",
+"live": false,
+"type": "episode",
+"title": "Sam and Shauna's Big Cook Out",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064g69n.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zgryq",
+"guidance": false,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "Five years ago Sam Evans and Shauna Guinn quit their city jobs to embark on a road trip across America to learn the secrets of American BBQ. \n\nEnthused with the spirit of smoke and fire they returned to Wales with a mission, to spread their passion for outdoor cooking and change the way we BBQ.  \n\nNow, having written a best-selling cookbook, opened their own restaurant and won best street food or takeaway category at the BBC Food and Farming Awards, queens of  barbecue hit the road to celebrate the achievements of community champions across Wales and change the way we BBQ. \n\nUsing food to bring together the whole community, each cookout sees Sam and Shauna host huge parties to reward the work of a variety of organisations and individuals. They start by showing how to prepare the feasts on a small scale before upscaling to feed hundreds at large cookouts.\n\nSam and Shauna's meaty smoke-and-fire bonanza continues as they visit Cefn Hengoed in the Rhymney Valley. They are there to celebrate the achievements of the Cefn Hengoed Majestics, a unique marching jazz band, by putting on a feast of barbecued chickens to feed the players and the community they support. With 100 people to feed, Sam and Shauna organise a spectacular cookout of grilled chicken in Alabama white barbecue sauce, hasselback potatoes, Louisiana macque choux and a rainbow slaw. Sam and Shauna have a week to teach the members of the band how to cook the dishes. They also have to make an enormous bespoke grill large enough to hold the chickens, and together with the community they build a massive firepit to cook them. Everyone gathers when it's all ready to eat the food and celebrate with their big cookout.",
+"small": "Sam and Shauna celebrate the achievements of the Cefn Hengoed Majestics.",
+"medium": "Series in which chefs Sam and Shauna create huge outdoor feasts. Here, they visit Cefn Hengoed to celebrate the achievements of the Cefn Hengoed Majestics, a marching jazz band.",
+"editorial": "Sam and Shauna host an Southern-inspired cook out to celebrate a jazz band’s success."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b18r51",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:00:00Z",
+"start": "2018-04-23T19:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b09zgq16",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"food",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC One",
+"scheduled_start": "2018-04-28T10:30:00.000Z"
+},
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"editorial_subtitle": "3/4 A musical celebration",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0g5sr",
+"live": false,
+"type": "episode",
+"title": "The Crash Detectives",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064g6y3.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b056g3",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Series following the work of Gwent Police's forensic collision investigators as they deal with serious incidents on the roads. A four-car crash and a multi-emergency response - the team must act quickly to piece it together. And after a single-vehicle crash on the M4 on Christmas Day, they are suspicious that there is more to it than meets the eye, and turn to science to get to the truth.",
+"small": "The team must unearth the truth about a single-vehicle crash on the M4 on Christmas Day.",
+"medium": "Series following Gwent Police's forensic collision investigators. The team turns to science to unearth the truth about a single-vehicle crash on the M4 on Christmas Day.",
+"editorial": "After a crash on the M4 on Christmas Day, is there more to it than meets the eye?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0g4kl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T20:00:00Z",
+"start": "2018-04-23T20:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"credits_start": 1705,
+"first_broadcast": "8:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b0b057mp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"editorial_subtitle": "2/4 A four-car crash needs a multi-emergency response",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yngyp",
+"live": false,
+"type": "episode",
+"title": "BBC Wales Investigates",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hhqk.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09kk17g",
+"guidance": false,
+"subtitle": "People for Sale",
+"synopses": {
+"large": "BBC Wales Investigates goes on the trail of the human traffickers who treat their victims like slaves and force them into a life of misery working as cleaners in the Welsh capital. And it looks at labour exploitation - and sees inside the world of car wash workers who are being ripped off in plain sight.",
+"small": "On the trail of the human traffickers who treat their victims like slaves.",
+"medium": "The programme goes on the trail of the human traffickers who treat their victims like slaves and force them into a life of misery working.",
+"editorial": "How people are forced into a life of misery – and are being ripped off in plain sight."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yngsp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2019-04-15T00:00:00Z",
+"start": "2018-04-09T21:19:50Z",
+"remaining": {
+"text": "Available for 11 months"
+}
+},
+"credits_start": 1769,
+"first_broadcast": "8:30pm 9 Apr 2018"
+}
+],
+"parent_id": "b09kk17g",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-crime-and-justice",
+"documentaries",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "9 Apr 2018",
+"related_links": [
+{
+"id": "p063cv7g",
+"url": "http://www.bbc.co.uk/programmes/articles/4dzHNxZvD0hGRT83R3sll6z/information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support "
+}
+],
+"original_title": "People for Sale",
+"audio_described": false,
+"editorial_title": "People for Sale",
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"editorial_subtitle": "The human traffickers who treat their victims like slaves",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p060gytf",
+"live": false,
+"type": "episode",
+"title": "Hayley",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061w4jk.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0605ns4",
+"guidance": false,
+"subtitle": "Series 2: 1. Super Skinny",
+"synopses": {
+"large": "Hayley Pearce has a holiday coming up - and that means bikini time. She knows she's not fat, but as a size 10, why does she still feel pressure to lose weight and get skinny? From slimming pills to faddy diets and colonic hydrotherapy, Hayley puts weightloss quick fixes to the test as she explores the rise and impact of the cult of skinny. Meeting fashion models, pop singers and health experts, Hayley reveals what's driving this obsession and the extreme lengths to which some people will go to reach a certain size. But can Hayley learn to love her belly and bare all in a bikini?",
+"small": "Hayley Pearce explores the slimming industry.",
+"medium": "Documentary series. Hayley Pearce explores the pressures to lose weight, meeting fashion models, pop singers and health experts to reveal what is driving the obsession.",
+"editorial": "Hayley’s a size 10 - so why does she still feel pressure to lose weight and get skinny?"
+},
+"versions": [
+{
+"hd": true,
+"id": "p060gz0f",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-09-17T08:00:00Z",
+"start": "2018-03-21T09:00:00Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"credits_start": 1737,
+"first_broadcast": "21 Mar 2018"
+}
+],
+"parent_id": "p0605p6y",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "21 Mar 2018",
+"related_links": [],
+"original_title": "Super Skinny",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-03-21T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The Valley girl gets up close to the latest trends",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zmj2m",
+"live": false,
+"type": "episode",
+"title": "Sam and Shauna's Big Cook Out",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sjlk.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zgryq",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Five years ago Sam Evans and Shauna Guinn quit their city jobs to embark on a road trip across America to learn the secrets of American BBQ. \n\nEnthused with the spirit of smoke and fire they returned to Wales with a mission, to spread their passion for outdoor cooking and change the way we BBQ.  \n\nNow, having written a best-selling cookbook, opened their own restaurant and won best street food or takeaway category at the BBC Food and Farming Awards, the queens of barbecue hit the road to celebrate the achievements of community champions across Wales and change the way we BBQ. \n\nUsing food to bring together the whole community, each cookout sees Sam and Shauna host huge parties to reward the work of a variety of organisations and individuals. They start by showing how to prepare the feasts on a small scale before upscaling to feed hundreds at large cookouts.\n\nSam and Shauna continue their meaty adventures at the Llandysul Paddlers Club in the heart of Ceredigion, where they cook almost 40 kilograms of meat over an open fire under a hand-built willow dome. They are celebrating the amazing work the club does for the local community. With over 100 hungry paddlers to feed after a big competition, Sam and Shauna do their own unique take on a kebab, with steak, chimichurri and a fire-roasted salsa, all wrapped in a homemade flatbread. They have a week to teach the paddlers and the volunteers who run the club how to make and cook the dishes. With the help of the community, they build a huge willow dome using willow cut from the banks of the river and hang all the meat from it to cook. The whole club gather to eat their food and celebrate with their big cookout.",
+"small": "Sam and Shauna celebrate the community work of the Llandysul Paddlers Club in Ceredigion.",
+"medium": "Series in which chefs Sam and Shauna create huge outdoor feasts. Here, they help to celebrate the work that the Llandysul Paddlers Club in Ceredigion does for the local community.",
+"editorial": "With over 100 hungry people to feed, Sam and Shauna do their own unique take on a kebab."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zmh6x",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-21T11:00:00Z",
+"start": "2018-04-16T19:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "7:30pm 16 Apr 2018"
+}
+],
+"parent_id": "b09zgq16",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"food",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "2/4 A cook out in Ceredigion",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zgt51",
+"live": false,
+"type": "episode",
+"title": "The Crash Detectives",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063sj5z.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b056g3",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "This brand new series goes inside the cordon with Gwent Police's dedicated forensic collision investigators as they deal with serious incidents on the roads. In this episode, could CCTV reveal the truth behind a fatal motorbike crash? And after a three-car crash in heavy rain, the team are left stunned by what they discover.",
+"small": "Could CCTV reveal the truth behind a fatal motorbike crash?",
+"medium": "Series following Gwent Police's dedicated forensic collision investigators. The team are left stunned by what they discover about a three-car crash in heavy rain.",
+"editorial": "Inside the cordon with Gwent Police's dedicated forensic collision investigators."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgt0v",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-16T20:00:00Z",
+"start": "2018-04-16T20:00:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"credits_start": 1754,
+"first_broadcast": "8:30pm 16 Apr 2018"
+}
+],
+"parent_id": "b0b057mp",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "1/4 Could CCTV reveal the truth behind a motorbike crash?",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zdb7v",
+"live": false,
+"type": "episode",
+"title": "The Hour",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05kq7pr.jpg",
+"inherited_from": "brand"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09d8yp2",
+"guidance": false,
+"subtitle": "16/04/2018",
+"synopses": {
+"large": "The programme comes from Swansea's Brangwyn Hall and presenter Catrin Nye asks: are women and men really equal today in Wales?\n\nIt is 100 years since women won the vote - but how much has changed? In politics, we have had two female prime ministers, but the House of Commons and the National Assembly still have a majority of male elected members.\n\nMeanwhile, the row over the gender pay gap is hotting up daily, as Welsh businesses and public bodies publish their own statistics on pay, and some women band together to bring legal actions against their employers. And then there is the apparently neverending succession of sexual harassment allegations against leading figures in TV and movies.\n\nIn many key areas, Wales lags behind other parts of the UK in terms of women taking on senior roles in business, education or local government. So are we a more sexist nation?  \n\nBut there is plenty to celebrate too: the gender pay gap is narrowing, women are more visible in sport, industry, science and engineering, and men are playing a role in bringing up their children - something that would have been unthinkable 30 years ago never mind a century ago.\n\nThe programme hears from some of the women who have been at the cutting edge of social change - including Wales's first ever woman bishop - and those who feel that things are not changing fast enough. The programme also be looks at what happens behind closed doors in the Welsh family home. The statistics reveal that while men are doing more domestic tasks, it is still women who do the lion's share of the work on the home front, even when they themselves go out to work full time. Does that have to change before women can achieve equality in the workplace? Or do they actually prefer to take more of the responsibility? Is the Welsh mam alive and well in modern Wales? We hear from people who say women's traditional domestic role has been undervalued and many women would rather be at home with their children than out at work\n\nPlus reporter Steffan Powell presents all the key facts and stats and keeps an eye on what is being said on social media.",
+"small": "Catrin Nye hosts from Swansea and explores gender equality in Wales.",
+"medium": "Catrin Nye hosts a series of monthly national debates from locations across Wales. This edition comes from Swansea and explores gender equality in Wales."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdb3f",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-16T22:40:00Z",
+"start": "2018-04-17T00:53:17Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "10:40pm 16 Apr 2018"
+}
+],
+"parent_id": "b09d8yp2",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "16/04/2018",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05ncy2q",
+"live": false,
+"type": "episode",
+"title": "Young, Welsh and Pretty Minted",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05z52jn.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05n7frn",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "In the startling and revealing world of young Welsh entrepreneurs, 22-year-old YouTube superstar The Gonth tells the secret to making a six-figure income online, social influencer Erin makes £900 every time she posts a photo on Instagram, and 19-year-old Gabby unveils her swanky designer swimwear collection.",
+"small": "YouTuber The Gonth discloses the secret to making a six-figure income online.",
+"medium": "Series following young Welsh entrepreneurs. YouTuber The Gonth discloses the secret to making a six-figure income online, and Gabby unveils her designer swimwear collection.",
+"editorial": "The inside scoop on how young Welsh entrepreneurs are raking in the cash."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05y8wl3",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M24S"
+},
+"guidance": {
+"id": "L3",
+"text": {
+"large": "Contains very strong language.",
+"small": "Has guidance",
+"medium": "Contains very strong language."
+}
+},
+"availability": {
+"end": "2018-05-26T08:00:00Z",
+"start": "2018-02-25T09:00:00Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 1739,
+"first_broadcast": "25 Feb 2018"
+}
+],
+"parent_id": "p05n7g67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "25 Feb 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-02-25T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Meet the new moguls",
+"lexical_sort_letter": "Y",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09ynypg",
+"live": false,
+"type": "episode",
+"title": "Wales Football: The Women in Red",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062kpzj.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ynypg",
+"guidance": false,
+"synopses": {
+"large": "The Wales women's football team are so far unbeaten on their journey to qualify for the World Cup.\n\nOn the eve of their crucial clash with England, we go behind the scenes to meet the player making waves across the Atlantic with Seattle Reign, as well as Wales's all-time top scorer, who juggles motherhood with football, and the new generation of women footballers dreaming of their first pro contracts.",
+"small": "Behind the scenes look with the Wales women's football squad.",
+"medium": "Documentary that goes behind the scenes with the Wales women's football team on the eve of their crucial clash with England.",
+"editorial": "An inside look at the Wales team on the eve of their crucial clash with England."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b094r4",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-06T16:45:00Z",
+"start": "2018-04-05T22:15:00Z",
+"remaining": {
+"text": "Available for 12 days"
+}
+},
+"first_broadcast": "5 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries",
+"sport",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "5 Apr 2018",
+"related_links": [],
+"original_title": "Wales Football: The Women in Red",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-05T00:00:00.000Z",
+"editorial_subtitle": "How the Dragons are firing",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p060h03x",
+"live": false,
+"type": "episode",
+"title": "Hayley",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0617k4r.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0605ns4",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "Hayley Pearce is no stranger to tattoos - she's had two and is now considering a third. And she's not alone: one in three young adults in the UK now have some form of body art. In an effort to understand what impact big ink might have on her life, Hayley gets under the skin of the current tattoo culture and meets the men and women who have gone under the needle to get inked. From high-end body art and tattoo addiction to tattoo fails, she explores whether they are just a harmless form of self-expression or if they can have a negative impact on people's lives. Armed with the answers, will Hayley go ahead and have a big new tatt?",
+"small": "Hayley Pearce explores current tattoo culture.",
+"medium": "Documentary series. Hayley Pearce spotlights tattoo culture, examining whether they are harmless forms of self-expression or if they can have a negative impact on people's lives.",
+"editorial": "Hayley gets under the skin of the current tattoo culture – will she get a big new tatt?"
+},
+"versions": [
+{
+"hd": true,
+"id": "p060h0fp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-09-17T08:00:00Z",
+"start": "2018-03-21T09:00:00Z",
+"remaining": {
+"text": "Available for 4 months"
+}
+},
+"credits_start": 1718,
+"first_broadcast": "21 Mar 2018"
+}
+],
+"parent_id": "p0605p6y",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "21 Mar 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-03-21T00:00:00.000Z",
+"editorial_subtitle": "2/3 What impact might big ink have on Hayley’s life?",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yngym",
+"live": false,
+"type": "episode",
+"title": "Sam and Shauna's Big Cook Out",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0634q62.jpg"
+},
+"labels": {
+"category": "Food"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zgryq",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Five years ago, Sam Evans and Shauna Guinn quit their city jobs to embark on a road trip across America to learn the secrets of American BBQ.\n\nEnthused with the spirit of smoke and fire they returned to Wales with a mission, to spread their passion for outdoor cooking and change the way we BBQ.\n\nNow, having written a best-selling cookbook, opened their own restaurant and won best street food or takeaway category at the BBC Food and Farming Awards, the queens of barbecue hit the road to celebrate the achievements of community champions across Wales and change the way we BBQ.\n\nUsing food to bring together the whole community, each cookout sees Sam and Shauna host huge parties to reward the work of a variety of organisations and individuals. \n\nThey start by showing how to prepare the feasts on a small scale before up-scaling to feed hundreds at large cookouts.\n\nSam and Shauna kick off their cookouts by barbecuing a whole pig with Barry Town United Football Club. They want to celebrate the team's promotion to the Welsh Premier League - not bad considering four years ago Barry Town FC were on the brink of extinction - and the work they do in the community. It is definitely something to celebrate and it needs a really big cookout, so Sam and Shauna decide to cook a whole pig, Hawaiian-style, in a huge brick firepit. The succulent pork will be served with pit beans, cornbread and an apple and fennel slaw, with fruit-filled toffee apples for dessert. But Sam and Shauna only have a week to teach the staff and players of Barry Town United how to make and cook the dishes. With help from a team of volunteers from the club, a pig-sized hole is dug in the beach, and 24 hours later the whole club gather to eat and celebrate with Sam and Shauna's Big Cook Out.",
+"small": "Sam and Shauna celebrate the promotion of Barry Town United Football Club.",
+"medium": "Series in which chefs Sam and Shauna create huge outdoor feasts. In Barry, south Wales, they celebrate the promotion of Barry Town United Football Club to the Welsh Premier League.",
+"preview": "The queens of barbecue hit the road to celebrate the achievements of community champions across Wales – and change the way we BBQ. They make fabulous feasts on a huge scale.",
+"editorial": "Sam and Shauna only have a week to help a football club host a celebratory cookout."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yngkr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-14T11:00:00Z",
+"start": "2018-04-09T19:00:00Z",
+"remaining": {
+"text": "Available for 20 days"
+}
+},
+"credits_start": 1755,
+"first_broadcast": "7:30pm 9 Apr 2018"
+}
+],
+"parent_id": "b09zgq16",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"food",
+"wales"
+],
+"preview_id": "p063cw15",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "9 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-09T00:00:00.000Z",
+"editorial_subtitle": "1/4 The queens of barbecue",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05nd3xh",
+"live": false,
+"type": "episode",
+"title": "Young, Welsh and Pretty Minted",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05p3b0n.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05n7frn",
+"guidance": true,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Young Welsh entrepreneurs reveal new ways to make a mint. Nineteen-year-old Rage Darling takes live donations from fans worldwide who'll pay to watch her play computer games. Banter Cards owner Toni makes a fortune selling saucy celebration gifts. And YouTuber the Gonth has got a dilemma: he wants a runaround to go with his luxury sports car. The trouble is, he only has about £60k to spend. Decisions, decisions...",
+"small": "Banter Cards owner Toni makes a fortune selling saucy celebration gifts.",
+"medium": "Series following young Welsh entrepreneurs. Banter Cards owner Toni makes a fortune selling saucy celebration gifts. And YouTuber the Gonth must decide which car to buy.",
+"editorial": "YouTube superstar The Gonth goes shopping for a runaround to go with his sports car."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05y8x5z",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT29M37S"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-05-26T08:00:00Z",
+"start": "2018-02-25T09:00:00Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 1751,
+"first_broadcast": "25 Feb 2018"
+}
+],
+"parent_id": "p05n7g67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"documentaries"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "25 Feb 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-02-25T00:00:00.000Z",
+"editorial_subtitle": "2/3 A gamer who’s paid to play",
+"lexical_sort_letter": "Y",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b08t3qcj",
+"live": false,
+"type": "episode",
+"title": "Hidden Cardiff with Will Millard",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p054f9v7.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08t3qcj",
+"guidance": false,
+"synopses": {
+"large": "Adventurer and writer Will Millard investigates Cardiff's hidden history in this urban exploration of the Welsh capital. On an exhilarating and sometimes dangerous journey, Will goes in search of the lost stories that show how Cardiff went from a tiny town to the thriving city it is today. From concealed tunnels and nuclear bunkers to a covered canal and derelict buildings, Will has unprecedented access to discover long-forgotten gems that reveal the city like you've never seen it before.",
+"small": "Will Millard reveals how Cardiff went from a tiny town to a thriving city.",
+"medium": "Will Millard investigates Cardiff's hidden history, gaining unprecedented access to long-forgotten gems to reveal how it went from a tiny town to a thriving city.",
+"editorial": "Will goes in search of the lost stories that show how Cardiff became a thriving city."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08vshcw",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T18:00:00Z",
+"start": "2018-04-22T18:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3510,
+"first_broadcast": "7 Jun 2017"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "7 Jun 2017",
+"related_links": [],
+"original_title": "Hidden Cardiff with Will Millard",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2017-06-07T00:00:00.000Z",
+"editorial_subtitle": "A secret subterranean world",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p05nd4ps",
+"live": false,
+"type": "episode",
+"title": "Young, Welsh and Pretty Minted",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05p3bq3.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "Full Series"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05n7frn",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "In the last episode of this eye-opening series about young Welsh entrepreneurs, social influencer and model Erin stars in a rap video with Chipmonk, and moves into her new penthouse suite. Toni at Banter Cards unveils her new naughty collection. And the Gonth gets a personal invite to the most exclusive cyber club in the UK: YouTube Open Space.",
+"small": "Social influencer and model Erin stars in a rap video with Chipmonk.",
+"medium": "Documentary series following young Welsh entrepreneurs. In this final epsiode, social influencer and model Erin stars in a rap video with Chipmonk.",
+"editorial": "Banter Cards unveil their naughty Noel collection to an equally amused and shocked world."
+},
+"versions": [
+{
+"hd": true,
+"id": "p05y8xx5",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L3",
+"text": {
+"large": "Contains very strong language.",
+"small": "Has guidance",
+"medium": "Contains very strong language."
+}
+},
+"availability": {
+"end": "2018-05-26T08:00:00Z",
+"start": "2018-02-25T09:00:00Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 1703,
+"first_broadcast": "19 Dec 2017"
+}
+],
+"parent_id": "p05n7g67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"box-set",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "19 Dec 2017",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2017-12-19T00:00:00.000Z",
+"editorial_subtitle": "3/3 Erin stars in a rap video",
+"lexical_sort_letter": "Y",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063vyny",
+"live": false,
+"type": "episode",
+"title": "BBC National Orchestra of Wales",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0646cv4.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p00dlrbq",
+"guidance": false,
+"subtitle": "2017-18: 90th Anniversary",
+"synopses": {
+"small": "A special concert, streamed digitally/online, to celebrate the orchestra's 90th birthday",
+"medium": "A special concert, streamed digitally/online, to celebrate the orchestra's 90th birthday"
+},
+"versions": [
+{
+"hd": true,
+"id": "p063vz13",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "150 mins",
+"value": "PT2H30M"
+},
+"availability": {
+"end": "2018-05-12T21:00:00Z",
+"start": "2018-04-12T21:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "12 Apr 2018"
+}
+],
+"parent_id": "p063vqd3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "90th Anniversary",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b042689s",
+"live": false,
+"type": "episode",
+"title": "Weatherman Walking",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01y4jpy.jpg"
+},
+"labels": {
+"category": "Lifestyle"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006rh64",
+"guidance": false,
+"subtitle": "Dylan's Walks: 2. New Quay and Laugharne",
+"synopses": {
+"large": "In the second of his two special Dylan's Walks programmes, which celebrate the centenary of Dylan Thomas's birth, Derek Brockway travels to the seaside town of New Quay on Cardigan Bay, where Dylan and his wife Caitlin lived during the war. Derek's hitting the Dylan Thomas trail with his guide Jeff Towns to find out why their time here was so dramatic and how it inspired Dylan to write some of his greatest work. \n\nDerek's final walk takes him to Laugharne to visit some iconic Dylan Thomas sites with Hannah Ellis, Dylan and Caitlin's granddaughter. She tells Derek how important Laugharne was to her grandparents and how much it still means to them as a family. Derek ends his walk in great Dylan fashion with a sing-song and a pint at Brown's Hotel.",
+"small": "Derek Brockway tours Laugharne with Dylan Thomas's granddaughter.",
+"medium": "Derek Brockway learns how New Quay on Cardigan Bay inspired some of Thomas's greatest work, before touring Laugharne with Dylan Thomas's granddaughter."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0426897",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-03T13:15:00Z",
+"start": "2018-04-03T13:15:00Z",
+"remaining": {
+"text": "Available for 9 days"
+}
+},
+"first_broadcast": "7:30pm 28 Apr 2014"
+}
+],
+"parent_id": "p01w6l67",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"lifestyle",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "28 Apr 2014",
+"related_links": [],
+"original_title": "New Quay and Laugharne",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2014-04-28T00:00:00.000Z",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b068bwnb",
+"live": false,
+"type": "episode",
+"title": "Blitz Wales with John Humphrys",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p030ksbt.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b068bwnb",
+"guidance": false,
+"synopses": {
+"large": "To mark the 75th anniversary of the start of the Blitz, John Humphrys returns to south Wales to discover more about the devastating Nazi bombing campaign and how it affected those who experienced it. He sees the reconnaissance maps the Germans used to identify key bombing targets. He takes to the air to follow the direct flight path of the Luftwaffe bombers, as they attacked Cardiff and Swansea. Back on the ground, he also meets survivors of the bombings, including Elaine Kidwell from Swansea, who describes the Blitz on the city as hell. He also visits locations where the bombs hit, including the site of Hollyman's Bakery, the setting for the single worst atrocity in Cardiff. This is a personal story for John, who was born in 1943, and who remembers playing amongst the rubble of the bombsites in Splott, near Cardiff docks.",
+"small": "John Humphrys marks the 75th anniversary of the start of the Blitz in south Wales.",
+"medium": "John Humphrys marks the 75th anniversary of the start of the Blitz in south Wales, learning about the Nazi bombing campaign there and how it affected those who experienced it."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zlrww",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-01T14:15:00Z",
+"start": "2018-04-01T14:15:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "1 Sep 2015"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "1 Sep 2015",
+"related_links": [],
+"original_title": "Blitz Wales with John Humphrys",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2015-09-01T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09rjsq5",
+"live": false,
+"type": "episode",
+"title": "Keeping Faith",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05xhjld.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09s7357",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband and business partner Evan disappears. He leaves for work but never arrives. His sudden absence strikes deep into the heart of his tiny Welsh community and forces Faith to come back from extended maternity leave to defend a hopeless vagrant on a shoplifting charges. As an increasingly desperate Faith searches for clues, she uncovers new revelations about Evan's private life and questions how well she really knows the man she loves.",
+"small": "Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband disappears.",
+"medium": "Mystery drama. Lawyer, wife and mother Faith Howells is drawn into a mystery when her husband and business partner Evan disappears.",
+"preview": "Drama series about a woman whose husband disappears one day.",
+"editorial": "Faith questions everything when her husband goes missing. Starring Eve Myles."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09rjsjw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-04T22:00:00Z",
+"start": "2018-03-29T15:46:31Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"credits_start": 3510,
+"first_broadcast": "9pm 13 Feb 2018"
+}
+],
+"parent_id": "b09s71xz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"wales"
+],
+"preview_id": "p062lk5v",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "13 Feb 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-02-13T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Dark, desperate secrets lurk in idyllic community",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b09xp71h",
+"live": false,
+"type": "episode",
+"title": "Keeping Faith",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g94t.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09s7357",
+"guidance": true,
+"subtitle": "Series 1: Episode 8",
+"synopses": {
+"large": "With Williams now out of the way, Faith fights for her children in a heated court battle that risks tearing the Howells family apart. As the clock ticks on Faith's debt, Steve makes a desperate and deadly pact with his former employers to secure her freedom. Tom and Marion must face tough truths, and Faith finally learns the truth behind Evan's disappearance.",
+"small": "Faith fights for her children in a court battle. Steve makes a pact to secure her freedom.",
+"medium": "Mystery drama. Faith fights for her children in a court battle that risks tearing the Howells family apart. Steve makes a pact with his former employers to secure Faith's freedom.",
+"editorial": "As the clock ticks on Faith's debt, Steve makes a deadly pact to secure her freedom."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09xp5h7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-04T21:00:00Z",
+"start": "2018-04-04T21:00:00Z",
+"remaining": {
+"text": "Available for 10 days"
+}
+},
+"credits_start": 3463,
+"first_broadcast": "3 Apr 2018"
+}
+],
+"parent_id": "b09s71xz",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "3 Apr 2018",
+"related_links": [],
+"original_title": "Episode 8",
+"audio_described": false,
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2018-04-03T00:00:00.000Z",
+"editorial_subtitle": "8/8 Faith fights for her children in a tense court battle",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b09yt35q",
+"live": false,
+"type": "episode",
+"title": "Rhod Gilbert's Work Experience",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06352nq.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00zf3m1",
+"guidance": false,
+"subtitle": "Series 8: 4. Navy",
+"synopses": {
+"large": "Rhod Gilbert is joining the Navy, but that is not good news for a bloke who struggles with seasickness. As he is dunked in at the deep end with the rigorous Royal Navy training regime, can he stay afloat? For Rhod, it is all hands on deck for a chance to take the helm of one of Her Majesty's warships, but as he struggles with all the Navy know-how, he takes a crash-course in marine navigation all too literally.",
+"small": "A seasickness-prone Rhod joins the Royal Navy.",
+"medium": "Rhod Gilbert tries his hand at some proper jobs. A seasickness-prone Rhod joins the Royal Navy and takes part in their rigorous training regime.",
+"editorial": "Will a seasick Rhod stay shipshape when he takes the helm of a real warship?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yt34z",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-12T21:00:00Z",
+"start": "2018-04-12T21:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 1725,
+"first_broadcast": "9:30pm 12 Apr 2018"
+}
+],
+"parent_id": "b09x83qx",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"comedy",
+"wales"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_wales",
+"titles": {
+"large": "BBC One Wales",
+"small": "BBC One",
+"medium": "BBC One Wales"
+},
+"attribution": "bbc_one_wales"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "Navy",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"editorial_subtitle": "4/4 Navy. All hands on deck",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true
+}
+]

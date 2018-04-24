@@ -1,0 +1,1556 @@
+[
+{
+"id": "b0b06tyy",
+"live": false,
+"type": "episode",
+"title": "Sounds Like Friday Night",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06546f8.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09cnb5g",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "Greg James and Dotty present and are joined by Canadian chart topper Shawn Mendes. With over four billion views online, Shawn performs two songs live in the studio. Indie rockers The Vaccines perform their new single I Can't Quit, while Brits Critic Choice winner Jorja Smith delivers a special performance of her track Blue Light. Craig David performs and Dotty meets US singer-songwriter Charlie Puth, while Nile Rodgers and Chic take on the gig in a minute challenge.",
+"small": "Featuring performances from Shawn Mendes, The Vaccines, Jorja Smith and Craig David.",
+"medium": "Live music show. Greg James and Dotty present and are joined by Canadian chart topper Shawn Mendes. Other performers include The Vaccines, Jorja Smith and Craig David.",
+"editorial": "Canadian chart topper and online sensation Shawn Mendes performs two songs live."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06try",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-20T19:00:00Z",
+"start": "2018-04-20T19:06:16Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "7:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b09ys044",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [
+{
+"id": "p05lfr5k",
+"url": "http://www.bbc.co.uk/programmes/p05jvy75",
+"kind": "priority_content",
+"type": "link",
+"title": "Quizzes, features and bonus video"
+}
+],
+"original_title": "Episode 3",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "3/5 With Shawn Mendes, The Vaccines and Jorja Smith",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b03p8shj",
+"live": false,
+"type": "episode",
+"title": "Buena Vista Social Club",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zb3m.jpg"
+},
+"labels": {
+"category": "Film"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03p8shj",
+"guidance": false,
+"synopses": {
+"large": "Cuba's rich and colourful past comes vividly to life in this legendary, Oscar-nominated documentary.\n\nThe award-winning Buena Vista Social Club album produced by Ry Cooder remains the biggest-selling world music album ever, showcasing the talents of a dream team of veterans from Cuban music's golden age, including Ibrahim Ferrer, Ruben Gonzalez, Eliades Ochoa, Omara Portuondo and Compay Segundo.\n\nNever a regular band, The Buena Vista Social Club had gone their separate ways, but in this extraordinary film Wim Wenders intimately documents Ry Cooder's return to Havana, encountering these musical legends again as they look back to the halcyon days of Cuba's music scene, when the rich and famous travelled from all over the world to listen to them. In the climax, their music comes alive once again, as they rehearse for their first - and only - performance in America, at New York's Carnegie Hall.",
+"small": "A group of Cuban musicians are brought together by Ry Cooder to record their music.",
+"medium": "Documentary about a group of legendary Cuban musicians who were brought together by Ry Cooder to record their music. Includes recording sessions in Havana and concert footage.",
+"editorial": "How Ry Cooder reunited a group of legendary Cuban musicians for a spectacular peformance."
+},
+"versions": [
+{
+"hd": true,
+"id": "b001301w",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "105 mins",
+"value": "PT1H45M"
+},
+"availability": {
+"end": "2018-05-20T21:40:00Z",
+"start": "2018-04-20T22:21:58Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 6013,
+"first_broadcast": "1999"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries-music",
+"documentaries",
+"films",
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "1999",
+"related_links": [
+{
+"id": "p06550m3",
+"url": "https://www.bbc.co.uk/music/artists/2a85ecff-41e9-4be1-aca6-c87054a4c334",
+"kind": "priority_content",
+"type": "link",
+"title": "BBC Music: Buena Vista Social Club"
+}
+],
+"original_title": "Buena Vista Social Club",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1999-01-01T00:00:00.000Z",
+"editorial_subtitle": "Cuba's musical past comes to life in a classic documentary",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zgyt0",
+"live": false,
+"type": "episode",
+"title": "BBC Young Musician",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063z7nr.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00bb3wt",
+"guidance": false,
+"subtitle": "2018: 3. Woodwind Category Final",
+"synopses": {
+"large": "With two places in the semi-final already decided, it's the turn of the woodwind players to take centre stage. Josie d'Arby is joined by leading bassoonist Amy Harman at the Royal Birmingham Conservatoire to bring highlights from the BBC Young Musician 2018 woodwind final.\n\nFive outstanding musicians have been selected, playing an array of instruments. They are: 18-year-old saxophonist Robert Burton from Cambridgeshire, from London, 17-year-old flautist Marie Sato, Francis Bushell, an 18-year-old bassoonist from Essex, the youngest competitor in these category finals, 14-year-old Eliza Haskins, a recorder player from Devon, and completing the line-up is 16-year-old clarinettist Tom Myles from County Down, Northern Ireland. They perform music from the Baroque period to the 21st century by composers such as Corelli, Faure and Gershwin.\n\nThe category finalists perform in front of an expert panel of judges: clarinettist Emma Johnson, herself a BBC Young Musician winner in 1984, Juliette Bausor, principal flautist with the London Philharmonic Orchestra, and chair of the jury, composer, performer and writer Kerry Andrew. They will decide who will win the woodwind final and proceed through to the semi-final.\n\nThe programme includes profiles of the competitors, extensive highlights of their performances together with the behind-the-scenes story of the competition.\n\n2018 marks the 40th anniversary of BBC Young Musician. During this time the competition has showcased the brightest and best musical talent in the UK and this year is no exception. Throughout the series the aim for our musicians is to win through to the grand final where they will perform at Birmingham's Symphony Hall with the City of Birmingham Symphony Orchestra conducted by Mark Wigglesworth. Only one can claim the title BBC Young Musician 2018.",
+"small": "Five musicians compete in the woodwind category final.",
+"medium": "Josie d'Arby and bassoonist Amy Harman are at the Royal Birmingham Conservatoire for highlights of the woodwind final. Five outstanding musicians compete.",
+"editorial": "Josie d'Arby is joined by bassoonist Amy Harman to assess five outstanding musicians."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zgym6",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-05-20T20:00:00Z",
+"start": "2018-04-20T20:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "7:30pm 20 Apr 2018"
+}
+],
+"parent_id": "b09y207b",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "20 Apr 2018",
+"related_links": [
+{
+"id": "p06550c3",
+"url": "http://www.bbc.co.uk/programmes/b09yngh8",
+"kind": "priority_content",
+"type": "link",
+"title": "BBC Young Musician: Percussion Final"
+}
+],
+"original_title": "Woodwind Category Final",
+"audio_described": false,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "3/8 Woodwind Final",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063842s",
+"live": false,
+"type": "episode",
+"title": "Live Lounge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064slfx.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p01029mq",
+"guidance": false,
+"subtitle": "Shawn Mendes",
+"synopses": {
+"small": "Performing his new single ‘In My Blood’ and an awesome cover of Post Malone.",
+"medium": "Shawn Mendes performs his new single ‘In My Blood’ and an awesome cover of  ‘Psycho’ by Post Malone."
+},
+"versions": [
+{
+"hd": true,
+"id": "p063846c",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT6M50S"
+},
+"availability": {
+"end": "2018-05-19T16:00:00Z",
+"start": "2018-04-19T16:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "p01029mq",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_radio_one",
+"titles": {
+"large": "BBC Radio 1",
+"small": "BBC Radio 1",
+"medium": "BBC Radio 1"
+},
+"attribution": "bbc_radio_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Shawn Mendes",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p06383cv",
+"live": false,
+"type": "episode",
+"title": "100% Noughties Playlist",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zpjw.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p06383cv",
+"guidance": false,
+"synopses": {
+"small": "Trevor Nelson delves in to the 1Xtra archive and picks the best Noughties tunes.",
+"medium": "Trevor Nelson delves in to the 1Xtra archive and picks the best Noughties tunes for the ultimate throwback. With classic tracks from Estelle, Akon, Missy Elliott and more.",
+"editorial": "1Xtra presents classic tracks from Aaliyah, Estelle, Akon and many more."
+},
+"versions": [
+{
+"hd": true,
+"id": "p0647l9h",
+"kind": "technical-replacement",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT56M46S"
+},
+"availability": {
+"end": "2018-05-15T15:00:00Z",
+"start": "2018-04-15T15:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+},
+{
+"hd": true,
+"id": "p06383m4",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-15T15:00:00Z",
+"start": "2018-04-15T15:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "16 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_1xtra",
+"titles": {
+"large": "BBC Radio 1Xtra",
+"small": "BBC Radio 1Xtra",
+"medium": "BBC Radio 1Xtra"
+},
+"attribution": "bbc_1xtra"
+},
+"release_date": "16 Apr 2018",
+"related_links": [
+{
+"id": "p0655023",
+"url": "http://www.bbc.co.uk/programmes/b00dhg6s",
+"kind": "priority_content",
+"type": "link",
+"title": "1Xtra: Trevor Nelson"
+}
+],
+"original_title": "100% Noughties Playlist",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"editorial_subtitle": "Trevor Nelson curates the ultimate throwback",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p063vyny",
+"live": false,
+"type": "episode",
+"title": "BBC National Orchestra of Wales",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0646cv4.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p00dlrbq",
+"guidance": false,
+"subtitle": "2017-18: 90th Anniversary",
+"synopses": {
+"small": "A special concert, streamed digitally/online, to celebrate the orchestra's 90th birthday",
+"medium": "A special concert, streamed digitally/online, to celebrate the orchestra's 90th birthday"
+},
+"versions": [
+{
+"hd": true,
+"id": "p063vz13",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "150 mins",
+"value": "PT2H30M"
+},
+"availability": {
+"end": "2018-05-12T21:00:00Z",
+"start": "2018-04-12T21:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "12 Apr 2018"
+}
+],
+"parent_id": "p063vqd3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "90th Anniversary",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b0y1dg",
+"live": false,
+"type": "episode",
+"title": "The Queen's Birthday Party",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064tjpx.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b0y1dg",
+"guidance": false,
+"synopses": {
+"large": "A celebration concert for Her Majesty the Queen's 92nd birthday, taking place at the Royal Albert Hall in London and attended by HM the Queen and members of the Royal Family. Alongside contemporary hits, there are songs from classic musicals, swing favourites and much more.\n\nPerformers include Tom Jones, Kylie Minogue, Sting and Shaggy. Also on the show are Shawn Mendes, South African vocal group Ladysmith Black Mambazo, Anne-Marie, Craig David, Jamie Cullum, Donel Mangena, Laura Mvula and the Dhol Foundation, led by Johnny Kalsi.\n\nPerforming songs from the likes of Oklahoma!, My Fair Lady and Top Hat are Luke Evans, Tom Chambers and Helen George. Alfie Boe celebrates the sound of Benny Goodman and the swing era, and there is a celebration of the music of the legendary ukulele maestro George Formby, featuring 40 players from the George Formby Society.\n\nMany of the performers are accompanied by the BBC Concert Orchestra, conducted by musical director Steve Sidwell.",
+"small": "A celebration concert at the Royal Albert Hall for Her Majesty the Queen's 92nd birthday.",
+"medium": "A celebration concert for Her Majesty the Queen's 92nd birthday, taking place at the Royal Albert Hall in London and attended by HM the Queen and members of the royal family.",
+"editorial": "Tom Jones, Kylie and Craig David star in a spectacular concert at the Royal Albert Hall."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0y197",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "100 mins",
+"value": "PT1H40M"
+},
+"availability": {
+"end": "2018-05-21T20:40:00Z",
+"start": "2018-04-21T21:14:03Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 6069,
+"first_broadcast": "8pm 21 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"entertainment",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "The Queen's Birthday Party",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"editorial_subtitle": "A majestic musical celebration",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+},
+{
+"id": "b00qbzxs",
+"live": false,
+"type": "episode",
+"title": "Latin Music USA",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01gnfsb.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00qgyj5",
+"guidance": false,
+"subtitle": "1. East Side Story",
+"synopses": {
+"large": "The first of a four-part series revealing the deep musical and social impact of Latin music in the USA.\n\nThe massive success of Santana's innovative Latin-blues at the Woodstock Festival leads back in time to the first Cuban immigrants arriving, with their Afro-Cuban music, into the States. Using feature film clips, rare archive and location filming, the programme examines how Afro-Cuban music has impacted - since early last century - on jazz, pop rhythms and dance styles. \n\nFrom Cuban rumba to New York mambo, Latin music enthralled 1950s America, challenging racial attitudes and changing the stereotypes projected in movies like West Side Story. It influenced Hollywood, TV sitcoms and 60s rock 'n' roll, as the Beatles and many American R&B bands absorbed Latin rhythms into the wider worlds of rock music, fashion and culture. \n\nFeaturing Carlos Santana, Cachao, Tito Puente, Dizzy Gillespie and the greatest names in Afro-Cuban music.",
+"small": "A look at how Afro-Cuban music has impacted on jazz, pop rhythms and dance styles.",
+"medium": "Series revealing the musical and social impact of Latin music in the USA. This part examines how Afro-Cuban music has affected jazz, pop rhythms and dance styles."
+},
+"versions": [
+{
+"hd": false,
+"id": "b00qbzw5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T23:30:00Z",
+"start": "2018-04-20T22:51:44Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "9pm 29 Jan 2010"
+}
+],
+"parent_id": "b00qgyj5",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "29 Jan 2010",
+"related_links": [],
+"original_title": "East Side Story",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2010-01-29T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true
+},
+{
+"id": "b05pzbqh",
+"live": false,
+"type": "episode",
+"title": "Jimi: All Is by My Side",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04xw70q.jpg"
+},
+"labels": {
+"category": "Film"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b05pzbqh",
+"guidance": true,
+"synopses": {
+"large": "Biopic of Jimi Hendrix, from his discovery by Linda Keith working in other people's bands in New York, through his meeting with manager Chas Chandler and explosion onto the London scene, and to his emergence as the greatest and most exciting rock musician of the 1960s.",
+"small": "Andre Benjamin stars as Jimi Hendrix in this biopic about the rock star's early years.",
+"medium": "Biopic about rock star Jimi Hendrix's early years in 1966 and 1967, between the Cheetah Club in New York and London, until his triumph in Monterey.",
+"editorial": "From his discovery by Linda Keith through to his explosion onto the London scene."
+},
+"versions": [
+{
+"hd": true,
+"id": "b04sv7fg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "108 mins",
+"value": "PT1H48M"
+},
+"guidance": {
+"id": "L3",
+"text": {
+"large": "Contains very strong language.",
+"small": "Has guidance",
+"medium": "Contains very strong language."
+}
+},
+"availability": {
+"end": "2018-04-28T01:05:00Z",
+"start": "2018-03-29T00:35:00Z",
+"remaining": {
+"text": "Available until Sat 2:05am"
+}
+},
+"first_broadcast": "2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"films",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "2013",
+"related_links": [],
+"original_title": "Jimi: All Is by My Side",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2013-01-01T00:00:00.000Z",
+"editorial_subtitle": "Discover the early career of the 60s rock legend",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true
+},
+{
+"id": "b01r3pm9",
+"live": false,
+"type": "episode",
+"title": "Totally British: 70s Rock 'n' Roll",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01j343t.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01r6x99",
+"guidance": false,
+"subtitle": "1. 1970-1974",
+"synopses": {
+"large": "Trawled from the depths of the BBC Archive and classic BBC shows of the day - Old Grey Whistle Test, Top of the Pops and Full House - a collection of performance gems from a totally rock 'n' roll early 1970s. \n\nThis was a golden era for British rock 'n' roll as everyone moved on from the whimsical 60s and looked around for something with a bit more oomph! In a pre-heavy metal world bands were experimenting with influences that dated back to 50s rock 'n' roll, whilst taking their groove from old-school rhythm and blues. It was also a time when men grew their hair long! \n\nIn a celebration of this era, we kick off with an early 1970s Badfinger number direct from the BBC library and continue the groove from the BBC vaults with classic rock 'n' roll heroes like Free, Status Quo, the Faces, Humble Pie and Mott the Hoople. Plus from deep within the BBC archives we dig out some rarities from the likes of Babe Ruth, Stone the Crows, The Sensational Alex Harvey Band, Man, Heavy Metal Kids and original rockers Thin Lizzy... to name but a few.\n\nSit back and enjoy a 60-minute non-stop ride of unadulterated Totally British 70s Rock 'n' Roll!",
+"small": "Early 1970s rock 'n' roll from the likes of Free, Status Quo, the Faces and Humble Pie.",
+"medium": "Performances include an early 1970s Badfinger number and the BBC vaults provide classic rock 'n' roll heroes like Free, Status Quo, the Faces and Humble Pie."
+},
+"versions": [
+{
+"hd": false,
+"id": "b01r3pgl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-19T23:20:00Z",
+"start": "2018-04-19T23:20:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "9pm 8 Mar 2013"
+}
+],
+"parent_id": "b01r6x99",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "8 Mar 2013",
+"related_links": [
+{
+"id": "p057dqrg",
+"url": "http://www.bbc.co.uk/programmes/articles/4LTPXrHy0khCN9BWMRKw7tG/5-modern-acts-that-owe-a-debt-to-classic-rock-n-roll",
+"kind": "priority_content",
+"type": "link",
+"title": "5 modern acts indebted classic rock ‘n’ roll"
+}
+],
+"original_title": "1970-1974",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-03-08T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b01ql9xk",
+"live": false,
+"type": "episode",
+"title": "Danny Baker's Great Album Showdown",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01l9cv2.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01qkw54",
+"guidance": false,
+"subtitle": "2. File under: Pop",
+"synopses": {
+"large": "What makes a great pop album? Danny Baker celebrates the golden age of the analogue, vinyl LP with pop star Boy George, writer Grace Dent and journalist David Hepworth. Opinionated and impassioned, Baker and his guests select their favourite pop albums and discuss how the LPs of the 60s and 70s were produced - and devoured - in quite a different way to their modern equivalents.",
+"small": "Danny Baker and his three guests explore the essential elements of a great pop album.",
+"medium": "Exploring what makes a great pop album, Danny Baker celebrates the golden age of the analogue, vinyl LP with guests Boy George, Grace Dent and David Hepworth."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01ql9xf",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-20T00:50:00Z",
+"start": "2018-04-20T00:50:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "9pm 6 Feb 2013"
+}
+],
+"parent_id": "b01qkw54",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"arts",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "6 Feb 2013",
+"related_links": [],
+"original_title": "File under: Pop",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2013-02-06T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+},
+{
+"id": "b09yng6q",
+"live": false,
+"type": "episode",
+"title": "Top of the Pops",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063z7bb.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00704hg",
+"guidance": false,
+"subtitle": "22/08/1985",
+"synopses": {
+"small": "Featuring The Cars, Baltimora, Kate Bush, Princess and Madonna.",
+"medium": "Steve Wright and Gary Davies present the pop chart programme, first broadcast on 22 August 1985. Featuring The Cars, Baltimora, Kate Bush, Princess and Madonna."
+},
+"versions": [
+{
+"hd": false,
+"id": "b09yng1b",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-19T23:50:00Z",
+"start": "2018-04-19T19:00:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "7:55pm 22 Aug 1985"
+}
+],
+"parent_id": "b00704hg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "22 Aug 1985",
+"related_links": [],
+"original_title": "22/08/1985",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "1985-08-22T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true
+},
+{
+"id": "b0b12cl3",
+"live": false,
+"type": "episode",
+"title": "Songs of Praise",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064t83y.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006ttc5",
+"guidance": false,
+"subtitle": "Northampton All Saints'",
+"synopses": {
+"large": "Josie d'Arby presents Songs of Praise from Northampton's All Saints Church. \n\nTo mark the 25th anniversary of Stephen Lawrence's murder his mother, Baroness Doreen Lawrence talks to Sean Fletcher about how her faith has helped during her 18 year fight for justice for her son.\n\nOn the eve of St George's Day, the Rev Rose Hudson-Wilkin reveals the Middle Eastern identity of England's patron saint. \n\nJosie finds out about the Good Loaf cafe run by the Christian charity Crime 2 Christ and visits the town's premier rugby club, the Saints, which was founded by a clergyman at the end of the 19th century. \n\nMusic\nPraise My Soul, the King of Heaven from All Saints' Church, Northampton\nFor All the Saints from All Saints' Church, Northampton\nThis Is Amazing Grace from City Gates, Ilford\nBe Still for the Presence of the Lord from Christ Church URC, Port Sunlight\nThe Water Is Wide by Blake and The Military Wives Choir\nOh When the Saints Go Marching In from St Alban's Church, Bristol\nLord for the Years from All Saints' Church, Northampton.",
+"small": "On the 25th anniversary of Stephen Lawrence's murder, his mother talks about her faith.",
+"medium": "Songs of Praise explores Northampton and reveals the true identity of St George and, on the 25th anniversary of Stephen Lawrence's murder, his mother Doreen talks about her faith."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b12ckj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "34 mins",
+"value": "PT34M"
+},
+"availability": {
+"end": "2018-05-22T15:05:00Z",
+"start": "2018-04-22T15:05:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 2040,
+"first_broadcast": "3:30pm 22 Apr 2018"
+}
+],
+"parent_id": "b006ttc5",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"lifestyle",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Northampton All Saints'",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "p01s4z2h",
+"live": false,
+"type": "episode",
+"title": "Dancing in the Blitz: How World War 2 Made British Ballet",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tdfym.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p01s4z2h",
+"guidance": false,
+"synopses": {
+"large": "David Bintley, director of the Birmingham Royal Ballet, explores how the Second World War was the making of British ballet and how fundamental the years of hardship and adversity were in getting the British public to embrace ballet. Bintley shows how the then Sadler's Wells Ballet Company, led by Ninette de Valois and featuring a star-studded generation of British dancers and choreographers including Margot Fonteyn and Frederick Ashton, was forged during the Second World War. \n\nIt's the story of how de Valois and her small company of dancers took what was essentially a foreign art form and made it British despite the falling bombs, the rationing and the call-up. Plus it is the story of how Britain, as a nation, fell in love with ballet.\n\nUsing rare and previously unseen footage and interviews with dance icons such as Dame Gillian Lynne and Dame Beryl Grey, Bintley shows how the Sadler's Wells Ballet company survived an encounter with Nazi forces in Holland, dancing whilst the bombs were falling in the Blitz, rationing and a punishing touring schedule to bring ballet to the British people as an antidote to the austerity the country faced to emerge postwar as the Royal Ballet.",
+"small": "How fundamental the years of adversity were in getting the public to embrace ballet.",
+"medium": "David Bintley on how the Sadler's Wells Ballet company brought ballet to the British people as an antidote to austerity and emerged, postwar, as the Royal Ballet."
+},
+"versions": [
+{
+"hd": false,
+"id": "b03x417r",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-02T00:30:00Z",
+"start": "2018-04-02T00:30:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "9pm 5 Mar 2014"
+},
+{
+"hd": false,
+"id": "p026tjsf",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-02T00:30:00Z",
+"start": "2018-04-02T01:39:56Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "5 Mar 2014"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"audio-described",
+"documentaries-arts",
+"documentaries-history",
+"documentaries-music",
+"documentaries",
+"history",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "5 Mar 2014",
+"related_links": [],
+"original_title": "Dancing in the Blitz: How World War 2 Made British Ballet",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2014-03-05T00:00:00.000Z",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true
+},
+{
+"id": "b09zcz0q",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v8m7.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 4. Cowboys",
+"synopses": {
+"large": "We're out on the open range with the cowboys and cowgirls of Ireland as we saddle up with the men and women who live their lives western-style. From Desperate Dans competing in the All-Ireland western riding championships to a magnificent seven from Donegal staging an old-time bank robbery, it's like the Wild West out there!",
+"small": "Venturing out with the cowboys and cowgirls of Ireland.",
+"medium": "Series about Northern Ireland's country music scene. This edition ventures out with the cowboys and cowgirls of Ireland, men and women who live their lives western-style."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zcyz1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-17T21:30:00Z",
+"start": "2018-04-16T22:10:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "10:40pm 16 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Cowboys",
+"audio_described": false,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0gg8x",
+"live": false,
+"type": "episode",
+"title": "Keepin 'er Country",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064g3zs.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08l64dq",
+"guidance": false,
+"subtitle": "Series 3: 5. Town and Country",
+"synopses": {
+"large": "The tiny village of Clonmany in Donegal hosts the longest-running country music festival in Ireland, and as it prepares for its 50th anniversary this year, we meet the locals who make it all possible. With a night of nostalgia focusing on the veteran stars, Philomena Begley and TR Dallas take centre stage in this trip down memory lane.",
+"small": "The preparations for the 50th anniversary of NI's longest-running country music festival.",
+"medium": "Series about Northern Ireland's country music scene. Following preparations for the 50th anniversary of the longest-running country music festival in Ireland."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0gg86",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-23T22:10:00Z",
+"start": "2018-04-23T22:10:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "10:40pm 23 Apr 2018"
+}
+],
+"parent_id": "b09x89lg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music",
+"northern-ireland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_northern_ireland",
+"titles": {
+"large": "BBC One Northern Ireland",
+"small": "BBC One",
+"medium": "BBC One Northern Ireland"
+},
+"ident_id": "p00pvbjh",
+"attribution": "bbc_one_northern_ireland"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-24T21:00:00.000Z"
+},
+"original_title": "Town and Country",
+"audio_described": false,
+"parent_position": 5,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true
+},
+{
+"id": "b01sbxqw",
+"live": false,
+"type": "episode",
+"title": "Queens of Jazz: The Joy and Pain of the Jazz Divas",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01jxgvx.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01sbxqw",
+"guidance": true,
+"synopses": {
+"large": "A celebration of some of the greatest female jazz singers of the 20th century. It takes an unflinching and revealing look at what it actually took to be a jazz diva during a turbulent time in America's social history - a time when battle lines were being constantly drawn around issues of race, gender and popular culture.\n\nThe documentary tracks the diva's difficult progress as she emerges from the tough, testosterone-fuelled world of the big bands of the 30s and 40s, to fill nightclubs and saloons across the US in the 50s and early 60s as a force in her own right. Looking at the lives and careers of six individual singers (Billie Holiday, Ella Fitzgerald, Peggy Lee, Sarah Vaughan, Nina Simone and Annie Ross), the film not only talks to those who knew and worked with these queens of jazz, but also to contemporary singers who sit on the shoulders of these trailblazing talents without having to endure the pain and hardship it took for them to make their highly individual voices heard above the prejudice of mid-century America.\n\nThis is a documentary about how these women triumphed - always at some personal cost - to become some of the greatest artists of the 20th century, women who chose singing above life itself because singing was their life.",
+"small": "Documentary celebrating some of the greatest female jazz singers of the 20th century.",
+"medium": "Documentary celebrating some of the greatest female jazz singers of the 20th century, including what it took to be a jazz diva during a turbulent time in America's social history."
+},
+"versions": [
+{
+"hd": false,
+"id": "b01sbxnn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-21T00:45:00Z",
+"start": "2018-04-21T00:45:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "9pm 10 May 2013"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "10 May 2013",
+"related_links": [
+{
+"id": "p02kcd3l",
+"url": "http://www.bbc.co.uk/programmes/b04grm6j",
+"kind": "priority_content",
+"type": "link",
+"title": "The Lost Women of British Jazz"
+}
+],
+"original_title": "Queens of Jazz: The Joy and Pain of the Jazz Divas",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2013-05-10T00:00:00.000Z",
+"lexical_sort_letter": "Q",
+"requires_tv_licence": true
+},
+{
+"id": "b01hrb2y",
+"live": false,
+"type": "episode",
+"title": "Barry Manilow at the BBC",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01hg66y.jpg"
+},
+"labels": {
+"category": "Music"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01hrb2y",
+"guidance": false,
+"synopses": {
+"large": "A mixture of songs, interviews and rarely seen documentary footage offers a glimpse as to how American crooner Barry Manilow's career has evolved on screen for more than forty years. Classics such as Mandy, Copacabana and Could It Be Magic were played to millions of viewers first time around and are revisited in clips from Top of the Pops, Parkinson and various filmed shows including his pivotal open-air concert at Blenheim Palace in 1983 - it's a miracle!",
+"small": "A mixture of songs, interviews and rarely seen documentary footage from the BBC archive.",
+"medium": "A mixture of songs, interviews and rarely seen documentary footage offers a glimpse as to how American crooner Barry Manilow's career has evolved on screen for more than 40 years."
+},
+"versions": [
+{
+"hd": false,
+"id": "b01hrb1b",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-21T01:45:00Z",
+"start": "2018-04-21T01:45:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "9pm 18 May 2012"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "18 May 2012",
+"related_links": [],
+"original_title": "Barry Manilow at the BBC",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2012-05-18T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b054v27d",
+"live": false,
+"type": "episode",
+"title": "Boy George and Culture Club: Karma to Calamity",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02kbskm.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b054v27d",
+"guidance": true,
+"synopses": {
+"large": "In the early 1980s, Culture Club was one of the biggest bands in the world, selling 150 million records worldwide. Formed in London, the band was comprised of Boy George on vocals, Mikey Craig on bass, Roy Hay on guitar and keyboards and Jon Moss on drums. As well as their UK success, the band was huge in the USA - notching up ten top 40 hits. Being part of Band Aid cemented them as stalwarts of the 80s, a band that broke down barriers and left a huge legacy for the stars that came later, before they disbanded in 1986.  \n\nHowever, they are a band with a past as colourful as their music. George had a secret affair with his drummer Jon Moss and when they acrimoniously split, the band fell apart and George descended into heroin addiction. Over the years there have been numerous failed attempts to reunite the band.\n \nIn 2014 Culture Club decided to come back together to record a new album and embark on a UK and US tour. Director Mike Nicholls has unique access, following the band as they first meet in George's London home to write new material. However, it's not long before creative differences and tensions from their past begin to emerge. Faultlines develop further when the band travel to Spain to record the new album, spending two weeks working and living together in a remote recording studio. \n\nAs the band return to London to prepare for the tour, they suffer a Twitter mauling after their first big public performance on Strictly Come Dancing. Relations are even more strained when George and the band sign to separate managers and a sudden illness threatens the whole reunion. \n\nThe film looks at the band's troubled past, examining the themes of success, fame and ego, and reveals the personalities behind one of the most iconic bands of all time.",
+"small": "Film about Culture Club's 2014 reunion, as they record a new album and tour the UK and US.",
+"medium": "Documentary about Culture Club's 2014 reunion, as they record a new album and embark on a UK and US tour, seen through the prism of the band's sometimes troubled past."
+},
+"versions": [
+{
+"hd": true,
+"id": "b054v23n",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L2",
+"text": {
+"large": "Contains strong language.",
+"small": "Has guidance",
+"medium": "Contains strong language."
+}
+},
+"availability": {
+"end": "2018-05-07T23:00:00Z",
+"start": "2018-04-07T23:00:00Z",
+"remaining": {
+"text": "Available for 13 days"
+}
+},
+"first_broadcast": "9pm 6 Mar 2015"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"arts",
+"documentaries-arts",
+"documentaries-music",
+"documentaries",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "6 Mar 2015",
+"related_links": [
+{
+"id": "p02ldlrx",
+"url": "http://www.bbc.co.uk/music/artists/81435053-e1a2-48a4-adfd-e89f310c7b38",
+"kind": "priority_content",
+"type": "link",
+"title": "Culture Club on BBC Music"
+}
+],
+"original_title": "Boy George and Culture Club: Karma to Calamity",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2015-03-06T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09zdk9s",
+"live": false,
+"type": "episode",
+"title": "Sounds Like Friday Night",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xn6d.jpg"
+},
+"labels": {
+"category": "Entertainment"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09cnb5g",
+"guidance": false,
+"subtitle": "Series 2: Episode 2",
+"synopses": {
+"large": "Brit award winner Lily Allen joins Greg James in the Sounds Like Friday Night studio as this week's special guest. Returning with her first new album in four years, Lily performs two tracks including her latest single Higher.\n\nSam Smith treats viewers to an exclusive performance at the O2 as he embarks on a world tour. Singer-songwriter James Bay also returns with new music, performing new single Wild Love live in the studio. \n\nAustralian chart-toppers 5 Seconds of Summer give a special performance of Want You Back - the lead single from their highly anticipated third album. Plus we see part two of Dotty's trip to Tokyo to meet Little Mix. This week they take on Sounds Like Friday Night's Gig in a Minute challenge - how many of their hits can they cram into a one minute?",
+"small": "Featuring Lily Allen, Sam Smith, James Bay, 5 Seconds of Summer and Little Mix.",
+"medium": "Live music show. Greg James is joined in the studio by Lily Allen, who performs two tracks. The programme also features Sam Smith, James Bay, 5 Seconds of Summer and Little Mix.",
+"editorial": "Lily Allen returns with her first album in four years and 5 Seconds Of Summer are live."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdk9q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-13T19:00:00Z",
+"start": "2018-04-13T19:06:34Z",
+"remaining": {
+"text": "Available for 19 days"
+}
+},
+"credits_start": 1740,
+"first_broadcast": "7:30pm 13 Apr 2018"
+}
+],
+"parent_id": "b09ys044",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"entertainment",
+"music"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "13 Apr 2018",
+"related_links": [
+{
+"id": "p05lfr5k",
+"url": "http://www.bbc.co.uk/programmes/p05jvy75",
+"kind": "priority_content",
+"type": "link",
+"title": "Quizzes, features and bonus video"
+}
+],
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-13T00:00:00.000Z",
+"editorial_subtitle": "2/5 With an exclusive performance from Sam Smith",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+}
+]

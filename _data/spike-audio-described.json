@@ -1,0 +1,1956 @@
+[
+{
+"id": "b0b10lnr",
+"live": false,
+"type": "episode",
+"title": "EastEnders",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064k605.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m86d",
+"guidance": false,
+"subtitle": "23/04/2018",
+"synopses": {
+"large": "Arshad offers his help to a stranger but all is not as it seems. \n\nWhitney ponders Tiffany's future in Walford. \n\nIan continues to try to get one up on Masood.",
+"small": "Arshad offers his help to a stranger but all is not as it seems.",
+"medium": "Arshad offers his help to a stranger but all is not as it seems. Whitney ponders Tiffany's future in Walford. Ian continues to try to get one up on Masood."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b10ll7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:30:00Z",
+"start": "2018-04-23T19:30:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"credits_start": 1547,
+"first_broadcast": "8pm 23 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0655zwq",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:30:00Z",
+"start": "2018-04-23T19:54:36Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b006m86d",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "23/04/2018",
+"audio_described": true,
+"parent_position": 5694,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"editorial_subtitle": "23/04/2018: Whitney ponders Tiffany's future in Walford",
+"lexical_sort_letter": "E",
+"requires_tv_licence": true
+},
+{
+"id": "b0b157dw",
+"live": false,
+"type": "episode",
+"title": "The Woman in White",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064y1bn.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b15xvc",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "After a haunting encounter with a woman all in white, drawing master Walter Hartright finds a startling resemblance between her and his new pupil, the beautiful Laura Fairlie.",
+"small": "After an eerie meeting, Walter is drawn into the mysterious past of a woman in white.",
+"medium": "Drama based on the novel by Wilkie Collins. After a haunting encounter with a woman all in white, Walter Hartright finds a startling resemblance between her and his new pupil.",
+"editorial": "A chilling ride into the depths of insanity in the classic mind-bending thriller."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b156tb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "56 mins",
+"value": "PT56M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3313,
+"first_broadcast": "9pm 22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0652wp6",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "56 mins",
+"value": "PT56M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T22:09:03Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "b0b15x7j",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "1/5 Suspense, danger and love combine as secrets will out",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b0b05l56",
+"live": false,
+"type": "episode",
+"title": "EastEnders",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdgx.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m86d",
+"guidance": false,
+"subtitle": "20/04/2018",
+"synopses": {
+"small": "Ian's interview with the investor doesn't go to plan. Vincent makes a big decision.",
+"medium": "Ian's interview with the investor doesn't go to plan. Vincent makes a big decision.",
+"editorial": "Ian's interview with the investor doesn't go to plan."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b05l2t",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-20T19:30:00Z",
+"start": "2018-04-20T19:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 1592,
+"first_broadcast": "8pm 20 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064yh5b",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-20T19:30:00Z",
+"start": "2018-04-20T19:49:24Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "b006m86d",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "20/04/2018",
+"audio_described": true,
+"parent_position": 5693,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "20/04/2018: Vincent makes a big decision",
+"lexical_sort_letter": "E",
+"requires_tv_licence": true
+},
+{
+"id": "b0b11bb1",
+"live": false,
+"type": "episode",
+"title": "Britain's Biggest Warship",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p34s.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b08zfk",
+"guidance": false,
+"subtitle": "Series 1: 2. In at the Deep End",
+"synopses": {
+"large": "After eight years in build, HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea. The 700 sailors on board have to test everything on the ship for the first time - from galleys to guns and from power plants to propellers. What is the super carrier's top speed? How manoeuvrable is she and how stable in rough waters? Meanwhile, the ship's company start the process of becoming a sea-born community. On board is chef Mohamad Khan, who has to work out how to prepare pork dishes without offending his religion, able seaman Ricky Gleeson, who had 49 convictions before he was 21, and Dave Garraghty, the most senior non-commissioned officer on board, with a passion for car boot sales. \n\nAfter four days at sea, the first aircraft lands on the flight deck and all seems well, but then there is an explosion in a cooling plant, a fuel leak that sprays everyone with diesel and the ship's rubbish disposal system goes wrong. There are also strange knocking sounds coming from underneath the ship.",
+"small": "HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea.",
+"medium": "HMS Queen Elizabeth embarks on dangerous sea trials in the North Sea, testing everything from galleys to guns and power plants to propellers.",
+"editorial": "The 700 sailors on board have to test everything on the ship for the first time."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b119wy",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-22T20:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3515,
+"first_broadcast": "8pm 22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0652v8k",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T20:00:00Z",
+"start": "2018-04-22T21:28:51Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "b0b08zfm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-28T12:30:00.000Z"
+},
+"original_title": "In at the Deep End",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "2/3 Its maiden voyage",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09r0p",
+"live": false,
+"type": "episode",
+"title": "Home from Home",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06438js.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09jcg",
+"guidance": false,
+"subtitle": "Series 1: 1. The BLT",
+"synopses": {
+"large": "Sitcom about a family who move to the Lake District, only to find their new neighbours are successful and effortlessly superior. When Neil believes he's been fired he goes off the deep end, meaning plans for a new WIFI mast on the site are put in serious jeopardy.",
+"small": "Neil believes he has been fired and goes off the deep end.",
+"medium": "Sitcom set in the Lake District. When Neil believes he's been fired he goes off the deep end, meaning plans for a new WIFI mast on the site are put in serious jeopardy.",
+"editorial": "Neil believes he’s been fired and goes off the deep end. Comedy with Johnny Vegas."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09djx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-20T21:00:00Z",
+"start": "2018-04-20T21:00:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 1634,
+"first_broadcast": "9:30pm 20 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064yljl",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-20T21:00:00Z",
+"start": "2018-04-20T21:30:37Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "b0b09fkd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "The BLT",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "1/6 The BLT. Will the Hacketts live the dream in the Lakes?",
+"lexical_sort_letter": "H",
+"requires_tv_licence": true
+},
+{
+"id": "b0b05h9n",
+"live": false,
+"type": "episode",
+"title": "EastEnders",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdd0.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m86d",
+"guidance": false,
+"subtitle": "19/04/2018",
+"synopses": {
+"small": "Ian tries to thwart Masood's interview slot with the investor.",
+"medium": "Ian tries to thwart Masood's interview slot with the investor. Stacey is concerned for Kat. Mel invites Linda to the club for a drink.",
+"editorial": "Ian tries to thwart Masood's slot with the investor, while Mel invites Linda to the club."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b05h7m",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T19:00:00Z",
+"start": "2018-04-19T18:57:00Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"credits_start": 1574,
+"first_broadcast": "7:30pm 19 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064ty52",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T19:00:00Z",
+"start": "2018-04-19T19:18:04Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "19 Apr 2018"
+}
+],
+"parent_id": "b006m86d",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": true,
+"parent_position": 5692,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"editorial_subtitle": "19/04/2018: Stacey is concerned for Kat",
+"lexical_sort_letter": "E",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09f62",
+"live": false,
+"type": "episode",
+"title": "Stephen: The Murder that Changed a Nation",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vtwv.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b0br42",
+"guidance": true,
+"subtitle": "Series 1: 2. The System",
+"synopses": {
+"large": "A second police investigation captures shocking surveillance footage of the racism of the gang alleged to have killed Stephen. With help from their lawyer Imran Khan, Doreen and Neville Lawrence launch the first private murder prosecution in 150 years. When it collapses, questions about the failure of the first police investigation mount. \n\nThe Daily Mail stages a dramatic intervention. A public inquiry shines an uncomfortable light on the police and leads to some devastating revelations.",
+"small": "Doreen and Neville Lawrence launch a private murder prosecution.",
+"medium": "Documentary series examining the murder of Stephen Lawrence. Doreen and Neville Lawrence launch a private murder prosecution.",
+"editorial": "How devastating revelations shone an uncomfortable light on the police."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09f58",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"guidance": {
+"id": "D2L3",
+"text": {
+"large": "Contains very strong language and scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains very strong language and upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 3529,
+"first_broadcast": "9pm 18 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064qrq5",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"guidance": {
+"id": "D2L3",
+"text": {
+"large": "Contains very strong language and scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains very strong language and upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:42:28Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "b0b09drg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-crime-and-justice",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "The System",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"editorial_subtitle": "2/3 The System",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b0b09dss",
+"live": false,
+"type": "episode",
+"title": "Stephen: The Murder that Changed a Nation",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0642ps5.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b0br42",
+"guidance": true,
+"subtitle": "Series 1: 1. The Loss of Joy",
+"synopses": {
+"large": "Three-part documentary series examining the murder of Stephen Lawrence. The first episode focuses on the run-up to Stephen's murder and the police investigation that follows. As the suspects remain free, tip-offs from the community worry Doreen and Neville, Stephen's parents, about why the police are not making arrests.\n\nA visit from Nelson Mandela seems to prompt action, but Stephen's friend Duwayne, also a victim of the attack, gets into difficulty with the police. When the charges against the suspects are dropped, Doreen realises she must take action into her own hands.",
+"small": "Documentary examining the murder of Stephen Lawrence and the police investigation.",
+"medium": "Documentary series examining the murder of Stephen Lawrence. The first episode focuses on the run-up to Stephen's murder and the police investigation that followed.",
+"editorial": "The definitive account of a shocking crime, and the grieving Lawrence family left behind."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b09dn5",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"guidance": {
+"id": "L3V1",
+"text": {
+"large": "Contains very strong language and some violent scenes.",
+"small": "Has guidance",
+"medium": "Contains very strong language and some violence."
+}
+},
+"availability": {
+"end": "2018-05-17T21:00:00Z",
+"start": "2018-04-17T21:00:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 3529,
+"first_broadcast": "9pm 17 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064mhdm",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"guidance": {
+"id": "L3V1",
+"text": {
+"large": "Contains very strong language and some violent scenes.",
+"small": "Has guidance",
+"medium": "Contains very strong language and some violence."
+}
+},
+"availability": {
+"end": "2018-05-17T21:00:00Z",
+"start": "2018-04-17T21:49:41Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b0b09drg",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-crime-and-justice",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "The Loss of Joy",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"editorial_subtitle": "Box Set. 25 years on",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b0b11p25",
+"live": false,
+"type": "episode",
+"title": "My Year with the Tribe",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p3fg.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b09812",
+"guidance": false,
+"subtitle": "Series 1: Episode 2",
+"synopses": {
+"large": "Living in treehouses and using stone tools, the Korowai were only discovered living in the jungles of West Papua around 40 years ago. Since then they have had to adapt rapidly to the ways of the outside world. Writer and adventurer Will Millard visits the Korowai four times over the course of a year, to see if he can get closer to them than is usually possible, to better understand the pressures they face as they leave the forest behind and transition into the modern world. He also wants to find out how much of their traditional hunter-gathering lifestyle still exists. What he finds shocks, surprises and confounds him, as he witnesses the last gasp of an ancient way of life which once defined us all.\n\nWill returns for his second trip to the Korowai to spend more time with Haup (White Beard) and Halap. They are some of the last remaining Korowai still living permanently in a treehouse without any real contact with the outside world. When Will first meets them, their adopted son August is there with them in the forest and his wife Amel gives birth one night, cutting her own umbilical cord with a sharpened piece of wood. But it soon turns out that they spend most of their time in the government-sponsored villages six hours walk away, and have decided to come to the treehouse to see if they can work with the film crew. So Will asks them to return to their government-built village, preparing to spend 10 days living with Haup and Halap alone in the middle of the forest.",
+"small": "Will Millard returns to the Korowai to spend more time with two old men in the forest.",
+"medium": "Will Millard returns to the treehouse-dwelling Korowai to spend time with two old men living in the forest, but is shocked by what he sees when he arrives.",
+"editorial": "Will spends time with Haup and Halap - but there’s more to their life than meets the eye."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b11p0q",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3496,
+"first_broadcast": "9pm 22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0652w0k",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-22T21:00:00Z",
+"start": "2018-04-22T21:51:10Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "b0b09819",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries-life-stories",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Episode 2",
+"audio_described": true,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "2/3 The treehouse dwellers cut off from the outside world",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true
+},
+{
+"id": "b0b1290g",
+"live": false,
+"type": "episode",
+"title": "Joe All Alone",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064s5ml.jpg"
+},
+"labels": {
+"category": "CBBC"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zj5tj",
+"guidance": false,
+"subtitle": "Series 1: 3. No Way Out",
+"synopses": {
+"large": "Joe gets ready for school but he looks a sorry sight. His mum should have been home three days ago, he's run out of money and is almost out of food. His fear of Dean still stops Joe from touching a penny of the money he found.\n\nAt break time, Joe's nemesis, the bully Perry Fletcher, turns the screws on Joe a little tighter by demanding money - a pound today, two pounds tomorrow.\n\nBack at home a starving Joe eats the out-of-date curry that Dean left in the fridge, which has disastrous results and he is violently sick for two days. He can't go to school, hallucinates that Dean is in the flat, and then the electricity runs out. Can things get any worse for Joe?",
+"small": "Joe's mum is still not home, he's run out of money and is almost out of food.",
+"medium": "Drama series. Joe is in a sorry state - his mum should have been home three days ago, he's run out of money and is almost out of food."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b12900",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T20:00:00Z",
+"start": "2018-04-23T16:30:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"credits_start": 1656,
+"first_broadcast": "5pm 23 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0655m3g",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T20:00:00Z",
+"start": "2018-04-23T17:13:41Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b09zj68f",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbbc",
+"childrens-drama"
+],
+"has_credits": true,
+"master_brand": {
+"id": "cbbc",
+"titles": {
+"large": "CBBC",
+"small": "CBBC",
+"medium": "CBBC"
+},
+"ident_id": "p03knjp3",
+"attribution": "cbbc"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "No Way Out",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": false,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "J",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0wdkg",
+"live": false,
+"type": "episode",
+"title": "The Big Painting Challenge",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064gqqp.jpg"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08fn9p2",
+"guidance": false,
+"subtitle": "Series 2: 4. Waterscape",
+"synopses": {
+"large": "The magnificent seven amateur artists are confronted with the tail end of a hurricane, as they set up their easels on the bonnie but windy banks of Loch Lomond. This week the challenge is to paint water and the many colours it reflects. \n\nWith the wind howling, in the first task they must try to mix the perfect colours to capture a boat and its stormy reflections in the turbulent water. Mentors Diana Ali and Pascal Anson, as always, are\non hand with hints and tips, which some of the artists choose to ignore at their peril. \n\nThe masterclasses this week are all about mixing colours. Armed with just the primary paints, our mentors have two techniques to help the artists see and mix colour more accurately. For the main\nchallenge, the painters move to a full, panoramic view of the loch, which is useful as that is exactly what the judges want to see on canvas. Can they capture the ever-changing colours of the sky, land and water, which at times disappear from view all together? No one said it would be easy. \n\nAt a viewing, the results are seen by members of the public, who decide on their favourite artist to be catapulted to the semi-final. The rest must await the verdict of the judges, Lachlan Goudie and Daphne Todd OBE. \n\nHosted by Mariella Frostrup and Rev Richard Coles, the search for the winner of the Big Painting Challenge 2018 starts to heat up.",
+"small": "The artists set up their easels on the bonnie but windy banks of Loch Lomond.",
+"medium": "Amateur painting competition. The remaining seven artists are confronted with the tail end of a hurricane as they set up their easels on the banks of Loch Lomond.",
+"editorial": "The artists head to the banks of Loch Lomond to paint water and the colours it reflects."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b0wdfl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"availability": {
+"end": "2018-05-22T18:00:00Z",
+"start": "2018-04-22T18:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3453,
+"first_broadcast": "6pm 22 Apr 2018"
+},
+{
+"hd": false,
+"id": "p0652nd5",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"availability": {
+"end": "2018-05-22T18:00:00Z",
+"start": "2018-04-22T18:46:15Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "22 Apr 2018"
+}
+],
+"parent_id": "b09ytmsx",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts",
+"audio-described"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "Waterscape",
+"audio_described": true,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "4/6 Waterscape",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0b05g0m",
+"live": false,
+"type": "episode",
+"title": "EastEnders",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063vdcy.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m86d",
+"guidance": false,
+"subtitle": "17/04/2018",
+"synopses": {
+"small": "Tensions run high between Michelle and Mel. An angel investor comes to Walford.",
+"medium": "Tensions run high between Michelle and Mel. An angel investor comes to Walford. Vincent becomes increasingly desperate.",
+"editorial": "An angel investor comes to Walford. Vincent becomes increasingly desperate."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b05fpn",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-17T19:00:00Z",
+"start": "2018-04-17T18:57:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 1630,
+"first_broadcast": "7:30pm 17 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064m4w2",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-17T19:00:00Z",
+"start": "2018-04-17T19:22:54Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b006m86d",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "17/04/2018",
+"audio_described": true,
+"parent_position": 5691,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"editorial_subtitle": "17/04/2018: Tensions run high between Michelle and Mel",
+"lexical_sort_letter": "E",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06rmw",
+"live": false,
+"type": "episode",
+"title": "Ordeal by Innocence",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v7t3.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ytrgg",
+"guidance": true,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "The devastating events that led up to Rachel's murder are revealed, and the true identity of her killer is finally unmasked.",
+"small": "The events leading up to Rachel Argyll's death are revealed, and her killer is unmasked.",
+"medium": "Adaptation of Agatha Christie's book. The devastating events that led up to Rachel's murder are revealed, and the true identity of her killer is finally unmasked.",
+"editorial": "Everyone has something to hide – and only by facing these secrets can justice be done."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06rm1",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T21:00:00Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"credits_start": 3465,
+"first_broadcast": "9pm 15 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064dh2z",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-15T21:00:00Z",
+"start": "2018-04-15T22:21:27Z",
+"remaining": {
+"text": "Available for 21 days"
+}
+},
+"first_broadcast": "15 Apr 2018"
+}
+],
+"parent_id": "b09ytq7s",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"editorial_subtitle": "3/3 The identity of Rachel’s killer is finally unmasked",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b06mdpj9",
+"live": false,
+"type": "episode",
+"title": "Peter Rabbit",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p036050k.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b052sx2p",
+"guidance": false,
+"subtitle": "Series 2: 31. The Tale of the Thing-A-Ma-Jig",
+"synopses": {
+"large": "When Mr Bouncer invents something that seemingly has no specific function, the rabbits endeavour to find out what it's for. But when Mr Tod comes after them, will the 'thing-a-ma-jig' be a help or a hindrance in their escape?",
+"small": "The rabbits endeavour to find out the function of Mr Bouncer's new invention.",
+"medium": "Animated reimagining of Beatrix Potter's children's classic. The rabbits endeavour to find out the function of Mr Bouncer's new invention."
+},
+"versions": [
+{
+"hd": true,
+"id": "b06mdl1c",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "12 mins",
+"value": "PT12M"
+},
+"availability": {
+"end": "2018-05-23T07:00:00Z",
+"start": "2018-04-23T07:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 704,
+"first_broadcast": "4:45pm 26 Oct 2015"
+},
+{
+"hd": false,
+"id": "p0369830",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "12 mins",
+"value": "PT12M"
+},
+"availability": {
+"end": "2018-05-23T07:00:00Z",
+"start": "2018-04-23T07:11:32Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"first_broadcast": "26 Oct 2015"
+}
+],
+"parent_id": "b052sy2x",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "26 Oct 2015",
+"related_links": [
+{
+"id": "p053ym9d",
+"url": "http://www.bbc.co.uk/cbeebies/games/peter-rabbit-hop-to-it",
+"kind": "priority_content",
+"type": "link",
+"title": "Hop to It with Peter Rabbit"
+}
+],
+"original_title": "The Tale of the Thing-A-Ma-Jig",
+"audio_described": true,
+"parent_position": 31,
+"requires_sign_in": false,
+"release_date_time": "2015-10-26T00:00:00.000Z",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b08wn54x",
+"live": false,
+"type": "episode",
+"title": "800 Words",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064h2qb.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08vp21p",
+"guidance": false,
+"subtitle": "Series 2: Episode 3",
+"synopses": {
+"large": "When a car is found at the bottom of a ravine on the road out of town, it turns out to contain the body of Bill's long-lost wife Trina, who everyone thought had left Bill and their family to travel the world. But If Trina has been down there all this time, who has been writing the postcards the kids have been getting from her since she left? In his new job as local newspaper editor, George wants to investigate, but Big Mac is standing in his way again.",
+"small": "A car is found at the bottom of a ravine, leading to a surprising discovery.",
+"medium": "Comedy drama. When a car is found at the bottom of a ravine on the road out of town, it leads to a surprising discovery, and George wants to investigate."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08wn548",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-23T14:00:00Z",
+"start": "2018-04-23T14:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"credits_start": 2630,
+"first_broadcast": "2:15pm 23 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06554dz",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "45 mins",
+"value": "PT45M"
+},
+"availability": {
+"end": "2018-05-23T14:00:00Z",
+"start": "2018-04-23T14:32:18Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "23 Apr 2018"
+}
+],
+"parent_id": "b08vp1nd",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true
+},
+{
+"id": "b09zj6vn",
+"live": false,
+"type": "episode",
+"title": "The Assassination of Gianni Versace - American Crime Story",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wmj5.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09trdxr",
+"guidance": false,
+"subtitle": "Series 1: 8. Creator/Destroyer",
+"synopses": {
+"large": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father. Then teenage Andrew learns some home truths. The factual US drama turns to the chilling childhood of Versace's killer, and the larger-than-life personality that dominated it.",
+"small": "The factual US drama turns to the chilling childhood of Versace's killer.",
+"medium": "As a boy Gianni got practical encouragement from his mother, but young Andrew is raised with unrealistic expectations by an obsessive father.",
+"editorial": "The larger-than-life personality that dominated Andrew’s chilling childhood."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zj6t1",
+"kind": "original",
+"type": "version",
+"download": false,
+"duration": {
+"text": "52 mins",
+"value": "PT52M"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:00:00Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"credits_start": 3516,
+"first_broadcast": "9pm 18 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064qs5g",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "52 mins",
+"value": "PT52M"
+},
+"availability": {
+"end": "2018-05-18T21:00:00Z",
+"start": "2018-04-18T21:56:19Z",
+"remaining": {
+"text": "Available for 24 days"
+}
+},
+"first_broadcast": "18 Apr 2018"
+}
+],
+"parent_id": "b09trfff",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "18 Apr 2018",
+"related_links": [],
+"original_title": "Creator/Destroyer",
+"audio_described": true,
+"editorial_title": "The Assassination of Gianni Versace",
+"parent_position": 8,
+"requires_sign_in": true,
+"release_date_time": "2018-04-18T00:00:00.000Z",
+"editorial_subtitle": "8/9 Creator/Destroyer",
+"lexical_sort_letter": "A",
+"requires_tv_licence": true
+},
+{
+"id": "b05w8m0d",
+"live": false,
+"type": "episode",
+"title": "Bing",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02r96jq.jpg"
+},
+"labels": {
+"category": "CBeebies"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b046ts1d",
+"guidance": false,
+"subtitle": "78. Show",
+"synopses": {
+"large": "'If you get shy then your friends can help you.'\n\nBing and his friends put on a show in the park. After Coco's dance, Pando's song and Sula's acrobatics display, everyone is excited to see Bing's finale. When he gets up on the stage, Bing is overcome with stage fright, so his friends and rainbow fairy mice come to the rescue.",
+"small": "Bing and his friends put on a show in the park.",
+"medium": "Children's animation. Bing and his friends put on a show in the park. After Coco's dance, Pando's song and Sula's acrobatics display, everyone is excited to see Bing's finale."
+},
+"versions": [
+{
+"hd": true,
+"id": "b05w8lyw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "7 mins",
+"value": "PT7M"
+},
+"availability": {
+"end": "2018-04-27T12:35:00Z",
+"start": "2018-04-20T08:35:00Z",
+"remaining": {
+"text": "Available until Fri 1:35pm"
+}
+},
+"credits_start": 423,
+"first_broadcast": "9:10am 20 May 2015"
+},
+{
+"hd": false,
+"id": "p02rt2h1",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "7 mins",
+"value": "PT7M"
+},
+"availability": {
+"end": "2018-04-27T12:35:00Z",
+"start": "2018-04-20T08:46:54Z",
+"remaining": {
+"text": "Available until Fri 1:35pm"
+}
+},
+"first_broadcast": "20 May 2015"
+}
+],
+"parent_id": "b046ts1d",
+"suppliers": [],
+"tleo_type": "series",
+"categories": [
+"audio-described",
+"cbeebies",
+"childrens-cartoons"
+],
+"has_credits": false,
+"master_brand": {
+"id": "cbeebies",
+"titles": {
+"large": "CBeebies",
+"small": "CBeebies",
+"medium": "CBeebies"
+},
+"ident_id": "p00pvbng",
+"attribution": "cbeebies"
+},
+"release_date": "20 May 2015",
+"related_links": [
+{
+"id": "p053ympw",
+"url": "http://www.bbc.co.uk/cbeebies/games/bing-build-and-play",
+"kind": "priority_content",
+"type": "link",
+"title": "Build and Play with Bing"
+}
+],
+"original_title": "Show",
+"audio_described": true,
+"parent_position": 78,
+"requires_sign_in": false,
+"release_date_time": "2015-05-20T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b09yswj5",
+"live": false,
+"type": "episode",
+"title": "Ordeal by Innocence",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062g7pp.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09ytrgg",
+"guidance": true,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, as her widower prepares to marry again, the identity of the murderer is thrown in doubt.",
+"small": "An unexpected guest at Sunny Point throws the identity of Rachel Argyll's killer in doubt.",
+"medium": "Adaptation of Agatha Christie's book. Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, the identity of the murderer is thrown in doubt.",
+"preview": "Heiress Rachel Argyll is murdered at her family estate. Eighteen months later, as her widower prepares to marry again, the identity of the murderer is thrown in doubt.",
+"editorial": "Starring Bill Nighy, Morven Christie, Matthew Goode, Luke Treadaway and Alice Eve."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zn7s9",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2018-05-01T21:00:00Z",
+"start": "2018-04-01T21:00:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"credits_start": 3363,
+"first_broadcast": "1 Apr 2018"
+},
+{
+"hd": true,
+"id": "p06399b1",
+"kind": "audio-described",
+"type": "version",
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M"
+},
+"availability": {
+"end": "2018-05-01T21:00:00Z",
+"start": "2018-04-06T10:18:30Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "1 Apr 2018"
+}
+],
+"parent_id": "b09ytq7s",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"preview_id": "p062dbml",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "1 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-01T00:00:00.000Z",
+"editorial_subtitle": "Box Set. A victim. A convicted killer. A Christie classic",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b0b0b6gj",
+"live": false,
+"type": "episode",
+"title": "Episodes",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wnn6.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b01hpdsk",
+"guidance": true,
+"subtitle": "Series 5: Episode 4",
+"synopses": {
+"small": "Sean and Beverly spend a weekend with Matt at his ranch.",
+"medium": "Sean and Beverly spend a weekend with Matt at his ranch trying to come up with an idea for a new show. Gunplay ensues and a wild boar is injured...",
+"editorial": "Matt, Sean and Beverly need an idea for a new show. But how does a wild boar get injured?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b096skr3",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"guidance": {
+"id": "L2LA",
+"text": {
+"large": "Contains strong language and adult humour.",
+"small": "Has guidance",
+"medium": "Contains strong language and adult humour."
+}
+},
+"availability": {
+"end": "2018-05-20T21:30:00Z",
+"start": "2018-04-20T21:30:00Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"credits_start": 1658,
+"first_broadcast": "10pm 20 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064ynbn",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"guidance": {
+"id": "L2LA",
+"text": {
+"large": "Contains strong language and adult humour.",
+"small": "Has guidance",
+"medium": "Contains strong language and adult humour."
+}
+},
+"availability": {
+"end": "2018-05-20T21:30:00Z",
+"start": "2018-04-20T22:10:05Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "20 Apr 2018"
+}
+],
+"parent_id": "b094mqjn",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "20 Apr 2018",
+"related_links": [],
+"original_title": "Episode 4",
+"audio_described": true,
+"parent_position": 4,
+"requires_sign_in": true,
+"release_date_time": "2018-04-20T00:00:00.000Z",
+"editorial_subtitle": "4/9 Sean and Beverly spend a weekend with Matt at his ranch",
+"lexical_sort_letter": "E",
+"requires_tv_licence": true
+},
+{
+"id": "b0b06t7y",
+"live": false,
+"type": "episode",
+"title": "Cunk on Britain",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063wl8y.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yp1gr",
+"guidance": false,
+"subtitle": "Series 1: Episode 3",
+"synopses": {
+"large": "In this insightful mockumentary series from Charlie Brooker, Philomena Cunk takes us on a journey right up Britain's history, to discover who we really are, how we got here and why.\n\nAlong the way Philomena travels the length and breadth of the country enlisting the help of a variety of experts. In this third episode, Philomena examines the Victorians and is joined by Chris Packham who tries to shed some light on Darwin's discoveries. Starring Diane Morgan.",
+"small": "Philomena examines the Victorians and is joined by Chris Packham.",
+"medium": "Mockumentary series from Charlie Brooker. In this episode, Philomena examines the Victorians and is joined by Chris Packham who tries to shed some light on Darwin's discoveries.",
+"editorial": "An extremely in-depth and entirely serious dissertation of the Victorian era."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06t7s",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-31T22:45:00Z",
+"start": "2018-04-17T21:30:00Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 1711,
+"first_broadcast": "10pm 17 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064mhrt",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-31T22:45:00Z",
+"start": "2018-04-17T21:59:34Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"parent_id": "b09yp1hl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Episode 3",
+"audio_described": true,
+"parent_position": 3,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"editorial_subtitle": "3/5 Can Chris Packham help Philomena understand Darwin?",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true
+}
+]

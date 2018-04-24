@@ -1,0 +1,1636 @@
+[
+{
+"id": "b09ylzfx",
+"live": false,
+"type": "episode",
+"title": "River City",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01m1p62.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006p2xl",
+"guidance": false,
+"subtitle": "17/04/2018",
+"synopses": {
+"large": "Pete and Caitlin's relationship hits rock bottom as she refuses to acknowledge her problems. Lydia is forced to turn to Alex for help when she finds herself in trouble with Lenny. Meanwhile, Kim prepares to tell Bob she is ready to go back to work.",
+"small": "Pete and Caitlin's relationship hits rock bottom. Lydia turns to Alex for help.",
+"medium": "Pete and Caitlin's relationship hits rock bottom. Lydia is forced to turn to Alex for help. Kim prepares to tell Bob she is ready to go back to work."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09ylzch",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "60 mins",
+"value": "PT1H"
+},
+"availability": {
+"end": "2018-05-22T13:00:00Z",
+"start": "2018-04-17T20:00:00Z",
+"remaining": {
+"text": "Available for 28 days"
+}
+},
+"credits_start": 3453,
+"first_broadcast": "8pm 17 Apr 2018"
+}
+],
+"parent_id": "b006p2xl",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "17/04/2018",
+"audio_described": false,
+"parent_position": 1125,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zct6v",
+"live": false,
+"type": "episode",
+"title": "BBC Scotland Investigates",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063spx1.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b009wc83",
+"guidance": false,
+"subtitle": "2018: 2. Help Me Save My Child",
+"synopses": {
+"large": "Lisa Summers meets parents struggling to cope with children whose behaviour is extremely challenging. As the number of young people diagnosed with autism rockets, more and more families are desperate for help. Children whose autism is often mistaken for bad behaviour speak out about what it is like to be judged, and their parents share heartbreaking stories of how hard it is to get the support they need.",
+"small": "The parents struggling to cope with children whose behaviour is extremely challenging.",
+"medium": "Documentary in which Lisa Summers meets parents struggling to cope with children whose behaviour is extremely challenging."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b1p633",
+"kind": "editorial",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-22T00:00:00Z",
+"start": "2018-04-16T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 1719,
+"first_broadcast": "16 Apr 2018"
+}
+],
+"parent_id": "b09w21v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Help Me Save My Child",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zcvct",
+"live": false,
+"type": "episode",
+"title": "My Turban and Me",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0643hfh.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09zcvct",
+"guidance": false,
+"synopses": {
+"large": "Documentary exploring Sikh identity in modern Britain. Actor and comedian Sanjeev Kohli goes on a heartwarming personal journey to explore the importance of wearing the Sikh turban in Britain and  investigate why it is becoming more popular. \n\nSanjeev, most famous for his role as Navid in the BBC1 comedy Still Game, comes from a proud Sikh heritage, but is the only male member of his family not to wear the turban and sees this journey as a reconnection with the Sikh community. He starts off by looking into his own family history, how his turban-wearing brothers were bullied at school, and questions whether he was right to make the decision at the age of 14 not to wear one. \n\nAs a father of teenagers, Sanjeev tries find out whether attitudes towards the turban have changed over generations by meeting passionate young Sikhs in all walks of life. Over the course of his journey he discovers that, while many first-generation Punjabi immigrants wanted to try to fit in, their children and grandchildren are trying to stand out, and there is a resurgence of British Sikhs - both men and women - wearing the turban and reclaiming their identity. He also attempts to find out what lies behind this new-found enthusiasm to publicly embrace their religious identity.",
+"small": "Sanjeev Kohli explores the importance of wearing the Sikh turban in modern Britain.",
+"medium": "Documentary. Comedian Sanjeev Kohli explores the importance of wearing the Sikh turban in modern Britain and investigates why it is becoming more popular with young people."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zcvcl",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "32 mins",
+"value": "PT32M"
+},
+"availability": {
+"end": "2018-05-17T23:20:00Z",
+"start": "2018-04-17T22:20:00Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"credits_start": 1880,
+"first_broadcast": "10:45pm 17 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064mlnj",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "32 mins",
+"value": "PT32M"
+},
+"availability": {
+"end": "2018-05-17T23:20:00Z",
+"start": "2018-04-17T22:58:47Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "17 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-life-stories",
+"documentaries",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "My Turban and Me",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"editorial_subtitle": "Why are more British Sikhs embracing their identity?",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b03467",
+"live": false,
+"type": "episode",
+"title": "Gold Coast 2018: Scotland's Games",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p8gv.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b03467",
+"guidance": false,
+"synopses": {
+"small": "Rhona McLeod and Jane Lewis look back on the 21st Commonwealth Games.",
+"medium": "Rhona McLeod and Jane Lewis look back on the 21st Commonwealth Games, where Team Scotland set themselves a target of 30 medals to ensure their best overseas games yet."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b0345s",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M"
+},
+"availability": {
+"end": "2018-05-17T19:00:00Z",
+"start": "2018-04-17T20:02:52Z",
+"remaining": {
+"text": "Available for 23 days"
+}
+},
+"first_broadcast": "7pm 17 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"scotland",
+"sport"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "17 Apr 2018",
+"related_links": [],
+"original_title": "Gold Coast 2018: Scotland's Games",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-17T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zdfts",
+"live": false,
+"type": "episode",
+"title": "Sportscene",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0656xls.jpg"
+},
+"labels": {
+"category": "Sport"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006zrbv",
+"guidance": false,
+"subtitle": "22/04/2018",
+"synopses": {
+"large": "Introduced by Jonathan Sutherland.\n\nHighlights of this weekend's SPFL Premiership matches in the first fixture card since the table split into two halves. At the top end, Celtic close in on what will be their seventh title in a row, while Rangers, Aberdeen and Hibs are locked in a battle for second place. At the other end, Partick Thistle currently occupy bottom spot with Ross County one place above them.",
+"small": "Jonathan Sutherland introduces highlights from the weekend's SPFL Premiership action.",
+"medium": "Jonathan Sutherland introduces highlights from the SPFL Premiership. Celtic close in on their seventh consecutive title, while Rangers, Aberdeen and Hibs battle for second place.",
+"editorial": "Action from the first set of post-split fixtures as the season heads towards its climax."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdftc",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-04-29T23:30:00Z",
+"start": "2018-04-22T19:21:06Z",
+"remaining": {
+"text": "Available until Mon 12:30am"
+}
+},
+"first_broadcast": "6pm 22 Apr 2018"
+}
+],
+"parent_id": "b006zrbv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"scotland",
+"sport"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "22 Apr 2018",
+"related_links": [],
+"original_title": "22/04/2018",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-22T00:00:00.000Z",
+"editorial_subtitle": "22/04/2018: With Rangers v Hearts and Hibs v Celtic",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "p064s5jg",
+"live": false,
+"type": "episode",
+"title": "Loop",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064sn5w.jpg"
+},
+"labels": {
+"category": "Arts"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p05tp96w",
+"guidance": false,
+"subtitle": "Irvine Welsh at Easter Road",
+"synopses": {
+"small": "Irvine Welsh talks to Grant Stott ahead of the release of his new book Dead Men’s Trousers",
+"medium": "Irvine Welsh talks to Grant Stott ahead of the release of his new book Dead Men’s Trousers featuring his best loved characters Renton, Begbie,Sick Boy & Spud."
+},
+"versions": [
+{
+"hd": true,
+"id": "p064sdxx",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "14 mins",
+"value": "PT14M"
+},
+"availability": {
+"end": "2018-05-21T08:00:00Z",
+"start": "2018-04-23T15:33:42Z",
+"remaining": {
+"text": "Available for 26 days"
+}
+},
+"first_broadcast": "21 Apr 2018"
+}
+],
+"parent_id": "p05tp96w",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"arts"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "21 Apr 2018",
+"related_links": [],
+"original_title": "Irvine Welsh at Easter Road",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-21T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b1073f",
+"live": false,
+"type": "episode",
+"title": "Landward",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02prm2v.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m994",
+"guidance": false,
+"subtitle": "2018/2019: Episode 2",
+"synopses": {
+"large": "Dougie Vipond and the team are back with more stories from the Scottish countryside. Anne meets the crofter taking hip-hop to the Highlands, Dougie seeks out illegal mountain-bike trails, and Euan discovers that old cabbage could be the new thing in nutrition.",
+"small": "Dougie seeks out illegal mountain-bike trails.",
+"medium": "Scotland's countryside magazine. Anne meets the crofter taking hip-hop to the Highlands, and Dougie seeks out illegal mountain-bike trails."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b06fs7",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-23T19:00:00Z",
+"start": "2018-04-23T19:00:00Z",
+"remaining": {
+"text": "Available for 29 days"
+}
+},
+"first_broadcast": "7:30pm 23 Apr 2018"
+}
+],
+"parent_id": "b0b04z6x",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "23 Apr 2018",
+"related_links": [],
+"next_broadcast": {
+"channel_title": "BBC Two",
+"scheduled_start": "2018-04-28T15:00:00.000Z"
+},
+"original_title": "Episode 2",
+"audio_described": false,
+"parent_position": 2,
+"requires_sign_in": true,
+"release_date_time": "2018-04-23T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b037ct",
+"live": false,
+"type": "episode",
+"title": "The Beechgrove Garden",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0249cy6.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Lifestyle"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00721bz",
+"guidance": false,
+"subtitle": "2018: Episode 1",
+"synopses": {
+"large": "2018 marks the Beechgrove Garden's ruby anniversary. This week there are sweet signs of spring as Jim, Carole, George and Chris are surrounded by April's peach and cherry blossom.\n\nGeorge revisits Sheila Harper's ancient apple trees in Banchory. After a severe prune last year, George returns with slightly less sharp secateurs to show how to deal with the old trees this year. Carole visits Rosie Nixon in Perth. Rosie is a passionate wildlife gardener and photographer who creatively uses her all-seasons organic garden as her own green studio.\n\nThroughout the 2018 series, Jim and Carole will be digging in the abundant Beechgrove archive to root out hints and tips from the last 40 years.",
+"small": "George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth.",
+"medium": "The Beechgrove team are back for a new series of the gardening show. George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b037cr",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-05-22T07:00:00Z",
+"start": "2018-04-19T18:30:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "7pm 19 Apr 2018"
+}
+],
+"parent_id": "b0b0378l",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"lifestyle",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b037k1",
+"live": false,
+"type": "episode",
+"title": "Timeline",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04q1lhx.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08cgtbq",
+"guidance": false,
+"subtitle": "Series 2: 19/04/2018",
+"synopses": {
+"small": "Features and issues from across Scotland with Shereen Nanjiani and Glenn Campbell.",
+"medium": "Features and issues from across Scotland with Shereen Nanjiani and Glenn Campbell."
+},
+"versions": [
+{
+"hd": false,
+"id": "b0b037jz",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-19T19:00:00Z",
+"start": "2018-04-19T19:50:14Z",
+"remaining": {
+"text": "Available for 25 days"
+}
+},
+"first_broadcast": "7:30pm 19 Apr 2018"
+}
+],
+"parent_id": "b095b2w3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "19 Apr 2018",
+"related_links": [],
+"original_title": "19/04/2018",
+"audio_described": false,
+"parent_position": 25,
+"requires_sign_in": true,
+"release_date_time": "2018-04-19T00:00:00.000Z",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09yj4rc",
+"live": false,
+"type": "episode",
+"title": "Limmy's Homemade Show",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0622rrh.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09yj4rc",
+"guidance": true,
+"synopses": {
+"large": "Before Limmy made it onto BBC Scotland with Limmy's Show, he became known through his own rough-and-ready, funny homemade videos. When Limmy's Show stopped, Limmy took to Vine and YouTube, racking up millions of views for videos made on nothing more than his phone. Limmy's Homemade Show takes the DIY style of his homemade videos - the cast of one, the staying at home and losing his marbles, the going out and about and speaking his mind - and puts it on the telly.\n\nLimmy jumps from sketch to observation to nonsense. He'll take you down to the Clydeside for a tour of Glasgow, and get into an argument with himself. He'll play you some techno nursery rhymes on his synth. He'll show you his toilet, and a particular tile that's been bothering him.",
+"small": "Rough-and-ready self-made comedy show by Scottish comedian Limmy.",
+"medium": "Rough-and-ready self-made comedy show featuring sketches, ramblings and techno by Scottish comedian Limmy.",
+"editorial": "Limmy has an argument with himself, plays techno nursery rhymes and shows us his toilet."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09yj4nw",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-05T21:30:00Z",
+"start": "2018-04-05T21:30:00Z",
+"remaining": {
+"text": "Available for 11 days"
+}
+},
+"credits_start": 1726,
+"first_broadcast": "10pm 5 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"comedy",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "5 Apr 2018",
+"related_links": [
+{
+"id": "p063cwb1",
+"url": "http://www.bbc.co.uk/programmes/articles/3QZWN3LzZqGvMqDPQrNYqxf/one-two-buckle-my-shoe-the-children-s-nursery-rhyme-as-you-ve-never-heard-it-before-by-scots-comedian-limmy",
+"kind": "priority_content",
+"type": "link",
+"title": "Nine, ten, a big fat hen"
+}
+],
+"original_title": "Limmy's Homemade Show",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-05T00:00:00.000Z",
+"editorial_subtitle": "Sketches, ramblings and techno direct from Limmy’s house",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09xt5f4",
+"live": false,
+"type": "episode",
+"title": "Long Night at Blackstone",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062gyl8.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09xt5f4",
+"guidance": true,
+"synopses": {
+"large": "Long Night at Blackstone is Greg Hemphill's second outing as a director, and is the follow-up to his hilarious and terrifying West Skerra Light. Faye Bowers is the host of a low-rent paranormal activity show, a master of trickery and pretence, but she is desperate to be taken seriously as a journalist. When she learns that the show is to be axed, she is determined to go out with a bang. The venue for the final show is the mysterious Blackstone Manor, a huge dilapidated pile inhabited by the Laird of Blackstone and full of stories of past horrors. Though the filming day starts normally enough, it soon becomes apparent that all is not right, and for the very first time in the show's history, the ghosts may in fact be real and very dangerous. Battling backstabbing colleagues as well as the terrors in the house, Faye finds herself making a show that could catapult her career into the big league - if she can survive the night. \n\nStarring Lorraine McIntosh as Faye Bowers the presenter, John Gordon Sinclair as Pat Tomorrow the psychic sidekick, Julie Wilson Nimmo as Dom the Producer, John Michie as the Laird, and introducing a very special mystery guest.",
+"small": "The host of a low-rent paranormal activity show learns that her show is to be axed.",
+"medium": "Lighthearted horror. The host of a low-rent paranormal activity show learns that her show is to be axed and is determined to go out with a bang.",
+"editorial": "Faye Bowers’ career could be on its way up – if she can survive the night."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09xt46n",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2018-05-02T21:00:00Z",
+"start": "2018-04-02T21:00:00Z",
+"remaining": {
+"text": "Available for 8 days"
+}
+},
+"credits_start": 3492,
+"first_broadcast": "9pm 2 Apr 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"drama-and-soaps",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "2 Apr 2018",
+"related_links": [],
+"original_title": "Long Night at Blackstone",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-02T00:00:00.000Z",
+"editorial_subtitle": "A ghost-hunting TV host is determined to go out with a bang",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09z6jvq",
+"live": false,
+"type": "episode",
+"title": "Still Game",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635hqd.jpg"
+},
+"labels": {
+"category": "Comedy"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006qgl8",
+"guidance": true,
+"subtitle": "Series 8: 6. The Fall Guy",
+"synopses": {
+"large": "Isa's pulse is set racing as a long-lost companion returns to Craiglang from Hollywood. As Isa and Callum get reacquainted, she has to fend off stiff competition, especially from one particularly persistent gooseberry.\n\nMeanwhile, Boabby decides it's time to get a car and learn to drive - but it doesn't come easily, and he soon terrifies the life out of anyone who takes him for a lesson. Quickly running out of willing instructors, the dreamboat that is Callum steps in. He is a qualified driving instructor and comes to the rescue with the promise of a lesson in a local car park.\n\nAlso trying to better their lot is Methadone Mick, who has enrolled in an online course that he doesn't want to reveal to anyone, for fear they'll laugh at him. The thing is, Mick doesn't have a computer under his bridge, so he relies on Isa, Jack and Victor's good will while he completes his studies. Pushed to their limits, Jack and Victor demand to know what the course is, while the answer reveals the sorry tale of Mick's father, which might go some way to explaining Mick's troubles.\n\nLater on, it's clear the romance between Isa and Callum is blossoming, but even though her husband died years ago, Isa is uneasy about the fact she still feels married, so she seeks advice on what to do for the best. Could this be a beautifully happy-ever-after ending for Isa?",
+"small": "Isa gets reacquainted with a long-lost companion, while Boabby attempts to learn to drive.",
+"medium": "Sitcom. Isa's pulse is set racing as a long-lost companion returns. Boabby attempts to learn to drive, and Methadone Mick enrols in a mysterious online course.",
+"editorial": "Boabby learns to drive, and Methadone Mick enrols in a mysterious online course."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09z6jhb",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-05-12T21:30:00Z",
+"start": "2018-04-12T21:00:00Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"credits_start": 1736,
+"first_broadcast": "9:30pm 12 Apr 2018"
+},
+{
+"hd": false,
+"id": "p06449lr",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"guidance": {
+"id": "W1",
+"text": {
+"large": "Contains adult humour.",
+"small": "Has guidance",
+"medium": "Contains adult humour."
+}
+},
+"availability": {
+"end": "2018-05-12T21:30:00Z",
+"start": "2018-04-12T21:19:49Z",
+"remaining": {
+"text": "Available for 18 days"
+}
+},
+"first_broadcast": "12 Apr 2018"
+}
+],
+"parent_id": "b09vdt5x",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"comedy-sitcoms",
+"comedy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "12 Apr 2018",
+"related_links": [],
+"original_title": "The Fall Guy",
+"audio_described": true,
+"parent_position": 6,
+"requires_sign_in": true,
+"release_date_time": "2018-04-12T00:00:00.000Z",
+"editorial_subtitle": "6/6 The Fall Guy. Isa seeks divine intervention",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b08zpp",
+"live": false,
+"type": "episode",
+"title": "Britain's Biggest Warship",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063v9td.jpg"
+},
+"labels": {
+"category": "Documentary",
+"editorial": "All New"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0b08zfk",
+"guidance": false,
+"subtitle": "Series 1: 1. Crewing Up",
+"synopses": {
+"large": "It is early 2016 and sailors begin to arrive at Rosyth dockyard in Scotland where HMS Queen Elizabeth is still under construction. Captain Jerry Kyd and his 700 sailors assemble to take up their posts on the biggest warship constructed for the Royal Navy. Their mission? To take the prototype warship to sea for the first time on dangerous make or break sea trials in the North Sea.\n\nBefore sailing, the crew have to undergo rigorous fire and flood training, but suddenly they are faced with the real thing. Has the training paid off? And how will they get the supercarrier out of the dockyard sea gate with only a few centimetres clearance either side? They will also have to sail her under the Forth road and rail bridges - no easy task when HMS Queen Elizabeth is taller than both.\n\nWith unprecedented access, this series - three years in the making - tells the behind-the-scenes story of what makes HMS Queen Elizabeth so unique and how her crew are working together to breathe life into Britain's biggest warship.",
+"small": "How the crew of HMS Queen Elizabeth breathe life into Britain's biggest warship.",
+"medium": "The behind-the-scenes story of what makes HMS Queen Elizabeth so unique and how her crew are working together to breathe life into Britain's biggest warship.",
+"editorial": "On board HMS Queen Elizabeth – the most advanced warship ever constructed in Britain."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b08zfp",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-21T13:30:00Z",
+"start": "2018-04-15T20:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"credits_start": 3516,
+"first_broadcast": "8pm 15 Apr 2018"
+},
+{
+"hd": false,
+"id": "p064d9dy",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-21T13:30:00Z",
+"start": "2018-04-15T20:46:36Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "15 Apr 2018"
+}
+],
+"parent_id": "b0b08zfm",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "15 Apr 2018",
+"related_links": [],
+"original_title": "Crewing Up",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-15T00:00:00.000Z",
+"editorial_subtitle": "1/3 Crewing Up",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09x11lj",
+"live": false,
+"type": "episode",
+"title": "50 Years of Reporting Scotland",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p062krkh.jpg"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09x11lj",
+"guidance": false,
+"synopses": {
+"large": "As BBC Scotland's nightly news reaches its landmark 50th birthday, Jackie Bird takes us behind the scenes to talk to presenters and journalists past and present who've been part of this flagship programme. We also hear from viewers - including a few well-known faces - for their memories of half a century of bringing Scotland its news.",
+"small": "A look behind the scenes as BBC Scotland's nightly news reaches its 50th birthday.",
+"medium": "Jackie Bird takes a look behind the scenes as BBC Scotland's nightly news reaches its 50th birthday, talking presenters and journalists who have been part of the programme."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09x11cj",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-04-30T16:45:00Z",
+"start": "2018-03-29T18:30:00Z",
+"remaining": {
+"text": "Available for 6 days"
+}
+},
+"first_broadcast": "7pm 29 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two",
+"titles": {
+"large": "BBC Two",
+"small": "BBC Two",
+"medium": "BBC Two"
+},
+"ident_id": "p0393z1f",
+"attribution": "bbc_two"
+},
+"release_date": "29 Mar 2018",
+"related_links": [],
+"original_title": "50 Years of Reporting Scotland",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-03-29T00:00:00.000Z",
+"lexical_sort_letter": "0-9",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09zdhjs",
+"live": false,
+"type": "episode",
+"title": "Countryfile",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063d955.jpg"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b006t0bv",
+"guidance": false,
+"subtitle": "Loch Ness",
+"synopses": {
+"large": "Sean Fletcher and Naomi Wilkinson are in the wilds around Loch Ness. Sean is on the Erchless Estate, where they are busy tapping birch trees for the next big culinary thing - birch sap. He also meets the sporran maker putting a twist on this traditional item of Scottish clothing.\n\nNaomi spends the day with seventh-generation crofter Iain McLeod and his daughter Chloe to get a taste of crofting life. It is lambing time so there is plenty to keep Naomi busy. She then meets Michelle Anderson Carrol, a vegetarian who rears rare breed pigs for meat.\n\nThen it is off to Glenurquhart, the home of shinty, where Naomi and Sean take sides and go head to head in this ancient Scottish game.\n\nTom Heap takes a look at the rise in popularity of a vegan diet, and Adam Henson is on the Welsh estate where they keep bison.",
+"small": "Sean Fletcher and Naomi Wilkinson visit the wilds around Loch Ness.",
+"medium": "Sean Fletcher and Naomi Wilkinson are in the wilds around Loch Ness. They travel to to Glenurquhart where they go head to head in a game of shinty.",
+"editorial": "Tom looks at the rise of veganism, and Adam is on a Welsh estate where they keep bison."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09zdh9j",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"availability": {
+"end": "2018-05-08T19:00:00Z",
+"start": "2018-04-08T21:26:46Z",
+"remaining": {
+"text": "Available for 14 days"
+}
+},
+"credits_start": 3520,
+"first_broadcast": "7pm 8 Apr 2018"
+},
+{
+"hd": true,
+"id": "b0b057pd",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "55 mins",
+"value": "PT55M"
+},
+"availability": {
+"end": "2018-05-17T00:25:00Z",
+"start": "2018-04-17T00:25:00Z",
+"remaining": {
+"text": "Available for 22 days"
+}
+},
+"first_broadcast": "8 Apr 2018"
+}
+],
+"parent_id": "b006t0bv",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "8 Apr 2018",
+"related_links": [],
+"original_title": "Loch Ness",
+"audio_described": false,
+"requires_sign_in": true,
+"release_date_time": "2018-04-08T00:00:00.000Z",
+"editorial_subtitle": "Loch Ness. Sean and Naomi go head to head at shinty",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b07c4pkz",
+"live": false,
+"type": "episode",
+"title": "Grand Tours of the Scottish Islands",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p03sltgt.jpg",
+"inherited_from": "series"
+},
+"labels": {
+"category": "History"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04jv2jb",
+"guidance": false,
+"subtitle": "Shorts: 11. Barra",
+"synopses": {
+"small": "On Barra, Paul Murton witnesses some of the great spectacles of the natural world.",
+"medium": "Paul Murton is on Barra, where he witnesses some of the great spectacles of the natural world."
+},
+"versions": [
+{
+"hd": true,
+"id": "b07c4p3h",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "15 mins",
+"value": "PT15M"
+},
+"availability": {
+"end": "2018-05-01T16:00:00Z",
+"start": "2018-03-08T00:00:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "10:30pm 5 May 2016"
+}
+],
+"parent_id": "b079wf62",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"documentaries-history",
+"documentaries",
+"history",
+"lifestyle",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_two_scotland",
+"titles": {
+"large": "BBC Two Scotland",
+"small": "BBC Two",
+"medium": "BBC Two Scotland"
+},
+"attribution": "bbc_two_scotland"
+},
+"release_date": "5 May 2016",
+"related_links": [],
+"original_title": "Barra",
+"audio_described": false,
+"parent_position": 11,
+"requires_sign_in": true,
+"release_date_time": "2016-05-05T00:00:00.000Z",
+"lexical_sort_letter": "G",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b0b050j4",
+"live": false,
+"type": "episode",
+"title": "Landward",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02prm2v.jpg",
+"inherited_from": "brand"
+},
+"labels": {
+"category": "Nature"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006m994",
+"guidance": false,
+"subtitle": "2018/2019: Episode 1",
+"synopses": {
+"large": "Dougie Vipond and the team are back for a brand new series. This week, Dougie investigates the erosion crisis facing Scotland's disappearing coastline, Euan meets the west coast community buying their island, and Arlene brews up a new type of tea in Eyemouth.",
+"small": "Dougie investigates the erosion crisis facing Scotland's disappearing coastline.",
+"medium": "Scotland's countryside magazine. Dougie investigates the erosion crisis facing Scotland's disappearing coastline, and Euan meets the community buying their island."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0b04z7b",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT30M"
+},
+"availability": {
+"end": "2018-05-21T17:00:00Z",
+"start": "2018-04-16T19:00:00Z",
+"remaining": {
+"text": "Available for 27 days"
+}
+},
+"first_broadcast": "7:30pm 16 Apr 2018"
+}
+],
+"parent_id": "b0b04z6x",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"science-and-nature",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "16 Apr 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-04-16T00:00:00.000Z",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09xvsmj",
+"live": false,
+"type": "episode",
+"title": "Painting the Holy Land",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p06246z0.jpg"
+},
+"labels": {
+"category": "Documentary"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09y33cq",
+"guidance": false,
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "In a vibrant two-part special for Holy Week, artist Lachlan Goudie packs his easel to undertake a trip of a lifetime. Part travelogue, part spiritual quest, part artistic exploration, this series transports the viewer visually and emotionally as Lachlan challenges himself to capture the look and feel of the Holy Land and the Bible story.\n\nIn the first episode, Lachlan follows Jesus's last days on earth, travelling from the north of what is now Israel to Jerusalem. It's a pilgrimage that millions undertake and a story of love and suffering that has inspired some of the world's most remarkable masterpieces.\n\nFrom an early age, Lachlan was gripped by a vivid sense of the Holy Land, and especially the Easter story gleaned from the images in his illustrated children's Bible. As he grew up, those images were supplanted by others - the great masterpieces of Leonardo and Raphael, among others. Above all, Lachlan absorbed the Bible story through the many powerful paintings of the crucifixion by his own father, the artist Alexander Goudie. All these artists had one thing in common: they had never been to the Holy Land.\n\nLachlan has always wondered what it might be like to visit and paint the actual sites where the Bible stories took place. In this film, Lachlan explores the Holy Land for himself, sketching and painting the people and landscapes he sees there - looking afresh at its sacred sites and bustling streets, through the eyes of an artist. Exploring and sketching the key sites of Christianity that marked the end of Jesus's earthly life, will the experience of working and travelling in the Holy Land make him think about his own relationship with the Bible story?\n\nAlong the way, in a series of surprising encounters, Lachlan meets locals who have their own take on daily life in the Holy Land. This is personal odyssey for Lachlan, exploring the places his father painted but never saw, rooted in the past but brimming with life in the present day.",
+"small": "Artist Lachlan Goudie sketches and paints the people and landscapes of the Holy Land.",
+"medium": "In a two-part special for Holy Week, artist Lachlan Goudie goes on a trip of a lifetime to the Holy Land, sketching and painting the people and landscapes he sees there.",
+"editorial": "Lachlan Goudie looks afresh at the Holy Land’s sacred sites through eyes of an artist."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09xvsmg",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-01T20:00:00Z",
+"start": "2018-03-30T09:00:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "9am 30 Mar 2018"
+},
+{
+"hd": false,
+"id": "p062tm74",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "59 mins",
+"value": "PT59M"
+},
+"availability": {
+"end": "2018-05-01T20:00:00Z",
+"start": "2018-03-30T10:36:04Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "30 Mar 2018"
+}
+],
+"parent_id": "b09y32qw",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"documentaries",
+"lifestyle"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "30 Mar 2018",
+"related_links": [],
+"original_title": "Episode 1",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-03-30T00:00:00.000Z",
+"editorial_subtitle": "1/2 A personal perspective on the Bible",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09t08b0",
+"live": false,
+"type": "episode",
+"title": "BBC Scotland Investigates",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zr1mt.jpg"
+},
+"labels": {
+"category": "News"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b009wc83",
+"guidance": false,
+"subtitle": "2018: 1. Mind the Gap: Are Scotland's Trains Fit for the 21st Century?",
+"synopses": {
+"large": "Ian Hamilton goes on a journey of discovery along some of Scotland's urban and rural rail services to find out if they are on the right track to meet growing customer demand. Along the way he hears from commuters on a range of issues that affect their travel experience on a daily basis, including ease of access, overcrowding and punctuality. He also examines the track record of initiatives such as the opening of the rail link between the Borders and Edinburgh and hears how infrastructure improvements are in the pipeline for parts of the north east network. In Newcastle, he checks on the progress of the manufacture of new rolling stock and catches up with transport minister Humza Yousaf.",
+"small": "Are Scotland's urban and rural rail services able to meet growing customer demand?",
+"medium": "Ian Hamilton finds out if Scotland's urban and rural rail services are able to meet growing customer demand, hearing from commuters about their daily travel experiences."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09t087h",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "29 mins",
+"value": "PT29M"
+},
+"availability": {
+"end": "2018-04-28T18:30:00Z",
+"start": "2018-03-29T18:30:00Z",
+"remaining": {
+"text": "Available until Sat 7:30pm"
+}
+},
+"first_broadcast": "7:30pm 26 Feb 2018"
+}
+],
+"parent_id": "b09w21v3",
+"suppliers": [],
+"tleo_type": "brand",
+"categories": [
+"news",
+"scotland"
+],
+"has_credits": false,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "26 Feb 2018",
+"related_links": [],
+"original_title": "Mind the Gap: Are Scotland's Trains Fit for the 21st Century?",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-02-26T00:00:00.000Z",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true,
+"promoted": true
+},
+{
+"id": "b09xptsg",
+"live": false,
+"type": "episode",
+"title": "RAF at 100 with Ewan and Colin McGregor",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/560x315/p061r5pk.jpg"
+},
+"labels": {
+"category": "History"
+},
+"signed": true,
+"status": "available",
+"tleo_id": "b09xptsg",
+"guidance": false,
+"synopses": {
+"large": "To celebrate the centenary of the Royal Air Force, Ewan and Colin McGregor take to the skies in some of the world's most iconic planes. These are the planes that were involved in aerial combat at every stage of the RAF's story, from the biplanes used in the early days of dogfighting in World War I to the beautiful Spitfire of the Battle of Britain, the plucky Lysander and on to mighty Vulcan nuclear bomber, as well as the Chinook helicopter and supersonic Typhoon that are still in service today.\n\nIt is a story of amazing machines and epic battles, but above all it is the story of the men and women whose courage and ingenuity have been at the heart of the RAF for 100 years. On their journey Ewan and Colin meet an amazing cast of characters. There is Geoffrey Wellum, who fought in the Battle of Britain as an 18-year-old and speaks with passion about what it meant to take on the might of the German air force. \n\nMary Ellis and Joy Lofthouse were two of the pioneering flyers of the Air Transport Auxiliary who delivered thousands of planes to frontline units in World War II. These two ladies share their memories of their glamorous but dangerous role.\n\nThen there is Fred Bailey, who was plucked from a clearing in the jungles of Burma by an intrepid RAF pilot just as the Japanese closed in on him, and also the band of brothers, the Bomber Boys, who brought devastation to German cities in their Lancaster Bombers night after terrifying night.\n\nTheir direct descendants were the Cold War aircrew like Jonny Tye and Martin Withers, who had the grim task of dropping the atom bomb and accepted their role knowing that, if they ever had to carry out their orders, it would be a one-way mission.\n\nWhile technology has changed with amazing speed, the need for bravery and coolness under fire has not. No-one displays these qualities better than David Morgan, who is the last RAF pilot to take part in a dogfight. He talks with chilling clarity about the day he shot down two enemy aircraft over the Falkland Islands but also with humanity about how he has had to live with the personal and emotional consequences ever since.\n\nFinally there are today's ground crew and pilots, who take Ewan and Colin on a supersonic flight in the Typhoon fighter as they make their own all-too-real preparation for deployment to the skies over Syria and Iraq.",
+"small": "Ewan and Colin McGregor celebrate the centenary of the Royal Air Force.",
+"medium": "To celebrate the centenary of the Royal Air Force, Ewan and Colin McGregor meet people from throughout its history and take to the skies in some of the world's most iconic planes.",
+"editorial": "The iconic planes and amazing people defending the country over the past century."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09xptr2",
+"kind": "original",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-04-24T21:00:00Z",
+"start": "2018-03-25T21:00:00Z",
+"remaining": {
+"text": "Expires tonight 10pm"
+}
+},
+"credits_start": 5319,
+"first_broadcast": "8:30pm 25 Mar 2018"
+},
+{
+"hd": true,
+"id": "b09z7bmv",
+"kind": "pre-watershed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-05-01T15:45:00Z",
+"start": "2018-04-01T15:45:00Z",
+"remaining": {
+"text": "Available for 7 days"
+}
+},
+"first_broadcast": "25 Mar 2018"
+},
+{
+"hd": false,
+"id": "p0629lxk",
+"kind": "audio-described",
+"type": "version",
+"download": false,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-04-24T21:00:00Z",
+"start": "2018-03-25T22:53:32Z",
+"remaining": {
+"text": "Expires tonight 10pm"
+}
+},
+"first_broadcast": "25 Mar 2018"
+},
+{
+"hd": true,
+"id": "b09zbhfl",
+"kind": "signed",
+"type": "version",
+"download": true,
+"duration": {
+"text": "90 mins",
+"value": "PT1H30M"
+},
+"availability": {
+"end": "2018-05-12T01:45:00Z",
+"start": "2018-04-12T01:45:00Z",
+"remaining": {
+"text": "Available for 17 days"
+}
+},
+"first_broadcast": "25 Mar 2018"
+}
+],
+"suppliers": [],
+"tleo_type": "episode",
+"categories": [
+"audio-described",
+"documentaries-history",
+"documentaries",
+"history",
+"signed"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p04y9kr4",
+"attribution": "bbc_one"
+},
+"release_date": "25 Mar 2018",
+"related_links": [],
+"original_title": "RAF at 100 with Ewan and Colin McGregor",
+"audio_described": true,
+"requires_sign_in": true,
+"release_date_time": "2018-03-25T00:00:00.000Z",
+"editorial_subtitle": "Stories of incredible bravery",
+"lexical_sort_letter": "R",
+"requires_tv_licence": true,
+"promoted": true
+}
+]

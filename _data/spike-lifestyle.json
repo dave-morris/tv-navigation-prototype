@@ -1,0 +1,1717 @@
+[{
+    "id": "b0b0w3jp",
+    "live": false,
+    "type": "episode",
+    "title": "Rip Off Britain",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064ld86.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "editorial": "New Series"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00wck32",
+    "guidance": false,
+    "subtitle": "Food: Series 5: Episode 1",
+    "synopses": {
+      "large": "Angela Rippon, Gloria Hunniford and Julia Somerville present a series of investigations and topical reports into food and drink. \n\nThis episode focuses on some serious concerns about going out for a meal. An alarming undercover report exposes the restaurants and takeaways breaking the law - and risking customers' health - by failing to give accurate information about the ingredients of their food. \n\nPlus the team reveals how some restaurants are flouting the rules in another way too, turning away customers with assistance or guide dogs. One woman explains why she was not prepared to accept second-class treatment for her four-legged helper.",
+      "small": "This episode focuses on some serious concerns about going out for a meal.",
+      "medium": "Angela Rippon, Gloria Hunniford and Julia Somerville with topical reports into food and drink. This episode focuses on some serious concerns about going out for a meal.",
+      "editorial": "How easy is it to enjoy a meal out when you use assistance dogs?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b0w3jh",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "45 mins",
+        "value": "PT45M"
+      },
+      "availability": {
+        "end": "2018-05-23T09:00:00Z",
+        "start": "2018-04-23T09:00:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "first_broadcast": "9:15am 23 Apr 2018"
+    }],
+    "parent_id": "b0b0w2sy",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "23 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC One",
+      "scheduled_start": "2018-04-29T11:15:00.000Z"
+    },
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Rip Off Britain: Food",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-23T00:00:00.000Z",
+    "editorial_subtitle": "1/10 Restaurants breaking the law – and risking your health",
+    "lexical_sort_letter": "R",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p0635yyg",
+    "live": false,
+    "type": "episode",
+    "title": "Miss Holland",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063zcpm.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0635yyg",
+    "guidance": true,
+    "synopses": {
+      "large": "Comedy. Miss Holland has arrived in Great Britain, keen to become a British lady and find her very own Prince Harry. \n\n\n\nThe world’s most popular beauty queen (sic) leaves a string of unsuspecting contributors in her wake - reality TV stars, former Royal household staff and religious leaders are left bewildered by the idiocy of her questions as she attempts to navigate the intricacies of modern British life. With a clipboard full of ridiculous questions, armpits full of hair, and a camera team following her every move, she’s on mission to find out why Britain is great.  \n\n\n\nJoin Miss Holland on her crash course of Britishness. Award-winning comedian and online sensation Eline Van Der Velden brings her outrageous alter-ego to the UK for the very first time.",
+      "small": "Miss Holland has arrived, keen to become a British lady and find her own Prince Harry.",
+      "medium": "Award-winning comedian and online sensation Eline Van Der Velden brings her outrageous alter-ego to the UK for the very first time.",
+      "editorial": "Miss Holland arrives in the UK, keen to become a British lady and find her own Harry."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0635zf8",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT30M16S"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2019-04-15T08:00:00Z",
+        "start": "2018-04-20T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 1802,
+      "first_broadcast": "20 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "comedy"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Miss Holland",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "editorial_subtitle": "Can a beauty queen follow in Meghan’s footsteps?",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b10zdj",
+    "live": false,
+    "type": "episode",
+    "title": "Nightmare Pets SOS",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064h6rz.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b0by2b",
+    "guidance": false,
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "large": "Documentary series following life at a crisis centre for the nation's cheekiest, naughtiest and most out-of-control pets. This one-stop shop helps owners at the end of their tether learn how to live with their pets in perfect harmony. Staffed by leading behavioural experts Sarah Fisher and Chirag Patel, veterinary surgeon Jo Headley and renowned dog trainer Craig Ogilvie, the centre uses specialist skills to not only get inside the animals' heads but also halt the hapless habits of their owners. Can the experts transform their behaviour? \n\nIn this episode, Lauren and boyfriend Jak are under attack from unsociable pet rabbit Flo. Jo and Craig meet Labrador Niles, who has an embarrassing penchant for eating other animals' poo, and Chirag travels to a pub in south London where a problem pet is putting punters off their pints.",
+      "small": "Craig Ogilvie has his work cut out helping a Labrador with an embarrassing secret.",
+      "medium": "Documentary about a centre for out-of-control pets. Lauren and Jak are under attack from pet rabbit Flo. Craig has his work cut out helping a Labrador with an embarrassing secret."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b10zd8",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "availability": {
+          "end": "2018-05-23T18:57:00Z",
+          "start": "2018-04-23T18:57:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "7:30pm 23 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p0655zqb",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT29M"
+        },
+        "availability": {
+          "end": "2018-05-23T18:57:00Z",
+          "start": "2018-04-23T19:49:36Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "23 Apr 2018"
+      }
+    ],
+    "parent_id": "b0b0by8t",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "23 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC One",
+      "scheduled_start": "2018-04-25T22:15:00.000Z"
+    },
+    "original_title": "Episode 2",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-23T00:00:00.000Z",
+    "editorial_subtitle": "2/2 A problem pet putting punters off their pints",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p046n462",
+    "live": false,
+    "type": "episode",
+    "title": "Obesity: The Post Mortem",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0479ztt.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "p046n462",
+    "guidance": true,
+    "synopses": {
+      "large": "Documentary revealing just how dangerous too much fat is to our most vital internal organs. The programme follows a specialist pathology team as they conduct a post-mortem on the body of a 17-stone woman whose body was donated to medical science. Their findings, as they dissect the body and its organs, are startling, exposing the devastating impact of obesity with stunning visuals and fascinating medical facts.\n\nMorbid obesity reduces life expectancy by an average of nine years and is blamed for over 30,000 deaths in the UK every year. With 65 per cent of people already overweight or obese, this extraordinary film is a powerful contribution to the debate about fat, food, lifestyle and how the health service will cope with the growing obesity crisis.",
+      "small": "A specialist pathology team conducts a post-mortem on the body of a 17-stone woman.",
+      "medium": "Documentary investigating the dangers of fat to the human body by following a pathology team as they conduct a post-mortem on a woman whose body was donated to medical science."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b07wc271",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "guidance": {
+          "id": "W7",
+          "text": {
+            "large": "Contains graphic medical scenes.",
+            "small": "Has guidance",
+            "medium": "Contains graphic medical scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-10-17T08:00:00Z",
+          "start": "2018-04-20T08:00:00Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "first_broadcast": "13 Sep 2016"
+      },
+      {
+        "hd": true,
+        "id": "b0844dns",
+        "kind": "signed",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "55 mins",
+          "value": "PT55M"
+        },
+        "guidance": {
+          "id": "W7",
+          "text": {
+            "large": "Contains graphic medical scenes.",
+            "small": "Has guidance",
+            "medium": "Contains graphic medical scenes."
+          }
+        },
+        "availability": {
+          "end": "2018-10-17T08:00:00Z",
+          "start": "2018-04-20T08:00:00Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "first_broadcast": "13 Sep 2016"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries",
+      "lifestyle",
+      "signed"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "13 Sep 2016",
+    "related_links": [{
+      "id": "p047qxfk",
+      "url": "http://www.bbc.co.uk/bbcthree/item/1c45e170-993b-4b5e-b467-b28efc2a03c7",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "A cutting look at our obesity problems"
+    }],
+    "next_broadcast": {
+      "channel_title": "BBC One",
+      "scheduled_start": "2018-05-01T22:45:00.000Z"
+    },
+    "original_title": "Obesity: The Post Mortem",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2016-09-13T00:00:00.000Z",
+    "lexical_sort_letter": "O",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b08gf5x2",
+    "live": false,
+    "type": "episode",
+    "title": "DIY SOS",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p01tr54s.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006pnjk",
+    "guidance": false,
+    "subtitle": "Series 27: 8. The Big Build - Rotherham",
+    "synopses": {
+      "large": "When 36-year-old Terry Guest, father of two daughters, had a catastrophic brain injury, he was left with severe disabilities. As his house was unsuitable for him, the only care available was an old-people's dementia care home, where he remained for several years. In need of more day-to-day care and a place of his own, his sister Tracey stepped in to offer help, but her house was also unsuitable.\n\nNow DIY SOS and their team of generous South Yorkshire volunteers and suppliers are stepping in to adapt Tracey's home and also, in a DIY SOS first, build Terry his very own separate pad at the end of the garden. Battling adverse Yorkshire weather, the team's electrician Billy's tricks with the electrics and a massive misjudgement in ordering materials, this unique build definitely tests the team's resolve.",
+      "small": "Nick Knowles and the team help a man who was left with disabilities after a brain injury.",
+      "medium": "Nick Knowles and the team adapt a house for 36-year-old Terry, who was left with severe disabilities after a catastrophic brain injury."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b08gf5vm",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-23T21:00:00Z",
+          "start": "2018-04-23T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "9pm 21 Feb 2017"
+      },
+      {
+        "hd": false,
+        "id": "p06563tr",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M"
+        },
+        "availability": {
+          "end": "2018-05-23T21:00:00Z",
+          "start": "2018-04-23T21:41:20Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "21 Feb 2017"
+      }
+    ],
+    "parent_id": "b072wsps",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "21 Feb 2017",
+    "related_links": [],
+    "original_title": "The Big Build - Rotherham",
+    "audio_described": true,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2017-02-21T00:00:00.000Z",
+    "lexical_sort_letter": "D",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p06360qy",
+    "live": false,
+    "type": "episode",
+    "title": "High Life",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064278r.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p06360qy",
+    "guidance": true,
+    "synopses": {
+      "large": "Genevieve is a bright, musically talented 17-year-old student from a respectable family. Her teenage years seem to be panning out just fine, until her mental state starts to spiral out of control as she experiences the first manic episode of her Bipolar Disorder.",
+      "small": "17-year-old Genevieve seems fine - until her mental states spirals out of control.",
+      "medium": "Genevieve is a bright, musically-talented 17-year-old. Her teenage years seem to be panning out just fine, until she experiences the first manic episode of her Bipolar Disorder.",
+      "editorial": "When she experiences her first manic episode, her mental state starts to spiral."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p063cgc5",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M47S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-12T08:00:00Z",
+        "start": "2018-04-15T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 3353,
+      "first_broadcast": "15 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "15 Apr 2018",
+    "related_links": [{
+      "id": "p063czvf",
+      "url": "http://www.bbc.co.uk/programmes/articles/3mTXJ1xmCd6Wv0RLmF9C4ny/information-and-support-the-high-life",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support "
+    }],
+    "original_title": "High Life",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-15T00:00:00.000Z",
+    "editorial_subtitle": "Genevieve seems to have teenage life sorted – until...",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b060gb84",
+    "live": false,
+    "type": "episode",
+    "title": "Escape to the Continent",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p02stj78.jpg"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b05xhmbl",
+    "guidance": false,
+    "subtitle": "Series 2: Episode 14",
+    "synopses": {
+      "large": "Nicki Chapman is on the historic island of Malta with a family who want to leave Buckinghamshire for a complete life change in the Mediterranean on a budget of £200,000. \n\nWhile on the island, Nicki offers tips on moving and tries her hand at one of the country's intricate ancient crafts.",
+      "small": "Nicki Chapman helps a family from Buckinghamshire start a new life in Malta.",
+      "medium": "Property show. Nicki Chapman is on the historic island of Malta with a family who want to leave Buckinghamshire for a complete life change in the Mediterranean."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b060gb6f",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-14T15:15:00Z",
+          "start": "2018-04-14T15:15:00Z",
+          "remaining": {
+            "text": "Available for 20 days"
+          }
+        },
+        "first_broadcast": "3pm 25 Jun 2015"
+      },
+      {
+        "hd": false,
+        "id": "p02vkm8r",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-14T15:15:00Z",
+          "start": "2018-04-14T16:12:35Z",
+          "remaining": {
+            "text": "Available for 20 days"
+          }
+        },
+        "first_broadcast": "25 Jun 2015"
+      }
+    ],
+    "parent_id": "b05xhmf4",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "25 Jun 2015",
+    "related_links": [],
+    "original_title": "Episode 14",
+    "audio_described": true,
+    "parent_position": 14,
+    "requires_sign_in": true,
+    "release_date_time": "2015-06-25T00:00:00.000Z",
+    "lexical_sort_letter": "E",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b07tlh25",
+    "live": false,
+    "type": "episode",
+    "title": "Trust Me, I'm a Doctor",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p045m3x9.jpg"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04j9gny",
+    "guidance": false,
+    "subtitle": "Series 5: Episode 1",
+    "synopses": {
+      "large": "Michael Mosley and the doctors set up experiments to get to the truth behind health claims and headlines.\n\nDr Chris van Tulleken teams up with Nottingham University to see whether high-intensity exercise is as good for us as is claimed, guest presenter Dr Zoe Williams gets a group of volunteers to help put some home fitness monitors to the test, and Michael Mosley investigates whether acupuncture really does have a scientific basis.\n\nMeanwhile, surgeon Gabriel Weston travels to the former Soviet Union to see a technology devised behind the iron curtain which could solve the problem of antibiotic resistance in the West, and Dr Saleyha Ahsan outlines the new guidelines on concussion: how can we tell whether a bang on the head is serious enough to go to a doctor?",
+      "small": "What is the quickest way to get fit and healthy?",
+      "medium": "Michael Mosley and doctors get the truth behind health claims. Dr Chris van Tulleken and Nottingham University see whether high-intensity exercise is as good for us as is claimed."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b07tlh1z",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-16T15:15:00Z",
+        "start": "2018-04-16T15:15:00Z",
+        "remaining": {
+          "text": "Available for 22 days"
+        }
+      },
+      "first_broadcast": "8pm 1 Sep 2016"
+    }],
+    "parent_id": "b07tlh1x",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "1 Sep 2016",
+    "related_links": [{
+      "id": "p028ntp6",
+      "url": "http://www.bbc.co.uk/programmes/articles/3rPBmcgXQf8qmlNkTbbQVg9/issues-covered-in-the-programme",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "All the issues covered"
+    }],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2016-09-01T00:00:00.000Z",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b038d8",
+    "live": false,
+    "type": "episode",
+    "title": "Gardeners' World",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xc34.jpg"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006mw1h",
+    "guidance": false,
+    "subtitle": "2018: Episode 6",
+    "synopses": {
+      "large": "There is a full hour of inspiration as Monty works in his vegetable garden sowing seeds for a bountiful summer, grows some more unusual vegetables and recommends varieties of summer bulbs to plant in the spring. \n\nMark Lane creates a floral celebration in a container and shares his recommendations for great planting partners for seasonal colour. Flo Headlam joins the arborists at Westonbirt Arboretum to find out how they manage their incredible collection of trees from around the world. Adam Frost meets a couple who have recently moved into a new-build house to show them step by step how they can transform their awkwardly shaped garden on a very small budget. Nick Bailey is out and about enjoying that most seasonal of flowers, the daffodil. Plus Monty reveals the first of the finalists in the Every Space Counts competition.",
+      "small": "Monty works in his vegetable garden sowing seeds for a bountiful summer.",
+      "medium": "Monty works in his vegetable garden sowing seeds for a bountiful summer, Mark Lane creates a floral celebration and Flo Headlam joins the arborists at Westonbirt Arboretum.",
+      "editorial": "Adam Frost helps a couple transform an awkwardly shaped garden on a very small budget."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b037n6",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "60 mins",
+        "value": "PT1H"
+      },
+      "availability": {
+        "end": "2018-05-22T13:00:00Z",
+        "start": "2018-04-20T20:00:00Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "credits_start": 3505,
+      "first_broadcast": "8pm 20 Apr 2018"
+    }],
+    "parent_id": "b09vjs2q",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "20 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 6",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-20T00:00:00.000Z",
+    "editorial_subtitle": "Monty is sowing seeds for a bountiful summer",
+    "lexical_sort_letter": "G",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b037ct",
+    "live": false,
+    "type": "episode",
+    "title": "The Beechgrove Garden",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0249cy6.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00721bz",
+    "guidance": false,
+    "subtitle": "2018: Episode 1",
+    "synopses": {
+      "large": "2018 marks the Beechgrove Garden's ruby anniversary. This week there are sweet signs of spring as Jim, Carole, George and Chris are surrounded by April's peach and cherry blossom.\n\nGeorge revisits Sheila Harper's ancient apple trees in Banchory. After a severe prune last year, George returns with slightly less sharp secateurs to show how to deal with the old trees this year. Carole visits Rosie Nixon in Perth. Rosie is a passionate wildlife gardener and photographer who creatively uses her all-seasons organic garden as her own green studio.\n\nThroughout the 2018 series, Jim and Carole will be digging in the abundant Beechgrove archive to root out hints and tips from the last 40 years.",
+      "small": "George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth.",
+      "medium": "The Beechgrove team are back for a new series of the gardening show. George is pruning apple trees in Banchory, while Carole visits Rosie Nixon in Perth."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b037cr",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "29 mins",
+        "value": "PT29M"
+      },
+      "availability": {
+        "end": "2018-05-22T07:00:00Z",
+        "start": "2018-04-19T18:30:00Z",
+        "remaining": {
+          "text": "Available for 27 days"
+        }
+      },
+      "first_broadcast": "7pm 19 Apr 2018"
+    }],
+    "parent_id": "b0b0378l",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle",
+      "scotland"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two_scotland",
+      "titles": {
+        "large": "BBC Two Scotland",
+        "small": "BBC Two",
+        "medium": "BBC Two Scotland"
+      },
+      "attribution": "bbc_two_scotland"
+    },
+    "release_date": "19 Apr 2018",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-19T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b031kh",
+    "live": false,
+    "type": "episode",
+    "title": "The Secret Helpers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064p70v.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09x51qs",
+    "guidance": false,
+    "subtitle": "Series 1: 5. Mark and Beth",
+    "synopses": {
+      "large": "There is one more job for our wise helpers as single dad Mark and A&E nurse Beth welcome their worldly advice in the final episode of the series.\n\n54-year-old Mark is a single father to 8-year-old son Sammy. Mark's wife died two years ago and since then he has relied on his mother to help with cooking, cleaning and childcare. She has even moved into a house up the road so that she can devote her life to them. Mark takes advantage of his 79-year-old mother, spending very little time with his son and even when he does, he avoids discussing anything emotional. He wants to start dating again, but the sages make him realise that he needs to work on his relationship with his son and mother first. Will he listen to the voices beaming from the other side of the world?\n\nBeth has just finished her exams and is about to begin her first solo week as an A&E nurse, her dream job. She's terrified that people won't take her seriously and that she won't be able to cope under the pressure. Until now she has never been left on her own to treat patients, so if she doesn't prove herself by the end of the week, when she undergoes an evaluation by the head nurse, then she could be sent packing. Can she prove to her boss that she has what it takes?\n\nThe sages are Gwen and Elisa, Mark and Joe, Lillian and Sister Una.",
+      "small": "Single dad Mark and A&E nurse Beth get help from the sages.",
+      "medium": "Documentary series. Single dad Mark spends little time with his son and takes advantage of his mother, can he fix his family relationships and start dating again?",
+      "editorial": "Mark spends little time with his son and relies on his mum. Can he fix his relationships?"
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b0b00z3c",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-23T19:00:00Z",
+          "start": "2018-04-23T19:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "7pm 23 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p06560p8",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "60 mins",
+          "value": "PT1H"
+        },
+        "availability": {
+          "end": "2018-05-23T19:00:00Z",
+          "start": "2018-04-23T20:11:39Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "23 Apr 2018"
+      }
+    ],
+    "parent_id": "b09x51qz",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "23 Apr 2018",
+    "related_links": [],
+    "original_title": "Mark and Beth",
+    "audio_described": true,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-23T00:00:00.000Z",
+    "editorial_subtitle": "5/5 Single dad Mark and A&E nurse Beth are after advice",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05tyfs2",
+    "live": false,
+    "type": "episode",
+    "title": "A Tattoo To Change Your Life",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05w5w17.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05tj86c",
+    "guidance": true,
+    "subtitle": "Series 1: 1. Covering My Self Harm Scars",
+    "synopses": {
+      "large": "Viktoria has had self harm scars since she was eleven years old and, as a medical student, is conscious of people seeing them. She's now getting a tattoo to cover them.",
+      "small": "Medical student Viktoria is getting tattoo to cover her self harm scars.",
+      "medium": "Viktoria has had self harm scars since she was eleven years old and, as a medical student, is conscious of people seeing them. She's now getting a tattoo to cover them.",
+      "editorial": "Following inspirational characters and survivors as they get reconstructive tattoos."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05w2nvl",
+        "kind": "technical-replacement",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "7 mins",
+          "value": "PT7M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2019-01-20T09:00:00Z",
+          "start": "2018-01-26T08:36:52Z",
+          "remaining": {
+            "text": "Available for 8 months"
+          }
+        },
+        "credits_start": 426,
+        "first_broadcast": "25 Jan 2018"
+      },
+      {
+        "hd": true,
+        "id": "p05tygjb",
+        "kind": "iplayer-version",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "7 mins",
+          "value": "PT7M"
+        },
+        "guidance": {
+          "id": "W2",
+          "text": {
+            "large": "Deals with adult themes.",
+            "small": "Has guidance",
+            "medium": "Contains adult themes."
+          }
+        },
+        "availability": {
+          "end": "2019-01-20T09:00:00Z",
+          "start": "2018-01-25T09:00:00Z",
+          "remaining": {
+            "text": "Available for 8 months"
+          }
+        },
+        "credits_start": 429,
+        "first_broadcast": "25 Jan 2018"
+      }
+    ],
+    "parent_id": "p05tj8hr",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "25 Jan 2018",
+    "related_links": [],
+    "original_title": "Covering My Self Harm Scars",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-01-25T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Freedom from the past",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05y93q5",
+    "live": false,
+    "type": "episode",
+    "title": "Rent for Sex: Ellie Undercover",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05zm4jv.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05y93q5",
+    "guidance": true,
+    "synopses": {
+      "large": "Cases of 'rent for sex' in the UK are on the increase, where landlords offer free rooms in their properties in exchange for 'sexual favours'. Investigative journalist Ellie Flynn goes undercover to get a closer look at this issue.\n\nHaving seen the staggering amount of 'rent for sex' adverts that appear unchecked online, Ellie heads out to discover for herself just how genuine these ads are. Armed with undercover cameras, she meets landlords who post these ads to find out what they really expect in exchange for rent.\n\nThe landlords she confronts protest that it is a mutually beneficial arrangement. One tells her she can stay in a log cabin he has built in exchange for a 'physical arrangement once a week', stating that it's 'nothing abnormal, nothing strange' and telling her she has to be able to deal with that or\nshe shouldn't be there. Another tells her the arrangement would be every second day. She finds people all over the UK offering accommodation in exchange for sex, one even saying the reason the room has become available is because it belongs to his daughter and she's left to go to university. A prospective landlord also tells her he's taking the human aspect out of it and treating it like a business transaction, while others assure her they're just normal guys who just want to help people.\n\nAll the landlords suggest to Ellie that what they're doing is acceptable, but is this how the person taking up the offer would see it? Can it really be consensual when they are preying on vulnerable young people with nowhere else to go? To find out she tracks down and speaks to young women who have taken up these arrangements and asks them how much consent they felt able to give when the alternative was a life on the streets.\n\nDespite laws that exist to criminalise this practice, Ellie asks why there doesn't seem to be anyone doing anything to prevent it. From police forces to the Ministry of Justice, she uncovers a vacuum of responsibility that currently exists.",
+      "small": "Ellie Flynn investigates landlords offering rooms in exchange for 'sexual favours'.",
+      "medium": "Journalist Ellie Flynn investigates the 'rent for sex' trend, where landlords across the UK offer free rooms in exchange for 'sexual favours'.",
+      "editorial": "Cases in which landlords let rooms in exchange for sex favours are on the rise in the UK."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p05y941v",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "28 mins",
+        "value": "PT28M"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-08-27T08:00:00Z",
+        "start": "2018-02-28T09:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 1607,
+      "first_broadcast": "28 Feb 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "28 Feb 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC One",
+      "scheduled_start": "2018-04-24T21:45:00.000Z"
+    },
+    "original_title": "Rent for Sex: Ellie Undercover",
+    "audio_described": false,
+    "editorial_title": "Rent for Sex: Ellie Undercover",
+    "requires_sign_in": true,
+    "release_date_time": "2018-02-28T00:00:00.000Z",
+    "editorial_subtitle": "A shocking housing contract",
+    "lexical_sort_letter": "R",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p04ksv2s",
+    "live": false,
+    "type": "episode",
+    "title": "Hayley",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04lj3z5.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0605ns4",
+    "guidance": true,
+    "subtitle": "Series 1: 2. Bikinis, Bars and Benidorm",
+    "synopses": {
+      "large": "Hayley Pearce, tea lady from The Call Centre, loves a holiday. But is the lure of sun, sea and sex all it is cracked up to be? Hayley joins a group of stags and meets some of Benidorm's biggest fans. She explores how far we'll really go in pursuit of a good time on holiday... but can renowned party girl Hayley last the week?",
+      "small": "Does Benidorm live up to its reputation of sun, sea, sex and sangria?",
+      "medium": "Documentary series. Hayley Pearce examines the lure of sun, sea and sex and explores the lengths people will go to in pursuit of a good time on holiday."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b088rl0z",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT30M"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-05-20T08:00:00Z",
+        "start": "2018-03-21T09:00:00Z",
+        "remaining": {
+          "text": "Available for 25 days"
+        }
+      },
+      "credits_start": 1726,
+      "first_broadcast": "28 Dec 2016"
+    }],
+    "parent_id": "p04kspsl",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "28 Dec 2016",
+    "related_links": [],
+    "original_title": "Bikinis, Bars and Benidorm",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2016-12-28T00:00:00.000Z",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p063831g",
+    "live": false,
+    "type": "episode",
+    "title": "WTF?",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063hd5z.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05c0thh",
+    "guidance": false,
+    "subtitle": "Facebook & You: WTF?",
+    "synopses": {
+      "large": "How much does Facebook know about you? And should you be worried? Newsbeat's James Waterhouse lifts the lid on the data and privacy scandal costing them billions of pounds.\n\n\n\nSince it came out that a personality quiz on Facebook in 2014 may have led to the personal data of up to 87 million people being taken without their permission - then claims that the data was bought and used by the company Cambridge Analytica for targeted advertising - a lot of people are concerned over what Facebook knows about them. \n\n\n\nShould we be worried about our Facebook accounts and how much the social network knows about us?",
+      "small": "How much does Facebook know about you? And should you be worried about your data?",
+      "medium": "How much does Facebook know about you? And should you be worried? Newsbeat's James Waterhouse lifts the lid on the data and privacy scandal costing them billions.",
+      "editorial": "Newsbeat discovers what's the fuss about the Facebook data scandal."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0638352",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "7 mins",
+        "value": "PT6M42S"
+      },
+      "availability": {
+        "end": "2018-05-10T05:00:00Z",
+        "start": "2018-04-10T05:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 399,
+      "first_broadcast": "10 Apr 2018"
+    }],
+    "parent_id": "p05c0thh",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries-science-and-nature",
+      "documentaries",
+      "entertainment",
+      "science-and-nature"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_radio_one",
+      "titles": {
+        "large": "BBC Radio 1",
+        "small": "BBC Radio 1",
+        "medium": "BBC Radio 1"
+      },
+      "attribution": "bbc_radio_one"
+    },
+    "release_date": "10 Apr 2018",
+    "related_links": [],
+    "original_title": "Facebook & You: WTF?",
+    "audio_described": false,
+    "editorial_title": "Facebook & You: WTF?",
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-10T00:00:00.000Z",
+    "editorial_subtitle": "Is it time to #deletefacebook?",
+    "lexical_sort_letter": "W",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b09z7989",
+    "live": false,
+    "type": "episode",
+    "title": "Living with the Brainy Bunch",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p0635xdh.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09z7989",
+    "guidance": false,
+    "synopses": {
+      "large": "Bringing up kids and getting them through exams is far from easy. There are countless reasons why some students do well academically and others don't, but experts agree that parental influence is one of the main factors that can affect a student's performance in school. In a groundbreaking experiment, this programme will put that to the test.\n\nChessington Community College in Greater London, like all schools, has some students who excel and others who are failing to make the grade. In an attempt to change the paths of two of their students the school have decided to embark on a radical experiment. Like many teenagers, Year 11 students Jack and Hollie struggle with results and behaviour but with their crucial GCSEs on the horizon it is time to try and change things. In order to do this they will move into the homes of two of the highest achieving pupils in their year, for half a term. Can this complete change in home environment improve things for them?\n\nHollie moves in with Holly H, a wannabe lawyer with a clutch of A*s in her sights and a dizzying rota of extra-curricular activities. Jack goes to live with Tharush, who arrived in the UK only a year ago from Italy but is already shining at school. Tharush's work efforts are exceptional - he does at least two hours homework every night, and that is on top of extra tuition.\n\nHow will Hollie and Jack cope as they have to fit into every aspect of their new families' lives, living by their strict rules and routines? As they wrestle with the early bedtimes, tough homework schedules and curfews, can this revolutionary change in family life bring about a lasting change in their results and futures?",
+      "small": "Two struggling GCSE students move in with two of the highest achievers in their year.",
+      "medium": "Two struggling GCSE students move in with two of the highest achievers in their year. Can this change in home environment and parental influence improve their results and future?",
+      "editorial": "Two struggling students move in with high achievers to see if a new environment can help."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "b09z796c",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-17T23:30:00Z",
+          "start": "2018-04-12T20:00:00Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "credits_start": 3507,
+        "first_broadcast": "8pm 12 Apr 2018"
+      },
+      {
+        "hd": false,
+        "id": "p064471n",
+        "kind": "audio-described",
+        "type": "version",
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT59M"
+        },
+        "availability": {
+          "end": "2018-05-17T23:30:00Z",
+          "start": "2018-04-12T20:48:55Z",
+          "remaining": {
+            "text": "Available for 23 days"
+          }
+        },
+        "first_broadcast": "12 Apr 2018"
+      }
+    ],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries-life-stories",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p0393z1f",
+      "attribution": "bbc_two"
+    },
+    "release_date": "12 Apr 2018",
+    "related_links": [],
+    "original_title": "Living with the Brainy Bunch",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-12T00:00:00.000Z",
+    "editorial_subtitle": "Will school success rub off?",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p04qm2lv",
+    "live": false,
+    "type": "episode",
+    "title": "Double Mastectomy Twins",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p04s3790.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p04qm2lv",
+    "guidance": true,
+    "synopses": {
+      "large": "Twins Rose and Charlotte lost their mum to breast cancer when they were just ten. Now, as adults, the twins have discovered they too have the BRCA2 gene that predisposes them to the same condition as their mum.\n\nThis programme follows the twins through pre-emptive double mastectomy operations - a choice they have made to reduce their chances of developing breast cancer.",
+      "small": "Following twins who, predisposed to breast cancer, have opted for a double mastectomy.",
+      "medium": "Documentary following twins who have chosen to undergo a double mastectomy to reduce their chances of developing breast cancer, after losing their mum to the disease.",
+      "editorial": "Having lost their mum aged 10, Rose and Charlotte hope to reduce their chances of cancer."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p05k62yj",
+      "kind": "editorial",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "27 mins",
+        "value": "PT27M"
+      },
+      "guidance": {
+        "id": "D1L1",
+        "text": {
+          "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-10-13T08:00:00Z",
+        "start": "2017-10-20T22:43:18Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 1618,
+      "first_broadcast": "6 Feb 2017"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "6 Feb 2017",
+    "related_links": [{
+      "id": "p04s69wt",
+      "url": "http://www.bbc.co.uk/bbcthree/item/0d920fe2-b69e-4342-83ce-635ef66128df",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Read more about the twins' journey"
+    }],
+    "original_title": "Double Mastectomy Twins",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2017-02-06T00:00:00.000Z",
+    "editorial_subtitle": "Following two sisters as they undergo pre-emptive surgery",
+    "lexical_sort_letter": "D",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p05y7zsr",
+    "live": false,
+    "type": "episode",
+    "title": "Radio 1 Stories",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p05y86lv.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05b8jtl",
+    "guidance": true,
+    "subtitle": "The Kardashian Effect",
+    "synopses": {
+      "large": "Plump lips and big booties - what effect has Kim Kardashian had on the way we look? Katie Thistleton finds out, and meets people who've taken drastic steps to get the Kim K Look.\n\n\n\nKatie meets Kiera Louise who followed in Kim’s footsteps and built a beauty business on social media. Reality TV star Stevie Coiley reveals how her love of lip fillers ended in a disaster that only a specialist could save. Katie works out with a fitness expert to find out how to get a bigger butt, and when that fails meets a cosmetic surgeon who specialises in bottom implants.",
+      "small": "Plump lips and big booties - what effect has Kim Kardashian had on the way we look?",
+      "medium": "Plump lips and big booties - what effect has Kim Kardashian had on the way we look? Katie Thistleton finds out, and meets people who've taken drastic steps to get the Kim K Look."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05zfcfr",
+        "kind": "technical-replacement",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "19 mins",
+          "value": "PT19M7S"
+        },
+        "guidance": {
+          "id": "W7",
+          "text": {
+            "large": "Contains graphic medical scenes.",
+            "small": "Has guidance",
+            "medium": "Contains graphic medical scenes."
+          }
+        },
+        "availability": {
+          "end": "2019-03-02T06:00:00Z",
+          "start": "2018-03-02T06:00:00Z",
+          "remaining": {
+            "text": "Available for 10 months"
+          }
+        },
+        "credits_start": 1140,
+        "first_broadcast": "2 Mar 2018"
+      },
+      {
+        "hd": true,
+        "id": "p05y7zy6",
+        "kind": "original",
+        "type": "version",
+        "download": true,
+        "duration": {
+          "text": "19 mins",
+          "value": "PT19M7S"
+        },
+        "guidance": {
+          "id": "W7",
+          "text": {
+            "large": "Contains graphic medical scenes.",
+            "small": "Has guidance",
+            "medium": "Contains graphic medical scenes."
+          }
+        },
+        "availability": {
+          "end": "2019-03-02T06:00:00Z",
+          "start": "2018-03-02T06:00:00Z",
+          "remaining": {
+            "text": "Available for 10 months"
+          }
+        },
+        "first_broadcast": "2 Mar 2018"
+      }
+    ],
+    "parent_id": "p05b8jtl",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries-life-stories",
+      "documentaries",
+      "entertainment",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_radio_one",
+      "titles": {
+        "large": "BBC Radio 1",
+        "small": "BBC Radio 1",
+        "medium": "BBC Radio 1"
+      },
+      "attribution": "bbc_radio_one"
+    },
+    "release_date": "2 Mar 2018",
+    "related_links": [],
+    "original_title": "The Kardashian Effect",
+    "audio_described": false,
+    "editorial_title": "The Kardashian Effect",
+    "requires_sign_in": true,
+    "release_date_time": "2018-03-02T00:00:00.000Z",
+    "editorial_subtitle": "Taking drastic steps to get the Kim K look",
+    "lexical_sort_letter": "R",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "b0b10rnf",
+    "live": false,
+    "type": "episode",
+    "title": "Countryfile",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p064xcrt.jpg"
+    },
+    "labels": {
+      "category": "Nature"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006t0bv",
+    "guidance": false,
+    "subtitle": "Heritage Crafts",
+    "synopses": {
+      "large": "Anita Rani is in Norfolk meeting the people keeping some of the UK's vanishing trades alive. Her first stop is Horsey Windpump which has been restored to full working glory by Tim Whiting, one of the last millwrights in the country. Next she joins the reed cutters making a living on the Norfolk Broads, where she gets to try her hand at cutting. Then she joins Nigel Ford, a man on a mission to restore all of Norfolk's ancient milestones. Finally, she meets David Wolstenholme who makes cricket bats by hand, a skill that's listed by the Heritage Crafts Association as being critically endangered, before she takes her place at the crease to put the bat to the test.",
+      "small": "In Norfolk, Anita Rani meets the people keeping some of the UK's vanishing trades alive.",
+      "medium": "Anita Rani is in Norfolk meeting the people keeping some of the UK's vanishing trades alive, including a millwright and a reed cutter.",
+      "editorial": "In Norfolk, Anita meets one of Britain’s last millwrights and reed cutters on the Broads."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0b10rks",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M"
+      },
+      "availability": {
+        "end": "2018-05-22T19:00:00Z",
+        "start": "2018-04-22T21:51:19Z",
+        "remaining": {
+          "text": "Available for 28 days"
+        }
+      },
+      "first_broadcast": "7pm 22 Apr 2018"
+    }],
+    "parent_id": "b006t0bv",
+    "suppliers": [],
+    "tleo_type": "brand",
+    "categories": [
+      "science-and-nature"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p04y9kr4",
+      "attribution": "bbc_one"
+    },
+    "release_date": "22 Apr 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2018-04-29T06:35:00.000Z"
+    },
+    "original_title": "Heritage Crafts",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-22T00:00:00.000Z",
+    "editorial_subtitle": "Heritage Crafts. The people keeping vanishing trades alive",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "promoted": true
+  },
+  {
+    "id": "p0635rh6",
+    "live": false,
+    "type": "episode",
+    "title": "Sex Robots and Us",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/560x315/p063j08l.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0635rh6",
+    "guidance": true,
+    "synopses": {
+      "large": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld future where sex bots live amongst us.\n\n\n\nIn Barcelona, James visits Dr Sergi Santos and his wife Maritsa, creators of one of the world’s most advanced sex robots and the answer, they suggest, to many couples' miss-matched libido. Sergi tests out his latest robot and James finds out how Maritsa copes with Sergi using the dolls himself.\n\n\n\nElsewhere in Barcelona James also finds simple versions of the robots - not yet fitted with AI - being used in a brothel, and visits a professional sex toy tester who tries out one of the latest male sex dolls to hit the market.\n\n\n\nBack in the UK, James visits Sergi’s business partner Arran who has been demo’ing a Samantha robot in a sex shop near Liverpool. Arran tells James about his latest plan - to offer his sex robots to elderly people’s homes.\n\n\n\nIn Japan, James meets two of the most human-like robots to have been created before discovering a darker side to the sex robot industry when he visits a factory mass-producing ultra-realistic dolls.\n\n\n\nSo do we really want sex robots in our lives?",
+      "small": "Meet the world’s most advanced sex robots, their makers and users.",
+      "medium": "Cyborg presenter James Young journeys across the world to meet the makers and users of sex robots who have plans for a Westworld-style future where sex bots live amongst us.",
+      "editorial": "James Young travels the world to meet the makers – and users – of advanced sex bots."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0635rt8",
+      "kind": "iplayer-version",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "36 mins",
+        "value": "PT36M5S"
+      },
+      "guidance": {
+        "id": "L1S1",
+        "text": {
+          "large": "Contains some strong language and some scenes of a sexual nature.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some sexual content."
+        }
+      },
+      "availability": {
+        "end": "2019-04-03T08:00:00Z",
+        "start": "2018-04-08T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 2136,
+      "first_broadcast": "8 Apr 2018"
+    }],
+    "suppliers": [],
+    "tleo_type": "episode",
+    "categories": [
+      "documentaries",
+      "lifestyle"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "8 Apr 2018",
+    "related_links": [],
+    "original_title": "Sex Robots and Us",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2018-04-08T00:00:00.000Z",
+    "editorial_subtitle": "Could bots ever be a familiar visitor to the bedroom?",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "promoted": true
+  }
+]
