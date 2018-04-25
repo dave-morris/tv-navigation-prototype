@@ -377,6 +377,11 @@ $(document).ready(function() {
         //give the primary nav active class again
         $('.primary-navigation').addClass('active');
 
+      } else if ($('.primary-navigation .content-wrapper:eq(0)').hasClass('focus')) {
+
+        //give the primary nav active class again
+        $('.primary-navigation').addClass('active');
+
       }
 
       //Remove the focus state from the primary nav and add to the first item
